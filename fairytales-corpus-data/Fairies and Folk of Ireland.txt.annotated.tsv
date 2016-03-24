@@ -1,0 +1,408 @@
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	SENTENCE
+3	LOCATION	IRELAND				OF IRELAND
+11	LOCATION	SYDNEY	richmond		illustrate	ILLUSTRATED BY SYDNEY RICHMOND BURLEIGH
+11	PERSON	BURLEIGH	richmond		illustrate	ILLUSTRATED BY SYDNEY RICHMOND BURLEIGH
+14	LOCATION	NEW YORK				NEW YORK
+31	PERSON	Jane Grey Allen				Jane Grey Allen and Elizabeth Allen
+31	PERSON	Elizabeth Allen				Jane Grey Allen and Elizabeth Allen
+50	PERSON	KATHLEEN	little;little;terence			LITTLE KATHLEEN AND LITTLE TERENCE
+74	PERSON	DONALD	home		go	"AND THEN DONALD WENT HOME"
+91	LOCATION	Guleesh	substance;story;ghost;wife;chapter;vii	former;latter	have;borrow	From the former of these I have borrowed the substance of the story of Guleesh na Guss Dhu, in Chapter IV., and from the latter that of the ghost and his wives, in Chapter VII.
+91	PERSON	Guss Dhu	substance;story;ghost;wife;chapter;vii	former;latter	have;borrow	From the former of these I have borrowed the substance of the story of Guleesh na Guss Dhu, in Chapter IV., and from the latter that of the ghost and his wives, in Chapter VII.
+96	LOCATION	NEW YORK				NEW YORK, September 1, 1900.
+104	LOCATION	IRELAND	fairy;folk			FAIRIES AND FOLK OF IRELAND
+110	PERSON	John	man;son;young-woman;wife	young	be;be	The young man was her son, John, and the young-woman was his wife, Kitty."
+110	PERSON	Kitty	man;son;young-woman;wife	young	be;be	The young man was her son, John, and the young-woman was his wife, Kitty."
+119	LOCATION	Ireland	everything;end;trouble;trouble		have;end;end	"Everything has an end, and so these troubles of ours will end, and all the troubles of Ireland will end, too."
+120	LOCATION	Ireland	wasn;t;country;people;landlord;agent	poor;unhappy;better	think;be	"Wasn\"t Ireland always the poor, unhappy country, and all the people in it, only the landlords and the agents, and why should we think it will ever be better?"
+121	PERSON	Brian	king;wasn;t;country	poor;unhappy	be;descend;ask	And you, that are descended from King Brian, ask if Ireland wasn\"t always the poor, unhappy country."
+121	LOCATION	Ireland	king;wasn;t;country	poor;unhappy	be;descend;ask	And you, that are descended from King Brian, ask if Ireland wasn\"t always the poor, unhappy country."
+138	LOCATION	London	time;people;life	grander;grander	take;see	Three times they took me to London with them, and I saw still grander people and grander life.
+142	PERSON	John	place;work;heaven;soul	old;enough	know;be;take;let;know;work;die;leave;rest	And then, John, you know that when you were hardly old enough to take his place with the work, let alone knowing how to work as well as he, he died and left us--Heaven rest his soul!"
+149	PERSON	John			answer	John answered.
+150	PERSON	Pether	avenin;\;lookin;\;fine;hearty;s;rose	good;re	say;\;\;re	"Good avenin\" to you, Pether," said John; "you\"re lookin\" fine and hearty, and it\"s like a rose you\"re lookin\", Ellen."
+150	PERSON	John	avenin;\;lookin;\;fine;hearty;s;rose	good;re	say;\;\;re	"Good avenin\" to you, Pether," said John; "you\"re lookin\" fine and hearty, and it\"s like a rose you\"re lookin\", Ellen."
+150	PERSON	Ellen	avenin;\;lookin;\;fine;hearty;s;rose	good;re	say;\;\;re	"Good avenin\" to you, Pether," said John; "you\"re lookin\" fine and hearty, and it\"s like a rose you\"re lookin\", Ellen."
+151	PERSON	Ellen	s;nettle;rose;feelin;\;something;prickle		\;\;re;answer;wid;bother;have	"It\"s more like nettles than roses we\"re feelin\"," Ellen answered, "but something with prickles anyway, wid the bother we have every day and all day."
+155	PERSON	Brien	thing;trouble;mrs.;o;ll;need;states;other	older;more	leave;do;make;say;\;have;go	"Leave off the things you do that make you all these troubles," said the older Mrs. O\"Brien, "and you\"ll have no more need to go to the States than others."
+156	PERSON	Ellen			ask	Ellen asked.
+164	PERSON	Brien	mrs.;o;s;s;fairy		say;dunno;be;throuble	Mrs. O\"Brien," said Peter; "I dunno what it is that\"s throubling us, but there\"s no fairies at all."
+164	PERSON	Peter	mrs.;o;s;s;fairy		say;dunno;be;throuble	Mrs. O\"Brien," said Peter; "I dunno what it is that\"s throubling us, but there\"s no fairies at all."
+166	PERSON	Brien	mrs.;o;bit;cat;spirit;t;blessing;god;\;cat;\;blessing;avil;spirit	confused;avil	answer;\;re;tell;be;mustn;put;say;save;add;\;be;call	"Why, sure, Mrs. O\"Brien," Peter answered, just a bit confused, "sure, we\"re told that cats is avil spirits, so we mustn\"t put blessings on them, and when we say \"God save all here,\" we add onto it \"except the cat,\" so as not to be calling down a blessing on an avil spirit."
+166	PERSON	Peter	mrs.;o;bit;cat;spirit;t;blessing;god;\;cat;\;blessing;avil;spirit	confused;avil	answer;\;re;tell;be;mustn;put;say;save;add;\;be;call	"Why, sure, Mrs. O\"Brien," Peter answered, just a bit confused, "sure, we\"re told that cats is avil spirits, so we mustn\"t put blessings on them, and when we say \"God save all here,\" we add onto it \"except the cat,\" so as not to be calling down a blessing on an avil spirit."
+169	PERSON	Peter	s;woman;t;people;monster;anything;sort	old;good;strange	say;don;believe;want;run	"That\"s you, Peter," said the old woman; "you don\"t believe in the Good People or strange monsters or anything of the sort, but you want to run away from them."
+170	PERSON	Brien	mrs.;o;s;states;goold;street	true	say;do;think;\;say;pick	"Mrs. O\"Brien," he said, "do you think it\"s true, what they say, that in the States you can pick up goold everywhere in the streets?"
+174	PERSON	Brien	t;mrs.;o;t;goold;wouldn;t		don;know;be;say;\;see;be;goold;find	"I don\"t know how that is, Mrs. O\"Brien," said Peter, "but I can\"t see why goold wouldn\"t be goold, wherever you could find it."
+174	PERSON	Peter	t;mrs.;o;t;goold;wouldn;t		don;know;be;say;\;see;be;goold;find	"I don\"t know how that is, Mrs. O\"Brien," said Peter, "but I can\"t see why goold wouldn\"t be goold, wherever you could find it."
+184	PERSON	Earl Gerald			see	She never saw Earl Gerald again.
+186	PERSON	Kildare	ride;curragh;cave		sleep	He rides around the Curragh of Kildare and then back into the cave, to sleep again for seven years.
+190	PERSON	Gerald	country;king	peaceful;prosperous;happy	be;be	Then the country will be peaceful and prosperous and happy, and Gerald will be its King for forty years."
+191	PERSON	Brien	mrs.;o;prophecy;woman;s;tale;\;thrue	old;comin	do;know;ask;tell;do;know	Did you ever know, now, Mrs. O\"Brien--I ask you--will you tell me this--did ye ever know of any of the prophecies in any of thim old woman\"s tales comin\" thrue?"
+194	LOCATION	Bogha Derg	lir;castle;daughter;king;love		be;visit;see;fall;marry	Lir was visiting once at the castle of Bogha Derg, the King of Conacht, and he saw the daughter of the King, and he fell in love with her and married her.
+213	PERSON	Erin	story;people;lake;story;king;man;sea;man;head;house;table;end;house;bell;swan;sound;bell;shape	many;strange;shaven;east;human;happy	try;comfort;tell;have;hear;stand;hear;sing;have;tell;come;build;set;ring;hear;have;be	She tried to comfort them, and she told them again and again the story that she had heard from the people who stood by the lake to hear them sing, the story that the King had told, that, after many hundreds of years, strange men should come across the sea to Erin--men with shaven heads; that they should build houses and set up tables in the east ends of their houses, and that they should ring bells; and when the swans should hear the first sound of those bells they should have their human shape again, and then they should be happy forever.
+223	LOCATION	Ireland	mother;\;s;\;t;journey	leavin;old	suppose;be;\;gettin;couldn;stand	But I suppose your mother could never be leavin\" Ireland now, John; she\"s gettin\" so old now, maybe she couldn\"t stand the journey."
+223	PERSON	John	mother;\;s;\;t;journey	leavin;old	suppose;be;\;gettin;couldn;stand	But I suppose your mother could never be leavin\" Ireland now, John; she\"s gettin\" so old now, maybe she couldn\"t stand the journey."
+224	PERSON	John	fear;mother;ld;s;other;s	old;likely	have;answer;\;make;\;live;\	"Have no fear about that," John answered; "mother\"s not so old as you\"ld make out, and she\"s likely to live longer now than some others that\"s here this minute."
+245	PERSON	O `` Brien	people;mrs.;place;fairy;people	much;good	know;know;be;live;call	But people who know as much as Mrs. O"Brien, know that they are the places where the fairies live, or the Good People, as she would call them."
+264	PERSON	Naggeneen	cap		take	Naggeneen took off his cap.
+266	PERSON	Naggeneen	\;nothin;\	doin	\;be;say;say;do	"I\"ve been doin\" nothin\"," said Naggeneen, "but what you said I might do."
+268	PERSON	Naggeneen	cream;milk;cow;share;charm;pig;t;matter;uld;\;smoke;fire;chimney;dish;pan;t;wid;restin;\;thing	most;fat;atin;lazy;few;more;little	say;take;have;know;put;wouldn;get;be;druv;throw;wouldn;get	"Oh," said Naggeneen, "I just took all the cream and the most of the milk from their cow, and you yourself had a share of it, as you know well; and I put a charm on their pig, so that it wouldn\"t get fat, no matter how much it \"uld be atin\"; and then I druv the smoke of their fire down the chimney, and I threw the dishes and the pans around in the night, just so they wouldn\"t get lazy wid restin\" too well, and a few more little things like that."
+273	LOCATION	Naggeneen	\;throuble		ask;be;goin;do;get;\;get	And now I ask ye, Naggeneen, what are ye goin\" to do to get us out of the throuble ye\"ve got us into?"
+274	PERSON	Naggeneen	m;throuble;meself;throuble		\;answer;dunno;have;do;wid;be	"I\"m in no throuble meself," Naggeneen answered, "and I dunno what I have to do wid any throuble that you may be in."
+280	PERSON	MacCarthy	t;friend	old	don;suppose;remember	I don\"t suppose ye remember me old friend MacCarthy."
+284	PERSON	Naggeneen	time	most	say	"The most of the time," said Naggeneen.
+294	PERSON	Jack	word;d		say;tell;\;be;come	Never a word could Jack say to tell where he\"d been or how he came back, or why.
+303	PERSON	Naggeneen	s;ld;queen;ll;o	glad;rid	\;\;be;say;be;dunno;\;do;go	"It\"s glad I\"ld be," said the Queen, "if we could be rid of the Sullivans and Naggeneen both at once, but I dunno what we\"ll do at all if the O\"Briens go away."
+305	PERSON	Naggeneen	queen;states;wid;o;brien		do;mean;say;think;go	"Do ye mean," the Queen said, "that ye think we might all go to the States along wid the O\"Briens and the Sullivans and Naggeneen?"
+307	LOCATION	Ireland	course;people;king	own	know;have	Of course you know that the people of Ireland have no kings of their own any more.
+309	LOCATION	All Ireland	runnin;\;arrant;king;t;thribe;spalpeen;\;leg;wid;dancin;\;rustin;\;wid;doin;\;nothin;\	lazy;wearin	be;be;answer;don;belong	"Is it me that would be runnin\" arrants to the King of All Ireland," Naggeneen answered: "me, that don\"t belong to your thribe at all, and forty lazy spalpeens around here wearin\" their legs off wid dancin\" or rustin\" them off wid doin\" nothin\" at all?"
+309	PERSON	Naggeneen	runnin;\;arrant;king;t;thribe;spalpeen;\;leg;wid;dancin;\;rustin;\;wid;doin;\;nothin;\	lazy;wearin	be;be;answer;don;belong	"Is it me that would be runnin\" arrants to the King of All Ireland," Naggeneen answered: "me, that don\"t belong to your thribe at all, and forty lazy spalpeens around here wearin\" their legs off wid dancin\" or rustin\" them off wid doin\" nothin\" at all?"
+311	PERSON	Naggeneen			be	Naggeneen was off.
+314	PERSON	Naggeneen	eye	good-looking	see;answer	"I saw him with my good-looking eyes," Naggeneen answered.
+320	LOCATION	All Ireland	king;bit;brogue;kind	little	have	The King of All Ireland had only a little bit of brogue--the Dublin kind.
+320	LOCATION	Dublin	king;bit;brogue;kind	little	have	The King of All Ireland had only a little bit of brogue--the Dublin kind.
+321	PERSON	Naggeneen	king;rath;s	sure;poor	say	"Sure," said the King of the rath, "that\"s only poor Naggeneen."
+325	PERSON	Naggeneen	lepracaun;majesty		be;say	"I was a lepracaun, too, once, Your Majesty," Naggeneen said.
+327	PERSON	MacCarthy	cellar;t;care	old;lonely;sad;more	die;come;do;keep;feel;didn;drink	"After old MacCarthy, of Ballinacarthy, died, those that came after him did not keep up his cellar well, and I felt lonely and sad, and I didn\"t care to drink any more--"
+327	LOCATION	Ballinacarthy	cellar;t;care	old;lonely;sad;more	die;come;do;keep;feel;didn;drink	"After old MacCarthy, of Ballinacarthy, died, those that came after him did not keep up his cellar well, and I felt lonely and sad, and I didn\"t care to drink any more--"
+328	LOCATION	All Ireland	king;t;care	lonely;sad	have;be;say;do;drink;do;didn	"Lonely and sad you must have been," said the King of All Ireland; "but you did drink still, did you not, though you didn\"t care for it?"
+356	PERSON	Naggeneen	s;\;o;brien;way	sure;long	say;\;followin;be;s;\;re	"Sure," said Naggeneen, "it\"s followin\" the O\"Briens and the Sullivans we are, and it\"s the long way they\"re takin\" us."
+357	PERSON	Cork			be	"Is it like Cork?"
+358	PERSON	Cork	s;part;man;merrow;s;s;part;s;sea	other	\;say;be	"There\"s parts of them," said the man merrow, "that\"s more like Cork than Cork itself, and there\"s other parts of them that\"s no more like Cork than the sea here is like Cork Harbor."
+358	PERSON	Cork	s;part;man;merrow;s;s;part;s;sea	other	\;say;be	"There\"s parts of them," said the man merrow, "that\"s more like Cork than Cork itself, and there\"s other parts of them that\"s no more like Cork than the sea here is like Cork Harbor."
+358	PERSON	Cork	s;part;man;merrow;s;s;part;s;sea	other	\;say;be	"There\"s parts of them," said the man merrow, "that\"s more like Cork than Cork itself, and there\"s other parts of them that\"s no more like Cork than the sea here is like Cork Harbor."
+358	LOCATION	Cork Harbor	s;part;man;merrow;s;s;part;s;sea	other	\;say;be	"There\"s parts of them," said the man merrow, "that\"s more like Cork than Cork itself, and there\"s other parts of them that\"s no more like Cork than the sea here is like Cork Harbor."
+359	LOCATION	Ireland	place;king;country;part;field;bog		be;ask	"But are there no places there," the King asked again, "like the country parts of Ireland, with the fields and the bogs and all?"
+368	PERSON	Brien	mrs.;o;s;money;while;work;money	little;more	be;keep;hope;be;go;find;be;get	There was enough of Mrs. O"Brien"s money to keep them for a little while, and they hoped that before it was gone, John and Peter would find work and would be getting more money."
+368	PERSON	John	mrs.;o;s;money;while;work;money	little;more	be;keep;hope;be;go;find;be;get	There was enough of Mrs. O"Brien"s money to keep them for a little while, and they hoped that before it was gone, John and Peter would find work and would be getting more money."
+368	PERSON	Peter	mrs.;o;s;money;while;work;money	little;more	be;keep;hope;be;go;find;be;get	There was enough of Mrs. O"Brien"s money to keep them for a little while, and they hoped that before it was gone, John and Peter would find work and would be getting more money."
+373	LOCATION	New York	street;use		have;see;open;know;be;have;be;try;tell	If you have ever seen a New York street opened, you know what it was like; if you have not, it is of no use to try to tell you.
+375	LOCATION	New York	people;end;end	good;many;north;prettier;south	know;know;live;do;be;be	But you may know New York pretty well and not know, as a good many people who live in it do not, that there is any north end to Central Park, still less that it is far prettier than the south end."
+375	LOCATION	Central Park	people;end;end	good;many;north;prettier;south	know;know;live;do;be;be	But you may know New York pretty well and not know, as a good many people who live in it do not, that there is any north end to Central Park, still less that it is far prettier than the south end."
+380	LOCATION	New York	building;palace;fairy;man;town;house;story;place;hole;ground	more;high	be;be;come;have;be;find;be;go	The building of a palace in a night is no more to a fairy than it is to a New York man to come back after he has been out of town for a month and find a house twenty stories high in a place where there was a hole in the ground when he went away.
+385	LOCATION	Hudson River	fairy;water;iron;fairy;mouth	more	suppose;know;tell;bear;cross;run;bear;touch;be;have;go;go	I suppose you know, without my telling you, that fairies cannot bear to cross running water, any more than they can bear to touch iron, and that was why this fairy had to go around the mouth of the Hudson River instead of going across it.
+399	LOCATION	Ireland	coach;horse;head;coachman;head		do;know;be;draw;drive	"Do you not all know of the coaches in Ireland that are drawn by horses without heads and driven by coachmen without heads?"
+403	PERSON	Naggeneen	mile;voice;lightning	very	talk;ask;go	"But can you talk for ten miles," Naggeneen asked, "and will the very voice of you go as fast as the lightning?"
+414	PERSON	Naggeneen	heel;king;creature	poor;worth	turn;walk;think;be;talk	And Naggeneen turned on his heel and walked off, as if he thought the King a poor creature that was not worth talking to.
+416	PERSON	Naggeneen	manner;thing;mortal	many;many	say;do;do	"And so here too," said Naggeneen, "you can do all manner of things that mortals cannot, but they can do as many that you cannot--as many and better."
+427	LOCATION	Rome	tribe;way;s;way;palace;king	whole	want;go;know;know	And why the whole tribe wanted to go by the way of Rome, never a know I know, for it\"s not on the way from Ireland to the palace of the King of France at all.
+427	LOCATION	Ireland	tribe;way;s;way;palace;king	whole	want;go;know;know	And why the whole tribe wanted to go by the way of Rome, never a know I know, for it\"s not on the way from Ireland to the palace of the King of France at all.
+427	LOCATION	France	tribe;way;s;way;palace;king	whole	want;go;know;know	And why the whole tribe wanted to go by the way of Rome, never a know I know, for it\"s not on the way from Ireland to the palace of the King of France at all.
+430	LOCATION	Rome	i.		\;re;say	"\"We\"re in Rome,\" says I.
+437	PERSON	Guleesh	\;back;door;nobody;side;pope;priest;pope;nothing	other	begin;call;put;open;begin;tell;have;do;listen	\" and he began calling for them, but Guleesh put his back against the door, so that nobody could open it on the other side, and then he began telling the Pope all about the priest, and the Pope had nothing to do but listen.
+440	PERSON	Guleesh	boy;sight	fine;like	see;see	And there my fine boy Guleesh saw sights that he never saw the like of before.
+447	PERSON	Guleesh	\;moment		cry;be	\" cried Guleesh, and in a moment we were in Ireland again.
+447	LOCATION	Ireland	\;moment		cry;be	\" cried Guleesh, and in a moment we were in Ireland again.
+453	PERSON	Guleesh	home;d;rath		go;say;\;be;sleep	And Guleesh went home and said how he\"d been sleeping beside the rath all night."
+462	PERSON	Guleesh	priest;jewel;money;way		take;have;bring;sell;give;take;pay	So the priest took the jewels that she had on her when Guleesh first brought her, and he sold them and gave her the money, and she took it and paid her way back to France.
+462	LOCATION	France	priest;jewel;money;way		take;have;bring;sell;give;take;pay	So the priest took the jewels that she had on her when Guleesh first brought her, and he sold them and gave her the money, and she took it and paid her way back to France.
+464	PERSON	Naggeneen	king	last	say;be	At last the King said: "How long was all this ago, Naggeneen?"
+465	PERSON	Naggeneen	t	many;many	answer;couldn;be;count	"Many years," Naggeneen answered; "I couldn\"t be counting how many."
+478	LOCATION	Naggeneen	moment;king;sign;light;palace;hill;palace	few;whole;quiet	give;stop;be;be;be	In a few moments the King gave the sign for Naggeneen to stop, and in a minute more the lights were out and the whole palace was as quiet as the hill, before any palace was there.
+485	PERSON	Naggeneen	king;s;cleverness;use;time	ready;enough	be;have;help;think;be;be;be;obey;be;have;do;be;tell	The King was always ready enough to have Naggeneen"s help, when he thought that his cleverness would be of use; but there were times when he would be obeyed, and this was one of them, so Naggeneen had to do as he was told."
+485	PERSON	Naggeneen	king;s;cleverness;use;time	ready;enough	be;have;help;think;be;be;be;obey;be;have;do;be;tell	The King was always ready enough to have Naggeneen"s help, when he thought that his cleverness would be of use; but there were times when he would be obeyed, and this was one of them, so Naggeneen had to do as he was told."
+489	PERSON	Naggeneen	king;time;plan;s	good	come;stand;say;be;try;want;try	Then Naggeneen came one evening and stood before the King and said: "It is the time now to try my plan, if you want to try it, but it\"s no good."
+506	PERSON	Naggeneen	king;s		look;say;\;get	Then the King looked around him and said, "Where\"s Naggeneen got to at all now?"
+507	PERSON	Naggeneen	fore		be;say	"Here I am to the fore," said Naggeneen.
+526	PERSON	Rickard	course;bed;sound;life		drive;have;send;find;be	When they drove me off, of course we had to send back Rickard, and there they found him the next morning, asleep in his bed, as sound as ever he was in his life.
+534	PERSON	Sullivan	bed;mrs.;leader;pig;gate		lie;answer;squeal	"Lying in the bed beside Mrs. Sullivan," the leader answered, "and squealing like a pig under a gate."
+543	PERSON	King	child		say;do;bring	Then the King said, "And why did you not bring the child?"
+550	PERSON	KATHLEEN	little;little;terence			LITTLE KATHLEEN AND LITTLE TERENCE
+552	PERSON	John			answer	John answered.
+554	PERSON	Kitty	s;ll;loss		\;know;feel	It\"s us that knew Kitty that\"ll feel the loss of her."
+555	PERSON	Peter			ask	Peter asked.
+556	PERSON	John			say	said John.
+560	PERSON	Kathleen	ll;name;mother		\;say	"We\"ll name her Kathleen, after her mother," said John.
+560	PERSON	John	ll;name;mother		\;say	"We\"ll name her Kathleen, after her mother," said John.
+561	PERSON	Kitty	ll;mother		\;be;call;suppose	"Then you\"ll be calling her Kitty, like her mother, I suppose."
+562	PERSON	Kathleen	s;ll;nothing		\;\;call	It\"s Kathleen I\"ll call her--nothing else."
+564	PERSON	John	don;\;t;matter	alive	say;say;s	"Don\"t say that, man alive," said John; "what\"s the matter at all then?"
+566	PERSON	John	mother;child;ll		be;say;\;speak	"Mother is with the child," said John; "I\"ll speak to her."
+567	PERSON	John	d;air	better;good	\;come;do	And you\"d better come, too, John; the air will do you good."
+569	PERSON	Mulvey	mrs.;wonder;eye		ask	Mrs. Mulvey asked, with wonder in her eyes.
+571	PERSON	Brien	mrs.;o		ask	Mrs. O\"Brien asked.
+575	PERSON	Brien	mrs.;o		ask	Mrs. O\"Brien asked.
+576	PERSON	Peter	part;time;time	other	answer;dare;say;be	"Part of the time," Peter answered, "but I dare say we was both asleep other times."
+577	PERSON	Ellen	prayer	careful	be;be	"Was Ellen careful about her prayers last night, and were you so, too?"
+585	PERSON	Ellen	bed;floor;thing	poor;same	give;be;go;catch;save;roll;stop;cry;seem;be;laugh;do	It would give a spring as if it were going straight off the bed upon the floor, and when poor Ellen caught at it to save it, it would roll back toward her, stop its crying for a second, and seem to be laughing at her, and then it would do the same thing again."
+587	PERSON	Brien	anything;ll;mrs.;o;t;\;s;child	sayin;\	know;\;help;tell;don;be	If you know anything that\"ll help it, Mrs. O\"Brien, tell me that, but don\"t be sayin\" it\"s not my child."
+609	PERSON	Ellen Sullivan	child;house		be;christen;leave	Ellen Sullivan, that child will be christened before I leave this house."
+611	PERSON	Peter	water		bring	Bring me some water there, Peter."
+614	PERSON	Peter	water		bring	And Peter brought the water.
+615	PERSON	Brien	mrs.;o		ask	Mrs. O\"Brien asked.
+618	PERSON	John	mrs.;o		come;say;\;do	"Come, John," said Mrs. O\"Brien, "we\"ve done all that we can."
+618	PERSON	Brien	mrs.;o		come;say;\;do	"Come, John," said Mrs. O\"Brien, "we\"ve done all that we can."
+620	PERSON	John	course	welcome	come;say	"Come back with us, of course, and welcome," said John.
+625	PERSON	Peter	d		be;want;say;say;\;go	"It was that I wanted to say," said Peter, "and I\"d better go back to Ellen now."
+625	PERSON	Ellen	d		be;want;say;say;\;go	"It was that I wanted to say," said Peter, "and I\"d better go back to Ellen now."
+637	PERSON	Ellen	while;child;trouble	sick;delicate;poor;cross;much	get;use;be;say;be;be;be	After a while Ellen got used to his being sick, and she always said that he was delicate, poor child, and that was why he was so cross and so much trouble."
+638	PERSON	Brien	mrs.;o		ask	Mrs. O\"Brien would ask.
+639	PERSON	Ellen	kind;sickness;s		dunno;answer;think;\;s;\;make;eat	"I dunno about that," Ellen would answer; "I think it\"s the kind of sickness that\"s on him that makes him eat so much."
+641	PERSON	Brien	mrs.;o;chance		say;be;know;do;have	But Mrs. O\"Brien said that it was just because he knew what she would do to him if she had the chance.
+642	PERSON	Ellen	time;mrs.;s;child	right	come;tell;christen;ask;be;do	The first time that he came, Ellen told him about Mrs. O"Brien"s christening the child, and asked him if it was right for her to do it."
+642	PERSON	O `` Brien	time;mrs.;s;child	right	come;tell;christen;ask;be;do	The first time that he came, Ellen told him about Mrs. O"Brien"s christening the child, and asked him if it was right for her to do it."
+643	PERSON	Duffy	father		ask	Father Duffy asked.
+644	PERSON	Ellen	father;t		be;answer;couldn;deny	"He was, father," Ellen answered; "I couldn\"t deny that."
+648	PERSON	Kathleen	people;people;nothing;anybody	bad-tempered;unkind;other;other;unkind;bad-tempered;unkind	be;make;make	And if he was bad-tempered and unkind to other people, it made other people unkind and bad-tempered to him, but nothing could make Kathleen unkind to anybody.
+650	PERSON	Terence	dream;trouble	different;much;same	see;be;make;be;be	She saw Terence in her dreams, and he was a very different Terence from the one who made her so much trouble when she was awake, and yet he was partly the same.
+650	PERSON	Terence	dream;trouble	different;much;same	see;be;make;be;be	She saw Terence in her dreams, and he was a very different Terence from the one who made her so much trouble when she was awake, and yet he was partly the same.
+652	PERSON	Peter	nobody	sure	say;leave	"Sure," said Peter, "we left nobody there but Terence."
+652	PERSON	Terence	nobody	sure	say;leave	"Sure," said Peter, "we left nobody there but Terence."
+658	PERSON	Terence	fiddle;money;time	own;little;last	beg;buy;save;buy	But when Terence begged them to buy him a fiddle of his own, they saved up money a little at a time, and at last they bought him one.
+665	PERSON	Kathleen	story	near	seem;be;come;want;be	But it never seemed to be because of the stories that he came; he only wanted to be near Kathleen."
+669	PERSON	O `` Brien	mrs.		make;think;be	u"And all this made Mrs. O"Brien think the more that Terence was one of them."
+669	PERSON	Terence	mrs.		make;think;be	u"And all this made Mrs. O"Brien think the more that Terence was one of them."
+697	PERSON	Brien	mrs.;o;s;story		listen	u"So Mrs. O"Brien and Kathleen listened to Terence"s story."
+697	PERSON	Kathleen	mrs.;o;s;story		listen	u"So Mrs. O"Brien and Kathleen listened to Terence"s story."
+697	PERSON	Terence	mrs.;o;s;story		listen	u"So Mrs. O"Brien and Kathleen listened to Terence"s story."
+698	PERSON	Donald	\;s;ox		go;kill	So one night they went and killed Donald\"s ox.
+699	PERSON	Donald	hand;magpie;coat	round	put;catch;hold	With that Donald put round his hand and caught the magpie and held it under his coat.
+705	PERSON	Donald	m;man;\	poor	\;say	"\"I\"m a poor man,\" says Donald.
+710	PERSON	Donald	price;hide;home;vengeance	common	get;get;come;vow	But when they got there they could get no more for them than the common price of hides, and they came home again vowing vengeance on Donald.
+712	PERSON	Donald	word;word;sorrow;something;t;way;chance	particular;long	say;keep;think;\;be;give;think;wasn;begin;see;get;do;be;think	"Well, Donald said never a word, but he kept thinking, and those words \"all your sorrows are nearly over\" gave him something particular to think about, and it wasn\"t long till he began to see his way, if he could only get a chance to do what he was thinking of.
+717	PERSON	Donald	money;world		\;make;do;say;begin;sing	"\"There\"s not money enough in the world to make me do it,\" says Donald, and he began singing again.
+723	PERSON	Donald	home;cattle		go;drive	Then Donald went away home, driving the cattle before him.
+730	PERSON	Donald	home;cattle;farm;money;farm	own	go;look;make;take;have;leave	And then Donald went home and looked after his cattle and his farm, and soon he made money enough to take the two farms that Hudden and Dudden had left, besides his own.
+730	PERSON	Hudden	home;cattle;farm;money;farm	own	go;look;make;take;have;leave	And then Donald went home and looked after his cattle and his farm, and soon he made money enough to take the two farms that Hudden and Dudden had left, besides his own.
+730	PERSON	Dudden	home;cattle;farm;money;farm	own	go;look;make;take;have;leave	And then Donald went home and looked after his cattle and his farm, and soon he made money enough to take the two farms that Hudden and Dudden had left, besides his own.
+736	PERSON	Da Luan	da;mort			Da Luan, da Mort,
+737	PERSON	Da Luan	da;mort			Da Luan, da Mort,
+738	PERSON	Da Luan	da;mort			Da Luan, da Mort.
+743	PERSON	Da Luan	da;mort			Da Luan, da Mort,
+744	PERSON	Da Luan	da;mort			Da Luan, da Mort,
+745	PERSON	Da Luan	da;mort			Da Luan, da Mort,
+746	PERSON	Cadine	augus;da			Augus da Cadine.
+756	PERSON	Lusmore	mother;way;hump;boy;way	rid;own;same	hear;have;have;take;think;get	So when his mother heard the way Lusmore had had the hump taken off him, she thought maybe her boy could get rid of his own in the same way.
+757	PERSON	Lusmore	end;spot;rath;hunchback;everything	little	go;show;have;sit;leave;tell;do;have;do	And in the end he went with them to show them the very spot where he had sat down beside the rath, and there they left the little hunchback, and told him to do everything just as Lusmore had done it.
+758	PERSON	Lusmore	song;singing	better	be;sing;hear;have;have;improve;be	And they were singing much better now than when Lusmore heard them first, for they had the song now as he had improved it for them, and they were singing:
+760	PERSON	Da Luan	da;mort			Da Luan, da Mort,
+761	PERSON	Da Luan	da;mort			Da Luan, da Mort,
+762	PERSON	Da Luan	da;mort			Da Luan, da Mort,
+763	PERSON	Cadine	augus;da			Augus da Cadine.
+766	PERSON	Lusmore	breath;\;meaning;way	same;same	find;say;want;have;want;reward;do	"And he just found breath enough to say: \"I want the same that Lusmore had,\" meaning by that he wanted them to reward him the same way they did Lusmore.
+766	PERSON	Lusmore	breath;\;meaning;way	same;same	find;say;want;have;want;reward;do	"And he just found breath enough to say: \"I want the same that Lusmore had,\" meaning by that he wanted them to reward him the same way they did Lusmore.
+771	PERSON	Terence			say	said Terence.
+777	PERSON	Kathleen	house;side;park	own;west	have;be;live;be	Then he had a house of his own, over on the west side of the Park, and it was there that Kathleen lived when she was eighteen years old."
+778	PERSON	Peter	head;rib;people;s;thing;head;window	other	be;get;break;be;have;pay;have;break	He was constantly getting his head and his ribs broken, and Peter was always having to pay for other people"s things that he had broken, from their heads to their windows."
+780	PERSON	Kathleen	everybody;everybody		say;play	And everybody said he played so wonderfully--everybody except Kathleen.
+784	PERSON	Ellen	side;park;friend;north;end;park;hill;time	east;many	live;live;walk;have;tell	Ellen and Peter still lived on the east side of the Park, and some of her friends lived there, too, so that Kathleen often walked through the north end of the Park, near that hill that I have told you about so many times before.
+784	PERSON	Peter	side;park;friend;north;end;park;hill;time	east;many	live;live;walk;have;tell	Ellen and Peter still lived on the east side of the Park, and some of her friends lived there, too, so that Kathleen often walked through the north end of the Park, near that hill that I have told you about so many times before.
+784	PERSON	Kathleen	side;park;friend;north;end;park;hill;time	east;many	live;live;walk;have;tell	Ellen and Peter still lived on the east side of the Park, and some of her friends lived there, too, so that Kathleen often walked through the north end of the Park, near that hill that I have told you about so many times before.
+802	PERSON	Naggeneen	s;something;thing;soul		do;be;talk;have	Maybe it\"s something to do with them things Naggeneen was always talking about our having no souls--"
+807	PERSON	Terence	thing;way;man	right	do;tell;do;tell;bring;learn;teach	"Did he tell us the right thing to do when he told us to bring Terence here to learn the ways of men and to teach them to us?"
+808	PERSON	Terence	way	easier;other	be;have	And Terence is easier to have about other ways."
+810	PERSON	Naggeneen	plan;use		know;say;be	And you know Naggeneen himself said the plan would be no use."
+824	PERSON	Kathleen	other		overtake;walk;keep;hurry	She overtook them and the three walked on together, though the others could scarcely keep up, Kathleen hurried so.
+829	PERSON	Kathleen	lantern;trouble;dancing;light;dancer;swarm;firefly		do;seem;have;see;have;see;have;think;be	These and the lanterns did not seem to trouble them at all in dancing, and if Kathleen had seen the lights and had not seen the dancers, she would have thought that they were a swarm of fireflies.
+831	PERSON	Kathleen	other;matter;way;midst;company;edge;dancer;hand;whirl;circle;foot;ground	close;whole;very;great	dance;move;be;find;join;tell;be;touch	They danced around by themselves, moving in and out among the others, no matter how close together they were, and always finding their way, now in the midst of the whole company and now out beyond the very edge of it, and then suddenly all the dancers would join hands and whirl about in a great circle, so fast that Kathleen could not tell whether her feet were touching the ground at all.
+833	PERSON	Kathleen	man		have;be;dance;whisper;be;go	The man who had been dancing with Kathleen whispered to her: "You are to go with us."
+834	PERSON	Kathleen	grass-plot;foot;ground;grass;pool;water;s;pool	shell-shaped;little;little	leave;move;tell;be;come;own	They all left the shell-shaped grass-plot and moved along together--Kathleen could scarcely tell even now whether her feet were on the ground or not--over the grass, till they came to a little pool of water--Kathleen"s own little pool."
+834	PERSON	Kathleen	grass-plot;foot;ground;grass;pool;water;s;pool	shell-shaped;little;little	leave;move;tell;be;come;own	They all left the shell-shaped grass-plot and moved along together--Kathleen could scarcely tell even now whether her feet were on the ground or not--over the grass, till they came to a little pool of water--Kathleen"s own little pool."
+837	PERSON	Kathleen	water;star;water;moment;water;floor;gold	faint;yellow	look;see;be;walk;see;be;be;shine;be;walk;seem;be	Then, as Kathleen looked down at the water again, to see if she were really walking on it, she saw that there were no more stars, but the water was of a faint, shining yellow, and in a moment she was not walking on water any more, but on a floor, that seemed to her to be all of gold.
+840	PERSON	Kathleen	hill;life;anything	wonderful	be;have;know;have;see	And all this was inside a hill that Kathleen had known all the years of her life, and she had never seen anything wonderful about it.
+847	PERSON	Kathleen	fairy;fairy	little;smaller;little	have;be;wonder;be;seem;be;say;have;hear;be	You have been wondering all along how it was that the fairies seemed to Kathleen to be, as I said, only a little smaller than herself, when you have always heard that fairies were so very little."
+860	PERSON	Kathleen	queen		say;do;know;have;bring	"Kathleen," said the Queen, "do you know why they have brought you here?"
+873	PERSON	Kathleen	t	sure	be;say;let;talk;see;don;know;be	"I am not sure," Kathleen said, "that I ought to let you talk to me, because, you see, I don\"t know who you are."
+875	PERSON	Terence	\;s;nothing;name		\;have	\" It\"s Terence nothing; I have no name at all except Terence."
+875	PERSON	Terence	\;s;nothing;name		\;have	\" It\"s Terence nothing; I have no name at all except Terence."
+876	PERSON	Terence	boy;t;bit		know;name;say;don	"I know a boy named Terence," Kathleen said, "and I don\"t like him a bit."
+876	PERSON	Kathleen	boy;t;bit		know;name;say;don	"I know a boy named Terence," Kathleen said, "and I don\"t like him a bit."
+880	PERSON	Kathleen O	name		be	My name is Kathleen O\"Brien."
+880	PERSON	Brien	name		be	My name is Kathleen O\"Brien."
+882	PERSON	Kathleen	name;name	last;much;last	have;say;be;be;call	"But if you have only one name," Kathleen said, "it is your last name just as much as it is your first, so perhaps you ought to call me by my last one."
+883	PERSON	Terence	name;name;haven;t	last	answer;see;be;think;call	"Oh, no," Terence answered; "you see my name ought to be a first name, only I haven\"t any last one, so I think I ought to call you by your first one."
+890	PERSON	Kathleen	mother;father	dead	be;answer;have	"My mother is dead," Kathleen answered; "I have a father."
+892	PERSON	Kathleen			ask	Kathleen asked.
+894	PERSON	Kathleen	course;\;t;everybody;school	doesn	answer;have;go	"Why, of course," Kathleen answered; "doesn\"t everybody have to go to school?"
+896	PERSON	Kathleen	idea	funny	say	"Why, no, indeed," said Kathleen; "what a funny idea!"
+898	PERSON	Kathleen	thing;t		want;know;say;don;go;school	"If they want to know things," said Kathleen, "why don\"t they go to school themselves?"
+902	PERSON	Terence	line;letter;board;piece;chalk		make	Terence made some lines and some letters on the board, with a piece of chalk.
+904	LOCATION	Kathleen	man		say;stand	said one of the men who stood near Kathleen.
+905	PERSON	Terence	hasn;t		tell	Hasn\"t Terence told you that?"
+906	PERSON	Terence	abc;triangle;side;ab;ac	equal	go;let;be;be	Terence went on: "Let ABC be any triangle in which the sides AB and AC are equal."
+909	PERSON	Terence	man;nothing;triangle;triangle;bac;cab	more	say;go;consider	The man said nothing more and Terence went on: "Now, consider this triangle as two triangles, BAC and CAB."
+913	PERSON	Terence			go	Go on, Terence."
+915	PERSON	Terence	blackguard	clear	say;do;understand;have;make	"There, you blackguards," he said, "do you understand it at all, now that Terence has made it clear to you?"
+922	PERSON	Terence	difference;note;bow	clear	tell;feel;draw	She could scarcely tell the difference, and yet she could feel it in every clear note that Terence drew out with his bow.
+923	PERSON	Kathleen	something;longing	deep	seem;mean;tell;be;go	It seemed to Kathleen to mean so much, and yet she could not tell what, except that there was something like a deep longing that went all through it.
+930	PERSON	Kathleen	king;time;child		come;say;be;come;be;look	The King came up to Kathleen and said: "It is time for you to come and be looking after the child again."
+932	PERSON	Kathleen	pillow;queen		have;answer;come;get	"I have it here under my pillow," the Queen answered; "come here and get it, Kathleen."
+933	PERSON	Kathleen	queen;bent		ask	the Queen asked, as Kathleen bent over her.
+934	PERSON	Kathleen	queen;harm		do;know;answer;look;think;be;say;give	Kathleen did not quite know whether she ought to answer or not, but the Queen looked at her so kindly that she thought that there could be no harm, and she said: "Only what Terence gave me."
+934	PERSON	Terence	queen;harm		do;know;answer;look;think;be;say;give	Kathleen did not quite know whether she ought to answer or not, but the Queen looked at her so kindly that she thought that there could be no harm, and she said: "Only what Terence gave me."
+938	PERSON	Kathleen	king;gold;couch;queen;s;cradle	tired	leave;be;lay;have;be;place;be	u"The King left them, and Kathleen, who was really very tired, lay down on another gold couch, almost like the Queen"s, that had been placed near the cradle, and in a minute she was asleep."
+940	PERSON	Terence			go	Then Terence went away.
+941	PERSON	Kathleen	whenever;time;meal;hall		be;go;find;eat;eat;bring	Whenever it was time for a meal they went out into the hall, and there Kathleen always found Terence, and she always ate with him, and ate only what he brought her.
+941	PERSON	Terence	whenever;time;meal;hall		be;go;find;eat;eat;bring	Whenever it was time for a meal they went out into the hall, and there Kathleen always found Terence, and she always ate with him, and ate only what he brought her.
+942	PERSON	Kathleen	king;time		come;say;be;go;dance;come	In the evening the King came to her and said, "Kathleen, it is time for us to go and dance again; come with us."
+943	PERSON	Terence	hand;don;\;t;t	afraid	take;say;go;don;go;do;be;come	Then Terence took her by both hands and said, "Don\"t go with them; don\"t go; if you do, I am afraid that you will never come back."
+948	PERSON	Kathleen			come;answer	"I will come back," Kathleen answered.
+955	PERSON	Ellen	home;harm		get;tell;have;go;have;say;be;go;do;think;have;come	Even when he got there and Ellen told him that Kathleen had gone away hours ago and had said that she was going home, he did not think that any harm could have come to her."
+955	PERSON	Kathleen	home;harm		get;tell;have;go;have;say;be;go;do;think;have;come	Even when he got there and Ellen told him that Kathleen had gone away hours ago and had said that she was going home, he did not think that any harm could have come to her."
+957	PERSON	John	sullivans;way;way;nonsense	likely	go;take;think;be;take;look;know;search;be	Late at night John went to the Sullivans" again, taking the way that he thought Kathleen would be likely to take, and looking everywhere for her, though he knew that to search for her in such a way as that was nonsense."
+957	PERSON	Kathleen	sullivans;way;way;nonsense	likely	go;take;think;be;take;look;know;search;be	Late at night John went to the Sullivans" again, taking the way that he thought Kathleen would be likely to take, and looking everywhere for her, though he knew that to search for her in such a way as that was nonsense."
+958	PERSON	Kathleen			be;be	There was not one of them that was at all like Kathleen.
+959	PERSON	Kathleen	other		tell;have;drop;have;say;want;get;have;call;have;answer;have;go;think;follow	She told how Kathleen had dropped behind the others, though she had said that she wanted to get home early, how they had called to her, how she had answered, and how they had gone on, thinking that she would soon follow.
+962	PERSON	Kathleen	mother	dead	tell;answer;be	He told his mother this and she answered: "Kathleen is not dead."
+966	PERSON	Kathleen	mrs.;o;ld;banshee		die;say;\;hear	"Kathleen could never die," Mrs. O\"Brien said, "without I\"ld hear the banshee."
+966	PERSON	Brien	mrs.;o;ld;banshee		die;say;\;hear	"Kathleen could never die," Mrs. O\"Brien said, "without I\"ld hear the banshee."
+967	LOCATION	Ireland	s;banshee		\	There\"s banshees only in Ireland."
+969	PERSON	John	\;t;\;t	didn;didn	hear;ask;die;know;be;die	"Then why didn\"t you hear her," John asked "before Kitty died, and why didn\"t you know before that she was to die?"
+969	PERSON	Kitty	\;t;\;t	didn;didn	hear;ask;die;know;be;die	"Then why didn\"t you hear her," John asked "before Kitty died, and why didn\"t you know before that she was to die?"
+970	PERSON	Kathleen	couldn;\;t;ld;banshee		die;\;hear	Kathleen couldn\"t die without I\"ld hear the banshee."
+973	PERSON	Shaun	mrs.;o		say;do;know;be;go	"Shaun," said Mrs. O\"Brien, "do you know when it was that Kathleen went away?"
+973	PERSON	Brien	mrs.;o		say;do;know;be;go	"Shaun," said Mrs. O\"Brien, "do you know when it was that Kathleen went away?"
+973	PERSON	Kathleen	mrs.;o		say;do;know;be;go	"Shaun," said Mrs. O\"Brien, "do you know when it was that Kathleen went away?"
+974	PERSON	John			say	said John.
+977	PERSON	John		to-day	be	"And what is to-day, John?"
+978	PERSON	Don	\;t;time		think	Don\"t I think of it all the time?"
+979	PERSON	Brien	time;mrs.;o;people;power	good;more	\;s;say;have	"There\"s no time in the year," Mrs. O\"Brien said, "when the Good People have more power than on May Eve."
+980	PERSON	Kathleen	mother;s		die;bear;have;leave;\;go;bear	When her mother died I could bear it, because I had Kathleen left, but now she\"s gone, and how can I bear it?"
+982	PERSON	John			ask	John asked.
+983	PERSON	Kathleen	girl	last	be;see	"With me and with the girls that were with Kathleen that night and saw her last."
+985	PERSON	Brien	care;mrs.;o;ll	little	\;take;say;\;be;go	"I\"ve taken care of all that," Mrs. O\"Brien said; "they\"ll be here in a little while to go with us."
+986	PERSON	Brien	time;mrs.;o;to-night		be;ask;meet	"Was it about this time of the day," Mrs. O\"Brien asked, "that you met Kathleen here a year ago to-night?"
+986	PERSON	Kathleen	time;mrs.;o;to-night		be;ask;meet	"Was it about this time of the day," Mrs. O\"Brien asked, "that you met Kathleen here a year ago to-night?"
+988	PERSON	Brien	mrs.;o;way;place;instant	last	take;go;go;show;stand;see	"Then you must take us," Mrs. O\"Brien went on, "just the way that you went, and show us the very place where Kathleen stood, the last instant that you saw her."
+988	PERSON	Kathleen	mrs.;o;way;place;instant	last	take;go;go;show;stand;see	"Then you must take us," Mrs. O\"Brien went on, "just the way that you went, and show us the very place where Kathleen stood, the last instant that you saw her."
+992	PERSON	Brien	mrs.;o		whisper;stand;do;speak;stir;call;do;tell;do	Mrs. O\"Brien whispered: "Stand still here, all of you, and do not speak or stir unless I call to you; then do whatever I tell you, and do it quickly."
+993	PERSON	Kathleen	nothing;arm;hand;forehead	left;right	see;hurry;see;be;lead;hold	Still they could see nothing except her, but now she hurried toward them, and suddenly they saw that she was leading Kathleen, with her left arm around her and holding her right hand against her forehead."
+996	PERSON	John	rest	fast	lead;follow	And John led her away as fast as he could, while the rest followed.
+1002	PERSON	Brien	mrs.;o		ask	Mrs. O\"Brien asked.
+1004	PERSON	Brien	mrs.;o		ask	Mrs. O\"Brien asked.
+1023	PERSON	Oisin	other		call;go;speak	She called to Oisin, and he went apart from the others to speak with her.
+1024	PERSON	Oisin	princess;moonlight;voice;wind;harp;love;speaking	beautiful;sweet;eager	be;be;blow;be;go;have;do	The Princess was as beautiful as moonlight, and her voice was as sweet as the wind blowing on a harp, and Oisin was in love with her and eager to go before she had done speaking.
+1028	PERSON	Oisin	palace;table;thing;world	beautiful;outside;beautiful;best	think;be;be;be;think;eat;drink;be	And Oisin thought that if the palace was beautiful outside, it was much more beautiful inside, and as for the table that was before him, he could not think of any of the best things in the world to eat and to drink that were not on it.
+1029	PERSON	Oisin	hunting;game	finest	ride;find;have;see	Sometimes they rode hunting together, and everywhere they found game, the finest that Oisin had ever seen.
+1031	PERSON	Erin	air;sunshine;mist;chill	sweet;warm;more	be;be;like;breathe;feel;see	The air here is sweet and the sunshine is warm, but I should like to breathe the mists and to feel the chill again, if I could only see Erin once more!"
+1032	PERSON	Kathleen	nothing;way;woman	old	say;pause;go	Kathleen said nothing when she paused in this way, and in a minute the old woman went on:"
+1038	PERSON	Erin	something;cloud;horizon;shore	little;higher;wider;misty;brown;beautiful;green	see;rise;grow;fade;see	And now he saw something like a little cloud on the horizon, and it rose higher and grew wider, and then its misty brown faded away and he saw the beautiful green shores of Erin."
+1039	PERSON	Erin	woman;shore	old;beautiful;beautiful;green	pause;say	The old woman paused again and said over softly to herself: "The beautiful--beautiful green shores of Erin."
+1043	PERSON	Oisin	ground;princess;man	old;weak;helpless;blind;hollow-cheeked;wrinkled;white-haired	lay;have;forbid;touch	Oisin lay there on the ground of Erin, which the Princess had forbidden him to touch, an old man, weak, helpless, blind, hollow-cheeked, wrinkled, white-haired.
+1043	PERSON	Erin	ground;princess;man	old;weak;helpless;blind;hollow-cheeked;wrinkled;white-haired	lay;have;forbid;touch	Oisin lay there on the ground of Erin, which the Princess had forbidden him to touch, an old man, weak, helpless, blind, hollow-cheeked, wrinkled, white-haired.
+1044	PERSON	Oisin	tir-na-n-oge	old	be;mourn;brave;seem	And always Oisin was mourning for the brave old days of Finn McCool or for the days of Tir-na-n-Oge, which seemed to him now still farther off.
+1044	PERSON	Finn McCool	tir-na-n-oge	old	be;mourn;brave;seem	And always Oisin was mourning for the brave old days of Finn McCool or for the days of Tir-na-n-Oge, which seemed to him now still farther off.
+1045	LOCATION	St. Patrick	food;\;s;house	poor;scanty	be;give;seem	And so the food which was given to him in St. Patrick\"s house seemed poor and scanty to him.
+1052	PERSON	Oisin	\		dig;say	"\"Dig it out,\" said Oisin.
+1055	PERSON	Oisin	\		say	\" said Oisin.
+1059	PERSON	Oisin	horn;\		blow;say	"\"Now blow the horn,\" said Oisin.
+1067	PERSON	Oisin	man;spear;dog;point;heart	dead	hold;tell;come;be;catch;go;fall	"The man held the spear as Oisin told him, and when the dog came on he was caught upon the point of it, and it went through his heart and he fell dead.
+1068	PERSON	St. Patrick	\;s;man		treat;do	And so after that all of St. Patrick\"s men treated him as well as did St. Patrick himself.
+1068	PERSON	St. Patrick	\;s;man		treat;do	And so after that all of St. Patrick\"s men treated him as well as did St. Patrick himself.
+1074	PERSON	Terence	other;other	busy	be;talk;come;sit;get	Then, when all the others were busy talking among themselves, Terence suddenly came and sat close to her, and between her and the others, so that she could not get away from him.
+1076	PERSON	Kathleen	t;t;t;time		don;know;answer;seem;\;remember;\;think;be;do;fill	"I don\"t know," Kathleen answered; "it seemed only a day to me, and I can\"t remember and I can\"t think what it was that I did to fill all that time."
+1077	PERSON	Terence			say	said Terence.
+1080	PERSON	Kathleen	t		don;know;say	"I don\"t know," said Kathleen.
+1081	PERSON	Terence			ask	Terence asked.
+1084	PERSON	Kathleen	promise;t;way;t;anybody;t		be;say;win;let;talk;don;see;matter;say;win;tell	"It was no promise at all," Kathleen said, "and I won\"t let you talk to me that way, and I don\"t see that it matters to you what he--what anybody said to me anywhere, and I won\"t tell you any more."
+1087	PERSON	Kathleen	feeling		have;move;look;try;find	Kathleen had a feeling that she could not move while he looked at her, although when she tried it she found that she could.
+1088	PERSON	Terence	promise;oftener;nothing;nothing;way;nothing;anything	next;same	meet;remind;call;say;look;feel;do;tell;do;have;do	Sometimes after that, when she and Terence met, he reminded her again of what he called the promise, but oftener he said nothing, or next to nothing, and only looked at her in that same way, and then she felt as if she could do nothing of herself, and that if he told her to do anything, she would have to do it.
+1093	PERSON	Terence	pool;time	sure;right	feel;go;meet;come;go	Then she felt sure that if she went to the pool at the right time of the day she should meet Terence when he came out or when he went in.
+1095	PERSON	Kathleen	girl	sensible		A sensible girl like Kathleen too!"
+1097	PERSON	Kathleen	t		don;know;say	"I don\"t know," said Kathleen.
+1099	PERSON	Prince		little	be	How is the little Prince?"
+1106	PERSON	Terence			ask	Terence asked.
+1107	PERSON	Kathleen	promise		have;be;say;try;keep	"I have been here very often," Kathleen said, "trying to keep my promise to you."
+1109	PERSON	Kathleen			say;like	"Yes," Kathleen said, "if you would like me to."
+1110	PERSON	Terence			say	said Terence.
+1111	PERSON	Terence	home		be;go;go;think	Terence was gone and she went home to think about it.
+1112	PERSON	Kathleen	t		say;look;let;go;\;go;\;re;look	Then he said, without looking around: "Let me go, Kathleen; I can\"t go while you\"re looking."
+1116	PERSON	Kathleen	nothing		say;answer;do;think;say	"I say nothing to it," Kathleen answered; "what did you think I would say?"
+1118	PERSON	Kathleen			be;say	"That is all," said Kathleen.
+1121	PERSON	Terence	father		come;be;introduce	Her father came soon and Terence was introduced to him too.
+1122	PERSON	Kathleen	corner;room;paper;mrs.;o;book;time;sight;mermaid;bottom;sea	same;astonishing	sit;sit;read;knit;read;be;be;see;play	When he and Kathleen sat together in a corner of the room and John sat reading a paper and Mrs. O"Brien knitting and reading a book at the same time, it was as astonishing a sight to him as it would be to you to see a dozen mermaids playing at the bottom of the sea."
+1122	PERSON	John	corner;room;paper;mrs.;o;book;time;sight;mermaid;bottom;sea	same;astonishing	sit;sit;read;knit;read;be;be;see;play	When he and Kathleen sat together in a corner of the room and John sat reading a paper and Mrs. O"Brien knitting and reading a book at the same time, it was as astonishing a sight to him as it would be to you to see a dozen mermaids playing at the bottom of the sea."
+1122	PERSON	Brien	corner;room;paper;mrs.;o;book;time;sight;mermaid;bottom;sea	same;astonishing	sit;sit;read;knit;read;be;be;see;play	When he and Kathleen sat together in a corner of the room and John sat reading a paper and Mrs. O"Brien knitting and reading a book at the same time, it was as astonishing a sight to him as it would be to you to see a dozen mermaids playing at the bottom of the sea."
+1123	PERSON	Kathleen			whisper	he whispered to Kathleen.
+1124	PERSON	Kathleen			ask	Kathleen asked.
+1126	PERSON	Kathleen	course;ball;party;dancing		do;say;go;be	"Why, of course we do," Kathleen said; "we go to balls sometimes, and to parties where there is dancing, and then--"
+1134	PERSON	Kathleen	way		be;call;hurry	"This is the way," Kathleen called, and she hurried back after him.
+1136	PERSON	Kathleen	doorstep;rest		be;vex;go;want;laugh;have;sit	Kathleen was vexed that Terence could not go where she wanted him to, but she laughed till she had to sit down on a doorstep and rest.
+1136	PERSON	Terence	doorstep;rest		be;vex;go;want;laugh;have;sit	Kathleen was vexed that Terence could not go where she wanted him to, but she laughed till she had to sit down on a doorstep and rest.
+1139	PERSON	Terence		afraid	do;seem;understand;tell;be	Terence did not seem to understand it at all, and he told her not to be afraid."
+1140	PERSON	Terence	something;father		be;do;make;stop;talk;look;ask;let;go	If something could not be done to make Terence stop talking to her so, and looking at her so, she should ask her father to let her go away somewhere.
+1143	PERSON	Kathleen			ask	Kathleen asked.
+1149	LOCATION	Ireland	nothing;potato;potato	good	be;offer;be;be	For there was nothing to offer him but potatoes, though they were as good potatoes as there were in Ireland.
+1166	PERSON	Kathleen	someone;grandmother		do;come;see;happen;stay;see	Someone did come to see Kathleen before long, but, as it happened, neither she nor her grandmother stayed to see him.
+1173	PERSON	Kathleen	eye;course		say	"With both eyes, of course," said Kathleen.
+1174	PERSON	Terence	\;s;eye;fist		cry;strike	Terence cried, and he struck at Kathleen\"s eyes with his fist.
+1174	PERSON	Kathleen	\;s;eye;fist		cry;strike	Terence cried, and he struck at Kathleen\"s eyes with his fist.
+1182	PERSON	Kathleen			ask	Kathleen asked.
+1190	PERSON	Brien	mrs.;o;miss;sullivans	servant	have;go;\;tell	"Mrs. O\"Brien and Miss Kathleen have gone to the Sullivans\"," the servant told him.
+1190	PERSON	Kathleen	mrs.;o;miss;sullivans	servant	have;go;\;tell	"Mrs. O\"Brien and Miss Kathleen have gone to the Sullivans\"," the servant told him.
+1193	PERSON	Terence	sullivans		go;\;find;say	"I will go to the Sullivans\" and find them," Terence said.
+1201	PERSON	Ellen	matter		sit;try;soothe;try;get;tell;be	Ellen sat close to him, trying to soothe him and trying to get him to tell her what was the matter."
+1202	PERSON	Ellen	mrs.;o;room;moment;something		say;come;have;tell	"Ellen," said Mrs. O\"Brien, "come outside the room here for a moment; I have something to tell you."
+1202	PERSON	Brien	mrs.;o;room;moment;something		say;come;have;tell	"Ellen," said Mrs. O\"Brien, "come outside the room here for a moment; I have something to tell you."
+1203	PERSON	Terence	s;way		look;answer;leave;\	"Look at Terence there," Ellen answered; "how can I leave him when he\"s that way?"
+1203	PERSON	Ellen	s;way		look;answer;leave;\	"Look at Terence there," Ellen answered; "how can I leave him when he\"s that way?"
+1204	PERSON	Brien	mrs.;o		leave;say;come	"Leave him," said Mrs. O\"Brien, "and come out here with me."
+1205	PERSON	Brien	mrs.;o;room;word		look;say;be;do;look;mean;say;do	"Now look at me," said Mrs. O\"Brien, when they were out of the room; "do I look as if I would mean every word I said, or do I not?"
+1206	PERSON	Ellen			look;tell;do;look;mean;have	Look at me, Ellen, and tell me, do I look as if I meant to have it?"
+1207	PERSON	Terence	way	confused	look;say;go	Then she looked down again in a confused way, and said: "I must go back to Terence."
+1208	PERSON	Terence	ll		\;follow;come;like;think	We\"ll follow you, and Terence can come, too, if he likes, and I think he will."
+1209	PERSON	Brien	mrs.;o;terence;kitchen		call;be;go;come;like	Mrs. O\"Brien called to Terence: "We are going to the kitchen; you can come if you like."
+1210	PERSON	Brien	kitchen;other;half;half;corner;room;face;arm;eye;mrs.;o		steal;sit;lay;have;do;do;cover;keep;see;be;go;do	He stole into the kitchen after the others and half sat and half lay in the corner, as he had done in the room above, only he did not cover his face with his arm, but kept his eyes on Mrs. O"Brien to see what she was going to do."
+1211	PERSON	Ellen	mrs.;o;pot;fire;water	largest	whisper;put;put;let;boil	"Now, Ellen," Mrs. O\"Brien whispered, "put your largest pot on the fire, put water in it, and let it boil."
+1211	PERSON	Brien	mrs.;o;pot;fire;water	largest	whisper;put;put;let;boil	"Now, Ellen," Mrs. O\"Brien whispered, "put your largest pot on the fire, put water in it, and let it boil."
+1212	PERSON	Brien	egg;house;mrs.;o		bring;have;say	"Now bring all the eggs you have in the house," Mrs. O\"Brien said.
+1213	PERSON	Terence	crucifix	afraid	have;be;know;care;know	But she need not have been afraid of Terence; he knew the crucifix as well as he cared to know it."
+1214	PERSON	Brien	mrs.;o;egg;shell;rest	hard	wait;be;boil;whisper;break;keep;throw	Mrs. O\"Brien waited till it was boiling as hard as ever it could, and then she whispered to Ellen: "Break the eggs now; keep the shells and throw away the rest."
+1214	PERSON	Ellen	mrs.;o;egg;shell;rest	hard	wait;be;boil;whisper;break;keep;throw	Mrs. O\"Brien waited till it was boiling as hard as ever it could, and then she whispered to Ellen: "Break the eggs now; keep the shells and throw away the rest."
+1215	PERSON	Ellen	poor;egg;shell;rest		guess;mean;break;lay;throw	Poor Ellen could not guess what it all meant, but she broke the eggs, laid the shells carefully aside, and threw away the rest.
+1216	PERSON	Brien	mrs.;o;shell;pot		say;put	"Now," said Mrs. O\"Brien, "put the shells in the pot."
+1217	PERSON	Ellen			do;be;tell	Ellen did as she was told.
+1218	PERSON	Terence	corner		call	Terence called from his corner.
+1219	PERSON	Brien	mrs.;o		tell;be;brew;whisper	"Tell him you are brewing," Mrs. O\"Brien whispered.
+1220	PERSON	Terence	m;brewing	loud;enough	\;say;be;hear	"I\"m brewing, Terence," said Ellen, scarcely loud enough to be heard.
+1220	PERSON	Ellen	m;brewing	loud;enough	\;say;be;hear	"I\"m brewing, Terence," said Ellen, scarcely loud enough to be heard.
+1221	PERSON	Terence			ask	Terence asked again.
+1222	PERSON	Brien	egg-shell;mrs.;o		say;whisper	"Say egg-shells," Mrs. O\"Brien whispered.
+1223	PERSON	Terence	egg-shell		say	"Egg-shells, Terence," Ellen said.
+1223	PERSON	Ellen	egg-shell		say	"Egg-shells, Terence," Ellen said.
+1229	PERSON	Terence	fiddle		do;like;hear;play	And yet I did like to hear Terence play the fiddle."
+1230	PERSON	Terence	fiddle	little;new	play;say	"I can play the fiddle a little too," the new Terence said.
+1232	PERSON	Peter	fiddle;fiddle;song;gladness;song;soul;man	great;full	bring;play;sing;bear;find	Peter brought the fiddle and Terence played, and the fiddle sang a great song of gladness--the song of a soul born to find itself a full man all at once.
+1232	PERSON	Terence	fiddle;fiddle;song;gladness;song;soul;man	great;full	bring;play;sing;bear;find	Peter brought the fiddle and Terence played, and the fiddle sang a great song of gladness--the song of a soul born to find itself a full man all at once.
+1243	PERSON	Naggeneen	t;t;word;ld		couldn;tell;say;couldn;say;\;have;say;tell	"I couldn\"t tell you that," said Naggeneen; "I couldn\"t say the words that I\"ld have to say to tell you."
+1255	PERSON	Naggeneen			say	said Naggeneen.
+1256	PERSON	Naggeneen	none		forbid;touch	"I forbid you ever to touch her, Naggeneen, and none of us ever will."
+1258	PERSON	Naggeneen	king		\;have;say;play	"And we\"ve all had enough," said the King; "so now, Naggeneen, play for us."
+1260	PERSON	Naggeneen			have;frighten;frighten;choose	Naggeneen had frightened them, as he always frightened them when he chose.
+1264	PERSON	Terence	carriage		see;come;get	After a while they saw Terence and Kathleen come out and get into a carriage."
+1264	PERSON	Kathleen	carriage		see;come;get	After a while they saw Terence and Kathleen come out and get into a carriage."
+1267	PERSON	John	mother	same	be;think;say	"I was thinking that same, mother," said John.
+1269	PERSON	John			think;say	"I think so," said John.
+1300	PERSON	CHARLES SCRIBNER	u;s;son;publishers			u" CHARLES SCRIBNER"S SONS, Publishers"
+1307	PERSON	PAUL DU CHAILLU	book	new		A NEW BOOK BY PAUL DU CHAILLU
+1320	PERSON	Ivar		viking		Ivar the Viking
+1328	PERSON	KIRK MUNROE	book	new		A NEW BOOK BY KIRK MUNROE
+1332	LOCATION	Cuba	scene;story	new;early	be;lay	The scene of this new story is laid in Cuba, in the early
+1336	PERSON	KIRK MUNROE	book	other		OTHER BOOKS BY KIRK MUNROE
+1337	PERSON	Stuart	midshipman			Midshipman Stuart
+1342	PERSON	Crockett				With Crockett and Bowie
+1342	PERSON	Bowie				With Crockett and Bowie
+1346	LOCATION	Pontiac	war			At War with Pontiac
+1358	LOCATION	Ireland	fairy;folk			Fairies and Folk of Ireland
+1361	PERSON	Frost	mr.;method;re-telling	attractive	apply	Mr. Frost here applies his attractive methods to re-telling
+1377	PERSON	DANIEL C. BEARD	book	new		A NEW BOOK BY DANIEL C. BEARD
+1390	PERSON	ADELIA B. BEARD	lina			BY LINA AND ADELIA B. BEARD
+1399	PERSON	ERNEST SETON-THOMPSON				BY ERNEST SETON-THOMPSON
+1412	PERSON	Buller				With Buller in Natal
+1412	LOCATION	Natal				With Buller in Natal
+1413	PERSON	W. Rainey	illustrated			Illustrated by W. Rainey, R.I. 12mo, $1.50.
+1413	LOCATION	R.I.	illustrated			Illustrated by W. Rainey, R.I. 12mo, $1.50.
+1416	PERSON	Garibaldi				Out with Garibaldi
+1427	LOCATION	HAYTI	roving;commission;or;insurrection	black		A Roving Commission; OR, THROUGH THE BLACK INSURRECTION AT HAYTI.
+1428	LOCATION	La Vende	tale		rise	A Tale of the Rising in La Vende.
+1430	PERSON	Napoleon	story;s;invasion			A Story of Napoleon"s Invasion of Egypt."
+1430	LOCATION	Egypt	story;s;invasion			A Story of Napoleon"s Invasion of Egypt."
+1431	LOCATION	Glendower	tale;hotspur			A Tale of Hotspur and Glendower.
+1435	PERSON	Cochrane	tale;exploit;lord;waters			A Tale of the Exploits of Lord Cochrane in South American Waters.
+1436	LOCATION	Paris	tale;white;hoods			A Tale of the White Hoods of Paris.
+1438	PERSON	Napoleon	story;s;retreat			A Story of Napoleon"s Retreat from Moscow."
+1438	LOCATION	Moscow	story;s;retreat			A Story of Napoleon"s Retreat from Moscow."
+1439	LOCATION	Rhodes	tale;siege			A Tale of the Siege of Rhodes.
+1440	PERSON	Tippoo Said	story			A Story of the War with Tippoo Said.
+1441	LOCATION	Colorado	story;adventure			A Story of Adventure in Colorado.
+1452	PERSON	Charles Scribner	u;s;sons;publishers			u" Charles Scribner"s Sons--Publishers"

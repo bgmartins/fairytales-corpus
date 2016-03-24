@@ -1,0 +1,58 @@
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	SENTENCE
+1	PERSON	George MacDonald				by George MacDonald
+42	PERSON	Makemnoit	princess		have;bewitch	Princess Makemnoit has bewitched her."
+47	PERSON	John	tong;majesty;table		take;say;get;hand	"Take the tongs, John," said his Majesty; and getting up on the table, he handed them to him.
+48	PERSON	John	baby;princess;tong	little	reach;be;hand	John could reach the baby now, and the little princess was handed down by the tongs.
+148	PERSON	Kopy-Keck	queen;hum-drum;humility;silence		laugh;hear;retire	The queen laughed; but Hum-Drum and Kopy-Keck heard with humility and retired in silence.
+155	PERSON	Kopy-Keck	form;death	grim	arrive;say	"Which would presently arrive in the form of grim death," said Kopy-Keck.
+296	LOCATION	Earth	fountain;mother;baby;country;tear		have;cease;flow;be;cry	And not alone had the fountains of mother Earth ceased to flow; for all the babies throughout the country were crying dreadfully--only without tears.
+318	PERSON	Lagobel	prince;journey;forest;way;nothing;oracle;return	hermit	have;go;consult;have;meet;know	u"The prince, having gone several days" journey into the forest, to consult a hermit whom he had met there on his way to Lagobel, knew nothing of the oracle till his return."
+472	LOCATION	Giantland	giant;border;country;people	common	be;live;touch	There was once a giant who lived on the borders of Giantland where it touched on the country of common people.
+473	LOCATION	Giantland	everything;people;mass;mountain;cloud;living;man;anybody	big;common;awful	be;see;have;come;know;tell;have;see	Everything in Giantland was so big that the common people saw only a mass of awful mountains and clouds; and no living man had ever come from it, as far as anybody knew, to tell what he had seen in it.
+477	PERSON	Tricksey-Wee	husband;giantess;s	naughty	\;be;say;look;face	"But I\"ve never been naughty to your husband," said Tricksey-Wee, looking up in the giantess\"s face.
+483	PERSON	Buffy	\;brake;ll	yonder;great	come;say;s;\;hide	"Come, Buffy," said Tricksey; "yonder\"s a great brake; we\"ll hide in it."
+483	PERSON	Tricksey	\;brake;ll	yonder;great	come;say;s;\;hide	"Come, Buffy," said Tricksey; "yonder\"s a great brake; we\"ll hide in it."
+520	PERSON	Bob	m	ready	say;\	"All right," said Bob; "I\"m ready."
+522	PERSON	Tricksey	hole;giant;giantess		let;try;say;be;sleep;dare;go	"Let us try this hole," said Tricksey; for the giant and giantess were sleeping behind them, and they dared not go back.
+523	PERSON	Bob			say	"All right," said Bob.
+526	PERSON	Buffy-Bob			say	said Buffy-Bob.
+527	PERSON	Tricksey	t;t		\;tell;reply;see;don;know;be	"I can\"t tell," replied Tricksey; "for, you see, I don\"t know what we are in."
+540	PERSON	Tricksey-Wee	front;bird;face;round;eye;giantess;s;spectacles;courtesy;mr.	huge;bigger	go;look;be;drop;say;want;whisper	Tricksey-Wee immediately went in front of the bird, and looking up into his huge face, which was as round as the eyes of the giantess\"s spectacles, and much bigger, dropped a pretty courtesy, and said,--"Please, Mr. Owl, I want to whisper to you."
+540	PERSON	Owl	front;bird;face;round;eye;giantess;s;spectacles;courtesy;mr.	huge;bigger	go;look;be;drop;say;want;whisper	Tricksey-Wee immediately went in front of the bird, and looking up into his huge face, which was as round as the eyes of the giantess\"s spectacles, and much bigger, dropped a pretty courtesy, and said,--"Please, Mr. Owl, I want to whisper to you."
+557	PERSON	Tricksey-Wee	laugh	tired;last	go;be;say;try	So they went on and on, till they were both tired, and Tricksey-Wee said at last, trying to laugh,--"
+559	PERSON	Buffy-Bob	place;bed		s;go;say	"Then here\"s the place to go to bed in," said Buffy-Bob.
+567	PERSON	Buffy-Bob	tricksey-wee;way		begin;sing;have;learn;answer	He began to sing; and Tricksey-Wee and Buffy-Bob, having now learned the way, answered him:--
+581	PERSON	Tricksey			look;say	"No; but we can look up," said Tricksey.
+585	PERSON	Buffy-Bob			tell;begin	"Tell us where--" began Buffy-Bob.
+593	PERSON	Buffy-Bob	cap;tricksey-wee	low	take;courtesy	Buffy-Bob took off his cap, and Tricksey-Wee courtesied very low.
+595	PERSON	Buffy-Bob	bird	splendid;little	\;s;say;know;_;_;get	"He\"s a splendid bird," said Buffy-Bob; "only you know he _will_ get up a little too early."
+597	LOCATION	Lady Lark	life;giant;thunderthump;s;heart	she-eagle	tell;please;sit	"Tell us, please, Lady Lark, where the she-eagle lives that sits on Giant Thunderthump\"s heart."
+603	PERSON	Tricksey-Wee	song		do;tell;sing;say	"Do tell me, and I will sing you a song," said Tricksey-Wee.
+652	PERSON	Tricksey-Wee	life	she-eagle	tell;please;say	"Tell us where the she-eagle lives, please," said Tricksey-Wee.
+653	PERSON	Lady Lark	t;harm;child;t;mischief	much;such;wise;good;sure	don;think;be;tell;say;be;don;want;do	"Well, I don\"t think there can be much harm in telling such wise, good children," said Lady Lark; "I am sure you don\"t want to do any mischief."
+654	PERSON	Buffy-Bob	contrary		say	"Oh, no; quite the contrary," said Buffy-Bob.
+655	LOCATION	Mount Skycrack	peak;way;spider;web;bottom	topmost;only;top	live;get;be;climb;\;cover	She lives on the very topmost peak of Mount Skycrack; and the only way to get up is to climb on the spiders\" webs that cover it from top to bottom."
+656	PERSON	Tricksey-Wee	s	serious	\;say	"That\"s rather serious," said Tricksey-Wee.
+666	PERSON	Spider	haven;t;claw;mr.		get;say	"But we haven\"t got claws like you, Mr. Spider," said Buffy.
+666	PERSON	Buffy	haven;t;claw;mr.		get;say	"But we haven\"t got claws like you, Mr. Spider," said Buffy.
+668	PERSON	Buffy			say	said Buffy.
+671	PERSON	Tricksey-Wee	giant;border;child;radish;she-eagle;heart;heart;behaviour	little;great;giant;better	tell;be;treat;have;escape;be;eat;have;find;be;sit;get;hold;teach	Then Tricksey-Wee told them that there was a giant on the borders who treated little children no better than radishes, and that they had narrowly escaped being eaten by him; that they had found out that the great she-eagle of Mount Skycrack was at present sitting on his heart; and that, if they could only get hold of the heart, they would soon teach the giant better behaviour.
+671	LOCATION	Mount Skycrack	giant;border;child;radish;she-eagle;heart;heart;behaviour	little;great;giant;better	tell;be;treat;have;escape;be;eat;have;find;be;sit;get;hold;teach	Then Tricksey-Wee told them that there was a giant on the borders who treated little children no better than radishes, and that they had narrowly escaped being eaten by him; that they had found out that the great she-eagle of Mount Skycrack was at present sitting on his heart; and that, if they could only get hold of the heart, they would soon teach the giant better behaviour.
+673	PERSON	Buffy-Bob	scratch	least	kill;reply	"The least scratch will kill it," replied Buffy-Bob.
+681	PERSON	Tricksey-Wee	spider;army;spider	whole	follow;look;see;scramble	And every spider followed; so that, when Tricksey-Wee looked back, she saw a whole army of spiders scrambling after them."
+684	PERSON	Buffy-Bob	tricksey-wee;globe;feather;mountain;knob	great;ornamental	see;finish	Tricksey-Wee and Buffy-Bob could see above them a great globe of feathers, that finished off the mountain like an ornamental knob.
+685	PERSON	Buffy			say	said Buffy.
+688	PERSON	Tricksey	s;spider		say	said Tricksey\"s spider.
+705	PERSON	Tricksey			have;behave;say	"You shall have it, if you behave yourself properly," said Tricksey.
+711	PERSON	Tricksey	heart;pinch		say;give	said Tricksey; and she gave the heart another pinch.
+713	PERSON	Doodlem	time	poor;arm-chair;white	be;sit;cry;mend;stock	All this time poor Doodlem was sitting in her arm-chair, crying, and mending a white stocking.
+720	PERSON	Thunderthump	lot	thinnest	be;say;cry	"He was the thinnest of the lot," said Thunderthump, crying.
+721	PERSON	Tricksey			ask	asked Tricksey.
+723	PERSON	Tricksey-Wee	giant;child;child;life	more	say;promise;carry;eat	"Now," said Tricksey-Wee to the giant, "will you promise to carry off no more children, and never to eat a child again all you life?"
+728	PERSON	Tricksey-Wee	moral	giant;good;giant	hesitate;begin;expostulate;believe;be;insist;promise	The giant hesitated at this, and began to expostulate; but Tricksey-Wee, believing it would be good for his morals, insisted; and the giant promised.
+736	PERSON	Buffy-Bob	travels;knife;pretence;string;reality;emergency		have;get;know;take;cut;be;prepare	But Buffy-Bob, who had got very knowing on his travels, took out his knife with the pretence of cutting the string; but, in reality, to be prepared for any emergency.
+778	LOCATION	Fairyland	way;nothing;place;creature;child;being;wanderer;one;one	best;mischievous;own;mischievous;many;other;good;more;evil;able	do;know;be;have;go;be;be;be;be;be;get;help;be;hurt	Now, although she did not know it, this was the very best way she could have gone; for nothing is ever so mischievous in its own place as it is out of it; and, besides, these mischievous creatures were only the children of Fairyland, as it were, and there are many other beings there as well; and if a wanderer gets in among them, the good ones will always help him more than the evil ones will be able to hurt him.
+834	PERSON	Mother	fish		answer	"Yes, Mother, quite well," answered the fish.
+862	PERSON	Tangle		unwilling	be;go	Tangle was very unwilling to go.
+903	PERSON	Tangle	way;country;shadow		show;fall;say	"Yes--show me the way up to the country from which the shadows fall," said Tangle.
+932	PERSON	Tangle	youth;ear		answer;hear	And the youth answered, and Tangle heard him, though not with her ears:--

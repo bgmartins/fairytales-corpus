@@ -1,0 +1,49 @@
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	SENTENCE
+6	LOCATION	GOULD	s.;baring			S. BARING GOULD, M.A.
+6	PERSON	M.A.	s.;baring			S. BARING GOULD, M.A.
+9	PERSON	F. D. BEDFORD	by		illustrate	ILLUSTRATED BY F. D. BEDFORD
+13	LOCATION	LONDON				LONDON
+26	PERSON	S. BARING GOULD				S. BARING GOULD.
+27	PERSON	Lew Trenchard				Lew Trenchard, N. Devon.
+27	PERSON	N. Devon				Lew Trenchard, N. Devon.
+46	PERSON	I. Catskin				I. Catskin
+53	PERSON	Southernwood		true	discover	Southernwood discovers the true Reeve of Lynn, when
+53	PERSON	Reeve		true	discover	Southernwood discovers the true Reeve of Lynn, when
+53	PERSON	Lynn		true	discover	Southernwood discovers the true Reeve of Lynn, when
+56	PERSON	William	sweetpea;justice		follow	Sweetpea follows William to London for justice for
+56	LOCATION	London	sweetpea;justice		follow	Sweetpea follows William to London for justice for
+58	LOCATION	Turkey	factor			The Turkey Factor
+63	LOCATION	Salisbury Plain	shepherds			The Shepherds of Salisbury Plain
+64	PERSON	Raymond	shepherd;shep;herdess			Raymond as a shepherd and Imogen as a shep-  herdess . . . . . .15^
+64	PERSON	Imogen	shepherd;shep;herdess			Raymond as a shepherd and Imogen as a shep-  herdess . . . . . .15^
+70	PERSON	Horn	palmer;place		disguise;take	Horn, disguised as a palmer, takes his place among the
+72	PERSON	X. Havelock	argentile			X. Havelock and Argentile
+73	PERSON	Havelock	flame;s		see;issue	u"Argentile wakes to see flames issuing from Havelock"s "
+77	PERSON	Cadwallon				Cadwallon
+78	PERSON	Brian	horse;bough		hide;brazen;set	Brian hides the brazen horse with boughs, and sets out
+79	LOCATION	York	beggar			for York as a beggar .... 246
+81	PERSON	Thora	snake;milk	little	feed	Thora feeds the little snake with milk . . . 255
+83	PERSON	Desideratus	maid	fair;golden	discover;fill	Desideratus discovers the fair maid filling the golden
+85	PERSON	Grey	sir;sir;sir			Sir Grey, Sir Graham, and Sir Greyskin
+85	PERSON	Graham	sir;sir;sir			Sir Grey, Sir Graham, and Sir Greyskin
+85	PERSON	Greyskin	sir;sir;sir			Sir Grey, Sir Graham, and Sir Greyskin
+86	PERSON	Greyskin	sir;sir		conquer	Sir Greyskin conquers Sir Graham . . . 292
+86	PERSON	Graham	sir;sir		conquer	Sir Greyskin conquers Sir Graham . . . 292
+88	PERSON	Robert	garden;voice;heaven		hear	Robert, in the garden, hears a voice from heaven, and
+94	PERSON	Powel	knight;orchard		leave;clothe	Powel leaves his knights in the orchard, and, clad as a
+155	PERSON	Catskin	cook;servant;lord;lady;name	other	call	So the cook and the servants, and also the lord  and his lady, called her by no other name than  Catskin.
+156	PERSON	Catskin	time;kitchen;obliging	gentle;obedient	pass;work;be	Time passed, and Catskin worked hard in the  kitchen, and was gentle and obedient and obliging.
+160	PERSON	Catskin	lord;castle;son;man;a-hunting	only;tall;handsome;young;aged;wont	have;be;go;play;bowl;see;notice	Now the lord of the castle had an only son, a  tall and handsome young man, aged twenty, and he  was wont to go a-hunting and to play bowls ; and  Catskin often saw him, though he never noticed  her.
+162	PERSON	Catskin	courage;lady;madam;ball;to-night;twelvemonth;holiday;pleasure		pluck;say;pray;suffer;go;have;work;have;have	Then Catskin plucked up courage, and said to  the lady, " I pray you, madam, suffer me to go  to the ball to-night ; I have worked hard for a  twelvemonth and a day, and have had no holiday  pleasure."
+163	PERSON	Catskin	thereupon;kitchen;barn		cry;run;hide	Thereupon, crying,  Catskin ran out of the kitchen, and hid herself in  the barn.
+187	PERSON	Catskin	straw;court;door;lord;ball	young	run;cry;hide;hear;stir;look;see;be;mount;ride	Catskin ran off crying, and hid in the straw, till  she heard a stirring in the court, and she looked  forth at the door, and saw that the young lord was  mounting to ride to the ball.
+192	PERSON	Catskin	desire;king		be;dance	here is Catskin,  who desires to dance with the king."
+195	PERSON	Catskin	laughter;barn;hair;wreath;lily;valley;head;linen;lace;gown;silk;lawn	more;beautiful;finest;green	hear;go;wash;comb;weave;put;dress;put	So soon as she could hear no more of his  laughter, then Catskin went back into the barn, she  washed herself, combed out her beautiful hair, and  she wove a wreath of lilies of the valley and put it  on her head, and she dressed herself in finest linen  and lace, and put over her a gown of green silk like  the lawns in early May.
+197	PERSON	Catskin	envy;surprise;lady	other	be;look;say;be	Catskin was looked upon with  envy and surprise by all the ladies, and they said to  each other, " Who can this be ? "
+220	PERSON	Catskin	lady;basin;water;hand;begone;fool	angry;persistent	be;be;have;throw;bid	The lady was  so angry at her being thus persistent, that, having a  basin of water in her hand, she threw it over Catskin,  and bade her begone for a fool.
+230	PERSON	Catskin	barn;time;guild;hall;retinue;queen;procession;king	right	have;leave;start;arrive;enter;follow	Soon after he had left, Catskin started from the  barn, and arrived just in the right time, and entered  the Guild Hall in the retinue of the queen, whose  procession followed that of the king.
+270	PERSON	Catskin	man;doctor;anything;father;mother;request	sick;strange	beg;be;nurse;say;be;contradict;consent;think	The sick man now begged that he might be  nursed by Catskin, and, as the doctor said that he must  not be contradicted in anything, his father and  mother consented, but thought the request a very  strange one.
+274	PERSON	Catskin	man;dress	young;merry;grand	be;believe;be;laugh;make;bid;go;put	It may well be believed, that so soon as Catskin  and the young man were alone, they laughed and  made merry, and he bade her quickly go and put  on one of her grand dresses.
+276	LOCATION	Assafoetida	oil;squill;earthworm;vervain;fly;neat;foot;cayenne;pepper;taste			oil of squills  2 ,, earthworms  2 ,, vervain  2 ,, Spanish flies  2 ,, neats" feet  Assafoetida and cayenne pepper to taste. "
+298	PERSON	Venus	arrow	spare	chide;be	Venus, will chide thee ;  Of arrows be more spare.
+343	PERSON	Catskin	word;dancing;window;patient;bedclothes;head	crimson	start;become;cease;retreat;pull	At his words Catskin started, became crimson,  and ceased dancing ; she retreated to the window,  and the patient pulled the bedclothes over his  head.

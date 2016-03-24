@@ -1,0 +1,68 @@
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	SENTENCE
+2	PERSON	P. H. Emerson			collect;edit	Collected And Edited By P. H. Emerson
+4	PERSON	Leonard				Leonard, Sybil, Gladys, And Zoe.
+4	PERSON	Sybil				Leonard, Sybil, Gladys, And Zoe.
+4	PERSON	Gladys				Leonard, Sybil, Gladys, And Zoe.
+4	PERSON	Zoe				Leonard, Sybil, Gladys, And Zoe.
+7	LOCATION	Anglesea	tale		be;collect;live	These tales were collected by me whilst living in Anglesea during the winter 1891-2.
+11	LOCATION	Snowdon Mountains	book;note;country;bookseller;author;title;date;book;williams;observation;book;student;literature	old;celtic	refer;buy;know;have;be;inform;be;_;publish;know	u"The old book referred to in the Notes I bought from a country bookseller, who knew neither its author, title, or date, but I have since been informed the book is Williams" _Observations on the Snowdon Mountains_, published in 1802, a book well known to students of Celtic literature."
+12	PERSON	P. H. E.				P. H. E.
+27	PERSON	TOMMY PRITCHARD				TOMMY PRITCHARD
+37	PERSON	ROBERTS	fairy			ROBERTS AND THE FAIRIES
+41	PERSON	ELLEN	u;s;luck			u" ELLEN"S LUCK"
+55	PERSON	BILLY DUFFY	devil			BILLY DUFFY AND THE DEVIL
+62	LOCATION	Shetland				Shetland
+69	PERSON	Mona	time;lot;fairy		live	Once upon a time a lot of fairies lived in Mona.
+165	PERSON	Gwilym	round;body;prickle;eye;bunch;gorse	cold;naked	sleep;awake;turn;feel;seem;cover;sit;rub;find;be;lie	Gwilym slept heavily, and when he awoke turned round, for he felt very cold, and his body seemed covered with prickles; so he sat up and rubbed his eyes, and found that he was quite naked and lying in a bunch of gorse.
+181	PERSON	Kaddy	home;wife;s;haven;t	fair	get;say;do;be	When he got home, his wife Kaddy said: "What\"s to do, why haven\"t you been to the fair?"
+187	PERSON	TOMMY PRITCHARD				TOMMY PRITCHARD.
+188	PERSON	Tommy Pritchard	school;way;somebody;singing;side;stone;wall;road;stone;sixpence	other	be;go;think;hear;climb;look;see;take	Tommy Pritchard was going to school one day, and on his way he thought he heard somebody singing on the other side of a stone wall by the road, so he climbed up and looked over, and there underneath a stone he saw a sixpence, so he took it.
+190	PERSON	Tommy	wouldn;t;father;sixpence		tell;threaten;beat;tell;get	Tommy wouldn"t tell at first, but his father threatened to beat him, so he told him where he got his sixpences."
+200	LOCATION	ANGLESEA		as		(AS CURRENT IN ANGLESEA)
+201	PERSON	Llewellyn	hunter;wolf;fox;hill;wolf;lamb	great;infested;young	be;be	Llewellyn was a great hunter of wolves and foxes, for the hills of Carnarvonshire were infested with wolves in those days, after the young lambs."
+201	LOCATION	Carnarvonshire	hunter;wolf;fox;hill;wolf;lamb	great;infested;young	be;be	Llewellyn was a great hunter of wolves and foxes, for the hills of Carnarvonshire were infested with wolves in those days, after the young lambs."
+203	PERSON	Gelert	prince;hound;favourite;hound;wolf		have;be;have;let	The prince had all his hounds with him, but his favourite was Gelert, a hound who had never let off a wolf for six years."
+205	PERSON	Llewellyn	hunting;party;wolf;word;home;huntsman		kill;pass;return;miss;ask	The hunting party killed three or four wolves, and about two hours before the word passed for returning home, Llewellyn missed Gelert, and he asked his huntsmen:
+205	PERSON	Gelert	hunting;party;wolf;word;home;huntsman		kill;pass;return;miss;ask	The hunting party killed three or four wolves, and about two hours before the word passed for returning home, Llewellyn missed Gelert, and he asked his huntsmen:
+208	PERSON	Llewellyn	horn;sound		blow;come	And Llewellyn blew his horn, but no Gelert came at the sound.
+208	PERSON	Gelert	horn;sound		blow;come	And Llewellyn blew his horn, but no Gelert came at the sound.
+209	PERSON	Gelert	wolf;track;house		have;get;lead	u"Indeed, Gelert had got on to a wolves" track which led to the house."
+210	PERSON	Gelert	house;prince;house;cradle;blood;room		approach;go;see;lie;overturn	And they approached the house, and the prince went into the house, and saw Gelert lying by the overturned cradle, and blood all about the room.
+212	PERSON	Gelert	cradle;scuffle		have;capsize	Gelert had capsized the cradle in the scuffle.
+213	PERSON	Gelert	dog;master;s;hand	late;poor	pat;be;die;lick	He patted the dog, but it was too late, and poor Gelert died licking his master\"s hand.
+219	PERSON	Roh	observer;horse	fleeter	report;fly;run;be	The observers reported that the Roh could not fly, but ran very swiftly, being fleeter than any horse.
+223	LOCATION	Persia	tribute;round;king;emissary;tax;chieftain;tribe;king;army	next	come;send;collect;insult;defy;return;send	When the next tribute day came round, the King of Persia sent his emissaries to collect the tax, but the chieftains of the tribes insulted and defied them, so that they returned to the king, who at once sent forward his army.
+252	LOCATION	Persia	tribe;bird;king;havoc;country	such;fearful	lose;make;decide;leave	So the tribes lost their birds, and the King of Persia made such fearful havoc amongst them that they decided to leave the country.
+257	LOCATION	England	other;boat;people		come;land;be;settle;be	The others came on over in boats, and landed in England, and they were the first people settled in Great Britain: they were the Welsh.
+257	LOCATION	Great Britain	other;boat;people		come;land;be;settle;be	The others came on over in boats, and landed in England, and they were the first people settled in Great Britain: they were the Welsh.
+263	PERSON	Jane	something;crow;roof		be;see	"There is something in these crows, Jane; see them on the roof."
+264	PERSON	Johnny	breakfast;seat;beach;man;man		go;be;sit	A week afterwards, I went out on the Sunday morning after breakfast, and there was a seat on the beach, and on it sat this man, Johnny, and another man."
+265	PERSON	Johnny		pale	look;say	"Why, Johnny, you look very pale," I said.
+272	PERSON	Jane	something	dead	be;come;fall	"Ah, Jane, there is something coming over me," and he fell down dead.
+274	PERSON	ROBERT ROBERTS	fairy			ROBERT ROBERTS AND THE FAIRIES.
+276	PERSON	Robert Roberts	tree;road	holly	go;lean;dig;be;reward	"Robert Roberts, go up to the holly tree that leans over the road on the Red-hill, and dig below it, and you shall be rewarded."
+315	PERSON	Dorothy	medicine;people;madame	poorest;poor	be;come;be;cure;be;love;be;know	That will be as a medicine, and people shall come from far and wide to be cured by you, and you shall be loved by all, and you shall be known to the poorest of the poor as Madame Dorothy."
+317	PERSON	Dorothy	madame;queen;fairy;time		use;see;ask;meet	Madame Dorothy used to see the queen fairy at times, and one day she asked her, "Shall we meet again?"
+325	PERSON	ELLEN	u;s;luck			u" ELLEN"S LUCK."
+328	PERSON	Ellen	gutter;copper	many	tell;walk;find	Ellen told her, but though she walked by the gutter for many a Sunday after, she never found another copper.
+333	PERSON	miller	person;mill;mill;fairy;coin;money	many;old	pass;say;see;light;work;leave	After that, many persons who passed the mill at midnight said they saw the mill lit up and working; but the old miller left the fairies alone to coin their money.
+336	PERSON	Snowdon	freehold;land;side;y;bettw;top;cwm;brwynog;extent;acre;upward	own;north;nant	farm	He farmed, besides his own freehold, all the lands on the north side of Nant y Bettws to the top of Snowdon, and all Cwm brwynog in Llanberis, an extent of about five thousand acres or upwards.
+336	LOCATION	Llanberis	freehold;land;side;y;bettw;top;cwm;brwynog;extent;acre;upward	own;north;nant	farm	He farmed, besides his own freehold, all the lands on the north side of Nant y Bettws to the top of Snowdon, and all Cwm brwynog in Llanberis, an extent of about five thousand acres or upwards.
+338	PERSON	Rhoddwch	rhag;bod;anwyd;ar;fy;mb;yn;arno;gb;eus;dd;rhag;bod;anwyd;ar;liw;r;cann;arnus	rhowch	rhodd	"Rhag bod anwyd ar fy mb,   Yn rhodd rhowch arno gb ei dd:   Rhag bod anwyd ar liw\"r cann,   Rhoddwch arni bais ei mam."
+341	PERSON	Penelope	child;descendant;pellings;word;mother;name		say;be;call;corrupt;s	u"These children and their descendants they say were called Pellings [1], a word corrupted from their mother"s name Penelope."
+343	PERSON	P. H. E.				--P. H. E.
+346	LOCATION	Rhedynfre	stag;trunk;oak;owl;s;age	close;old	apply;find;lie;request;know	Accordingly he applied to the Stag of Rhedynfre, whom he found lying close to the trunk of an old oak, and requested to know the Owl"s age."
+349	LOCATION	Cilgwri	eagle;blackbird;stone;owl;s;age	next;small	repair;find;perch;enquire	u"The Eagle next repaired to the Blackbird of Cilgwri, whom he found perched upon a small stone, and enquired of him the Owl"s age."
+350	LOCATION	Mochno Bog	frog;age;creature;living	older	be;be;be;do;know;be;do;know	But there is one older than I am, and that is the Frog of Mochno Bog, and if he does not know her age, there is not a creature living that does know it."
+352	LOCATION	Glynllifon	salmon;blackbird;frog;creature;world	oldest;whole	be	So the Eagle of Gwernabwy, the Stag of Rhedynfre, the Salmon of Glynllifon, the Blackbird of Cilgwri, the Frog of Mochno Bog, and the Owl of Cwm Cawlwyd are the oldest creatures in the whole world!
+352	LOCATION	Cilgwri	salmon;blackbird;frog;creature;world	oldest;whole	be	So the Eagle of Gwernabwy, the Stag of Rhedynfre, the Salmon of Glynllifon, the Blackbird of Cilgwri, the Frog of Mochno Bog, and the Owl of Cwm Cawlwyd are the oldest creatures in the whole world!
+352	LOCATION	Mochno Bog	salmon;blackbird;frog;creature;world	oldest;whole	be	So the Eagle of Gwernabwy, the Stag of Rhedynfre, the Salmon of Glynllifon, the Blackbird of Cilgwri, the Frog of Mochno Bog, and the Owl of Cwm Cawlwyd are the oldest creatures in the whole world!
+358	LOCATION	Arvon	top;rock;goat;lion;valley;manner	high	stand;perceive;address	On the top of a high rock in Arvon there stood a goat, which a lion perceiving from the valley below, addressed her in this manner:--
+363	LOCATION	Anglesey	mother;whole;world		say;keep;want;be;see	"Mother," he said, "the whole of Anglesey would not keep me, I want to be off, and see the world."
+367	PERSON	BILLY DUFFY	devil			BILLY DUFFY AND THE DEVIL.
+382	PERSON	Billy			say	said Billy.
+384	PERSON	Billy	time		have;consider;say	"I must have time to consider," said Billy.
+388	PERSON	Billy	wish	bad	s	"Oh, that\"s a bad wish, Billy."
+394	PERSON	Billy	money;gentleman	dark	have;pass;be;work;forge;be;go;step;say	The seven years, all but three days, had passed, and Billy was back working at his forge, for all his money was gone, when the dark gentleman stepped in and said:
+395	PERSON	Billy	money	much	have;disappear	"Now, Billy, during these last three days you may have as much money as you like," and he disappeared.
+396	PERSON	Billy	taproom;inn	penniless;favourite;full	be;go;be	On the last day of his seven years Billy was penniless, and he went to the taproom of his favourite inn, which was full.

@@ -1,0 +1,146 @@
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	SENTENCE
+7	PERSON	CHARLES WELSH ARTHUR T. HADLEY				CHARLES WELSH  ARTHUR T. HADLEY
+9	PERSON	EDWIN ARNOLD		sr		SR EDWIN ARNOLD
+11	PERSON	BUSS CARMAN				BUSS CARMAN
+12	PERSON	ALDEN	cynima;westover			CyNimA WESTOVER ALDEN
+14	PERSON	EDWIN KIRK RAWSON				EDWIN KIRK RAWSON
+17	PERSON	ROBERT E. PEARY		ueutenant		UEUTENANT ROBERT E. PEARY
+18	PERSON	EDWARD BROOKS				EDWARD BROOKS
+19	PERSON	W. P. TRENT	professor			PROFESSOR W. P. TRENT
+21	PERSON	HENRY S. PRITCHETT				HENRY S. PRITCHETT
+23	PERSON	ABBIE FARWELL BROWN				ABBIE FARWELL BROWN
+24	PERSON	NATHAN H. DOLE				NATHAN H. DOLE
+34	LOCATION	DEWEY	melvil;director			u"MELVIL DEWEY, Director of New York State Library. " "
+36	PERSON	G. D. ROBERTS	c;editor			C G. D. ROBERTS, Editor and Historian.
+38	PERSON	ARTHUR T. HADLEY	president			ARTHUR T. HADLEY, President Yale University.
+39	LOCATION	California	benjamin;ide;wheeler;president;university			BENJAMIN IDE WHEELER, President University of California.
+40	LOCATION	Asia	author;light			Author of  "The Light of Asia," etc.
+42	PERSON	Interna	founder	tional		Founder Interna-  tional Sunshine Society.
+45	PERSON	BLISS CARMAN	journalist;poet			BLISS CARMAN, Journalist and Poet
+46	PERSON	HENRY S. PRITCHETT	president;nology			HENRY S. PRITCHETT, President Massachusetts Institute of Tech-  nology.
+47	PERSON	RICHARD HENRY DANA	lawyer;author;lecturer			RICHARD HENRY DANA, Lawyer, Author and Lecturer.
+48	PERSON	ROBERT E. PEARY	lieutenant;engineer;author;inventor	civil		ROBERT E. PEARY, Lieutenant and Civil Engineer, U. S. N. Arctic  Explorer, Author and Inventor.
+48	PERSON	U. S. N. Arctic Explorer	lieutenant;engineer;author;inventor	civil		ROBERT E. PEARY, Lieutenant and Civil Engineer, U. S. N. Arctic  Explorer, Author and Inventor.
+49	PERSON	W. P. TRENT	professor			W. P. TRENT, Professor of English Literature, Columbia University.
+50	PERSON	ABBIE FARWELL BROWN	author;children;s;stories			u"ABBIE FARWELL BROWN, Author of Children"s Stories. "
+51	PERSON	EDWARD BROOKS	author;superintendent;public;schools;delphium			EDWARD BROOKS, Author, Superintendent Public Schools of Phila-  delphia.
+51	LOCATION	Phila	author;superintendent;public;schools;delphium			EDWARD BROOKS, Author, Superintendent Public Schools of Phila-  delphia.
+52	PERSON	THOMAS WENTWORTH HIGGINSON	author			THOMAS WENTWORTH HIGGINSON, Author.
+54	PERSON	NATHAN H. DOLE	writer;translator			NATHAN H. DOLE, Writer and Translator.
+72	PERSON	BEATRICE STEVENS				BEATRICE STEVENS
+102	PERSON	David	significance;story;shepherd	spiritual;same	be;be;tell	The spiritual significance of the story is the same  whether it be told of David, the Hebrew shepherd
+108	LOCATION	Germany	king;tailor;obscurity;bench;giant;boar;land;home;unicorn;rope;princess;king	little;wild;beautiful	be;be;tell;go;slay;destroy;ravage;bring;tie;marry;be;come	be a king; or whether it be told of the little Tailor of  Germany, who went forth from the obscurity of his  bench to slay the giants, to destroy the wild boar that  ravaged the land, to bring home the unicorn, tied  with ropes, to marry the beautiful Princess, to be-  come a king.
+110	PERSON	Herodotus	fireside;to-day;priest;legend	ancient;dead;great	be;recount;have;tell;forget	It is recounted, not only at the  firesides of to-day, but Herodotus had it, he tells us,  from the priests of Egypt as an ancient legend of  dead and forgotten days of great Pharaohs of the  past.
+110	LOCATION	Egypt	fireside;to-day;priest;legend	ancient;dead;great	be;recount;have;tell;forget	It is recounted, not only at the  firesides of to-day, but Herodotus had it, he tells us,  from the priests of Egypt as an ancient legend of  dead and forgotten days of great Pharaohs of the  past.
+115	PERSON	Ali Baba	theme;derly;story;scandi;tale;man;quern;hell;wealth;happus;ness;soldier;dif;variant;folk-romance;nation;race;face;earth	such;navian;poor;magic;poor;ferent	be;bring;grind;inhabit	Such is the theme that un-  derlies the Oriental story of Ali Baba; the Scandi-  navian tale of the poor man who brought the magic  quern from Hell that ground him wealth and happi-  ness; the poor soldier of Germany; and so, with dif-  ferent variants, through the folk-romances of every  nation and every race that inhabits the face of the  earth.
+115	LOCATION	Germany	theme;derly;story;scandi;tale;man;quern;hell;wealth;happus;ness;soldier;dif;variant;folk-romance;nation;race;face;earth	such;navian;poor;magic;poor;ferent	be;bring;grind;inhabit	Such is the theme that un-  derlies the Oriental story of Ali Baba; the Scandi-  navian tale of the poor man who brought the magic  quern from Hell that ground him wealth and happi-  ness; the poor soldier of Germany; and so, with dif-  ferent variants, through the folk-romances of every  nation and every race that inhabits the face of the  earth.
+122	LOCATION	Resur	idea;rection;death;life	sublime	be	The first of these is the sublime idea of Resur-  rection from Death to Life.
+131	PERSON	Howard Pyle				Howard Pyle.
+147	LOCATION	LAPLAND	story;robber;girl;story;woman;land;woman	little		77  THE FIFTH STORY  ^THE LITTLE ROBBER GIRL .... 86  THE SIXTH STORY  ^THE LAPLAND WOMAN AND THE FIN-  LAND WOMAN 93
+154	PERSON	SYLVAIN	jocosa			SYLVAIN AND JOCOSA 160
+170	PERSON	RIQUET	tu;t			RIQUET WITH THE TU^T 273
+173	PERSON	HOLGER DANSKE				HOLGER DANSKE 325
+175	PERSON	HANS	luck			HANS IN LUCK 346
+179	PERSON	FELICIA	pot;pink			FELICIA AND THE POT OF PINKS 387
+271	PERSON	Delicia	way;clutch		know;rescue	I know no  way of rescuing Delicia from her clutches."
+276	PERSON	Cancaline	mouse;princess	good;little;utmost;little	do;find;have;hide	But though  the good little mouse did her very utmost, they could  not find out where Cancaline had hidden the little  Princess.
+285	PERSON	Prince	mouse;ration;form;peasant;woman	little;greatest;beautiful;wicked;old	watch;be;be;go;take;say	u"The little mouse watched her with the greatest admi-  ration, for she was as beautiful as the spring ; and as soon  as the wicked Prince was gone, she took the form of an  old peasant woman and said to her : " "
+297	PERSON	Prin	fairy;none;cess	convinced;little;other	hear;become;be	Upon hearing this the Fairy became convinced that  the little Turkey-maiden was none other than the Prin-  cess Delicia.
+297	PERSON	Delicia	fairy;none;cess	convinced;little;other	hear;become;be	Upon hearing this the Fairy became convinced that  the little Turkey-maiden was none other than the Prin-  cess Delicia.
+299	PERSON	Delicia	u		be;call;please;swer	u"""I am called Delicia, if it please you,"" she an-  swered. "
+302	PERSON	Delicia	cap	ugly	take;shake	So Delicia took off the ugly cap, and shook out all
+311	LOCATION	Delida	^		look;look;do;think	^* Now you look as you ought to look, Delida : what  do you think about it yourself? "
+312	PERSON	Delida			answer	And Delida answered :
+319	PERSON	Delicia	queen;death;king;loss;news;world;pin	jolly;worth	sigh;be	sighed the Queen, " since the death of the  Jolly King and the loss of my Delicia, all the news in  the world is not worth a pin to me."
+326	PERSON	Prince	meantime;tree;rage;spite;king;window	wicked;angry	be;have;sit;cry;howl;hear;cry	In the meantime the wicked Prince, who was very  angry with Delicia, had sat himself down under a tree,  and cried and howled with rage and spite until the King  heard him, and cried out from the window :
+326	PERSON	Delicia	meantime;tree;rage;spite;king;window	wicked;angry	be;have;sit;cry;howl;hear;cry	In the meantime the wicked Prince, who was very  angry with Delicia, had sat himself down under a tree,  and cried and howled with rage and spite until the King  heard him, and cried out from the window :
+332	PERSON	Delicia	madam;\;\;insig;person	nificant;little	answer;be;send;call	Madam," they answered, \"\" we are sent for an insig-  nificant little person called Delicia."
+355	PERSON	Don	\;t;time;people		let;waste;go;harangue	" Don\"t let us waste time ; we must go and harangue  the people."
+360	PERSON	Delida	nothing	beautiful;short;marvellous	walk;be;be	walked Delida, who was so beautiful that it was nothing  short of marvellous.
+371	PERSON	Graciosa				Graciosa and Percinet
+371	PERSON	Percinet				Graciosa and Percinet
+375	PERSON	St Julien	champagne;hermitage;sock;raisin;cider	canary	do	Which  do you like, canary, St Julien, champagne, hermitage  sock, raisin, or cider ? "
+377	PERSON	Grumbly	duchess;hammer;cask;sand;crown	little;least	take;tap;come	Then Duchess Grumbly took up a little hammer and  tapped upon the cask twice, and out came at least a thou-  sand crowns.
+397	PERSON	Graciosa	palace	own	get	When he got back to his own palace Graciosa
+406	PERSON	Grumbly	duchess	more	do;say;speak;mean;meet;have;promise;marry	" I can hardly do that," said he, " for, to speak more  plainly, I mean that I met the Duchess Grumbly, and  have promised to marry her."
+410	PERSON	Duchess Grumbly	king;bride;enemy	new;hideous	answer;intend;marry;have;choose	answered she,  " for the King intends to marry again, and has chosen  for his new bride my enemy, the hideous Duchess  Grumbly."
+419	PERSON	Graciosa	knee		look;go;say	When  Graciosa looked at him he went down on one knee, and  said to her :
+424	PERSON	Graciosa				Graciosa and Percinet
+424	PERSON	Percinet				Graciosa and Percinet
+428	PERSON	Prince Percinet	riches;fairy;gift;use;diffus;culty		be;have;hear;hope;be;permit;accompany;disguise	I am Prince  Percinet, of whose riches you may have heard, and whose  fairy gift will, I hope, be of use to you in all your diffi-  culties, if you will permit me to accompany you under  this disguise."
+435	PERSON	Graciosa	s		see;cry	But when she  saw Graciosa"s she cried angrily : "
+441	PERSON	Graciosa				Graciosa and Percinet
+441	PERSON	Percinet				Graciosa and Percinet
+442	PERSON	Graciosa	\;page;horse	green	wish;come;lead;do;ride;say	\"^I wish that Page in green to come and lead the  horse, as he did when Graciosa rode it," said she very  sharply.
+444	PERSON	Graciosa	back;palace;bed;scold;rage;af;ir;s;fault;purpose;king;castle;riches	able;whole;contrived;rid	carry;put;recover;be;speak;begin;clare;be;have;try;get;have;punish;go;enjoy	They carried her back to the palace and  put her to bed, but as soon as she recovered enough to  be able to speak, she began to -scold and rage, and de-  clared that the whole af&amp;ir was Graciosa"s fault, that she  had contrived it on purpose to try and get rid of her,  and that if the King would not have her punished, she  would go back to her castle and enjoy her riches by  herself "
+451	PERSON	Graciosa	way		tell;punish	told her she might punish Graciosa in any way she
+453	PERSON	Graciosa	thereupon;pale		send;turn	Thereupon she sent for Graciosa, who turned pale
+456	PERSON	Percinet			be;be;see	about for Percinet, but he was nowhere to be seen ; so
+457	PERSON	Grumbly	choice;duchess;s		have;go	u"she had no choice but to go to the Duchess Grumbly"s "
+464	PERSON	Graciosa	poor;miser		wish	Poor Graciosa wished miser*
+465	PERSON	Percinet			know;be;happen	ably that Percinet could only know what was happening
+473	PERSON	Graciosa	beating		be;release;pretend	a beating ; so Graciosa, when she was released, pretended
+480	PERSON	Graciosa				Graciosa and Percinet
+480	PERSON	Percinet				Graciosa and Percinet
+482	PERSON	Grumbly	duchess;idea;grad;osa;wedding;magnificence;king;thing;queen;beaudfol;portrait;tournament;knight;court;tain;comer;beautus;princess;world	delighted;fast;great;other;bravest;main;most;ful	be;be;recover;have;do;be;hold;know;love;be;tell;be;order;be;paint;be;hold;be	u"The Duchess was so delighted at the idea that Grad-  osa was really ill, that she herself recovered twice as fast  as she would have done otherwise, and the wedding was  held with great magnificence* " Now as the King knew  that, above all other things, the Queen loved to be told  that she was beaudfol, he ordered that her portrait should  be painted, and that a tournament should be held, at  which all the bravest knights of his court should main-  tain against all comers that Grumbly was the most beauti-  ful princess in the world. "
+489	PERSON	Graciosa	difficulty;percinet		have;guess;be	But Graciosa had  no difficulty in guessing that it was Percinet.
+490	PERSON	Graciosa	queen;voice;torrent;reproach	angry	be;speak;recover;overwhelm	As to the Queen, she was so furiously angry that she  could hardly speak; but she soon recovered her voice,  and overwhelmed Graciosa with a torrent of reproaches.
+495	PERSON	Graciosa	long		be	Graciosa be-  longs to her ! "
+498	PERSON	Graciosa				Graciosa and Percinet
+498	PERSON	Percinet				Graciosa and Percinet
+506	PERSON	Percinet	supper;room;crystal;wall;picture;princess;surprise;history;moment;forest	lovely;great;own;repre	go;be;cover;see;be;sent;find	After  supper they went into another lovely room, where the  crystal walls were covered with pictures, and the Princess  saw with great surprise that her own history was repre-  sented, even down to the moment when Percinet found  her in the forest.
+512	PERSON	Graciosa				Graciosa and Percinet
+512	PERSON	Percinet				Graciosa and Percinet
+515	PERSON	Percinet	self		say;see	" Very well," said Percinet, " you shall see for your-  self."
+517	PERSON	Graciosa	prince;s;hand;tip;finger;mouth;town;queen;king;say;princess;loss	little;wicked;miserable;dead;great	hold;make;put;look;see;go;hear;^;be	u"There the Prince held Graciosa"s hand in his, and  made her put the tip of her little finger into her mouth,  and looked toward the town, and immediately she saw  the wicked Queen go to the King, and heard her say to  him, "^ That miserable Princess is dead, and no great loss "
+525	PERSON	Graciosa	yard;noise;palace;crystal;splinter;spray;fountain	tremendous	have;go;make;look;see;fly;vanish	But they had hardly  gone twenty yards when a tremendous noise behind her  made Graciosa look back, and she saw the palace of  crystal fly into a million splinters, like the spray of a  fountain, and vanish.
+528	PERSON	Graciosa		angry	be;say	" Now you are angry with me," said Graciosa in her
+531	PERSON	Graciosa				Graciosa and Percinet
+531	PERSON	Percinet				Graciosa and Percinet
+537	PERSON	Gradosa	plight;fairy;palace;^;aid	erable;sure	do;regret;have;call;feel;be;vex;leave;think;expect;come	erable plight Gradosa did indeed regret the fairy palace^  and she would have called Percinet to her aid, only she  felt sure he was still vexed with her for leaving him, and  thought that she could not expect him to come.
+537	PERSON	Percinet	plight;fairy;palace;^;aid	erable;sure	do;regret;have;call;feel;be;vex;leave;think;expect;come	erable plight Gradosa did indeed regret the fairy palace^  and she would have called Percinet to her aid, only she  felt sure he was still vexed with her for leaving him, and  thought that she could not expect him to come.
+540	PERSON	Graciosa	queen		send;say	The Queen sent for Graciosa, and said to her :
+547	PERSON	Graciosa				Graciosa and Percinet
+547	PERSON	Percinet				Graciosa and Percinet
+548	PERSON	Percinet	key;possession	own	come;have	And immediately in came Percinet as easily as if he  had all the keys in his own possession.
+550	PERSON	Prince	skein;wand;thread;whol;^;skein;wound;manner;nothing;time;sake	broken;own	stroke;join;prise;turn;ask;be;wish;do;come;wish	Then he just stroked the skein with his wand, and all  the broken threads joined themselves together, and the  whol^ skein wound itself smoothly off in the most sur-  prising manner, and the Prince, turning to Graciosa,  asked if there was nothing else that she wished him to do  for her, and if the time would never come when she  would wish for him for his own sake.
+550	PERSON	Graciosa	skein;wand;thread;whol;^;skein;wound;manner;nothing;time;sake	broken;own	stroke;join;prise;turn;ask;be;wish;do;come;wish	Then he just stroked the skein with his wand, and all  the broken threads joined themselves together, and the  whol^ skein wound itself smoothly off in the most sur-  prising manner, and the Prince, turning to Graciosa,  asked if there was nothing else that she wished him to do  for her, and if the time would never come when she  would wish for him for his own sake.
+553	PERSON	Graciosa			say	said Graciosa.
+555	PERSON	Graciosa	queen;hurry;sun;time;fairy;key;lock	wicked;such	be;punish;think;set;be;appoint;come;fit;say	The wicked Queen was in such a hurry to punish  Graciosa that she thought the sun would never set ; and  indeed it was before the appointed time that she came  with her four Fairies, and as she fitted the three keys into  the locks she said :
+557	PERSON	Graciosa			enter;present	But, as soon as she entered, Graciosa presented her
+566	PERSON	Graciosa	feather		set;work;have;take	Graciosa set to work at  once, but before she had taken out a dozen feathers she
+569	PERSON	Graciosa				Graciosa and Percinet
+569	PERSON	Percinet				Graciosa and Percinet
+571	PERSON	Percinet			ask;help;love;wait;call;come	I cannot ask Percinet to  help me again, for if he really loved me he would not wait  till I called him, he would come without that."
+575	PERSON	Graciosa	queen;fairy;home;task;other	worse	send;scold;be;terrify;promise;go;think	Then the Queen sent for the Fairy  once more, and scolded her until she was fairly terrified,  and promised to go home and think of another task for  Graciosa, worse than either of the others.
+581	PERSON	Graciosa	queen		come;say	So the Queen came to Graciosa,  and said :
+589	PERSON	Gradosa				Gradosa and Percinet
+589	PERSON	Percinet				Gradosa and Percinet
+593	PERSON	Percinet			stand	immediately Percinet stood before her.
+596	PERSON	Perdnet	stroke;wand;people;place;box;princess;chariot;castle	wilful;little;invisible	be;please;compel;come;render;take	Perdnet was pleased at this, and with one stroke of  his wand compelled all the wilful little people to come  back to their places in the box, and then rendering the  Princess invisible he took her with him in his chariot to  the castle.
+603	LOCATION	Percinet	princess;queen;trick	cruel;spiteful	do;find;part;have;promise;be;try;play;leave;come	but the Princess did not find it too long, and before they  parted she had promised that if the Queen was still cruel  to her, and tried again to play her any spiteful trick, she  would leave her and come to Percinet forever.
+604	PERSON	Graciosa	lady		go;walk;say;be	Then she went and walked near it,  and said to Graciosa and all her ladies who were with  her.
+606	PERSON	Graciosa	heart;earth		feel;be;lose;find	Graciosa felt that now indeed she  was hopelessly lost, surely not even Percinet could find  her in the heart of the earth.
+606	PERSON	Percinet	heart;earth		feel;be;lose;find	Graciosa felt that now indeed she  was hopelessly lost, surely not even Percinet could find  her in the heart of the earth.
+610	PERSON	Graciosa				Graciosa and Percinet
+610	PERSON	Percinet				Graciosa and Percinet
+612	PERSON	Percinet	queen		be;mistake;be;come;meet	there was no mistaking  it, and the Queen and Percinet were coming to meet her.
+614	LOCATION	Percinet	princess;everything;hand;smile		kiss;promise;do;wish;hold;say	The Princess kissed her gratefully, and promised to  do as she wished in everything, and holding out her hand  to Percinet, with a smile, she said :
+616	PERSON	Percinet	prince;hand;fear;princess;mind;wedding;splendor	greatest	take;be;give;change;be;hold;live	Prince Percinet joyfully took the hand that was given  him, and, for fear the Princess should change her mind,  the wedding was held at once with the greatest splendor,  and Graciosa and Percinet lived happily ever after*
+616	PERSON	Graciosa	prince;hand;fear;princess;mind;wedding;splendor	greatest	take;be;give;change;be;hold;live	Prince Percinet joyfully took the hand that was given  him, and, for fear the Princess should change her mind,  the wedding was held at once with the greatest splendor,  and Graciosa and Percinet lived happily ever after*
+616	PERSON	Percinet	prince;hand;fear;princess;mind;wedding;splendor	greatest	take;be;give;change;be;hold;live	Prince Percinet joyfully took the hand that was given  him, and, for fear the Princess should change her mind,  the wedding was held at once with the greatest splendor,  and Graciosa and Percinet lived happily ever after*
+620	PERSON	R. WHITTINGTON	history;sir			THE HISTORY OF SIR R. WHITTINGTON
+622	LOCATION	London	course;life;street;gold	last;whipping;idle	be;threaten;continue;resolve;go;hear;be;pave	At last, being  threatened with a whipping if he continued in that idle  course of life, he resolved to go to London, whose streets  he heard were paved with gold.
+623	PERSON	Whitting	groat;ton	poor	give;wander;know	He then gave him a groat, and with this poor Whitting-  ton wandered about, not knowing any one.
+627	PERSON	Whittington	cat			Whittington and His Cat
+630	PERSON	Mr Fitzwarren	meantime;house;condition;house;correction;fellow	lazy	be;come;see;demand;want;tell;do;depart;cause;be;send;call	In the meantime, Mr Fitzwarren, whose house it  was, came from the Royal Exchange, and, seeing him  there in that condition, demanded what he wanted, and  sharply told him, if he did not immediately depart, he  would cause him to be sent to the house of correction,  calling him a lazy fellow.
+642	PERSON	Whittington	cat			Whittington and His Cat
+643	PERSON	Alice	miss;hearing;usage;favor		interpose;prevail	But  Miss Alice, hearing of her usage, interposed in his favor,  80 that she should not prevail against him.
+645	PERSON	Whittington	shoe;penny	chamber-door	have;clean;bring;give	Whittington having cleaned his  shoes, and brought them to his chamber-door, he gave  him a penny.
+654	PERSON	Whittington	cook-maid;advanta;cat	geous	think;s;prove;jeer	u"The cook-maid, who little thought how advanta-  geous Whittington" s cat would prove, would jeer at him "
+657	PERSON	Whittington	cat			Whittington and His Cat
+658	PERSON	Moorfields	thought;resolution	pensive	go;begin;have;begin;fail	As he went through Moorfields,  he began to have pensive thoughts, and his resolutions  began to fail him. "
+668	PERSON	Whitting	factor;ton;s;cat;occasion;king;beast;ship;court		remember;rejoice;tell;have;rid	The factor then remembering Whitting-  ton\"s cat, and rejoicing at the occasion, told the king that  he had an English beast in the ship which would rid all  the court of them quickly.
+672	PERSON	Whittington	cat			Whittington and His Cat
+676	PERSON	Fitzwarren	master;cabinet;jewel;shore;prize;board;bill;mr.;god;voyage	rich;prosperous	take;be;be;leave;present;lade;praise	The master took the cabinet of  jewels with him on shore, for they were too rich a prize  to be left on board, and presented his bill of lading to  Mr. Fitzwarren, who praised God for such a prosperous  voyage*
+677	PERSON	Whittington	s;cat;\;\;god;fcn;bid;farthing		be;tell;be;say;deprive	On  being told it was all for Whittington\"s cat, he said, \"\" God  fcN\"bid that I should deprive him of one farthing of it."

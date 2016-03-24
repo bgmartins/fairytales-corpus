@@ -1,0 +1,80 @@
+<document name='fairytales-corpus/fairytales00plangoog_djvu.txt'>
+	<paragraph num_entities='0' num='0'>FAIRY TALES,</paragraph>
+	<paragraph num_entities='0' num='1'></paragraph>
+	<paragraph num_entities='0' num='2'>BY</paragraph>
+	<paragraph num_entities='0' num='3'></paragraph>
+	<paragraph num_entities='0' num='4'>I</paragraph>
+	<paragraph num_entities='0' num='5'></paragraph>
+	<paragraph num_entities='0' num='6'></paragraph>
+	<paragraph num_entities='0' num='7'>u" "  "</paragraph>
+	<paragraph num_entities='0' num='8'></paragraph>
+	<paragraph num_entities='0' num='9'>u"THE COUNTESS D"AULNOY. "</paragraph>
+	<paragraph num_entities='0' num='10'></paragraph>
+	<paragraph num_entities='0' num='11'>TRAKSLATKO BT</paragraph>
+	<paragraph num_entities='0' num='12'></paragraph>
+	<paragraph num_entities='0' num='13'>j; R. PLANCHfe.</paragraph>
+	<paragraph num_entities='0' num='14'></paragraph>
+	<paragraph num_entities='0' num='15'>Wxi^ lllnsirations i^ |o|k (Hilbnt.</paragraph>
+	<paragraph num_entities='0' num='16'></paragraph>
+	<paragraph num_entities='0' num='17'>4</paragraph>
+	<paragraph num_entities='0' num='18'></paragraph>
+	<paragraph num_entities='0' num='19'></paragraph>
+	<paragraph num_entities='1' num='20'><entity type='LOCATION' common-nouns='' adjectives='' verbs=''>LONDON</entity> :</paragraph>
+	<paragraph num_entities='1' num='21'>a ROUTLEDGE &amp; CO. FARRINGfDO:tf STRELT.  <entity type='LOCATION' common-nouns='beekman;street' adjectives='' verbs=''>NEW YORK</entity>: 18, BEEKMAN STREET.</paragraph>
+	<paragraph num_entities='0' num='22'>1855.</paragraph>
+	<paragraph num_entities='0' num='23'></paragraph>
+	<paragraph num_entities='0' num='24'>This Translation is Copyright.</paragraph>
+	<paragraph num_entities='0' num='25'></paragraph>
+	<paragraph num_entities='0' num='26'>CONTENTS.</paragraph>
+	<paragraph num_entities='0' num='27'></paragraph>
+	<paragraph num_entities='0' num='28'>PAGE</paragraph>
+	<paragraph num_entities='0' num='29'>Preface ix</paragraph>
+	<paragraph num_entities='0' num='30'>Introduction xv</paragraph>
+	<paragraph num_entities='0' num='31'>Qracieuse and Percinbt 1</paragraph>
+	<paragraph num_entities='0' num='32'>The Fair with Golden Hair 22^</paragraph>
+	<paragraph num_entities='0' num='33'>The Blue Bird 85 ^</paragraph>
+	<paragraph num_entities='0' num='34'>Prince Sprite 70</paragraph>
+	<paragraph num_entities='0' num='35'>Princess Printaniere 105</paragraph>
+	<paragraph num_entities='1' num='36'>u"Princess <entity type='PERSON' common-nouns='princess' adjectives='' verbs=''>Rosette</entity> 126"  "</paragraph>
+	<paragraph num_entities='0' num='37'>The Golden Branch 141</paragraph>
+	<paragraph num_entities='0' num='38'>The Bee and the Orange Tree 172</paragraph>
+	<paragraph num_entities='0' num='39'>The good little Mouse., 198</paragraph>
+	<paragraph num_entities='0' num='40'>-* The Ram 211</paragraph>
+	<paragraph num_entities='0' num='41'>FiNETTE Cendron 227</paragraph>
+	<paragraph num_entities='1' num='42'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Fortun</entity>^e 246</paragraph>
+	<paragraph num_entities='0' num='43'>Babiole 256</paragraph>
+	<paragraph num_entities='0' num='44'>The Yellow Bwarp 281</paragraph>
+	<paragraph num_entities='0' num='45'>Green-Serpent 302</paragraph>
+	<paragraph num_entities='0' num='46'>The Princess Carpillon 332</paragraph>
+	<paragraph num_entities='0' num='47'>The beneficent Frog 375</paragraph>
+	<paragraph num_entities='0' num='48'>The Hind in the Wood 398</paragraph>
+	<paragraph num_entities='0' num='49'>The White Cat 433 -</paragraph>
+	<paragraph num_entities='0' num='50'>Belle-Belle ; or, the Chevalier Fortune 470</paragraph>
+	<paragraph num_entities='0' num='51'>The Pigeon and the Dove 514</paragraph>
+	<paragraph num_entities='1' num='52'>. Pniy ^ Belle-Etoile and Prince <entity type='PERSON' common-nouns='pniy;belle-etoile;prince' adjectives='' verbs=''>Cheri</entity> 559</paragraph>
+	<paragraph num_entities='0' num='53'>609</paragraph>
+	<paragraph num_entities='0' num='54'>Ot lui^</paragraph>
+	<paragraph num_entities='0' num='55'></paragraph>
+	<paragraph num_entities='0' num='56'>P E E F A C E.</paragraph>
+	<paragraph num_entities='0' num='57'></paragraph>
+	<paragraph num_entities='0' num='58'>u"The Fairy Tales of the Countess d"Aulnoy, after  having delighted old and young for nearly two hundred  years, are now, strange to say, for the first time pre-  sented to the English reader in their integrity. "</paragraph>
+	<paragraph num_entities='0' num='59'>This assertion may appear startling to those who are  familiar with many English versions of the most popular  of them ; but it is, nevertheless, a fact, as the examina-  tion of this little volume will prove.</paragraph>
+	<paragraph num_entities='0' num='60'>Early in the last century, three volumes of Fairy  Tales were published, under the title of " A Collection  of Novels and Tales of the Fairies, written by that cele-  brated wit of France, the Countess d\"Anois, translated  from the best edition of the original French, by several  hands." And in 1817 the same collection reappeared in  two small volumes, with a new preface, and entitled,  " Fairy Tales, translated from the French of the Coun-  tess d\"Anois." Now, it will scarcely be believed that,  although the collectors introduced the novels which link  the second series of her Fairy Tales together, after the  fashion of the old Italian novelists, they not only omitted  the whole of the first series, but also several of the b  of the second ; substituting, in the place o? \\\\ve. \\^.^</paragraph>
+	<paragraph num_entities='0' num='61'></paragraph>
+	<paragraph num_entities='0' num='62'>X PREFACE.</paragraph>
+	<paragraph num_entities='0' num='63'>u"tales bj the Conntess de Moimt, mnd tbe Countess  d"Auneuil, &gt;yithont distinction or explanation, changing  the titles where they occurred in the intermediate nar-  rative, and altering or wholly omitting the remarks  made upon them by the personages for whose entertain-  ment they are supposed to be related, so that the reader  could not suspect the imposition that was practised upon  him, for what reason it is difficult to imagine. "</paragraph>
+	<paragraph num_entities='0' num='64'>Nor was the injustice to the author limited to this  singular caprice. The tales, instead of being faithfully  translated, were recklessly abridged and loosely para-  phrased ; while the incidental couplets occasionally, and  the versified morals invariably, were dispensed with  altogether.</paragraph>
+	<paragraph num_entities='1' num='65'>Other abridgments and paraphrases of a few of these  stories have appeared in sundry juvenile publications ;  and, in a very recent one, the rising generation was pre-  sented with " Babiole,\"^ " Princess Rosette,^^ " Princess  Printaniere^\" (called "Princess Maia"), " The Beneficent  Frog," and " The Good Little Mouse ;" but still abridged,  and adapted to the atmosphere of the nursery. I beg to  disclaim any intention of depreciating these latter pro-  ductions, which are avowedly addressed to the youngest  class of readers ; but the first was a literary fraud, which  cannot be too severely denounced, whether it be regarded  as an imposition on the public or an injustice to the  original author. And yet the writer of the Preface to the  fifth edition (<entity type='LOCATION' common-nouns='writer;preface;edition' adjectives='' verbs='say;pretend'>London</entity>, 1766) says, " I shall not pretend</paragraph>
+	<paragraph num_entities='0' num='66'>^ay anything in commendation of the translators, only  they have kept up to the sense and spirit of the/</paragraph>
+	<paragraph num_entities='0' num='67'>. ., \\</paragraph>
+	<paragraph num_entities='0' num='68'></paragraph>
+	<paragraph num_entities='0' num='69'>PREFACE. xi</paragraph>
+	<paragraph num_entities='7' num='70'>anwor, whose thoughts are so elegant and refined, their  beauties would have been lost in a paraphrase" Is it  possible that this person could have been acquainted  with " the best edition of the original French," from  which he professes this translation was made ? I must,  in charity, hope not, and imagine that he was himself  deceived by the " several hands " who perpetrated the  extraordinary concoction in which " The Palace of  <entity type='LOCATION' common-nouns='charity;hand;concoction;palace;\;anguilletta;^;perfect;love;place;fortunee;babiole;prince;le;^;knights-errant;^;tyranny;fairies;destroyed;countess;d;auneuil;omission;au;^;story;contes;des;f;e;aulnoy' adjectives='several;extraordinary;young;handsome;^' verbs='hope;imagine;be;deceive;perpetrate;take;be;throw;presume;compound;contain'>Bevenge</entity>,^\" " Anguilletta,^^ "Young and Handsome,^^  and " Perfect Love," by the <entity type='PERSON' common-nouns='charity;hand;concoction;palace;\;anguilletta;^;perfect;love;place;fortunee;babiole;prince;le;^;knights-errant;^;tyranny;fairies;destroyed;countess;d;auneuil;omission;au;^;story;contes;des;f;e;aulnoy' adjectives='several;extraordinary;young;handsome;^' verbs='hope;imagine;be;deceive;perpetrate;take;be;throw;presume;compound;contain'>Countess de Murat</entity>, take the  places of "Fortunee," "Babiole," "<entity type='PERSON' common-nouns='charity;hand;concoction;palace;\;anguilletta;^;perfect;love;place;fortunee;babiole;prince;le;^;knights-errant;^;tyranny;fairies;destroyed;countess;d;auneuil;omission;au;^;story;contes;des;f;e;aulnoy' adjectives='several;extraordinary;young;handsome;^' verbs='hope;imagine;be;deceive;perpetrate;take;be;throw;presume;compound;contain'>Serpentin Vert</entity>,"  "Prince <entity type='PERSON' common-nouns='charity;hand;concoction;palace;\;anguilletta;^;perfect;love;place;fortunee;babiole;prince;le;^;knights-errant;^;tyranny;fairies;destroyed;countess;d;auneuil;omission;au;^;story;contes;des;f;e;aulnoy' adjectives='several;extraordinary;young;handsome;^' verbs='hope;imagine;be;deceive;perpetrate;take;be;throw;presume;compound;contain'>Marcassin</entity>," and "Le <entity type='LOCATION' common-nouns='charity;hand;concoction;palace;\;anguilletta;^;perfect;love;place;fortunee;babiole;prince;le;^;knights-errant;^;tyranny;fairies;destroyed;countess;d;auneuil;omission;au;^;story;contes;des;f;e;aulnoy' adjectives='several;extraordinary;young;handsome;^' verbs='hope;imagine;be;deceive;perpetrate;take;be;throw;presume;compound;contain'>Dauphin</entity> ;^^ while "The  Knights-Errant,^^ and "The Tyranny of the Fairies  Destroyed," by the Countess d\"Auneuil, are thrown in,  I presume, to compound for the omission of " <entity type='LOCATION' common-nouns='charity;hand;concoction;palace;\;anguilletta;^;perfect;love;place;fortunee;babiole;prince;le;^;knights-errant;^;tyranny;fairies;destroyed;countess;d;auneuil;omission;au;^;story;contes;des;f;e;aulnoy' adjectives='several;extraordinary;young;handsome;^' verbs='hope;imagine;be;deceive;perpetrate;take;be;throw;presume;compound;contain'>La Biche</entity>  au <entity type='PERSON' common-nouns='charity;hand;concoction;palace;\;anguilletta;^;perfect;love;place;fortunee;babiole;prince;le;^;knights-errant;^;tyranny;fairies;destroyed;countess;d;auneuil;omission;au;^;story;contes;des;f;e;aulnoy' adjectives='several;extraordinary;young;handsome;^' verbs='hope;imagine;be;deceive;perpetrate;take;be;throw;presume;compound;contain'>Bois</entity>," " La Grenouille Bienfaisante,^^ and the nine  stories contained in the " Contes des F^es " of Madame  d\"Aulnoy.</paragraph>
+	<paragraph num_entities='1' num='71'>The volume now presented to the Public, whatever  may be its demerits, contains at any rate nothing thiat  is not the composition of the Countess d\"Aulnoy. The  omissions consist of, first, the Novels with which the  second series of her Fairy Tales, entitled, " Les F^es  ^ la Mode," were interlarded, possessing little interest  in themselves, and unnecessary as vehicles for the  sprightly and ingenious stories they introduce; and,  secondly, of the two concluding tales, " Prince Mar-  cassin," and " <entity type='PERSON' common-nouns='omission;series;fairy;tale;les;f;e;mode;interest;vehicle;story;tale;prince;cassin;merit;humour;alteiatioius;tl;^;ckkvx' adjectives='little;unnecessary;sprightly;ingenious;fancy;considerable' verbs='consist;entitle;be;interlard;possess;introduce;conclude;want;be;concern;^'>Le Dauphin</entity>," which, though not wanting  in merit, as far as fancy and humour are concerned,  could not, without considerable alteiatioii^ \\tl ^)ckKvx</paragraph>
+	<paragraph num_entities='0' num='72'></paragraph>
+	<paragraph num_entities='0' num='73'>XU PREFACE.</paragraph>
+	<paragraph num_entities='0' num='74'>details, have been rendered unobjectionable to tlie  English reader. In order, however, to render the woA  as complete as possible, a brief analysis of the plot fd  each of these stories will be found in the Appendii,  page 609.</paragraph>
+</document>
+<!--
+Unexpected error: <type 'exceptions.KeyError'>
+-->

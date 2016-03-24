@@ -1,0 +1,42 @@
+woods	LOCATION
+Prince	PERSON
+Princess	PERSON
+King	PERSON
+Queen	PERSON
+castle	LOCATION
+lake	LOCATION
+forest	LOCATION
+enchanted forest	LOCATION
+cottage	LOCATION
+enchanted land	LOCATION
+Land of Alba	LOCATION	PERSON
+lochs of Alba	LOCATION
+Glens	LOCATION
+mountain	LOCATION
+valley	LOCATION
+the sea	LOCATION
+island	LOCATION
+shores of Mull	LOCATION
+shores of Alba	LOCATION
+Moyle	LOCATION	PERSON
+Larghen	PERSON	LOCATION
+fort	LOCATION
+river	LOCATION
+Grania	PERSON	LOCATION
+Aed	PERSON
+Island of Erin	LOCATION
+Concobarr	PERSON
+Felin	PERSON
+Moor of Loneliness	LOCATION
+Wise Man	PERSON
+Dreide	PERSON
+Lavarcam	PERSON	LOCATION
+Nathos	PERSON
+Usna	PERSON
+Alba	LOCATION	PERSON
+Ailne	PERSON
+Ardan	PERSON
+Angus	PERSON
+Dunedin	LOCATION
+Mull	LOCATION
+Fergus	PERSON

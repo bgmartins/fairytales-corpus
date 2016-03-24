@@ -1,0 +1,109 @@
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	SENTENCE
+5	PERSON	ERNEST RHYS	book;fairy;tale	old;chosen		A BOOK OF OLD ENGLISH FAIRY  TALES CHOSEN BY ERNEST RHYS
+22	LOCATION	London	j.;m.;dent;co.			London: J. M. DENT &amp; CO.
+23	LOCATION	New York				New York : E. P. DUTTON &amp; CO.
+53	LOCATION	NEW YORK	u;london.publishep;byj;mdent;co;epdutton;co			u" LONDON.PUBLISHEP  byJ"MDENT- ^CO  AND IN NEW YORK  BY EPDUTTON CO "
+69	PERSON	E. R.				E. R.
+79	LOCATION	Norroway	bull	black		The Black Bull of Norroway
+83	LOCATION	Spindleston	laidley;worm			The Laidley Worm of Spindleston
+95	PERSON	Fox	mr.			Mr. Fox ....
+101	LOCATION	Hilton	cauld;lad			The Cauld Lad of Hilton
+107	LOCATION	Colchester	princess			The Princess of Colchester
+111	PERSON	Robin Goodfellow				Robin Goodfellow
+113	PERSON	Tom Hickathrift				Tom Hickathrift
+117	PERSON	Tom Thumb	history			The History of Tom Thumb
+119	PERSON	Michael	u;giant;saint;s			u" The Giant of Saint Michael"s "
+128	PERSON	Mab	queen;s		bed	Queen Mab"s Bed "
+130	PERSON	JACK	part;ii;mother;s;fairy-book			u"PART II  MOTHER JACK"S FAIRY-BOOK "
+133	PERSON	Jack	fortune;leaf;fairy;food;leaf;the;history	little;true	leaf	Leaf Twenty-Four  The Little Fortunes  Leaf Twenty-Five  Fairy Food  Leaf Twenty-Six  The True History of Jack
+134	PERSON	Sprat	wife;cat;leaf;the;pixy;s;clothes;leaf;boggart;leaf;song;fairy;queen;leaf;mr.;mrs.;vinegar;leaf;the;fairy;fair;t;cinderella	little	leaf	u"Sprat, his Wife and his Cat  Leaf Twenty-Seven  The Pixy"s Clothes  Leaf Twenty-Eight  The Boggart  Leaf Thirty  Song of the Fairy Queen  Leaf Thirty-One  Mr. and Mrs. Vinegar  Leaf Thirty-Two  The Fairy Fair  t /"Leaf Thirty-Four  Cinderella, or the Little "
+159	PERSON	Hamelin	pied;piper			The Pied Piper of Hamelin
+169	LOCATION	Rylston	white;doe			The White Doe of Rylston
+186	PERSON	Robin Goodfellow				" Robin Goodfellow "
+211	PERSON	Heurodis	thing;pain;death;tree;morrow	safe;same	have;show;bring;bid;meet	When he had shown these things to Heurodis, he  brought her back safe to the Imp Tree ; but he bade her, on  pain of death, meet him under the same tree on the morrow. "
+220	PERSON	Heurodis	none;faerie;king;s;country;undertide;imp;tree		let;be;carry;dare;sleep	But let none who would not be carried away like Heurodis  to the Faerie King"s country dare to sleep in the undertide  beneath the Imp Tree. "
+243	PERSON	Dear Duke	far;hae;o;\;norroway;turn		seek;be;bring;speak	" Far hae I sought ye, near am I brought to ye,  Dear Duke o\" Norroway, will ye no turn and speak to me?"
+256	LOCATION	Bruge	sun;line;water;time;bite;rage;tongue;curse;scandal;servant;country;folk;chapel;ford;ruin	many;last;loose;loud;deep;great;old	have;cast;wear;let;pass;be	One Sun-  day, he had cast his line into the Water  of Wear many times without a bite;  and at last in a rage he let loose his tongue in curses  loud and deep, to the great scandal of the servants and  country folk as they passed by to the old chapel at Bruge-  ford, which was not in ruins then.
+274	LOCATION	Chester-le-Street	rest;river;worm;round;foot;worm;hill;knight;man-at-arms;counsel;matter;wise-woman	coiled;other	take;be;tell;have;cross;survey;lay;hear;have;fail;take	He took no rest, we are told, till he had  crossed the river and surveyed the Worm as it lay coiled  round the foot of the Worm Hill ; then, hearing how every  other knight and man-at-arms had failed, he took counsel  in the matter from the Wise-woman of Chester-le-Street.
+278	PERSON	Lambton	vow;generation;lord;bed		fail;fulfil;warn;die	fail to fulfil this vow, she warned him that for nine  generations no lord of Lambton would die in his bed.
+294	PERSON	Lambton	bugle-note;hall;lord;everything;son;s;safety;door	old	be;hear;forget;rush;run;meet;embrace	When, however, the  bugle-notes were heard within the hall, the old lord of  Lambton forgot everything but his son"s safety, and  rushing out of doors, ran to meet and embrace him. "
+295	PERSON	Lambton	curse;house;generation		lay	The curse  lay upon the house of Lambton for nine generations. "
+312	PERSON	Margaret	lady;\;s;grace;surpasseth;womankind			" This Lady Margaret\"s grace  Surpasseth all of womankind,
+319	PERSON	Margaret	laidley;worm;s;degree		bring	u"But I will bring May Margaret down  To a Laidley Worm"s degree. "
+320	LOCATION	Wynde	laidley;worm;stone;childe;shall;witching	low	bring;warp;come;be;undo	I will bring her low as a Laidley Worm,  That warps ^ about the stone ;  - And not, till the Childe of Wynde comes back,  Shall her witching be undone ! "
+328	LOCATION	Spindleston Heughs	word;sea;laidley;worm		go	And word went over the sea,  That a Laidley Worm in Spindleston Heughs,
+334	LOCATION	Spindleston	laidley;worm		land;quell	And we must land by Spindleston,  This Laidley Worm to quell."
+369	PERSON	Margaret	lip		rise	She rose lip May Margaret.
+371	LOCATION	Bambrough Castle	horn		be;sound	And they are up to Bambrough Castle,  As fast as horn can sound.
+373	LOCATION	Wynde	childe		say	said the Childe of Wynde,
+376	PERSON	Margaret	death;mayest;doom	ill	die;dree	An ill death mayest thou die ;  The doom thou dreed on May Margaret
+394	PERSON	Arthur	king;opponent	worthy	assure;fail;find	King Arthur assured him that he should not fail to find an  opponent worthy of him.
+397	PERSON	Forsooth	renown;round;table;word;man;s;speech		be;overturn	Forsooth, the  renown of the Round Table is overturned with a word of  one man\"s speech ! "
+399	PERSON	Gawayne	green;knight;name;opponent;sir;name;ing;blow	declar;willing	inquire;tell;be;give;receive	The Green Knight inquired the name of  his opponent, and Sir Gawayne told him his name, declar-  ing that he was willing to give and receive a blow.
+400	PERSON	Gawayne	sir;green		please;say	"It pleases me well, Sir Gawayne," says the Green
+404	PERSON	Knight	blow;fist;blow;return		receive;swear;seek;receive	Knight, "that I shall receive a blow from thy fist; but  thou must swear that thou wilt seek me to receive the  blow in return."
+407	PERSON	Gawayne	sir;forsooth;sir			" Gladly, sir, forsooth," quoth Sir Gawayne.
+409	PERSON	Green Knight	ride;hall;head;hand		say	So saying, the  Green Knight rides out of the hall, his head in his hand.
+420	PERSON	Gawayne	wind;round;sir;dread;journey;vow;green;knight	last	come;think	At last,  when the winter winds come round again, Sir Gawayne  thinks of his dread journey, and his vow to the Green  Knight.
+421	PERSON	Gawayne	sir;uncle;liege;lord;leave;morrow;green;knight		speak;ask;be;bind;seek	Sir Gawayne thus speaks to  his uncle : " Now, liege lord, I ask leave of you, for I am  bound on the morrow to seek the Green Knight."
+426	PERSON	Christ	way;mire;birth;blessing;cross;christ	rough;deep	go;celebrate;say;speed	Through rough ways and deep  mire he goes, that he may celebrate the birth of Christ  and blessing himself he says, " Cross of Christ, speed me !"
+429	PERSON	Gawayne	sir;lord;house;lodging	good;high	say;ask;grant	"Good sir," says Gawayne, "ask the high lord of this  house to grant me a lodging."
+430	PERSON	Gawayne			look	Gawayne looks
+434	PERSON	Gawayne	knight;armour;robe;troth;knight;sir	rich;comely	doff;put;become;be;see	Here  the knight doffed his armour, and put on rich robes,  which well became him : and in troth a more comely  knight than Sir Gawayne was never seen.
+438	PERSON	Gawayne	lord;wife;sir;wife;host;meat;mirth;joy	old;ancient;tedious	sit;sit;be;tell	The lord and the old ancient wife sit together,  and Sir Gawayne sits by the wife of his host ; it were too  tedious to tell of the meat, the mirth, and the joy that
+442	PERSON	Gawayne	sir;s;court;end;holiday		desire;know;have;drive	He desired also to know what  had driven Sir Gawayne from Arthur"s Court before the  end of the Christmas holidays ? "
+442	PERSON	Arthur	sir;s;court;end;holiday		desire;know;have;drive	He desired also to know what  had driven Sir Gawayne from Arthur"s Court before the  end of the Christmas holidays ? "
+444	PERSON	Gawayne	sir;cheer;bargain;bed	much	agree;be;make;draw;go	To all this Sir Gawayne gladly agreed, and so  with much cheer, a bargain was made between them ; and  as night drew on, each went early to his bed.
+455	PERSON	Gawayne	laughing;glance;sir;world;hunt;knight;wood;talk;lady;bower	better	tell;doubt;be;worship;care;sleep	She tells him, with a laughing glance,  that she doubts if he really be Sir Gawayne that all the  world worships : for he cares better to sleep than to hunt  with the knights in the wood, or talk with the ladies in  their bower.
+456	PERSON	Gawayne	faith;sir;ring;finger;service;courtesy	good;nought;token	be;yield	" In good faith," quoth Sir Gawayne, " save this ring on  my finger, there is nought I would not yield thee in token  of my service and thy courtesy."
+462	PERSON	Gawayne	knight;kiss;return;host;desire;weal;home	comely;much	give;know;have;get	Gawayne gives the knight  a comely kiss in return, and his host desires to know if he  too has gotten much weal at home ?
+463	PERSON	Gawayne	nay;sir	more	say;ask	" Nay," says Sir Gawayne, "ask me no more of that ! "
+464	PERSON	Gawayne	anon;hearth;wine;sir;host;leave;bed	round;compact;other	be;sit;be;carry;renew;take;hasten	Anon they were sitting by the hearth, while wine is carried  round, and again Sir Gawayne and his host renew their  compact, as before, and so they take leave of each other  and hasten to bed.
+467	PERSON	Gawayne	sir;sir;yester	thinkest	say;be;have;forget;teach	"Sir," says she, "if ye indeed be Sir Gawayne, me-  thinkest you would not have forgotten that which yester-  day I taught ! "
+475	PERSON	Gawayne	sir;sleight;tale;ring;servant	such	say;have;tell;take;give;be	Sir Gawayne says he has no sleight in the telling of such  tales, and he may not take the ring she would give him,  but he would for ever be her servant.
+478	PERSON	Gawayne	boar;covenant;return;kiss;host;guest	wild;best	be;give;accord;declare;be;know	To Gawayne then  the wild boar is given, according to the covenant ; and in  return he kisses his host, who declares his guest to be the  best he knows.
+483	PERSON	Reynard	brake;spinney	wily	be;lead	But Reynard was wily, and led them  far astray over brake and spinney. "
+489	PERSON	Gawayne	anything;servant	hot;cold;true	refuse;accept;promise;be	Gawayne again refuses to accept anything,  but promises, " ever in hot and in cold, to be her true  servant."
+494	PERSON	Gawayne	lord;alight;home;sir;lady;knight;host;covenant;kiss	last;amusing	find;come;welcome;accord	The lord at last alights at his dear home, where  he finds Sir Gawayne amusing the ladies; the knight  comes forward and welcomes his host, and according to  covenant kisses him thrice.
+498	PERSON	Gawayne	bed;cock		hear;crow;call	Gawayne in his bed hears each cock that crows ; he calls "
+501	PERSON	Gawayne	sir;thanks;honour;kindness;saddle;mounting-stone;castle;christ;chance	good	return;show;step;say;commend;give	Sir Gawayne returns thanks for the  honour and kindness shown to him by all, and then he  steps into the saddle from the mounting-stone, and says,  " This castle to Christ I commend ; may He give it ever  good chance ! "
+502	PERSON	Gawayne	guide;sir		bid;abide;say	Then his  guide bade Sir Gawayne abide, saying,
+503	PERSON	Gawayne	dint;fore;sir;man;region;man	sore;good;other	have;live;defend;let;go;swear;say;attempt;flee	He has lived there long,  and against his sore dints ye may not defend you ; where-  fore, good Sir Gawayne, let this man alone, and go by  some other region, and I swear faithfully that I will never  say that ever ye attempted to flee from any man."
+504	PERSON	Gawayne	danger;coward;knight;chapel;lord;man	cruellest;strongest	reply;shun;mark;go;be	Gawayne replies that to shun this danger would mark  him as a coward knight ; to the chapel, therefore, he will  go, though the lord thereof were the cruellest and strongest  of men.
+511	PERSON	Gawayne	stream;sir;obeisance	least	reach;leap;stride;meet	When he reached the  stream, he leapt over it, and striding on, he met Sir  Gawayne without the least obeisance.
+513	PERSON	Gawayne	faith;sir;grudge		be	" By my faith," quoth Sir Gawayne, " I shall not be-  grudge thee thy will."
+523	PERSON	Gawayne	stone		flinch;stand	Gawayne never flinches,  but stands as still as a stone.
+524	PERSON	Green Knight	heart	whole	say;strike;be	"Now," says the Green Knight, "I must strike thee,  since thy heart is whole."
+525	PERSON	Gawayne	blood;snow;sword		see;unsheathe;speak	When Gawayne saw the  blood on the snow, he unsheathed his sword, and thus he  spake,
+527	PERSON	Gawayne	green;knight;axe;sir	bold;fearless	rest;look;appear;address;follow	The Green Knight rested on his axe, looked at Sir  Gawayne, who appeared bold and fearless, and addressed  him as follows,
+529	PERSON	Gawayne	sir;green;knight		stand;confound	Sir Gawayne stands there confounded before the Green  Knight.
+537	PERSON	Morgan le Fay	aunt;merry;house		be;come;make	Morgan le Fay is even thine aunt ;  therefore come to her, and make merry in my house."
+584	LOCATION	Cornish	border;tracery;rune;tongue	wide;certain;small;fine;ancient	see;be;say	they saw within the border, for it was wide, the tracery of  certain small fine runes, in the ancient Cornish tongue,  which said,
+590	PERSON	Alice	creature;velvet;skin;texture;hue;lady	small;dark;soft	be;clothe	There was a small dark creature, clothed in  a soft velvet skin in texture and in hue like the Lady Alice
+604	PERSON	Catskin	upstairs;lady;house;head	poor	send;speak;look;pat;end;say	He  sent her upstairs then to speak to the lady of the house,  who looked hard at poor Catskin, and patted her on the  head, and ended by saying,
+609	PERSON	Cook	mrs.	much	say;like;go	" Oh, Mrs. Cook," said Catskin, " how much I should  like to go ! "
+609	PERSON	Catskin	mrs.	much	say;like;go	" Oh, Mrs. Cook," said Catskin, " how much I should  like to go ! "
+615	PERSON	Catskin	partner	other	dance	All that evening with no other partner but Catskin would  he dance.
+620	PERSON	Cook	catskin;mrs.;mrs.	much	hear;cry;like;go	When Catskin heard of it,  \"* Mrs.  Cook, oh, Mrs. Cook," she cried, " how much I should  like to go ! "
+620	PERSON	Cook	catskin;mrs.;mrs.	much	hear;cry;like;go	When Catskin heard of it,  \"* Mrs.  Cook, oh, Mrs. Cook," she cried, " how much I should  like to go ! "
+634	PERSON	Catskin	mrs.;mrs.		have;do;hear;resolve;go	And just as she had done before,  when Catskin heard of it, she resolved that go she must,  Mrs. Cook or no Mrs. Cook.
+634	PERSON	Cook	mrs.;mrs.		have;do;hear;resolve;go	And just as she had done before,  when Catskin heard of it, she resolved that go she must,  Mrs. Cook or no Mrs. Cook.
+634	PERSON	Cook	mrs.;mrs.		have;do;hear;resolve;go	And just as she had done before,  when Catskin heard of it, she resolved that go she must,  Mrs. Cook or no Mrs. Cook.
+640	PERSON	Catskin	oakwood;song	old	fly;say	away to the oakwood Catskin flew ; and there, as the old  song says,
+650	PERSON	Catskin	heart		be;send;tell;love;do;love;break	Well, Catskin was sent for, and he told her how  dearly he loved her ; indeed, if she did not love him, his  heart would break.
+654	PERSON	MR. FOX				MR. FOX
+665	PERSON	Fox	haste;mvindow;mr.;house;d		letreate;come;see;advance;draw	She  letreated in haste, and, coming downstairs, saw from a  Mvindow Mr. Fox advancing towards the house with a drawn  D 49
+668	PERSON	Lady Mary	hand;bracelet;s;home;brother;house	contrived;unobserved;safe	fall;lap;escape;get	The hand and bracelet fell into  Lady Mary"s lap, who then contrived to escape unobserved,  and got safe home to her brothers" house. "
+669	PERSON	Lady Mary	dinner;guest;story;anecdote;dream	other;strange;remarkable	begin;amuse;say;relate;have;have	After dinner the guests began to amuse each  other with stories and strange anecdotes, and Lady Mary  said she would relate to them a remarkable dream she had  lately had.
+672	PERSON	Fox	mr.		say;turn;smile;be;be	"But," said she, turning to Mr. Fox, and smiling, "it is  not so, nor it was not so."
+673	PERSON	Fox	rest;story;way;con;turn;room;skeleton;mr.;burden;tale	same;full	pursue;clude;be;be;come;take;say	She pursued the rest of the story in the same way, con-  cluding at every turn with, " it is not so, nor it was not so,"  till she came to the room full of skeletons, when Mr. Fox  took up the burden of the tale, and said,
+677	PERSON	Mary	lady;retort		say	Lady Mary retorts by saying,
+679	PERSON	Fox	moment;hand;bracelet;lap;whereupon;guest;sword;mr.;piece	same	produce;draw;cut	at the same moment producing the hand and bracelet from  her lap, whereupon the guests drew their swords and  instantly cut Mr. Fox into a thousand pieces.
+774	PERSON	Yar	nimmy;nimmv;name;s;tom;tit;tot			" Nimmy Nimmv Not  Yar name\"s TOM TIT TOT."
+825	LOCATION	Dalton	mill;ground;man;s;bone;bread		live;\;make	Now, the Giant who lived at Dalton mill, ground men\"s  bones to make his bread.
+826	PERSON	Jack	giant;leave		refuse;resolve;take	The Giant surlily refused leave ; but Jack  resolved to take it.
+834	PERSON	Jack	dog;fire-tong;master;knife;eye;leg;giant	back;all-fours	kill;skin;be;get;throw;hide;run;bark;escape	Jack killed the dog with the  fire-tongs, skinned it while his master was getting the  knife out of his eye, and throwing the hide over his  back ran on all-fours barking between the legs of the  Giant, and so escaped.
+873	LOCATION	Malaga	sister-in-law;sister;fortune;need;mind;mother;preparation;apparel;sugar;almond;meat;quantity;bottle;sack	hump-backed;happy;same;rich;sweet;great;large	perceive;be;seek;do;disclose;be;make;be;furnish	The hump-backed sister-in-law, perceiving that her  sister was so happy in seeking her fortune, would needs  do the same ; so, disclosing her mind to her mother,  all preparations were made, and she was furnished not  only with rich apparel, but sugar, almonds, and sweet-  meats, in great quantities, and a large bottle of Malaga  sack.
+891	LOCATION	Colchester	king;s;daughter;in-law		be;say	" I am," said she, " the King of Colchester\"s daughter-  in-law."
+894	LOCATION	Colchester	princess			The Princess of Colchester
+898	LOCATION	Colchester	cobbler;ointment;cure;court		apply;work;be;marry;set	With this the cobbler applied his ointment, and it  worked a cure in a few weeks; after which they were  married, and so set forth for the Court at Colchester.

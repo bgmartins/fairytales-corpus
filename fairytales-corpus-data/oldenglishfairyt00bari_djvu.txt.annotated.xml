@@ -1,0 +1,413 @@
+<document name='fairytales-corpus/oldenglishfairyt00bari_djvu.txt'>
+	<paragraph num_entities='0' num='0'>OLD ENGLISH FAIRY TALES</paragraph>
+	<paragraph num_entities='0' num='1'></paragraph>
+	<paragraph num_entities='0' num='2'>OLD  ENGLISH FAIRY TALES</paragraph>
+	<paragraph num_entities='0' num='3'></paragraph>
+	<paragraph num_entities='0' num='4'>COLLECTED BY</paragraph>
+	<paragraph num_entities='0' num='5'></paragraph>
+	<paragraph num_entities='2' num='6'>S. BARING <entity type='LOCATION' common-nouns='s.;baring' adjectives='' verbs=''>GOULD</entity>, <entity type='PERSON' common-nouns='s.;baring' adjectives='' verbs=''>M.A.</entity></paragraph>
+	<paragraph num_entities='0' num='7'>AUTHOR OF "mEHALAH" " THE TRAGEDY OF THE CAESARS \"  "old COUNTRY life" ETC.</paragraph>
+	<paragraph num_entities='0' num='8'></paragraph>
+	<paragraph num_entities='1' num='9'>ILLUSTRATED BY <entity type='PERSON' common-nouns='by' adjectives='' verbs='illustrate'>F. D. BEDFORD</entity></paragraph>
+	<paragraph num_entities='0' num='10'></paragraph>
+	<paragraph num_entities='0' num='11'>METHUEN &amp; CO.</paragraph>
+	<paragraph num_entities='0' num='12'>36 ESSEX STREET, W. C.</paragraph>
+	<paragraph num_entities='1' num='13'><entity type='LOCATION' common-nouns='' adjectives='' verbs=''>LONDON</entity></paragraph>
+	<paragraph num_entities='0' num='14'>1895</paragraph>
+	<paragraph num_entities='0' num='15'></paragraph>
+	<paragraph num_entities='0' num='16'>7-</paragraph>
+	<paragraph num_entities='0' num='17'></paragraph>
+	<paragraph num_entities='0' num='18'>PREFACE</paragraph>
+	<paragraph num_entities='0' num='19'></paragraph>
+	<paragraph num_entities='0' num='20'>It has been to me a matter of surprise that no  collection has been made and adapted to the reading  of children of the old delightful English folk tales  and traditionary stories that exist, scattered up and  down in all manner of places.</paragraph>
+	<paragraph num_entities='0' num='21'>u"We have had for their delectation numerous  editions of the French tales of Perault and the  Countess D"Aulnoy, and the German stories ot  Grimm, but our own native springs have been  neglected. There is a singular perversity in the  English character  that it will seek abroad, and  and value what is foreign, and neglect and disparage  what is native. This, which has blighted our drama,  our music, our architecture, affects even our nursery  literature. Recently, indeed, Mr. Jacobs has issued  his English Fairy Tales in two volumes,  a first and  second series,  but he has taken mostly modern  folk tales, and he has not gone to the ancient sources,  whence may be drawn some of the best old English  fairy tales. I now give English children an instal- "</paragraph>
+	<paragraph num_entities='0' num='22'>5</paragraph>
+	<paragraph num_entities='0' num='23'></paragraph>
+	<paragraph num_entities='0' num='24'>Preface</paragraph>
+	<paragraph num_entities='0' num='25'>ment of seventeen, and two that are Welsh, told in  my own way, and in most cases expanded, as  I have seen fit. The bare bones that I have  attempted to reclothe with flesh are accessible  to antiquaries and bibliographers. I give them  references where to find these. But this book is  not written for them, but for children, be it well  understood ; and it is written by one who as a  a child was greedy after fairy tales, and is not  ashamed to add, loves them dearly still. If I have  woven two and even more tales into one, or in-  troduced episodes from others, then I have used that  licence which belongs to every old woman who tells  stories to children. The incidents in fairy tales are  like kaleidoscopic particles, ever entering into new  combinations. If English children like native-grown  tales, then let me assure them the spring is not  exhausted ; I have more wherewith to supply them.</paragraph>
+	<paragraph num_entities='1' num='26'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>S. BARING GOULD</entity>.</paragraph>
+	<paragraph num_entities='2' num='27'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Lew Trenchard</entity>, <entity type='PERSON' common-nouns='' adjectives='' verbs=''>N. Devon</entity>.</paragraph>
+	<paragraph num_entities='0' num='28'></paragraph>
+	<paragraph num_entities='0' num='29'>CONTENTS</paragraph>
+	<paragraph num_entities='0' num='30'></paragraph>
+	<paragraph num_entities='0' num='31'>u"I. CATSKIN .  II. THE GARDENER PRINCE .  III. THE GOLDEN BULL  IV. SOUTHERNWOOD .  V. THE shepherd"s DAUGHTER  VI. THE TURKEY FACTOR  VII. THE UNDUTIFUL DAUGHTER  VIII. THE SHEPHERDS OF SALISBURY PLAIN  IX. KING HORN "</paragraph>
+	<paragraph num_entities='0' num='32'>X. HAVELOCK AND ARGENTILE  XI. THE MAN WITH THE BELL  XII. CADWALLON  XIII. THE STORY OF KING EDMUND  XIV. DESIDERATUS  XV. SIR GREY, SIR GRAHAM, AND SIR GREYSKIN  XVI. ROBERT THE EVIL  XVII. THE CROWN OF WHITE ROSES ,  XVIII. THE BADGER IN THE BAG  XIX. THE FOUR FRIENDS</paragraph>
+	<paragraph num_entities='0' num='33'></paragraph>
+	<paragraph num_entities='0' num='34'>39</paragraph>
+	<paragraph num_entities='0' num='35'>61</paragraph>
+	<paragraph num_entities='0' num='36'>Si</paragraph>
+	<paragraph num_entities='0' num='37'>103</paragraph>
+	<paragraph num_entities='0' num='38'>123</paragraph>
+	<paragraph num_entities='0' num='39'>141</paragraph>
+	<paragraph num_entities='0' num='40'>159  177  195  217</paragraph>
+	<paragraph num_entities='0' num='41'>235  253  ^11  293  313  351</paragraph>
+	<paragraph num_entities='0' num='42'>387</paragraph>
+	<paragraph num_entities='0' num='43'></paragraph>
+	<paragraph num_entities='0' num='44'>SUBJECTS OF ILLUSTRATIONS</paragraph>
+	<paragraph num_entities='0' num='45'></paragraph>
+	<paragraph num_entities='1' num='46'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>I. Catskin</entity></paragraph>
+	<paragraph num_entities='0' num='47'>Catskin dressing in the barn for the ball . .12</paragraph>
+	<paragraph num_entities='0' num='48'>II. The Gardener Prince</paragraph>
+	<paragraph num_entities='0' num='49'>Oriol dissuading Marcella from plucking the rose . 43</paragraph>
+	<paragraph num_entities='0' num='50'>III. The Golden Bull</paragraph>
+	<paragraph num_entities='0' num='51'>The Princess steps out of the Golden Bull and con-  fronts the three ladies of the court . . .60</paragraph>
+	<paragraph num_entities='0' num='52'>IV. Southernwood</paragraph>
+	<paragraph num_entities='3' num='53'><entity type='PERSON' common-nouns='' adjectives='true' verbs='discover'>Southernwood</entity> discovers the true <entity type='PERSON' common-nouns='' adjectives='true' verbs='discover'>Reeve</entity> of <entity type='PERSON' common-nouns='' adjectives='true' verbs='discover'>Lynn</entity>, when</paragraph>
+	<paragraph num_entities='0' num='54'>in search of the golden ball . . . .80</paragraph>
+	<paragraph num_entities='0' num='55'>u"V. The Shepherd"s Daughter "</paragraph>
+	<paragraph num_entities='2' num='56'>Sweetpea follows <entity type='PERSON' common-nouns='sweetpea;justice' adjectives='' verbs='follow'>William</entity> to <entity type='LOCATION' common-nouns='sweetpea;justice' adjectives='' verbs='follow'>London</entity> for justice for</paragraph>
+	<paragraph num_entities='0' num='57'>the loss of her sheep, which his dog has slain . 102</paragraph>
+	<paragraph num_entities='1' num='58'>VI. The <entity type='LOCATION' common-nouns='factor' adjectives='' verbs=''>Turkey</entity> Factor</paragraph>
+	<paragraph num_entities='0' num='59'>The Old Grey Man of the Sea . . . .131</paragraph>
+	<paragraph num_entities='0' num='60'>VII. The Undutiful Daughter</paragraph>
+	<paragraph num_entities='0' num='61'>The undutiful daughter has her fortune told by the</paragraph>
+	<paragraph num_entities='0' num='62'>witch of Norwood ..... 140</paragraph>
+	<paragraph num_entities='1' num='63'>VIII. The Shepherds of <entity type='LOCATION' common-nouns='shepherds' adjectives='' verbs=''>Salisbury Plain</entity></paragraph>
+	<paragraph num_entities='2' num='64'><entity type='PERSON' common-nouns='shepherd;shep;herdess' adjectives='' verbs=''>Raymond</entity> as a shepherd and <entity type='PERSON' common-nouns='shepherd;shep;herdess' adjectives='' verbs=''>Imogen</entity> as a shep-  herdess . . . . . .15^</paragraph>
+	<paragraph num_entities='0' num='65'>9</paragraph>
+	<paragraph num_entities='0' num='66'></paragraph>
+	<paragraph num_entities='0' num='67'>Subjects of Illustrations</paragraph>
+	<paragraph num_entities='0' num='68'></paragraph>
+	<paragraph num_entities='0' num='69'>IX. King Horn</paragraph>
+	<paragraph num_entities='1' num='70'><entity type='PERSON' common-nouns='palmer;place' adjectives='' verbs='disguise;take'>Horn</entity>, disguised as a palmer, takes his place among the</paragraph>
+	<paragraph num_entities='0' num='71'>beggars at the gate . . . . " . 187</paragraph>
+	<paragraph num_entities='1' num='72'><entity type='PERSON' common-nouns='argentile' adjectives='' verbs=''>X. Havelock</entity> and Argentile</paragraph>
+	<paragraph num_entities='1' num='73'>u"Argentile wakes to see flames issuing from <entity type='PERSON' common-nouns='flame;s' adjectives='' verbs='see;issue'>Havelock</entity>"s "</paragraph>
+	<paragraph num_entities='0' num='74'>mouth ...... 203</paragraph>
+	<paragraph num_entities='0' num='75'>XI. The Man with the Bell</paragraph>
+	<paragraph num_entities='0' num='76'>The old man with the bell . . . .219</paragraph>
+	<paragraph num_entities='1' num='77'>XII. <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Cadwallon</entity></paragraph>
+	<paragraph num_entities='1' num='78'><entity type='PERSON' common-nouns='horse;bough' adjectives='' verbs='hide;brazen;set'>Brian</entity> hides the brazen horse with boughs, and sets out</paragraph>
+	<paragraph num_entities='1' num='79'>for <entity type='LOCATION' common-nouns='beggar' adjectives='' verbs=''>York</entity> as a beggar .... 246</paragraph>
+	<paragraph num_entities='0' num='80'>XIII. The Story of King Edmund</paragraph>
+	<paragraph num_entities='1' num='81'><entity type='PERSON' common-nouns='snake;milk' adjectives='little' verbs='feed'>Thora</entity> feeds the little snake with milk . . . 255</paragraph>
+	<paragraph num_entities='0' num='82'>XIV. Desideratus</paragraph>
+	<paragraph num_entities='1' num='83'><entity type='PERSON' common-nouns='maid' adjectives='fair;golden' verbs='discover;fill'>Desideratus</entity> discovers the fair maid filling the golden</paragraph>
+	<paragraph num_entities='0' num='84'>bowls ...... 272</paragraph>
+	<paragraph num_entities='3' num='85'>XV. Sir <entity type='PERSON' common-nouns='sir;sir;sir' adjectives='' verbs=''>Grey</entity>, Sir <entity type='PERSON' common-nouns='sir;sir;sir' adjectives='' verbs=''>Graham</entity>, and Sir <entity type='PERSON' common-nouns='sir;sir;sir' adjectives='' verbs=''>Greyskin</entity></paragraph>
+	<paragraph num_entities='2' num='86'>Sir <entity type='PERSON' common-nouns='sir;sir' adjectives='' verbs='conquer'>Greyskin</entity> conquers Sir <entity type='PERSON' common-nouns='sir;sir' adjectives='' verbs='conquer'>Graham</entity> . . . 292</paragraph>
+	<paragraph num_entities='0' num='87'>XVI. Robert the Evil</paragraph>
+	<paragraph num_entities='1' num='88'><entity type='PERSON' common-nouns='garden;voice;heaven' adjectives='' verbs='hear'>Robert</entity>, in the garden, hears a voice from heaven, and</paragraph>
+	<paragraph num_entities='0' num='89'>Starts at the appearance of the horse and armour . 312</paragraph>
+	<paragraph num_entities='0' num='90'>XVII. The Crown of White Roses</paragraph>
+	<paragraph num_entities='0' num='91'>u"The mason"s wife leads the nobleman to the trap door, "</paragraph>
+	<paragraph num_entities='0' num='92'>through which he disappears . . . 357</paragraph>
+	<paragraph num_entities='0' num='93'>xviii. The Badger in the Bag</paragraph>
+	<paragraph num_entities='1' num='94'><entity type='PERSON' common-nouns='knight;orchard' adjectives='' verbs='leave;clothe'>Powel</entity> leaves his knights in the orchard, and, clad as a</paragraph>
+	<paragraph num_entities='0' num='95'>beggar, sets out for the palace . . . 366</paragraph>
+	<paragraph num_entities='0' num='96'>xix. The four Friends</paragraph>
+	<paragraph num_entities='0' num='97'>Wall, son of Clud, studying the Black Art . . 386</paragraph>
+	<paragraph num_entities='0' num='98'>10</paragraph>
+	<paragraph num_entities='0' num='99'></paragraph>
+	<paragraph num_entities='0' num='100'>I</paragraph>
+	<paragraph num_entities='0' num='101'>CATSKIN</paragraph>
+	<paragraph num_entities='0' num='102'></paragraph>
+	<paragraph num_entities='0' num='103'>A WEALTHY nobleman had a wife whom he loved  well. He was most ambitious to have a son to  whom he could leave his name and his titles. But  the first child given him was a daughter.</paragraph>
+	<paragraph num_entities='0' num='104'>He bore his disappointment as best he might.  " Let us hope," said he, " that the next will be a  boy."</paragraph>
+	<paragraph num_entities='0' num='105'>After about a twelvemonth he had another child,  and again it was a girl. He was now very irritated,  and his wife could not get him out of his sorr}\"  temper. He used bad words. " If," said he, " the  next that comes be a girl, I will turn her out of the  house."</paragraph>
+	<paragraph num_entities='0' num='106'>u"A year passed, and then the nobleman"s wife had  another baby, and again it was a girl. "</paragraph>
+	<paragraph num_entities='0' num='107'>He was so angry that he would not look at it,  and his wife had the greatest difficulty in persuading  him to keep the child at home. He only consented  to do so in the hope that his next child might be a</paragraph>
+	<paragraph num_entities='0' num='108'></paragraph>
+	<paragraph num_entities='0' num='109'>The Old English Fairv Tales</paragraph>
+	<paragraph num_entities='0' num='110'>boy. He used worse words than before. But one  year passed, and then another, and then a third, and  no other children arrived. So the nobleman became  more morose, and showed great dislike to his  youngest child, because she was a girl and not a  boy. So from bad words he went to bad acts. He  did not even kiss her, or speak to her kindly.  Nevertheless, he provided that she should be well  instructed, and he gave her dresses suitable to her  rank.</paragraph>
+	<paragraph num_entities='0' num='111'>At a very early age he fulfilled his resolution to  have her sent away. She was confided to one who  had ever been a good friend to her mother in the  country far away from home, and her father never  went to see her, never seemed to care when was her  birthday ; he regarded her as an encumbrance, for  whom he was obliged to pay money to have her  properly dressed and fed and educated.</paragraph>
+	<paragraph num_entities='0' num='112'>Now when to full stature</paragraph>
+	<paragraph num_entities='0' num='113'>This maiden was grown,  And found from her father</paragraph>
+	<paragraph num_entities='0' num='114'>No love to her shown,  She cried, " I no longer</paragraph>
+	<paragraph num_entities='0' num='115'>u"Will lie "neath his frown :  I"m resolved to travel "</paragraph>
+	<paragraph num_entities='0' num='116'>The land up and down."</paragraph>
+	<paragraph num_entities='0' num='117'>Now hearken, good people,  The cream of the jest.</paragraph>
+	<paragraph num_entities='0' num='118'>In what sort of manner  This damsel was dressed.</paragraph>
+	<paragraph num_entities='0' num='119'>Of catskins she made her  A garment all hair,</paragraph>
+	<paragraph num_entities='0' num='120'>The which for a covering-  She daily did wear.</paragraph>
+	<paragraph num_entities='0' num='121'>14</paragraph>
+	<paragraph num_entities='0' num='122'></paragraph>
+	<paragraph num_entities='0' num='123'>Catskin</paragraph>
+	<paragraph num_entities='0' num='124'>Her own rich attire,</paragraph>
+	<paragraph num_entities='0' num='125'>Her jewels beside,  All up in a bundle</paragraph>
+	<paragraph num_entities='0' num='126'>Securely were tied.  And seeking- her fortune</paragraph>
+	<paragraph num_entities='0' num='127'>Away did she fare,  With cap all of catskins</paragraph>
+	<paragraph num_entities='0' num='128'>About her brown hair.</paragraph>
+	<paragraph num_entities='0' num='129'>Now she came, in this singular garment made all  of catskins, after a long walk, to a castle gate near a  town, and, being very weary, she seated herself on  the steps of the castle gate. The time was winter,  and the snow lay on the ground, and but for her  warm dress of catskins she would have perished.</paragraph>
+	<paragraph num_entities='0' num='130'>The dogs barked furiously, and jumped snarling  and snapping about her ; they thought she was some  strange beast.</paragraph>
+	<paragraph num_entities='0' num='131'>Then the lady of the castle, hearing the noise,  came to the door, and she ordered the dogs to be  quiet. She wondered at seeing one dressed all in  fur seated on the steps. The lady asked what  manner of person or animal that was. Then the  girl stood up and took off her cap, and her beautiful  brown hair fell down over her shoulders, and the  lady saw that this was no beast, but a girl.</paragraph>
+	<paragraph num_entities='0' num='132'>She said</paragraph>
+	<paragraph num_entities='0' num='133'>"Whence comest thou, maiden,</paragraph>
+	<paragraph num_entities='0' num='134'>And what wouldst thou have?"  She said, "A night\"s lodging-</paragraph>
+	<paragraph num_entities='0' num='135'>In your stable I crave."  The lady said to her,</paragraph>
+	<paragraph num_entities='0' num='136'>"I grant your desire.  Come into the kitchen,</paragraph>
+	<paragraph num_entities='0' num='137'>And stand by the fire."  15</paragraph>
+	<paragraph num_entities='0' num='138'></paragraph>
+	<paragraph num_entities='0' num='139'>The Old English Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='140'>Then she thanked the lady,</paragraph>
+	<paragraph num_entities='0' num='141'>She went with great haste,  And there she was gazed on</paragraph>
+	<paragraph num_entities='0' num='142'>From highest to least.  And being well warmed,</paragraph>
+	<paragraph num_entities='0' num='143'>Her hunger was great,  They gave her a plate</paragraph>
+	<paragraph num_entities='0' num='144'>Of good porridge to eat.</paragraph>
+	<paragraph num_entities='0' num='145'>And then to an outhouse</paragraph>
+	<paragraph num_entities='0' num='146'>The damsel was led.  Where soon in the fresh straw</paragraph>
+	<paragraph num_entities='0' num='147'>She made her a bed.  And when in the morning</paragraph>
+	<paragraph num_entities='0' num='148'>The daylight she saw,  Her gowns and her jewels</paragraph>
+	<paragraph num_entities='0' num='149'>She hid in the straw.</paragraph>
+	<paragraph num_entities='0' num='150'>Then the girl came into the kitchen, and asked if  she might do some service there.</paragraph>
+	<paragraph num_entities='0' num='151'>The cook replied, that he would take her as a  scullion, to wash up the dishes, and turn the spit,  and brush out the ashes in the oven.</paragraph>
+	<paragraph num_entities='0' num='152'>"What sayest thou, maiden,</paragraph>
+	<paragraph num_entities='0' num='153'>Dost thou will to abide?"  "With all my heart truly,"</paragraph>
+	<paragraph num_entities='0' num='154'>To him she replied.</paragraph>
+	<paragraph num_entities='1' num='155'>The damsel wore only her habit made of catskins,  and she spoke little or none, and would say nothing  as to whence she came, nor what was her name.  So the cook and the servants, and also the lord  and his lady, called her by no other name than  <entity type='PERSON' common-nouns='cook;servant;lord;lady;name' adjectives='other' verbs='call'>Catskin</entity>.</paragraph>
+	<paragraph num_entities='1' num='156'>Time passed, and <entity type='PERSON' common-nouns='time;kitchen;obliging' adjectives='gentle;obedient' verbs='pass;work;be'>Catskin</entity> worked hard in the  kitchen, and was gentle and obedient and obliging.</paragraph>
+	<paragraph num_entities='0' num='157'>l6</paragraph>
+	<paragraph num_entities='0' num='158'></paragraph>
+	<paragraph num_entities='0' num='159'>Catskin</paragraph>
+	<paragraph num_entities='1' num='160'>Now the lord of the castle had an only son, a  tall and handsome young man, aged twenty, and he  was wont to go a-hunting and to play bowls ; and  <entity type='PERSON' common-nouns='lord;castle;son;man;a-hunting' adjectives='only;tall;handsome;young;aged;wont' verbs='have;be;go;play;bowl;see;notice'>Catskin</entity> often saw him, though he never noticed  her.</paragraph>
+	<paragraph num_entities='0' num='161'>u"It fell out that the king came to the town, and  there was accordingly much entertainment given to  him, and the mayor and corporation announced  that they would have three splendid balls in the  Guild Hall on three consecutive nights for the  entertainment of the king. The nobleman"s son  was invited, and prepared to go. "</paragraph>
+	<paragraph num_entities='1' num='162'>Then <entity type='PERSON' common-nouns='courage;lady;madam;ball;to-night;twelvemonth;holiday;pleasure' adjectives='' verbs='pluck;say;pray;suffer;go;have;work;have;have'>Catskin</entity> plucked up courage, and said to  the lady, " I pray you, madam, suffer me to go  to the ball to-night ; I have worked hard for a  twelvemonth and a day, and have had no holiday  pleasure."</paragraph>
+	<paragraph num_entities='1' num='163'>When the lady heard this, she was very angry,  and she had a ladle in her hand, and with it she  struck the girl on the back with such force that  she broke the ladle in two. Thereupon, crying,  <entity type='PERSON' common-nouns='thereupon;kitchen;barn' adjectives='' verbs='cry;run;hide'>Catskin</entity> ran out of the kitchen, and hid herself in  the barn.</paragraph>
+	<paragraph num_entities='0' num='164'>Presently she heard a sound outside, and, jumping  forth, saw the young nobleman mount his horse to  go away to the ball.</paragraph>
+	<paragraph num_entities='0' num='165'>Now one of the serving-men saw Catskin\"s face  peeping out, so he ran and laid hold of her, drew  her forth into the courtyard, and said to his master  " See, sir ! here is the scullion girl  she has been  crying that she would go to the ball."  2 17</paragraph>
+	<paragraph num_entities='0' num='166'></paragraph>
+	<paragraph num_entities='0' num='167'>The Old English Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='168'>Then the young man laughed, and said, "Catskin,  will you dance with me ? "</paragraph>
+	<paragraph num_entities='0' num='169'>She answered, " Ah, sir, if it were to chance  that I could get to the ball, indeed I would."</paragraph>
+	<paragraph num_entities='0' num='170'>" Be it so, Catskin ; I shall expect you.".</paragraph>
+	<paragraph num_entities='0' num='171'>Then, laughing heartily, he rode away.</paragraph>
+	<paragraph num_entities='0' num='172'>u"No sooner was he gone than Catskin put off her  fur dress, washed herself, combed out her beautiful  brown hair, that she wore under a cap from which  hung seven cats" tails, and clothed herself in fine  linen and lace, and a beautiful silken dress, the  colour of the blue sky in spring, and she decorated  her hair with daisies. And when thus dressed, she  tripped away to the town, and was admitted into  the great hall, and danced that evening with the  young nobleman. "</paragraph>
+	<paragraph num_entities='0' num='173'>He did not know who she was, but he thought  that she was the most beautiful girl he had ever  seen.</paragraph>
+	<paragraph num_entities='0' num='174'>"The dance being done,</paragraph>
+	<paragraph num_entities='0' num='175'>The young squire did say,  * Fair lady, where live you ?</paragraph>
+	<paragraph num_entities='0' num='176'>u"Now tell me, I pray."  The answer she made him "</paragraph>
+	<paragraph num_entities='0' num='177'>Was" Sir, I will tell :  At the sign of the Ladle</paragraph>
+	<paragraph num_entities='0' num='178'>That is broken, I dwell.\""</paragraph>
+	<paragraph num_entities='0' num='179'>Now, during the dance, very nimbly, Catskin  slipped away, and hastened over the fields back to  the castle, went into the barn, and threw off and  concealed her silken dress. She covered herself  again with catskins, and put over her hair the  fur cap with the seven pussy-cat tails ; and was</paragraph>
+	<paragraph num_entities='0' num='180'>i8</paragraph>
+	<paragraph num_entities='0' num='181'></paragraph>
+	<paragraph num_entities='0' num='182'>Catskin</paragraph>
+	<paragraph num_entities='0' num='183'>as comical an object as ever. Very soon also her  face and hands were grimy, for the cook was going  to bake, and he made her go into the oven, and  brush out all the ashes that were there. You may  believe me, there was great talk among the servants  about the beautiful lady in the sky-blue silk who  had danced at the ball. For there had been the  serving-men of the young nobleman there, who had  attended on the guests, and they told how their  master had danced with this beautiful and unknown  lady.</paragraph>
+	<paragraph num_entities='0' num='184'>Some laughed at Catskin and said to her, " Hey,  Catskin ! how would you have liked to be there ?  That would have been rare sport to see you with  your cat tails flying about. I warrant the king  would have led you out to dance the hay." ^</paragraph>
+	<paragraph num_entities='0' num='185'>" Very like he would," answered Catskin. Whereat  all fell a-laughing more loudly than ever.</paragraph>
+	<paragraph num_entities='0' num='186'>Then the noble mistress of the house came into  the kitchen, and the girl went before her, and said,  " Dear lady, may I attend the ball this night ? The  servants say that the king will dance the hay with  me if I go." Thereat the lady was so wroth and  shamed at the foolishness of the scullion girl, that  she caught up a skimmer and struck her on the  back with it, and broke it in two.</paragraph>
+	<paragraph num_entities='1' num='187'><entity type='PERSON' common-nouns='straw;court;door;lord;ball' adjectives='young' verbs='run;cry;hide;hear;stir;look;see;be;mount;ride'>Catskin</entity> ran off crying, and hid in the straw, till  she heard a stirring in the court, and she looked  forth at the door, and saw that the young lord was  mounting to ride to the ball.</paragraph>
+	<paragraph num_entities='0' num='188'>u"She was again noticed, and once more the serv"ing- "</paragraph>
+	<paragraph num_entities='0' num='189'>u"^ An old English countrj" dance. "</paragraph>
+	<paragraph num_entities='0' num='190'></paragraph>
+	<paragraph num_entities='0' num='191'>The Old English Fairy Tales</paragraph>
+	<paragraph num_entities='1' num='192'>men drew her forth, crying and abashed, before their  master; and they said to him, " See ! here is <entity type='PERSON' common-nouns='desire;king' adjectives='' verbs='be;dance'>Catskin</entity>,  who desires to dance with the king."</paragraph>
+	<paragraph num_entities='0' num='193'>" I will lay my life, Catskin," said the young man,  " if you appear at the ball, the king will reckon it  rare sport to dance a hay with you."</paragraph>
+	<paragraph num_entities='0' num='194'>Then he rode away, and laughed so long and so  loud, that she could hear him laughing after he was  out of her sight.</paragraph>
+	<paragraph num_entities='1' num='195'>So soon as she could hear no more of his  laughter, then <entity type='PERSON' common-nouns='laughter;barn;hair;wreath;lily;valley;head;linen;lace;gown;silk;lawn' adjectives='more;beautiful;finest;green' verbs='hear;go;wash;comb;weave;put;dress;put'>Catskin</entity> went back into the barn, she  washed herself, combed out her beautiful hair, and  she wove a wreath of lilies of the valley and put it  on her head, and she dressed herself in finest linen  and lace, and put over her a gown of green silk like  the lawns in early May.</paragraph>
+	<paragraph num_entities='0' num='196'>u"And as she came forth from the barn, she heard  all the bells of all the churches ringing, for that the  king was passing through the streets going to the  ball. So she hasted and reached the town, and fell  in with the train of the king"s court and entered the  Guild Hall with his nobles and ladies, and when she  came in, her beauty outshone that of all the ladies,  and her dress was more lovely than that of any  noble or his dame who was present. "</paragraph>
+	<paragraph num_entities='1' num='197'>Now it happened that the king turned and saw  this fair maid in grass - green gown with lilies of  the valley on her head, and he at once came up to  her and asked if he might open the ball with her,  and dance a hay. <entity type='PERSON' common-nouns='envy;surprise;lady' adjectives='other' verbs='be;look;say;be'>Catskin</entity> was looked upon with  envy and surprise by all the ladies, and they said to  each other, " Who can this be ? "</paragraph>
+	<paragraph num_entities='0' num='198'>20</paragraph>
+	<paragraph num_entities='0' num='199'></paragraph>
+	<paragraph num_entities='0' num='200'>Catskin</paragraph>
+	<paragraph num_entities='0' num='201'>Now the young nobleman was all impatience for  the dance of the hay to be ended, that he might ask  the unknown lady for her hand.</paragraph>
+	<paragraph num_entities='0' num='202'>As soon as he could, he went to her, and asked  her to tread with him a galliard. And as they  were dancing, he said, " Surely, fair damsel, you  deceived me yesterday. I have been all over the  town inquiring for the sign of the Broken Ladle,  and have been assured there is none such. Tell  me now, I pray thee, where thou dwellest."</paragraph>
+	<paragraph num_entities='0' num='203'>Then she answered, " I think, fair sir, you did not  look near enough to home. If you desire to know  my lodging, it is at the sign of the Broken Skimmer."  Presently she slipped away, hurried home, hid in the  barn, and took off her beautiful green gown.</paragraph>
+	<paragraph num_entities='0' num='204'>u"Next morning she appeared in her catskin dress  as usual, with the cats" tails hanging about her ears,  and, I warrant you, was soon dirty enough, for the  cook gave her a muck-fork and bade her go and  clean out the pigstyes. "</paragraph>
+	<paragraph num_entities='0' num='205'>I warrant you, also, there was great talk among  the servants that day about the strange lady with  whom the king had opened the ball.</paragraph>
+	<paragraph num_entities='0' num='206'>And the cook laughed and said, " Heigh, Catskin !  I thought he was to have danced the hay with  you."</paragraph>
+	<paragraph num_entities='0' num='207'>And all the servants laughed heartily at the idea,  and those who were holding dishes let them fall and  broke them, and one who was mixing a custard  upset the whole over the floor and wasted it  all  because of the laughter at the thought of the king  dancing with Catskin.</paragraph>
+	<paragraph num_entities='0' num='208'>21</paragraph>
+	<paragraph num_entities='0' num='209'></paragraph>
+	<paragraph num_entities='0' num='210'>The Old English Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='211'>As for the young master, he returned thoughtful.  He was asked by his mother with whom he had  danced, and he said :</paragraph>
+	<paragraph num_entities='0' num='212'>" For two nig-hts at the ball</paragraph>
+	<paragraph num_entities='0' num='213'>There was seen a ladye,  The sweetest of beauties</paragraph>
+	<paragraph num_entities='0' num='214'>Eyes ever did see.  She was the best dancer</paragraph>
+	<paragraph num_entities='0' num='215'>In all the whole place,  And she strangely resembled</paragraph>
+	<paragraph num_entities='0' num='216'>Our Catskin in face.</paragraph>
+	<paragraph num_entities='0' num='217'>Had she not been dressed</paragraph>
+	<paragraph num_entities='0' num='218'>u"In costly degree,  I"d have sworn that it was "</paragraph>
+	<paragraph num_entities='0' num='219'>Our own Catskin\"s bodye."</paragraph>
+	<paragraph num_entities='1' num='220'>When the lady came down into the kitchen, then  once more Catskin stood forth, and asked her if she  might this time be allowed to go to the ball, to see  the king, and the princes, and the nobles, and all  the ladies in their rainbow dresses. The lady was  so angry at her being thus persistent, that, having a  basin of water in her hand, she threw it over <entity type='PERSON' common-nouns='lady;basin;water;hand;begone;fool' adjectives='angry;persistent' verbs='be;be;have;throw;bid'>Catskin</entity>,  and bade her begone for a fool.</paragraph>
+	<paragraph num_entities='0' num='221'>Then shaking her wet ears</paragraph>
+	<paragraph num_entities='0' num='222'>u"Out o" doors she did run,  And dressed herself "</paragraph>
+	<paragraph num_entities='0' num='223'>All in gold like the sun.</paragraph>
+	<paragraph num_entities='0' num='224'>She washed herself and combed out her beautiful  hair, and she had plaited a wreath of marigolds, and  these she set on her head. But she clothed her fair  body in finest linen and lace, and over all put a  golden silk dress like wheat when full)- ripe.</paragraph>
+	<paragraph num_entities='0' num='225'></paragraph>
+	<paragraph num_entities='0' num='226'>Catskin</paragraph>
+	<paragraph num_entities='0' num='227'>This time she did not look forth when the  nobleman\"s son was mounting his horse to ride to  the ball. She heard him call, " Catskin ! Catskin !  where art thou ? " But she would not let herself be  seen, so he rode away in ill humour at not having  spoken with her. He was sore perplexed in mind  because the lady with whom he had twice danced  wondrously resembled the scullion girl in his  mother\"s kitchen.</paragraph>
+	<paragraph num_entities='0' num='228'>As he rode, all the bells in all the church towers  were ringing, and, as they rang, they seemed to say</paragraph>
+	<paragraph num_entities='0' num='229'>\"\"Catskin, Catskin, made to win,  Cat without and queen within."</paragraph>
+	<paragraph num_entities='1' num='230'>Soon after he had left, <entity type='PERSON' common-nouns='barn;time;guild;hall;retinue;queen;procession;king' adjectives='right' verbs='have;leave;start;arrive;enter;follow'>Catskin</entity> started from the  barn, and arrived just in the right time, and entered  the Guild Hall in the retinue of the queen, whose  procession followed that of the king.</paragraph>
+	<paragraph num_entities='0' num='231'>Now the young nobleman was on the watch, and  directly he saw her, he went to her, and asked if she  would dance with him all that evening ; he would not  surrender her hand, no, not even to the king if he  desired it.</paragraph>
+	<paragraph num_entities='0' num='232'>She consented. Now he looked harder at her than  ever before.</paragraph>
+	<paragraph num_entities='0' num='233'>Then the dance being ended,</paragraph>
+	<paragraph num_entities='0' num='234'>u"The young- squire, said he,  *" From whence may you come, "</paragraph>
+	<paragraph num_entities='0' num='235'>Fairest lady, tell me?"  Her answer was  \"* Sir,</paragraph>
+	<paragraph num_entities='0' num='236'>You shall soon know the same,  From the sign of the Basin</paragraph>
+	<paragraph num_entities='0' num='237'>Of spilt water I came."</paragraph>
+	<paragraph num_entities='0' num='238'></paragraph>
+	<paragraph num_entities='0' num='239'>The Old English Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='240'>u"This time the young man was resolved not to let  her go without following her, and he watched her  every movement, and when she slipped away, he  hasted after her. And as she ran, the marigolds in  her crown fell one by one, and all along the way  there were strewn marigolds. The night was dark,  but the marigolds shone like stars, and the young  man followed her track by the fallen flowers. And  they led him to his father"s barn, and at the door lay  her crown. Every one of the marigolds had fallen  out of it. "</paragraph>
+	<paragraph num_entities='0' num='241'>The young man stooped, picked up the crown,  and went into the barn. Then</paragraph>
+	<paragraph num_entities='0' num='242'>He said, " O brave Catskin,</paragraph>
+	<paragraph num_entities='0' num='243'>I find it is thee,  Who on these three nights</paragraph>
+	<paragraph num_entities='0' num='244'>Has so charmed me.  Thou sweetest of maidens</paragraph>
+	<paragraph num_entities='0' num='245'>Eyes ever beheld,  With joy and contentment</paragraph>
+	<paragraph num_entities='0' num='246'>My heart now is filled.</paragraph>
+	<paragraph num_entities='0' num='247'>u"Thou art our cook"s scullion, "</paragraph>
+	<paragraph num_entities='0' num='248'>u"But, as I have life.  Grant me thy heart"s love, "</paragraph>
+	<paragraph num_entities='0' num='249'>I will make thee my wife.  And thou shalt have maidens</paragraph>
+	<paragraph num_entities='0' num='250'>To answer thy call."  "Oh, that cannot be, sir!</paragraph>
+	<paragraph num_entities='0' num='251'>I\"ve no portion at all."</paragraph>
+	<paragraph num_entities='0' num='252'>"Thy beauty\"s thy portion,</paragraph>
+	<paragraph num_entities='0' num='253'>My joy and my dear,  I prize it more precious</paragraph>
+	<paragraph num_entities='0' num='254'>Than thousands a year.  24</paragraph>
+	<paragraph num_entities='0' num='255'></paragraph>
+	<paragraph num_entities='0' num='256'>Catskin</paragraph>
+	<paragraph num_entities='0' num='257'>For my parents consent</paragraph>
+	<paragraph num_entities='0' num='258'>I have schemed a trick :  I will g-o to my bed,</paragraph>
+	<paragraph num_entities='0' num='259'>I will feign myself sick.</paragraph>
+	<paragraph num_entities='0' num='260'>Then no one shall tend me</paragraph>
+	<paragraph num_entities='0' num='261'>But thou, I profess.  So, one day and two days,</paragraph>
+	<paragraph num_entities='0' num='262'>In thy richest dress  Thou shalt be a-clad, love ;</paragraph>
+	<paragraph num_entities='0' num='263'>And when there draw nigh,  My parents to see me,</paragraph>
+	<paragraph num_entities='0' num='264'>u"Whilst sick I do lie,  I"ll tell them I love thee. "</paragraph>
+	<paragraph num_entities='0' num='265'>u"To save my sweet life,  I"ll say the sole medicine "</paragraph>
+	<paragraph num_entities='0' num='266'>Is Catskin for wife."</paragraph>
+	<paragraph num_entities='0' num='267'>Catskin consented to this arrangement, and forth-  with the young man took to his bed and professed  himself to be very sick.</paragraph>
+	<paragraph num_entities='0' num='268'>The father and mother, who loved him dearly,  sent for a doctor, and he looked at his tongue, and  said it was coated, then felt his pulse, and found it  irregular, and took his temperature, which he  pronounced abnormal.</paragraph>
+	<paragraph num_entities='0' num='269'>u"The parents were dreadfully alarmed, and asked  where the seat of the complaint was. The doctor  said it was in the pericardium. This made the  mother swoon in her husband"s arms. "</paragraph>
+	<paragraph num_entities='1' num='270'>The sick man now begged that he might be  nursed by <entity type='PERSON' common-nouns='man;doctor;anything;father;mother;request' adjectives='sick;strange' verbs='beg;be;nurse;say;be;contradict;consent;think'>Catskin</entity>, and, as the doctor said that he must  not be contradicted in anything, his father and  mother consented, but thought the request a very  strange one.</paragraph>
+	<paragraph num_entities='0' num='271'>25</paragraph>
+	<paragraph num_entities='0' num='272'></paragraph>
+	<paragraph num_entities='0' num='273'>The Old English Fairy Tales</paragraph>
+	<paragraph num_entities='1' num='274'>It may well be believed, that so soon as <entity type='PERSON' common-nouns='man;dress' adjectives='young;merry;grand' verbs='be;believe;be;laugh;make;bid;go;put'>Catskin</entity>  and the young man were alone, they laughed and  made merry, and he bade her quickly go and put  on one of her grand dresses.</paragraph>
+	<paragraph num_entities='0' num='275'>Now his lady mother had gone down into the  kitchen to prepare her son a cordial elixir, according  to the recipe given by the doctor; and this was i  the recipe :</paragraph>
+	<paragraph num_entities='1' num='276'>u"2 oz. oil of squills  2 ,, earthworms  2 ,, vervain  2 ,, Spanish flies  2 ,, neats" feet  <entity type='LOCATION' common-nouns='oil;squill;earthworm;vervain;fly;neat;foot;cayenne;pepper;taste' adjectives='' verbs=''>Assafoetida</entity> and cayenne pepper to taste. "</paragraph>
+	<paragraph num_entities='0' num='277'>u"When she came up with this delectable cordial in  her hand and entered the room, to her amazement  there she saw a beautiful damsel dressed in silk of  heaven"s hue, with a crown of daisies like stars on  her flowing brown hair. "</paragraph>
+	<paragraph num_entities='0' num='278'>u"She was so taken aback, so frightened, that she  dropped the cordial, and the vessel was broken, and  the elixir spilled. She was speechless with amaze-  ment, and thought that a fairy had appeared. But,  anxious above all things for her son"s health, she  hastened down into the kitchen again, to prepare a  cordial elixir according to the same recipe. "</paragraph>
+	<paragraph num_entities='0' num='279'>When she had done this, she ascended with it  again to the sick-room ; and as she drew near, she  heard a voice singing to the lute.</paragraph>
+	<paragraph num_entities='0' num='280'>She remained listening, and this is what she  heard the voice sing</paragraph>
+	<paragraph num_entities='0' num='281'>26</paragraph>
+	<paragraph num_entities='0' num='282'></paragraph>
+	<paragraph num_entities='0' num='283'>Catskln</paragraph>
+	<paragraph num_entities='0' num='284'>u"""Through the cool shady woods "</paragraph>
+	<paragraph num_entities='0' num='285'>As I was rang-ing-,  I heard the pretty birds</paragraph>
+	<paragraph num_entities='0' num='286'>Notes sweetly changing-.  Down by a meadow-side</paragraph>
+	<paragraph num_entities='0' num='287'>Where runs a river,  A little boy I espied</paragraph>
+	<paragraph num_entities='0' num='288'>With bow and quiver.</paragraph>
+	<paragraph num_entities='0' num='289'>* Little boy, tell me, say,</paragraph>
+	<paragraph num_entities='0' num='290'>Why thou art hiding.</paragraph>
+	<paragraph num_entities='0' num='291'>Art thou some runaway,</paragraph>
+	<paragraph num_entities='0' num='292'>u"And hast no biding?" "</paragraph>
+	<paragraph num_entities='0' num='293'>* I am no runaway.</paragraph>
+	<paragraph num_entities='0' num='294'>u"Venus my mother,  She gave me leave to play  When I came hither." "</paragraph>
+	<paragraph num_entities='0' num='295'>* Little boy, with thy bow</paragraph>
+	<paragraph num_entities='0' num='296'>Why dost thou threaten ?  It is not long ago</paragraph>
+	<paragraph num_entities='0' num='297'>Since thou wast beaten.  Thy wanton mother fair,</paragraph>
+	<paragraph num_entities='1' num='298'><entity type='PERSON' common-nouns='arrow' adjectives='spare' verbs='chide;be'>Venus</entity>, will chide thee ;  Of arrows be more spare.</paragraph>
+	<paragraph num_entities='0' num='299'>u"Or thou must hide thee." "</paragraph>
+	<paragraph num_entities='0' num='300'>Then little Cupid laughed,</paragraph>
+	<paragraph num_entities='0' num='301'>Caught his bow nimble.  Shot forth a fatal shaft</paragraph>
+	<paragraph num_entities='0' num='302'>Which made me tremble.  * Go tell my gallant fair</paragraph>
+	<paragraph num_entities='0' num='303'>Thou canst discover  What all the passions are</paragraph>
+	<paragraph num_entities='0' num='304'>Of a fond lover.\" "</paragraph>
+	<paragraph num_entities='0' num='305'>Then the lady thrust open the door, and saw,  seated by his window, a beautiful girl clothed in  grass-green silk, with a lace collar over her shoulders  and a wreath of lilies of the valley on her brown</paragraph>
+	<paragraph num_entities='0' num='306'>2;</paragraph>
+	<paragraph num_entities='0' num='307'></paragraph>
+	<paragraph num_entities='0' num='308'>The Old English Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='309'>hair. The window was open, and the air blew in  and fluttered her hair about, and made all the white  bells of the lilies dance, and it seemed as though  her hair and the pure flowers were all dancing on  her head to the sound of her lute, and the song she  sang</paragraph>
+	<paragraph num_entities='0' num='310'>"Go tell my g-allant fair  Thou canst discover  What all the passions are  Of a fond lover."</paragraph>
+	<paragraph num_entities='0' num='311'>As she sang this, the beautiful girl turned her  face from the window and looked at the young man  lying sick on the bed, and the lady of the house,  his mother, recognised the face of Catskin.</paragraph>
+	<paragraph num_entities='0' num='312'>She was so astonished that she let fall the cordial,  and it was spilt over the floor, so that there was not  one drop left for her son to imbibe.</paragraph>
+	<paragraph num_entities='0' num='313'>Her senses were in such a whirl that she could  not speak, she could not advance, she could not  think. So she shut the door, and ran speechless  down into the kitchen, to prepare the cordial a  third time.</paragraph>
+	<paragraph num_entities='0' num='314'>But alas and alack a day ! servants are careless.  The cook, not having Catskin to assist, had bidden  a stable-boy come in and be scullion for the nonce ;  and this urchin, having seen the recipe written by  the doctor, which the lady had left on the kitchen  table, had taken it to light a fire with. The lady  was in dismay when she found that this precious  recipe was lost. She therefore turned to a book  written by her great-great-grandmother, a notable  lady for making confects and strong waters, and</paragraph>
+	<paragraph num_entities='0' num='315'>28</paragraph>
+	<paragraph num_entities='0' num='316'></paragraph>
+	<paragraph num_entities='0' num='317'>Catskin</paragraph>
+	<paragraph num_entities='0' num='318'>took at random out of it another recipe. This  was it</paragraph>
+	<paragraph num_entities='0' num='319'></paragraph>
+	<paragraph num_entities='0' num='320'>Of oil of cloves</paragraph>
+	<paragraph num_entities='0' num='321'>I drop</paragraph>
+	<paragraph num_entities='0' num='322'>Of honeycomb</paragraph>
+	<paragraph num_entities='0' num='323'>every particle</paragraph>
+	<paragraph num_entities='0' num='324'>I lemon</paragraph>
+	<paragraph num_entities='0' num='325'>well squeezed</paragraph>
+	<paragraph num_entities='0' num='326'>Of butter</paragraph>
+	<paragraph num_entities='0' num='327'>I lb.</paragraph>
+	<paragraph num_entities='0' num='328'></paragraph>
+	<paragraph num_entities='0' num='329'>A few peeled almonds cut in slices.  Dissolve over a clear fire and mix well.</paragraph>
+	<paragraph num_entities='0' num='330'>The lady at once proceeded to make this decoc-  tion. When it was done, she poured it out, and  lo ! it was  Butter Scotch.</paragraph>
+	<paragraph num_entities='0' num='331'>She stood in great doubt what to do, when at  that moment trumpets sounded, and the servants,  all rushing to the w^indows, away from their work,   as the manner of servants is,  saw the king, who  had arrived with his court, and the queen on one  side and the archbishop on the other.</paragraph>
+	<paragraph num_entities='0' num='332'>u"It had been noised abroad that the nobleman"s  son was ill, and the king, who was very amiable,  had resolved on coming himself to inquire after him,  and, if he were permitted, to see him. He had also  brought with him his own physician, to look at the  patient"s tongue, feel his pulse, and take his tempera-  ture. The lady, holding a plate of the most  beautiful Oriental china in her hand, on which was a  great slab of butter scotch, with almonds in it, at  once hasted to meet the king and answer his kind  inquiries. "</paragraph>
+	<paragraph num_entities='0' num='333'>The king said that he would greatly like to see  the sick youth, and appoint his own doctor to examine  and prescribe for him.</paragraph>
+	<paragraph num_entities='0' num='334'>Accordingly the lady conducted him and the  29</paragraph>
+	<paragraph num_entities='0' num='335'></paragraph>
+	<paragraph num_entities='0' num='336'>The Old English Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='337'>queen, and the archbishop, and the physician ; and  all the court ladies and gentlemen in waiting, the  master of the horse, the chamberlain, the high  sheriff of the county, preceded by his javelin  men, marched up the stairs to the door of the sick-  room.</paragraph>
+	<paragraph num_entities='0' num='338'>When the door was opened  what did they all  see? This is what they saw.</paragraph>
+	<paragraph num_entities='0' num='339'>In the midst of the room, on the highly polished  floor, was a beautiful damsel, dressed in silk the  colour of golden wheat, with marigolds in her hair,  dancing a corranto ; and the sick man was raised  on his elbow, and was watching her graceful move-  ments with great delight.</paragraph>
+	<paragraph num_entities='0' num='340'>As she danced, the marigolds fell from her hair,  and she danced round and in and out among the  fallen yellow flowers, singing as she danced, and was  so intent not to tread on a blossom, or disturb it  with her silken skirts, that she did not see those  who had come to the door.</paragraph>
+	<paragraph num_entities='0' num='341'>The king, the queen, the archbishop, the physician,  the chamberlain, the lords and ladies, the grand  sheriff, and the great javelins stood silent, in admira-  tion, as did also the lady of the house, with the plate  of butter-scotch in her hand.</paragraph>
+	<paragraph num_entities='0' num='342'>All at once the king exclaimed, " Why, surely  this is the very lady with whom I danced the  hay."</paragraph>
+	<paragraph num_entities='1' num='343'>At his words <entity type='PERSON' common-nouns='word;dancing;window;patient;bedclothes;head' adjectives='crimson' verbs='start;become;cease;retreat;pull'>Catskin</entity> started, became crimson,  and ceased dancing ; she retreated to the window,  and the patient pulled the bedclothes over his  head.</paragraph>
+	<paragraph num_entities='0' num='344'>30</paragraph>
+	<paragraph num_entities='0' num='345'></paragraph>
+	<paragraph num_entities='0' num='346'>Catskin</paragraph>
+	<paragraph num_entities='0' num='347'>u"The king and all his court now entered, and went  to the side of the bed, where the king issued his  royal mandate that the sick man should show his  head above the bed-clothes. This the patient dared  not disobey. So he let himself be seen, and the  physician was required to proceed with the diagnosis  of the case. He, however, respectfully requested  that the family doctor might be invited to be  present, as it was against the etiquette of the faculty  to interfere with each other"s practice. "</paragraph>
+	<paragraph num_entities='0' num='348'>The village and family doctor happened at this  moment to arrive, and he was called up into the  room.</paragraph>
+	<paragraph num_entities='0' num='349'>u"The court physician proceeded to look at the sick  man"s tongue, and said he considered it coated. "</paragraph>
+	<paragraph num_entities='0' num='350'>" So I said," observed the family doctor.</paragraph>
+	<paragraph num_entities='0' num='351'>" And his pulse is irregular."</paragraph>
+	<paragraph num_entities='0' num='352'>" So I said," observed the family doctor.</paragraph>
+	<paragraph num_entities='0' num='353'>" And his temperature is abnormal."</paragraph>
+	<paragraph num_entities='0' num='354'>" My very words," said the family doctor.</paragraph>
+	<paragraph num_entities='0' num='355'>A consultation was now proposed, and the two  practitioners adjourned to an adjoining cabinet,  whilst the king, and the archbishop, and all the  court, the nobleman and his lady, the parents of the  youth, remained in breathless expectation. After  half an hour the two doctors issued from the  adjoining cabinet, and the court physician said, with  immense solemnity, " There is nothing in the case  to cause immediate alarm. My brother practitioner  and I have well weighed the case, and have drawn  out a prescription which, if strictly followed, will, we  believe, produce the happiest results."</paragraph>
+	<paragraph num_entities='0' num='356'>31</paragraph>
+	<paragraph num_entities='0' num='357'></paragraph>
+	<paragraph num_entities='0' num='358'>The Old English. Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='359'>Then he unfolded a scroll, and handed it to the  archbishop. It contained but these words</paragraph>
+	<paragraph num_entities='0' num='360'>Matrimony</paragraph>
+	<paragraph num_entities='0' num='361'>cum Butter scotch, quant, stiff.</paragraph>
+	<paragraph num_entities='0' num='362'>The very hearing of the recipe sufficed to make  the sick man jump out of bed.</paragraph>
+	<paragraph num_entities='0' num='363'>Next day, with great triumph,</paragraph>
+	<paragraph num_entities='0' num='364'>And joy, and good cheer,  There arrived many coaches</paragraph>
+	<paragraph num_entities='0' num='365'>From far and from near ;  When, much like a goddess</paragraph>
+	<paragraph num_entities='0' num='366'>In festal array,  Fair Catskin was married</paragraph>
+	<paragraph num_entities='0' num='367'>To the squire that day.</paragraph>
+	<paragraph num_entities='0' num='368'>The days they were many</paragraph>
+	<paragraph num_entities='0' num='369'>The wedding did last.  With many a topping</paragraph>
+	<paragraph num_entities='0' num='370'>And gallant repast.  Oh hark the bells ringing</paragraph>
+	<paragraph num_entities='0' num='371'>All over the town ;  See flasks of canary</paragraph>
+	<paragraph num_entities='0' num='372'>Flow merrily round.</paragraph>
+	<paragraph num_entities='0' num='373'>So Catskin was married to the young gentleman,  the son of the noble in whose house she had served  as scullion.</paragraph>
+	<paragraph num_entities='0' num='374'>We might end the story of Catskin here, and  yet, were we to do so, we should omit an incident  which marks how good she was, and deserving of  the happy fortune that fell to her.</paragraph>
+	<paragraph num_entities='0' num='375'>It had fallen out in this wise with her father. Her  mother was dead. A fever had come on in the house,  and had swept away both her mother and sisters ; so</paragraph>
+	<paragraph num_entities='0' num='376'>32</paragraph>
+	<paragraph num_entities='0' num='377'></paragraph>
+	<paragraph num_entities='0' num='378'>Catskin</paragraph>
+	<paragraph num_entities='0' num='379'>that the old man was left alone, and in his age  he was sorrowful and desolate. Now he began to  think of his daughter whom he had discarded. He  resolved to pay her a visit, for he had heard of her  marriage.</paragraph>
+	<paragraph num_entities='0' num='380'>He dressed like a beggar</paragraph>
+	<paragraph num_entities='0' num='381'>And went to the gate,  Where stood his sweet daughter,</paragraph>
+	<paragraph num_entities='0' num='382'>Now noble and great.  He cried, "Gentle lady,</paragraph>
+	<paragraph num_entities='0' num='383'>A poor man I be,  And forced by necessity</paragraph>
+	<paragraph num_entities='0' num='384'>To ask charity."</paragraph>
+	<paragraph num_entities='0' num='385'>With a blush she demanded</paragraph>
+	<paragraph num_entities='0' num='386'>The place whence he came.  Then, with that he told her,</paragraph>
+	<paragraph num_entities='0' num='387'>As likewise his name.  She cried, " I\"m your daughter</paragraph>
+	<paragraph num_entities='0' num='388'>W^ho slighted was so,  Yet, nevertheless, sir.</paragraph>
+	<paragraph num_entities='0' num='389'>u"Thee kindness I"ll show. "</paragraph>
+	<paragraph num_entities='0' num='390'></paragraph>
+	<paragraph num_entities='0' num='391'>Through mercy, the Lord</paragraph>
+	<paragraph num_entities='0' num='392'>Has provided for me.  Pray, father, come in, sir.</paragraph>
+	<paragraph num_entities='0' num='393'>Be seated," said she.  The best of provision</paragraph>
+	<paragraph num_entities='0' num='394'>The house could afford.  For making him welcome.</paragraph>
+	<paragraph num_entities='0' num='395'>Was placed on the board.</paragraph>
+	<paragraph num_entities='0' num='396'>She said, "You are welcome  Feed hearty, I pray.</paragraph>
+	<paragraph num_entities='0' num='397'>And, if you are willing,  With me you shall stay</paragraph>
+	<paragraph num_entities='0' num='398'>33</paragraph>
+	<paragraph num_entities='0' num='399'></paragraph>
+	<paragraph num_entities='0' num='400'>The Old English Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='401'>So long- as you live, sir."</paragraph>
+	<paragraph num_entities='0' num='402'>u"He then made repl)-,  ""I only have come here, "</paragraph>
+	<paragraph num_entities='0' num='403'>Your love I would tr}-.</paragraph>
+	<paragraph num_entities='0' num='404'>Through mercy, my daug^hter,</paragraph>
+	<paragraph num_entities='0' num='405'>u"I"m rich, and not poor,  I"ve red g"old and silver "</paragraph>
+	<paragraph num_entities='0' num='406'>Heaped up in my store.  And for the kind favour</paragraph>
+	<paragraph num_entities='0' num='407'>u"At your hands I"ve found,  For portion I"ll give you "</paragraph>
+</document>
+<!--
+Unexpected error: <type 'exceptions.UnicodeDecodeError'>
+-->

@@ -1,0 +1,688 @@
+<document name='fairytales-corpus/fairytales00pylegoog_djvu.txt'>
+	<paragraph num_entities='0' num='0'>LIBRARY FOR  YOUNG PEOPLE</paragraph>
+	<paragraph num_entities='0' num='1'></paragraph>
+	<paragraph num_entities='0' num='2'>A COLLECTION OF THE BEST READING  FOR BOYS AND GIRLS</paragraph>
+	<paragraph num_entities='0' num='3'></paragraph>
+	<paragraph num_entities='0' num='4'>WALTER CAMP</paragraph>
+	<paragraph num_entities='0' num='5'>EDITOR-IN-CHIEF, ASSISTED BY THE FOLLOWING EDITORIAL STAFF</paragraph>
+	<paragraph num_entities='0' num='6'></paragraph>
+	<paragraph num_entities='1' num='7'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>CHARLES WELSH ARTHUR T. HADLEY</entity></paragraph>
+	<paragraph num_entities='0' num='8'>BENJAMIN IDE WHEELER</paragraph>
+	<paragraph num_entities='1' num='9'>SR <entity type='PERSON' common-nouns='' adjectives='sr' verbs=''>EDWIN ARNOLD</entity></paragraph>
+	<paragraph num_entities='0' num='10'>ANSON PHELPS STOKES. JR.</paragraph>
+	<paragraph num_entities='1' num='11'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>BUSS CARMAN</entity></paragraph>
+	<paragraph num_entities='1' num='12'>CyNimA WESTOVER <entity type='PERSON' common-nouns='cynima;westover' adjectives='' verbs=''>ALDEN</entity></paragraph>
+	<paragraph num_entities='0' num='13'>HOWARD PYLE</paragraph>
+	<paragraph num_entities='1' num='14'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>EDWIN KIRK RAWSON</entity></paragraph>
+	<paragraph num_entities='0' num='15'></paragraph>
+	<paragraph num_entities='0' num='16'>RICHARDKDANA</paragraph>
+	<paragraph num_entities='1' num='17'>UEUTENANT <entity type='PERSON' common-nouns='' adjectives='ueutenant' verbs=''>ROBERT E. PEARY</entity></paragraph>
+	<paragraph num_entities='1' num='18'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>EDWARD BROOKS</entity></paragraph>
+	<paragraph num_entities='1' num='19'>PROFESSOR <entity type='PERSON' common-nouns='professor' adjectives='' verbs=''>W. P. TRENT</entity></paragraph>
+	<paragraph num_entities='0' num='20'>C a D. ROBERTS</paragraph>
+	<paragraph num_entities='1' num='21'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>HENRY S. PRITCHETT</entity></paragraph>
+	<paragraph num_entities='0' num='22'>OPIE READ</paragraph>
+	<paragraph num_entities='1' num='23'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>ABBIE FARWELL BROWN</entity></paragraph>
+	<paragraph num_entities='1' num='24'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>NATHAN H. DOLE</entity></paragraph>
+	<paragraph num_entities='0' num='25'></paragraph>
+	<paragraph num_entities='0' num='26'>THCMIAS WENTWORTH HlCCiNSON  WITH A GENERAL INTRODUCTION BY MELVIL DEWEY</paragraph>
+	<paragraph num_entities='0' num='27'></paragraph>
+	<paragraph num_entities='0' num='28'>ILLUSTRATED IN COLOR AND BLACK AND THITE</paragraph>
+	<paragraph num_entities='0' num='29'></paragraph>
+	<paragraph num_entities='0' num='30'>NEW YORK  F . C O L L I F R Cr SON</paragraph>
+	<paragraph num_entities='0' num='31'></paragraph>
+	<paragraph num_entities='0' num='32'>BOARD OF EDITORS</paragraph>
+	<paragraph num_entities='0' num='33'>WALTER CAMP. Editor-in-Chief.</paragraph>
+	<paragraph num_entities='1' num='34'>u"MELVIL <entity type='LOCATION' common-nouns='melvil;director' adjectives='' verbs=''>DEWEY</entity>, Director of New York State Library. " "</paragraph>
+	<paragraph num_entities='0' num='35'>PHILIP P. WELLS. Librarian Yale Law School.</paragraph>
+	<paragraph num_entities='1' num='36'>C <entity type='PERSON' common-nouns='c;editor' adjectives='' verbs=''>G. D. ROBERTS</entity>, Editor and Historian.</paragraph>
+	<paragraph num_entities='0' num='37'>CHARLES WELSH, Author. Lecturer, Managing Editor "Young  Folks\" Library."</paragraph>
+	<paragraph num_entities='1' num='38'><entity type='PERSON' common-nouns='president' adjectives='' verbs=''>ARTHUR T. HADLEY</entity>, President Yale University.</paragraph>
+	<paragraph num_entities='1' num='39'>BENJAMIN IDE WHEELER, President University of <entity type='LOCATION' common-nouns='benjamin;ide;wheeler;president;university' adjectives='' verbs=''>California</entity>.</paragraph>
+	<paragraph num_entities='1' num='40'>SIR EDWIN ARNOLD, Author, Traveller, and Poet. Author of  "The Light of <entity type='LOCATION' common-nouns='author;light' adjectives='' verbs=''>Asia</entity>," etc.</paragraph>
+	<paragraph num_entities='0' num='41'>ANSON PHELPS STOKES, Jr., Author and Educator. Secretary  Yale University.</paragraph>
+	<paragraph num_entities='1' num='42'>CYNTHIA WESTOVER ALDEN, Author, Editor. Founder <entity type='PERSON' common-nouns='founder' adjectives='tional' verbs=''>Interna</entity>-  tional Sunshine Society.</paragraph>
+	<paragraph num_entities='0' num='43'>HOWARD PYLE. Artist- Author. Author and Illustrator of "The  Merry Adventures of Robin Hood."</paragraph>
+	<paragraph num_entities='0' num='44'>EDWARD KIRK RAWSON, Author. Superintendent Naval War  Records.</paragraph>
+	<paragraph num_entities='1' num='45'><entity type='PERSON' common-nouns='journalist;poet' adjectives='' verbs=''>BLISS CARMAN</entity>, Journalist and Poet</paragraph>
+	<paragraph num_entities='1' num='46'><entity type='PERSON' common-nouns='president;nology' adjectives='' verbs=''>HENRY S. PRITCHETT</entity>, President Massachusetts Institute of Tech-  nology.</paragraph>
+	<paragraph num_entities='1' num='47'><entity type='PERSON' common-nouns='lawyer;author;lecturer' adjectives='' verbs=''>RICHARD HENRY DANA</entity>, Lawyer, Author and Lecturer.</paragraph>
+	<paragraph num_entities='2' num='48'><entity type='PERSON' common-nouns='lieutenant;engineer;author;inventor' adjectives='civil' verbs=''>ROBERT E. PEARY</entity>, Lieutenant and Civil Engineer, <entity type='PERSON' common-nouns='lieutenant;engineer;author;inventor' adjectives='civil' verbs=''>U. S. N. Arctic Explorer</entity>, Author and Inventor.</paragraph>
+	<paragraph num_entities='1' num='49'><entity type='PERSON' common-nouns='professor' adjectives='' verbs=''>W. P. TRENT</entity>, Professor of English Literature, Columbia University.</paragraph>
+	<paragraph num_entities='1' num='50'>u"<entity type='PERSON' common-nouns='author;children;s;stories' adjectives='' verbs=''>ABBIE FARWELL BROWN</entity>, Author of Children"s Stories. "</paragraph>
+	<paragraph num_entities='2' num='51'><entity type='PERSON' common-nouns='author;superintendent;public;schools;delphium' adjectives='' verbs=''>EDWARD BROOKS</entity>, Author, Superintendent Public Schools of <entity type='LOCATION' common-nouns='author;superintendent;public;schools;delphium' adjectives='' verbs=''>Phila</entity>-  delphia.</paragraph>
+	<paragraph num_entities='1' num='52'><entity type='PERSON' common-nouns='author' adjectives='' verbs=''>THOMAS WENTWORTH HIGGINSON</entity>, Author.</paragraph>
+	<paragraph num_entities='0' num='53'>OPIE READ, Journalist and Author.</paragraph>
+	<paragraph num_entities='1' num='54'><entity type='PERSON' common-nouns='writer;translator' adjectives='' verbs=''>NATHAN H. DOLE</entity>, Writer and Translator.</paragraph>
+	<paragraph num_entities='0' num='55'></paragraph>
+	<paragraph num_entities='0' num='56'>THE KEW YORK</paragraph>
+	<paragraph num_entities='0' num='57'>PUBLIC IIBRARY</paragraph>
+	<paragraph num_entities='0' num='58'></paragraph>
+	<paragraph num_entities='0' num='59'>"F</paragraph>
+	<paragraph num_entities='0' num='60'></paragraph>
+	<paragraph num_entities='0' num='61'>A?rrou. i.KNOX and</paragraph>
+	<paragraph num_entities='0' num='62'>TlLUEiN KOC NUATI0N8  B ^</paragraph>
+	<paragraph num_entities='0' num='63'></paragraph>
+	<paragraph num_entities='0' num='64'>Xibcarg for Igounp people</paragraph>
+	<paragraph num_entities='0' num='65'></paragraph>
+	<paragraph num_entities='0' num='66'>FAIRY TALES r.</paragraph>
+	<paragraph num_entities='0' num='67'></paragraph>
+	<paragraph num_entities='0' num='68'>WITH AN INTRODUCTION BT</paragraph>
+	<paragraph num_entities='0' num='69'>HOWARD PYLE</paragraph>
+	<paragraph num_entities='0' num='70'></paragraph>
+	<paragraph num_entities='0' num='71'>ILLUSTRA TED BY</paragraph>
+	<paragraph num_entities='1' num='72'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>BEATRICE STEVENS</entity></paragraph>
+	<paragraph num_entities='0' num='73'></paragraph>
+	<paragraph num_entities='0' num='74'>NEW YORK  P. F. COLLIER ? SON</paragraph>
+	<paragraph num_entities='0' num='75'></paragraph>
+	<paragraph num_entities='0' num='76'>THE NEW TOBK</paragraph>
+	<paragraph num_entities='0' num='77'>PUBLIC LIBRARY</paragraph>
+	<paragraph num_entities='0' num='78'>292045B</paragraph>
+	<paragraph num_entities='0' num='79'>ASTtfR. LENOX AND</paragraph>
+	<paragraph num_entities='0' num='80'>TlLi&gt;M rOUNDAllONS</paragraph>
+	<paragraph num_entities='0' num='81'>1 1M4 L</paragraph>
+	<paragraph num_entities='0' num='82'></paragraph>
+	<paragraph num_entities='0' num='83'>ConmiGHT 1903  By p. F. collier &amp; SON</paragraph>
+	<paragraph num_entities='0' num='84'></paragraph>
+	<paragraph num_entities='0' num='85'>44X5</paragraph>
+	<paragraph num_entities='0' num='86'></paragraph>
+	<paragraph num_entities='0' num='87'>50 *</paragraph>
+	<paragraph num_entities='0' num='88'></paragraph>
+	<paragraph num_entities='0' num='89'>INTRODUCTION</paragraph>
+	<paragraph num_entities='0' num='90'>|HERE have Folk-Tales had their begin-  ning? Philologists are inclined to the  belief that to answer such a question one  must look far into the depths of a Past  more remote than^ that of ancient Egypt, more pro-  found than that of Nineveh and Babylon  z dim,  impenetrable Past where at the primitive fireside of  Humanity, the stories of the slayers of the Giants and  of the Hero who rescues the enchanted Princess from  her perils were told to listening audiences of the  adult children of a race yet infant in its simplicity.  Folk-Tales are as universal as human speech, and,  as one language differing from another had, after all,  its beginning in a single parent stock of vowels and  consonants articulated into speech, so the folk-tales of  one people differ from another only in a degree lim-  ited by circumstances and surroundings. For there  is no mistaking the significance of the fact that each  group of these quaint and curious Romances is so  similar in its variants that it is hardly^possible to sup-  pose otherwise than that all grew originally from one  parent root founded in the very fundamental begin-  ning of human imagination. The scientific students</paragraph>
+	<paragraph num_entities='0' num='91'>^ Vol 4</paragraph>
+	<paragraph num_entities='0' num='92'></paragraph>
+	<paragraph num_entities='0' num='93'>Introduction</paragraph>
+	<paragraph num_entities='0' num='94'>of folk-tales have even arranged the thousands of dif-  ferent forms into some score or less of general types,  and these again may be condensed into a third or a  quarter as many species. Indeed, when the final test  is applied, all may be resolved down into the one uni-  versal theme  perhaps the struggle between light  and darkness; perhaps the conflict between summer  and winter; perhaps (and this seems more likely)  that ceaseless striving of good against evil, of weak-  ness against oppression, of simplicity against cun-  ning, of innocence against cruelty, that was since the  world began.</paragraph>
+	<paragraph num_entities='0' num='95'>Let us take, for example, a very universal type of  story in which three brothers are called upon to un-  dertake some miraculous task, the reward in the suc-  cessful performance of which is to be the possession  of the beautiful Princess and of half the kingdom.  (The story rarely deviates from the statement that, of  these three brothers, two are wise and reputable,  strong and valiant; the third  always the youngest   being held by all the world to be a mere stupid wit-  less oaf. He sits at home grubbing amid the dust  and ashes, whilst his brothers go about in fine clothes  and at ease. He is kicked and cuffed from pillar to  post, and the refuse of the house is thrown to him to  eat as it might be thrown to a mangy dog. The two  elder brothers embark upon the performance of the  adventure  jubilant, joyous, confident of success.  rThey return beaten, humiliated, overthrown. Then</paragraph>
+	<paragraph num_entities='0' num='96'>u</paragraph>
+	<paragraph num_entities='0' num='97'></paragraph>
+	<paragraph num_entities='0' num='98'>Introduction</paragraph>
+	<paragraph num_entities='0' num='99'></paragraph>
+	<paragraph num_entities='0' num='100'>u"the youngest hfother rises from his degradation ; he  shakes die dost and ashes from his coat, and iol you  Buy behold in him the unexpected possibilities of a  hera He goes forth into the world  ^maybe with  "only a wooden sword by way of a weapon and a rind  of cheese and a crust of bread by way of sustenance.  He unexpectedly devdops a marvellous cunning and  courage; he sla3rs dragons; he conquers giants; he  clind&gt;s mountains of glass; he rescues the distressed  Princess ; he even goes to the end of the earth to fetch  her back the Fruit of Happiness or the Water of  Life so that he may restore her into a resurrection of  joy and beauty. "</paragraph>
+	<paragraph num_entities='0' num='101'>This type of folk-tale belongs to every race of  people and to every nation in the world; it extends  from the farthest bounds of Scandinavia to the utter-  most part of India. The variants upon the theme  are innumeraixle, but the theme itself is as universal  as the words of human speech. It is impossible not  to believe that it holds within it some mysterious sig-  nificance that appertains to the very psychical exist-*  ence of humanity. Were it otherwise it would long  since have been dissipated and vanished into forget-  fulness instead of being repeated and varied into a  hundred languages and a diousand differentiated  forms.</paragraph>
+	<paragraph num_entities='1' num='102'>The spiritual significance of the story is the same  whether it be told of <entity type='PERSON' common-nouns='significance;story;shepherd' adjectives='spiritual;same' verbs='be;be;tell'>David</entity>, the Hebrew shepherd</paragraph>
+	<paragraph num_entities='0' num='103'>lady who slew his giant with a pebble, and so grew to</paragraph>
+	<paragraph num_entities='0' num='104'></paragraph>
+	<paragraph num_entities='0' num='105'>lU</paragraph>
+	<paragraph num_entities='0' num='106'></paragraph>
+	<paragraph num_entities='0' num='107'>Introduction</paragraph>
+	<paragraph num_entities='1' num='108'>be a king; or whether it be told of the little Tailor of  <entity type='LOCATION' common-nouns='king;tailor;obscurity;bench;giant;boar;land;home;unicorn;rope;princess;king' adjectives='little;wild;beautiful' verbs='be;be;tell;go;slay;destroy;ravage;bring;tie;marry;be;come'>Germany</entity>, who went forth from the obscurity of his  bench to slay the giants, to destroy the wild boar that  ravaged the land, to bring home the unicorn, tied  with ropes, to marry the beautiful Princess, to be-  come a king.</paragraph>
+	<paragraph num_entities='0' num='109'>Another type of story, favorite with all peoples, is  that of the clever thief who, by cunning and inge-  nuity, circumvents the entire cumbrous machinery of  established law and order. He, too, in many vari-  ants, marries a Princess and, in the end, as King, be-  comes the very keystone of that structure of legiti-  mate order which he one time himself did so much to  undermine.</paragraph>
+	<paragraph num_entities='2' num='110'>This type of story exists, not only in the folk-tales  of Germany and Scandinavia, of the Scottish High-  lands and the plains of southern Europe, but it ap-  pears with a singular identity of form in a folk-tale  transcribed by the collector of certain North Ameri-  can Indian myths. It is recounted, not only at the  firesides of to-day, but <entity type='PERSON' common-nouns='fireside;to-day;priest;legend' adjectives='ancient;dead;great' verbs='be;recount;have;tell;forget'>Herodotus</entity> had it, he tells us,  from the priests of <entity type='LOCATION' common-nouns='fireside;to-day;priest;legend' adjectives='ancient;dead;great' verbs='be;recount;have;tell;forget'>Egypt</entity> as an ancient legend of  dead and forgotten days of great Pharaohs of the  past.</paragraph>
+	<paragraph num_entities='0' num='111'>It is not so easy, upon the face, to understand why  the stories of theft and of lawlessness should possess  such a charm. The paradox is more comprehensible  when one sees in the narrative a form of that univer-  sal and eternal revolt of helplessness against tyranny.</paragraph>
+	<paragraph num_entities='0' num='112'></paragraph>
+	<paragraph num_entities='0' num='113'>Introduction</paragraph>
+	<paragraph num_entities='0' num='114'>of weakness against power; diat revolt that has ex-  isted from the immemorial past when in the begin-  nings of the world the strong man first began to domi-  nate his weaker brethren and to accumulate the  wealth of die earth for his own erecting a super-  structure of laws to protect himself and his descen-  dants in their possessions.</paragraph>
+	<paragraph num_entities='2' num='115'>Again, there is the story of the poor brodier and  of the rich brother  of how the rich brother supplies  the necessities of the poor brother widi a harsh* and  grudging reluctance, setting some seemingly impos-  sible task, by way of return for the niggardly bounty  received. From his poverty and need, the poor  brother arises to glory, power, and opulence; from  his wealth and abundance, the rich brother sinks into  humiliation and shame. Such is the theme that un-  derlies the Oriental story of <entity type='PERSON' common-nouns='theme;derly;story;scandi;tale;man;quern;hell;wealth;happus;ness;soldier;dif;variant;folk-romance;nation;race;face;earth' adjectives='such;navian;poor;magic;poor;ferent' verbs='be;bring;grind;inhabit'>Ali Baba</entity>; the Scandi-  navian tale of the poor man who brought the magic  quern from Hell that ground him wealth and happi-  ness; the poor soldier of <entity type='LOCATION' common-nouns='theme;derly;story;scandi;tale;man;quern;hell;wealth;happus;ness;soldier;dif;variant;folk-romance;nation;race;face;earth' adjectives='such;navian;poor;magic;poor;ferent' verbs='be;bring;grind;inhabit'>Germany</entity>; and so, with dif-  ferent variants, through the folk-romances of every  nation and every race that inhabits the face of the  earth.</paragraph>
+	<paragraph num_entities='0' num='116'>Here also a universal intention underlies all the  different tales, pointing to one parent root from  which all have sprung.</paragraph>
+	<paragraph num_entities='0' num='117'>These are only three of a multitude of groups  which I have adduced to establish my proposition. I  will only speak of two other types that, to my mind,</paragraph>
+	<paragraph num_entities='0' num='118'>v</paragraph>
+	<paragraph num_entities='0' num='119'></paragraph>
+	<paragraph num_entities='0' num='120'>Introduction</paragraph>
+	<paragraph num_entities='0' num='121'>are singularly pregnant of a profound significance so  universal that they must have belonged to the very  foundation of human existence.</paragraph>
+	<paragraph num_entities='1' num='122'>The first of these is the sublime idea of <entity type='LOCATION' common-nouns='idea;rection;death;life' adjectives='sublime' verbs='be'>Resur</entity>-  rection from Death to Life.</paragraph>
+	<paragraph num_entities='0' num='123'>Sometimes the simple folk-story tells of an en-  chanted Princess who lies entranced for a hundred  years until the expected hero appears to waken her;  sometimes the hero or the heroine dies and the soul  reappears in the form of an animal until, by means of  some peculiar charm or mystic ceremony, it is rein-  carnated in the original human body; sometimes the  hero of the narrative is slain by the villain, and is re-  vived by some faithful friend or animal companion,  who brings to him the Water of Life or the Fruit of  Life from the uttermost extremity of the earth ; some-  times it is a great King or a great Hero who had gone  from the world only for a little while, leaving behind  him a promise that, by and by, he shall return and  bring peace and happiness, hope and comfort, to the  lowly and oppressed. The profound significance of  this group of stories needs no explication.</paragraph>
+	<paragraph num_entities='0' num='124'>The theme of the second group, of which I now  speak, is that in which it is told of beasts who speak  and have human intelligence and who, in the ex-  tremity of his need, bring help and succor to the  Hero of the tale.</paragraph>
+	<paragraph num_entities='0' num='125'>This, also, is a type of story universal to all hu-  manity and which must have had its root in the very</paragraph>
+	<paragraph num_entities='0' num='126'>vi</paragraph>
+	<paragraph num_entities='0' num='127'></paragraph>
+	<paragraph num_entities='0' num='128'>Introduction</paragraph>
+	<paragraph num_entities='0' num='129'>beginnings of human life, speaking, as it does, of the  kinship of man with the dumb beasts of the earth and  air. For as the one of these groups of romances  speaks of the imperishability and the immortality of  the human soul, so the other  equally primitive   speaks of the consanguinity of man with the things of  the earth whereon he finds his temporary dwelling-  place.</paragraph>
+	<paragraph num_entities='0' num='130'>It is these underlying significances of folk-tales  that make them immortal; that endow them with  perennial life  otherwise they would never have de-  scended to us of the present from out that profound  and unfathomable past. The thunder epics of in-  numerable dead poets have rumbled away into si-  lence of eternity; only huge fragments of Homer and  of Aeschylus remain to us of the present day; but  those quaint, simple, childish narratives, told at the  fireside, existing only as they have been passed from  lip to lip, have reached us unbroken  almost un-  changed in their very diction  from the very begin-  nings of human speech. So, likewise, they shall  doubtless last as long as this ancient world shall throb  with human life.</paragraph>
+	<paragraph num_entities='1' num='131'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Howard Pyle</entity>.</paragraph>
+	<paragraph num_entities='0' num='132'></paragraph>
+	<paragraph num_entities='0' num='133'>Vll</paragraph>
+	<paragraph num_entities='0' num='134'></paragraph>
+	<paragraph num_entities='0' num='135'>FAIRY TALES</paragraph>
+	<paragraph num_entities='0' num='136'></paragraph>
+	<paragraph num_entities='0' num='137'>CONTENTS</paragraph>
+	<paragraph num_entities='0' num='138'></paragraph>
+	<paragraph num_entities='0' num='139'>THE LITTLE GOOD MOUSE ^ t^ S</paragraph>
+	<paragraph num_entities='0' num='140'>GRACIOSA AND PERCINET 22</paragraph>
+	<paragraph num_entities='0' num='141'>THE HISTORY OF SIR. R. WHITTINGTON AND HIS CAT . . 46</paragraph>
+	<paragraph num_entities='0' num='142'>THE SNOW QUEEN  ^IN SEVEN STORIES :</paragraph>
+	<paragraph num_entities='0' num='143'>THE FIRST STORY  ^WHICH TREATS .OF THE MIRROR AND</paragraph>
+	<paragraph num_entities='0' num='144'>FRAGMENTS 58</paragraph>
+	<paragraph num_entities='0' num='145'>THE SECOND STORY  ^A LITTLE BOY AND A LITTLE GIRL . . 60  THE THIRD STORY  ^THE FLOWER GARDEN OF THE WOMAN</paragraph>
+	<paragraph num_entities='0' num='146'>WHO COULD CONJURE 6/</paragraph>
+	<paragraph num_entities='1' num='147'>THE FOURTH STORY  ^THE PRINCE AND THE PRINCESS . . 77  THE FIFTH STORY  ^THE LITTLE ROBBER GIRL .... 86  THE SIXTH STORY  ^THE <entity type='LOCATION' common-nouns='story;robber;girl;story;woman;land;woman' adjectives='little' verbs=''>LAPLAND</entity> WOMAN AND THE FIN-  LAND WOMAN 93</paragraph>
+	<paragraph num_entities='0' num='148'>THE SEVENTH STORY  OF THE SNOW QUEEN^S CASTLE AND</paragraph>
+	<paragraph num_entities='0' num='149'>WHAT HAPPENED THERE AT LAST 97</paragraph>
+	<paragraph num_entities='0' num='150'>LITTLE FREDDY WITH HIS FIDDLE IO3</paragraph>
+	<paragraph num_entities='0' num='151'>WHY THE SEA IS SALT 112</paragraph>
+	<paragraph num_entities='0' num='152'>THE INVISIBLE PRINCE II9</paragraph>
+	<paragraph num_entities='0' num='153'>THE WONDERFUL SHEEP 1 38</paragraph>
+	<paragraph num_entities='1' num='154'><entity type='PERSON' common-nouns='jocosa' adjectives='' verbs=''>SYLVAIN</entity> AND JOCOSA 160</paragraph>
+	<paragraph num_entities='0' num='155'>THE FROG KING OR IRON HENRY I70</paragraph>
+	<paragraph num_entities='0' num='156'>CAT AND MOUSE IN PARTNERSHIP 1 75</paragraph>
+	<paragraph num_entities='0' num='157'>THE STRAW, THE COAL, AND THE BEAN 1 79</paragraph>
+	<paragraph num_entities='0' num='158'>THE FISHERMAN AND HIS WIFE 181</paragraph>
+	<paragraph num_entities='0' num='159'>THE WISHING-TABLE, THE GOLD-ASS, AND THE CUDGEL IN</paragraph>
+	<paragraph num_entities='0' num='160'>THE SACK 192</paragraph>
+	<paragraph num_entities='0' num='161'>3PRINCSSS ROSETTE 206</paragraph>
+	<paragraph num_entities='0' num='162'>3</paragraph>
+	<paragraph num_entities='0' num='163'></paragraph>
+	<paragraph num_entities='0' num='164'>Contents</paragraph>
+	<paragraph num_entities='0' num='165'>THE ENCHANTED PIG 228</paragraph>
+	<paragraph num_entities='0' num='166'>BLUEBEARD 245</paragraph>
+	<paragraph num_entities='0' num='167'>TOADS AND DIAMONDS 252</paragraph>
+	<paragraph num_entities='0' num='168'>PRINCE DARLING  . .</paragraph>
+	<paragraph num_entities='0' num='169'>256</paragraph>
+	<paragraph num_entities='1' num='170'><entity type='PERSON' common-nouns='tu;t' adjectives='' verbs=''>RIQUET</entity> WITH THE TU^T 273</paragraph>
+	<paragraph num_entities='0' num='171'>FORTUNATUS 280</paragraph>
+	<paragraph num_entities='0' num='172'>THE KING OF THE GOLDEN RIVER 29I</paragraph>
+	<paragraph num_entities='1' num='173'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>HOLGER DANSKE</entity> 325</paragraph>
+	<paragraph num_entities='0' num='174'>THE GOOSE-GIRL AT THE WELL 332</paragraph>
+	<paragraph num_entities='1' num='175'><entity type='PERSON' common-nouns='luck' adjectives='' verbs=''>HANS</entity> IN LUCK 346</paragraph>
+	<paragraph num_entities='0' num='176'>THE PRINCESS AND THE NUTS 354</paragraph>
+	<paragraph num_entities='0' num='177'>THE TWELVE DANCING PRINCESSES 359</paragraph>
+	<paragraph num_entities='0' num='178'>THE WATER LILY. THE GOLD SPINNERS 376</paragraph>
+	<paragraph num_entities='1' num='179'><entity type='PERSON' common-nouns='pot;pink' adjectives='' verbs=''>FELICIA</entity> AND THE POT OF PINKS 387</paragraph>
+	<paragraph num_entities='0' num='180'>SNOW-WHITE AND ROSE-RED 399</paragraph>
+	<paragraph num_entities='0' num='181'>THE GOOSE-GIRL 408</paragraph>
+	<paragraph num_entities='0' num='182'>THE STORY OF THE YOUTH WHO WENT FORTH TO LEARN</paragraph>
+	<paragraph num_entities='0' num='183'>WHAT FEAR WAS 417</paragraph>
+	<paragraph num_entities='0' num='184'>u"STORY OF THE EMPEROR"S NEW CLOTHES 43O "</paragraph>
+	<paragraph num_entities='0' num='185'>THE ROSE AND THE RING 437</paragraph>
+	<paragraph num_entities='0' num='186'></paragraph>
+	<paragraph num_entities='0' num='187'>FAIRY TALES</paragraph>
+	<paragraph num_entities='0' num='188'></paragraph>
+	<paragraph num_entities='0' num='189'>THE LITTLE GOOD MOUSE</paragraph>
+	<paragraph num_entities='0' num='190'>ONCE upon a time there lived a King and Queen  who loved each other so much that they were  never happy unless they were together. Day after day  they went out hundng or fishing ; night after night they  went to balls or to the opera ; they sang, and danced,  and ate sugar-plums, and were the gayest of the gay, and  all their subjects followed their example so that the king-  dom was called the Joyous Land. Now in the next  kingdom everything was as different as it could possibly  be. The King was sulky and savage, and never enjoyed  himself at all. He looked so ugly and cross that all his  subjects feared him, and he hated the very sight of a  cheerful face ; so if he ever caught any one smiling he  had his head cut off that very minute. This kingdom  was very appropriately called the Land of Tears. Now  when this wicked King heard of the happiness of the  Jolly King, he was so jealous that he collected a great  army and set out to fight him, and the news of his ap-  proach was soon brought to the King and Queen. The  Queen, when she heard of it, was frightened out of her</paragraph>
+	<paragraph num_entities='0' num='191'>5</paragraph>
+	<paragraph num_entities='0' num='192'></paragraph>
+	<paragraph num_entities='0' num='193'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='194'>wits, and began to cry bitterly, " Sire," she said, " let  us collect all our riches and run away as far as ever we  can, to the other side of the world."</paragraph>
+	<paragraph num_entities='0' num='195'>But the King answered :</paragraph>
+	<paragraph num_entities='0' num='196'>\"\"Fie, madam ! I am far too brave for that It is  better to die than to be a coward."</paragraph>
+	<paragraph num_entities='0' num='197'>Then he assembled all his armed men, and after bid-  ding the Queen a tender farewell, he mounted his splendid  horse and rode away. When he was lost to sight the  Queen could do nothing but weep, and wring her hands,  and cry.</paragraph>
+	<paragraph num_entities='0' num='198'>\"\" Alas ! If the King is killed, what will become of  me and of my little daughter ? " and she was so sorrow-  ful that she could neither eat nor sleep.</paragraph>
+	<paragraph num_entities='0' num='199'>The King sent her a letter every day, but at last, one  morning, as she looked out of the palace window, she  saw a messenger approaching in hot haste.</paragraph>
+	<paragraph num_entities='0' num='200'>" What news, courier ? what news ? " cried the Queen,  and he answered :</paragraph>
+	<paragraph num_entities='0' num='201'>\"\" The battle is lost and the King is dead, and in  another moment the enemy will be here."</paragraph>
+	<paragraph num_entities='0' num='202'>The poor Queen fell back insensible, and all her ladies</paragraph>
+	<paragraph num_entities='0' num='203'>carried her to bed, and stood round her weeping and</paragraph>
+	<paragraph num_entities='0' num='204'>wailing. Then began a tremendous noise and confusion,</paragraph>
+	<paragraph num_entities='0' num='205'>and they knew that the enemy had arrived, and very</paragraph>
+	<paragraph num_entities='0' num='206'>soon they heard the King himself stamping about the</paragraph>
+	<paragraph num_entities='0' num='207'>palace seeking the Queen. Then her ladies put the little</paragraph>
+	<paragraph num_entities='0' num='208'>Princess into her arms, and covered her up, head and all,</paragraph>
+	<paragraph num_entities='0' num='209'>in the bedclothes, and ran for their lives, and the poor</paragraph>
+	<paragraph num_entities='0' num='210'>6</paragraph>
+	<paragraph num_entities='0' num='211'></paragraph>
+	<paragraph num_entities='0' num='212'></paragraph>
+	<paragraph num_entities='0' num='213'></paragraph>
+	<paragraph num_entities='0' num='214'></paragraph>
+	<paragraph num_entities='0' num='215'>u"" The Little Gcx)d Mouse "</paragraph>
+	<paragraph num_entities='0' num='216'>Queen Ity there shaking, and hoping she would not be  found. But very soon the wicked King clattered into  the room, and in a fury because the Queen would not  answer when he called to her, he tore back her silken  coverings and tweaked off her lace cap, and when all her  lovely hair came tumbling down over her shoulders, he  wound it three times round his hand and threw her over  his shoulder, where he carried her like a sack of ilour.</paragraph>
+	<paragraph num_entities='0' num='217'>u"The poor Queen held her little daughter safe in her  arms and shrieked for mercy, but the wicked King only  mocked her, and begged her to go on shrieking, as it  amused him, and so mounted his great black horse, and  rode bade to his own country. When he got there he  declared that he would have the Queen and the little  Princess hanged on the nearest tree ; but his courtiers  said that seemed a pity, for when the baby grew up she  would be a very nice wife for the King"s only son. "</paragraph>
+	<paragraph num_entities='0' num='218'>The King was rather pleased with this idea, and shut  the Queen up m the highest room of a tall tower, which  was very tiny, and miserably furnished with a table and  a very hard bed upon the floor. Then he sent for a  latry who lived near his kingdom, and after receiving her  with more politeness than he generally showed, and en-  tertaining her at a sumptuous feast, he took her up  to see the Queen. The tairy was so touched by the  mght of her misery that when she kissed her hand  she whispered :</paragraph>
+	<paragraph num_entities='0' num='219'>^\" Courage, madam ! { think I see a way to help you."</paragraph>
+	<paragraph num_entities='0' num='220'>The Queen, a little comforted by these words, re-</paragraph>
+	<paragraph num_entities='0' num='221'>7</paragraph>
+	<paragraph num_entities='0' num='222'></paragraph>
+	<paragraph num_entities='0' num='223'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='224'>ceived her graciouslV) and begged her to take pity upon  the poor little Princess, who had met with such a sudden  reverse of fortune. But the King got very crpss when  he saw them whispering together, and cried harshly :</paragraph>
+	<paragraph num_entities='0' num='225'>\"* Make an end of these fine speeches, madam. I  brought you here to tell me if the child will grow up  pretty and fortunate."</paragraph>
+	<paragraph num_entities='0' num='226'>Then the Fairy answered that the Princess would be  as pretty, and clever, and well brought up as it was pos-  sible to be, and the old King growled to the Queen that  it was lucky for her that it was so, as they would cer-  tainly have been hanged if it were otherwise. Then  he stamped off, taking the Fairy with him, and leaving  the poor Queen in tears.</paragraph>
+	<paragraph num_entities='0' num='227'>" How can I wish my little daughter to grow up  pretty if she is to be married to that horrid little dwarf,  the King\"s son," she said to herself, " and yet, if she is  ugly we shall both be killed. If I could only hide her  away somewhere, so that the cruel King could never find  her."</paragraph>
+	<paragraph num_entities='0' num='228'>As the days went on, the Queen and the little Prin-  cess grew thinner and thinner, for their hard-hearted  jailer gave them every day only three boiled peas and a  tiny morsel of black bread, so they were always terribly  hungry. At last, one evening, as the Queen sat at her  spinning-wheel  for the King was- so avaricious that she  was made to work day and night  she saw a tiny, pretty  little mouse creep out of a hole, and said to it :</paragraph>
+	<paragraph num_entities='0' num='229'>u"^" Alas, little creature 1 what are you coming to look "</paragraph>
+	<paragraph num_entities='0' num='230'>8</paragraph>
+	<paragraph num_entities='0' num='231'></paragraph>
+	<paragraph num_entities='0' num='232'>The Little Good Mouse</paragraph>
+	<paragraph num_entities='0' num='233'>u"for here ? I only have three peas for my day"s pro*  vision, so unless you wish to fast you must go else-  where/* "</paragraph>
+	<paragraph num_entities='0' num='234'>But the mouse ran hither and thither, and danced  and capered so prettily, that at last the Queen gave it her  last pea, which she was keeping for her supper, saying :  ^ Here, little one, eat it up ; I have nothing better to  oflfer you, but I give this willingly in return for the  amusement I have had from you."</paragraph>
+	<paragraph num_entities='0' num='235'>She had hardly spoken when she saw upon the table  a delicious little roast partridge, and two dishes of pre*  served fruit. "Truly," said she, **a kind action never  goes unrewarded;" and she and the little Princess ate  their supper with great satisfaction, and then the Queen  gave what was left to the little mouse, who danced better  than ever afterward. The next mornii^ came the jailer  with the Queen\"s allowance of three peas, which he  brought in upon a laige dish to make them look smaller ;  but as soon as he set it down the little mouse came and  ate up all three, so that when the Queen wanted her din-  ner there was nothing left for her. Then she was quite  provoked, and said :</paragraph>
+	<paragraph num_entities='0' num='236'>^\" What a bad little beast that mouse must be ! If it  goes on like this I shall be starved." But when she  glanced at the dish again it was covered with all sorts of  nice things to eat, and the Queen made a very good  dinner, and was gayer than usual over it. But afterward  as she sat at her spinning*wheel she began to consider  what would happen if the little Princess did not grow</paragraph>
+	<paragraph num_entities='0' num='237'>9</paragraph>
+	<paragraph num_entities='0' num='238'></paragraph>
+	<paragraph num_entities='0' num='239'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='240'>up pretty enough to please the King, and she said to  herself :</paragraph>
+	<paragraph num_entities='0' num='241'>" Oh ! if I could only think of some way of escaping/*</paragraph>
+	<paragraph num_entities='0' num='242'>As she spoke she saw the little mouse playing in a  corner with some long straws. The Queen took them  and began to plait them, saying :</paragraph>
+	<paragraph num_entities='0' num='243'>*^ If only I had straws enough 1 would make a basket  with them, and let my baby down in it from the window  to any kind passer-by who would take care of her."</paragraph>
+	<paragraph num_entities='0' num='244'>By the time the straws were all plaited the little mouse  had draped in more and more, until the Queen had plenty  to make her basket, and she worked at it day and night,  while the little mouse danced for her amusement ; and at  dinner and supper time the Queen gave it the three peas  and the bit of black bread, and always found something  good in the dish in their place. She really could not  imagine where all the nice things came from. At last one  day when the basket was finished, the Queen was looking  out of the window to see how long a cord she must make  to lower it to the bottom of the tower, when she noticed  a little old woman who was leaning upon her stick and  looking up at her. Presently she said :</paragraph>
+	<paragraph num_entities='0' num='245'>^\" I know your trouble, madam. If you like I Will  help you."</paragraph>
+	<paragraph num_entities='0' num='246'>" Oh ! my dear friend," said the Queen. " If you  really wish to be of use to me you will come at the time  that I will appoint, and I will let down my poor little  baby in a basket. If you will take her, and bring her up  for me, when I am rich I will reward you splendidly."</paragraph>
+	<paragraph num_entities='0' num='247'>ID</paragraph>
+	<paragraph num_entities='0' num='248'></paragraph>
+	<paragraph num_entities='0' num='249'>The Little Good Mouse</paragraph>
+	<paragraph num_entities='0' num='250'>*^ I don\"t care about the reward/\" said the old woman,  ^\"but there is one thing that I should like. You must  know that I am very particular about what I eat, and if  there is one thing that I fancy above all others, it is a  plump, tender little mouse. If there is such a thing in  your garret just throw it down to me, and in return I will  promise that your little daughter shall be well taken  care of."</paragraph>
+	<paragraph num_entities='0' num='251'>The Queen when she heard this began to cry, but  made no answer, and the old woman after waiting a few  minutes asked her what was the matter.</paragraph>
+	<paragraph num_entities='0' num='252'>" Why," said the Queen, " there is only one mouse  in this garret, and that is such a dear, pretty little thing  that I cannot bear to think of its being killed."</paragraph>
+	<paragraph num_entities='0' num='253'>" What ! " cried the old woman, in a rage. " Do you  care more for a miserable mouse than for your own baby i  Good-by, madam ! I leave you to enjoy its company,  and for my own part I thank my stars that I can get  plenty of mice without troubling you to give them to me."</paragraph>
+	<paragraph num_entities='0' num='254'>And she hobbled off grumbling and growling. As to  the Queen, she was so disappointed that, in spite of finding  a better dinner than usual, and seeing the little mouse  dancing in its merriest mood, she could do nothing but  cry. That night when her baby was fast asleep she packed  it into the basket, and wrote on a slip of paper, \"^ This  unhappy little girl is called Delicia ! " This she pinned  to its robe, and then very sadly she was shutting the  basket, when in sprang the little mouse and sat on the  baby\"s pillow.</paragraph>
+	<paragraph num_entities='0' num='255'>II</paragraph>
+	<paragraph num_entities='0' num='256'></paragraph>
+	<paragraph num_entities='0' num='257'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='258'>*^ Ah ! Hide one/^ said the Queen, ** it cost me dear to  save yoar life. How shall I know now whether my Deticia  b being taken care of or no ? Any one else would have  kt the greedy old woman have you, and eat you up, but  1 could not bear to do it." Whereupon the Mouse  answered:</paragraph>
+	<paragraph num_entities='0' num='259'>^\" Believe me, madam, you will never repent of your  kindness."</paragraph>
+	<paragraph num_entities='0' num='260'>The Queen was immensely astonished when the  Mouse began to speak, and still more so when she saw  its little sharp nose turn to a beautiful face, and its paws  to hands and feet ; then it suddenly grew tall, and the  Queen recognized the Fairy who had come with the  wicked King to visit hen</paragraph>
+	<paragraph num_entities='0' num='261'>The Fairy smiled at her astonished look, and said :</paragraph>
+	<paragraph num_entities='0' num='262'>\"^ I wanted to see if you were faithful and capable of  feeling a real friendship for me, for you see we fiuries are  rich in everything but friends, and those are hard to find."</paragraph>
+	<paragraph num_entities='0' num='263'>\"^ It is not possible that you should want for friends,  you charming creature," said the Queen, kissing her.</paragraph>
+	<paragraph num_entities='0' num='264'>" Indeed it is so," the Fairy said. " For those who are  only friendly with me for their own advantage, I do not  count at alL But when you cared for the poor little mouse  you could not have known there was anything to be gained  by it, and to try you further I took the form of the old  woman whom you talked to from the window, and then  I was convinced that you really loved me." Then, turning  to the little Princess, she kissed her rosy lips three times,  saying :</paragraph>
+	<paragraph num_entities='0' num='265'>12</paragraph>
+	<paragraph num_entities='0' num='266'></paragraph>
+	<paragraph num_entities='0' num='267'>The Little Good Mouse</paragraph>
+	<paragraph num_entities='0' num='268'>** Dear litde one, I promise that you shall be richer  than your father, and shall live a hundred years, always  pretty and happy, without fear of old age and wrinkles."</paragraph>
+	<paragraph num_entities='0' num='269'>The Queen, quite delighted, thanked the Fairy grate-  fully, and b^ged her to take chaise of the little Delida  and bring her up as her own daughter. This she agreed  to do, and then they shut the basket and lowered it  carefully, baby and all, to the ground at the foot of  the tower. The Fairy then changed herself back into  the form of a mouse, and this delayed her a few seconds,  after which she ran nimbly down the straw rope, but only  to find when she got to the bottom that the baby had  disappeared.</paragraph>
+	<paragraph num_entities='0' num='270'>In the greatest terror she ran up again to the Queen,  crying :</paragraph>
+	<paragraph num_entities='1' num='271'>*\" All is lost ! my enemy Cancaline has stolen the  Princess away. You must know that she is a cruel fairy  who hates me, and as she is older than I am and has  more power, I can do nothing against her. I know no  way of rescuing <entity type='PERSON' common-nouns='way;clutch' adjectives='' verbs='know;rescue'>Delicia</entity> from her clutches."</paragraph>
+	<paragraph num_entities='0' num='272'>When the Queen heard this terrible news she was  heart-broken, and begged the Fairy to do all she could  to get the poor little Princess back again. At this mo-  ment in came the jailer, and when he missed the little  Princess he at once told the King, who came in a great  fury asking what the Queen had done with her. She an-  swered that a fairy, whose name she did not know, had  come and carried her off by force. Upon this the King  stamped upon the ground, and cried in a terrible voice :</paragraph>
+	<paragraph num_entities='0' num='273'>13</paragraph>
+	<paragraph num_entities='0' num='274'></paragraph>
+	<paragraph num_entities='0' num='275'>Fairy Tales</paragraph>
+	<paragraph num_entities='1' num='276'>^ You shall be hung ! I always told you you should."  And without another word he dragged the unlucky  Queen out into the nearest wood, and climbed up into a  tree to look for a branch to which he could hang her.  But when he was quite high up, the Fairy, who had  made herself invisible and followed them gave him a  sudden push, which made him lose his footing and fall to  the ground with a crash and break four of his teeth, and  while he was trying to mend them the fairy carried the  Queen off in her flying chariot to a beautiful castle, where  she was so kind to her that but for the loss of Delicia the  Queen would have been perfectly happy. But though  the good little mouse did her very utmost, they could  not find out where <entity type='PERSON' common-nouns='mouse;princess' adjectives='good;little;utmost;little' verbs='do;find;have;hide'>Cancaline</entity> had hidden the little  Princess.</paragraph>
+	<paragraph num_entities='0' num='277'>Thus fifteen years went by, and the Queen had some-  iRfhat recovered from her grief, when the news reached her  that the son of the wicked King wished to marry the  little maiden who kept the turkeys, and that she had re-  fused him ; the wedding-dresses had been made, never-  theless, and the festivities were to be so splendid that all  the people for leagues round were flocking in to be pres-  ent at them. The Queen felt quite curious about a lit-  tle Turkey-maiden who did not wish to be a Queen, so  the little mouse conveyed herself to the poultry-yard to  find out what she was like.</paragraph>
+	<paragraph num_entities='0' num='278'>She found the Turkey-maiden- sitting upon a big  stone, barefooted, and miserably dressed in an old, coarse  linen gown and cap ; the ground at her feet was all strewn</paragraph>
+	<paragraph num_entities='0' num='279'>14</paragraph>
+	<paragraph num_entities='0' num='280'></paragraph>
+	<paragraph num_entities='0' num='281'>The Little Good Mouse</paragraph>
+	<paragraph num_entities='0' num='282'>u"with robes of gold and silver, ribbons and laces, diamonds  and pearls, over which the turkeys were stalking to and  fro, while the King"s ugly, disagreeable son stood oppo-  site her, declaring angrily that if she would not marry him  she should be killed. "</paragraph>
+	<paragraph num_entities='0' num='283'>The Turkey-maiden answered proudly :</paragraph>
+	<paragraph num_entities='0' num='284'>** I never will marry you ! you are too ugly and too  much like your cruel father. Leave me in peace with  my turkeys, which I like far better than all your fine  gifb."</paragraph>
+	<paragraph num_entities='1' num='285'>u"The little mouse watched her with the greatest admi-  ration, for she was as beautiful as the spring ; and as soon  as the wicked <entity type='PERSON' common-nouns='mouse;ration;form;peasant;woman' adjectives='little;greatest;beautiful;wicked;old' verbs='watch;be;be;go;take;say'>Prince</entity> was gone, she took the form of an  old peasant woman and said to her : " "</paragraph>
+	<paragraph num_entities='0' num='286'>\"* Good-day, my pretty one ! you have a fine flock of  turkeys there."</paragraph>
+	<paragraph num_entities='0' num='287'>The young Turkey-maiden turned her gentle eyes  upon the old woman and answered :</paragraph>
+	<paragraph num_entities='0' num='288'>" Yet they wish me to leave them to become a miser-  able Queen 1 what is your advice upon the matter ? "</paragraph>
+	<paragraph num_entities='0' num='289'>" My child," said the Fairy, " a crown is a very  pretty thing, but you know neither the price nor the  weight of it."</paragraph>
+	<paragraph num_entities='0' num='290'>" I know so well that I have refused to wear one,"  said the little maiden, \"\" though I don\"t know who was  my father, or who was my mother, and I have not a  friend in the world."</paragraph>
+	<paragraph num_entities='0' num='291'>** You have goodness and beauty, which are of more  value than ten kingdoms," said the wise Fairy. \"\" But</paragraph>
+	<paragraph num_entities='0' num='292'>15</paragraph>
+	<paragraph num_entities='0' num='293'></paragraph>
+	<paragraph num_entities='0' num='294'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='295'>u"tell me, child, how came you here, and how is it you  have neither fiither, ncM* mother, nor friend ? "" "</paragraph>
+	<paragraph num_entities='0' num='296'>\"\" A Fairy called Cancaline is the cause of my being  here," answered she, \"* for while I lived with her I got  nothing but blows and harsh words, until at last I could  bear it no longer, and ran away from her without know-  ing where I was g&lt;ng, and as I came through a wood  -die widced Prince met me, and offered to give me charge  of the poultry-ysrd. I accepted gladly, not knowing duit  I should have to see him day by day. And now he  wants to marry me, but that I will never consent to/\"</paragraph>
+	<paragraph num_entities='2' num='297'>Upon hearing this the Fairy became convinced that  the little Turkey-maiden was none other than the <entity type='PERSON' common-nouns='fairy;none;cess' adjectives='convinced;little;other' verbs='hear;become;be'>Prin</entity>-  cess <entity type='PERSON' common-nouns='fairy;none;cess' adjectives='convinced;little;other' verbs='hear;become;be'>Delicia</entity>.</paragraph>
+	<paragraph num_entities='0' num='298'>u"^" What is your name, my little one ? ** said she. "</paragraph>
+	<paragraph num_entities='1' num='299'>u"""I am called <entity type='PERSON' common-nouns='u' adjectives='' verbs='be;call;please;swer'>Delicia</entity>, if it please you,"" she an-  swered. "</paragraph>
+	<paragraph num_entities='0' num='300'>u"Then the Fairy threw her arms round the Princess"s  neck, and nearly smothered her with kisses, saying : "</paragraph>
+	<paragraph num_entities='0' num='301'>^\" Ah, Delicia ! I am a very old fHend of yours, and  I am truly glad to find you at last ; but you might look  nicer than you do in that old gown, which is only fit for  a kitchen-maid. Take this pretty dress and let us see  the difierence it will make."</paragraph>
+	<paragraph num_entities='1' num='302'>So <entity type='PERSON' common-nouns='cap' adjectives='ugly' verbs='take;shake'>Delicia</entity> took off the ugly cap, and shook out all</paragraph>
+	<paragraph num_entities='0' num='303'>her fair shining hair, and bathed her hands and fiice in</paragraph>
+	<paragraph num_entities='0' num='304'>clear water from the nearest spring till her cheeks were</paragraph>
+	<paragraph num_entities='0' num='305'>like roses, and when she was adorned with the diamonds</paragraph>
+	<paragraph num_entities='0' num='306'>and the splendid robe the Fairy had given her, she</paragraph>
+	<paragraph num_entities='0' num='307'>i6</paragraph>
+	<paragraph num_entities='0' num='308'></paragraph>
+	<paragraph num_entities='0' num='309'>The Little Good Mouse</paragraph>
+	<paragraph num_entities='0' num='310'>looked the most beautiful Princess in the \\^orld, and the  Fairy with great delight cried :</paragraph>
+	<paragraph num_entities='1' num='311'>^* Now you look as you ought to look, <entity type='LOCATION' common-nouns='^' adjectives='' verbs='look;look;do;think'>Delida</entity> : what  do you think about it yourself? "</paragraph>
+	<paragraph num_entities='1' num='312'>And <entity type='PERSON' common-nouns='' adjectives='' verbs='answer'>Delida</entity> answered :</paragraph>
+	<paragraph num_entities='0' num='313'>*^ I feel as if I were the daughter of some great king."</paragraph>
+	<paragraph num_entities='0' num='314'>"And would you be glad if you were?" said the  Fairy.</paragraph>
+	<paragraph num_entities='0' num='315'>" Indeed I should," answered she.</paragraph>
+	<paragraph num_entities='0' num='316'>" Ah, well," said the Fairy, " to-morrow I may have  some pleasant news for you."</paragraph>
+	<paragraph num_entities='0' num='317'>So she hurried back to her castle, where the Queen  sat busy with her embroidery, and cried :</paragraph>
+	<paragraph num_entities='0' num='318'>" Well, madam ! will you wager your thimble and  your golden needle that I am bringing you the best news  you could possibly hear ? "</paragraph>
+	<paragraph num_entities='1' num='319'>" Alas ! " sighed the Queen, " since the death of the  Jolly King and the loss of my <entity type='PERSON' common-nouns='queen;death;king;loss;news;world;pin' adjectives='jolly;worth' verbs='sigh;be'>Delicia</entity>, all the news in  the world is not worth a pin to me."</paragraph>
+	<paragraph num_entities='0' num='320'>" There, there, don\"t be melancholy," said the Fairy,  "1 assure you the Princess is quite well, and I have  never seen her equal for beauty. She might be a Queen  to-morrow if she chose " ; and then she told all that had  happened, and the Queen first rejoiced over the thought  of DeHda\"s beauty, and then wept at the idea of her  bdng a Turkey-maiden.</paragraph>
+	<paragraph num_entities='0' num='321'>" I will not hear of her being made to marry the  wicked King\"s son," she said. ^* Let us go at once and  bring her here."</paragraph>
+	<paragraph num_entities='0' num='322'>B Vol. 4</paragraph>
+	<paragraph num_entities='0' num='323'></paragraph>
+	<paragraph num_entities='0' num='324'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='325'></paragraph>
+	<paragraph num_entities='2' num='326'>In the meantime the wicked <entity type='PERSON' common-nouns='meantime;tree;rage;spite;king;window' adjectives='wicked;angry' verbs='be;have;sit;cry;howl;hear;cry'>Prince</entity>, who was very  angry with <entity type='PERSON' common-nouns='meantime;tree;rage;spite;king;window' adjectives='wicked;angry' verbs='be;have;sit;cry;howl;hear;cry'>Delicia</entity>, had sat himself down under a tree,  and cried and howled with rage and spite until the King  heard him, and cried out from the window :</paragraph>
+	<paragraph num_entities='0' num='327'>^^ What is the matter with you, that you are maidng  all this disturbance ? **</paragraph>
+	<paragraph num_entities='0' num='328'>The Prince replied :</paragraph>
+	<paragraph num_entities='0' num='329'>^^ It is all because our Turkey-maiden will not love  me!"</paragraph>
+	<paragraph num_entities='0' num='330'>Won\"t love you ? eh ! " said the King. " We\"ll  very soon see about that ! " So he called his guards and  told them to go and fetch Delicia. \"^ See if I don\"t make  her change her mind pretty soon ! " said the wicked King  with a chuckle.</paragraph>
+	<paragraph num_entities='0' num='331'>Then the guards began to search the poultry yard,  and could find nobody there but Delicia, who, with her  splendid dress and her crown of diamonds, looked such  a lovely Princess that they hardly dared to speak to her.  But she said to them very politely :</paragraph>
+	<paragraph num_entities='1' num='332'>Pray tell me what you are looking for here ? "  Madam," they answered, \"\" we are sent for an insig-  nificant little person called <entity type='PERSON' common-nouns='madam;\;\;insig;person' adjectives='nificant;little' verbs='answer;be;send;call'>Delicia</entity>."</paragraph>
+	<paragraph num_entities='0' num='333'>" Alas ! " said she, " that is my name. What can you  want with me ? "</paragraph>
+	<paragraph num_entities='0' num='334'>So the guards tied her hands and feet with thick ropes,  for fear she might run away, and brought her to the King,  who was waiting with his son.</paragraph>
+	<paragraph num_entities='0' num='335'>When he saw her he was very much astonished at her  beauty, which would have made any one less hard-hearted</paragraph>
+	<paragraph num_entities='0' num='336'>i8</paragraph>
+	<paragraph num_entities='0' num='337'></paragraph>
+	<paragraph num_entities='0' num='338'>&lt;</paragraph>
+	<paragraph num_entities='0' num='339'></paragraph>
+	<paragraph num_entities='0' num='340'>The Little Good Mouse</paragraph>
+	<paragraph num_entities='0' num='341'>sorry for her. But the wicked King only laughed and  mocked at her, and cried : ^\" Well, little fright, little toad !  why don\"t you love my son, who is far too handsome and  too good for you ? Make haste and begin to love him  this instant, or you shall be tarred and feathered."</paragraph>
+	<paragraph num_entities='0' num='342'>Then the poor little Princess, shaking with terror,  went down on her knees, crying :</paragraph>
+	<paragraph num_entities='0' num='343'>*^ Oh, don\"t tar and feather me, please ! It would be  so uncomf&lt;M-table. Let me have two or three days to  make up my mind, and then you shall do as you like  with me."</paragraph>
+	<paragraph num_entities='0' num='344'>The wicked Prince would have Uked very much to  see her tarred and feathered, but the King ordered that  she should be shut up in a dark dungeon. It was just  at this moment that the Queen and the Fairy arrived in  the flying chariot, and the Queen was dreadfully distressed  at the turn affairs had taken, and said miserably that she  was destined to be unfortunate all her days. But the  Fairy bade her take courage.</paragraph>
+	<paragraph num_entities='0' num='345'>\"^ rU pay them out yet," said she, nodding her head  with an air of great determination.</paragraph>
+	<paragraph num_entities='0' num='346'>That very same night, as soon as the wicked King  had gone to bed, the Fairy changed herself into the little  mouse, and creeping up on to his pillow nibbled his ear,  so that he squealed out quite loudly and turned over on  his other side ; but that was no good, for the little mouse  only set to work and gnawed away at the second ear until  it hurt more than the first one.</paragraph>
+	<paragraph num_entities='0' num='347'>Then the King cried, " Murder ! " and  Thieves 1 "</paragraph>
+	<paragraph num_entities='0' num='348'>19</paragraph>
+	<paragraph num_entities='0' num='349'></paragraph>
+	<paragraph num_entities='0' num='350'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='351'>u"and all his guards ran to see what was the matter, but  they could find nothing and nobody, for the little mouse  had run off to the Prince"s room and was serving him  in exactly the same way. All night long she ran from  one to the other, until at last, driven quite frantic by  terror and want of sleep, the King rushed out of the  palace crying : "</paragraph>
+	<paragraph num_entities='0' num='352'>" Help ! help ! I am pursued by rats."</paragraph>
+	<paragraph num_entities='0' num='353'>The Prince when he heard this got up also, and ran  after the King, and they had not gone far when they both  fell into the river and were never heard of again.</paragraph>
+	<paragraph num_entities='0' num='354'>Then the good Fairy ran to tell the Queen, and they  went together to the black dungeon where Delicia was  imprisoned. The Fairy touched each door with her  wand, and it sprang open instantly, but they had to go  through forty before they came to the Princess, who was  sitting on the floor looking very dejected. But when the  Queen rushed in and kissed her twenty times in a minute,  and laughed, and cried, and told Delicia all her history,  the Princess was wild with delight. Then the Fairy  showed her all the wonderful dresses and jewels she had  brought for her and said :</paragraph>
+	<paragraph num_entities='1' num='355'>" <entity type='PERSON' common-nouns='\;t;time;people' adjectives='' verbs='let;waste;go;harangue'>Don</entity>\"t let us waste time ; we must go and harangue  the people."</paragraph>
+	<paragraph num_entities='0' num='356'>So she walked first, looking very serious and digni-  fied, and wearing a dress the train of which was at least  ten ells long. Behind her came the Queen wearing a  blue velvet robe embroidered with gold, and a diamond  crown that was brighter than the sun itself. Last of all</paragraph>
+	<paragraph num_entities='0' num='357'>20</paragraph>
+	<paragraph num_entities='0' num='358'></paragraph>
+	<paragraph num_entities='0' num='359'>The Little Good Mouse</paragraph>
+	<paragraph num_entities='1' num='360'>walked <entity type='PERSON' common-nouns='nothing' adjectives='beautiful;short;marvellous' verbs='walk;be;be'>Delida</entity>, who was so beautiful that it was nothing  short of marvellous.</paragraph>
+	<paragraph num_entities='0' num='361'>They proceeded through the streets, returning the  salutations of all they met, great or small, and all the  people turned and followed them, wondering who these  noble ladies could be.</paragraph>
+	<paragraph num_entities='0' num='362'>When the audience hall was quite full, the Fairy said  to the subjects of the Wicked King that if they would  accept Delicia, who was the daughter of the Jolly King,  as their Queen, she would undertake to find a suitable  husband for her, and would promise that during their  reign there should be nothing but rejoicing and merry-  making, and all dismal things should be entirely ban-  ished. Upon this the people cried with one accord,  " We will, we will ! we have been gloomy and miserable  too long already." And they all took hands and danced  round the Queen, and Delicia, and the good Fairy, sing-  ing : " Yes, yes ; we will, we will ! **</paragraph>
+	<paragraph num_entities='0' num='363'>Then there were feasts and fireworks in every street  in the town, and early the next morning the Fairy, who  had been all over the world in the night, brought back  with her, in her flying chariot, the most handsome and  good-tempered Prince she could find anywhere. He  was so charming that Delicia loved him from the moment  their eyes met, and as for him, of course he could not  help thinking himself the luckiest Prince in the world.  The Queen felt that she had really come to the end of  her misfortunes at last, and they all lived happily ever  after.</paragraph>
+	<paragraph num_entities='0' num='364'>21</paragraph>
+	<paragraph num_entities='0' num='365'></paragraph>
+	<paragraph num_entities='0' num='366'>GRACIOSA AND PERCINET</paragraph>
+	<paragraph num_entities='0' num='367'>/^^NCE upon a time there lived a King and Queen  ^^-^ who had one charming daughter. She was so  graceful and pretty and clever that she was called Gra-  ciosa, and the Queen was so fond of her that she could  think of nothing else.</paragraph>
+	<paragraph num_entities='0' num='368'>Every day she gave the Princess a lovely new frock  of gold brocade, or satin, or velvet, and when she was  hungry she had bowls full of s^gar-plums, and at least  twenty pots of jam. Everybody said she was the hap-  piest Princess in the world. Now there lived at this  same court a very rich old duchess whose name was  Crumbly. She was more frightful than tongue can tell ;  her hair was red as fire, and she had but one eye, and  that not a pretty one ! Her face was as broad as a full  moon, and her mouth was so large that everybody who  met her would have been afraid they were going to be  eaten up, only she had no teeth. As she was as cross as  she was ugly, she could not bear to hear any one saying  how pretty and how charming Graciosa was ; so she  presently went away from the court to her own castle,  which was not far off. But if anybody who went to see  her happened to mention the charming Princess, she  would cry angrily :</paragraph>
+	<paragraph num_entities='0' num='369'>22</paragraph>
+	<paragraph num_entities='0' num='370'></paragraph>
+	<paragraph num_entities='2' num='371'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Graciosa</entity> and <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Percinet</entity></paragraph>
+	<paragraph num_entities='0' num='372'>" It\"s not true that she is lovely. I have more beauty  in my little finger than she has in her whole body."</paragraph>
+	<paragraph num_entities='0' num='373'>Soon after this, to the great grief of the Princess, the  Queen was taken ill and died, and the King became so  melancholy that for a whole year he shut himself up in  his palace. At last his physicians, fearing that he would  fall ill, ordered that he should go out and amuse him-  self; so a hunting party was arranged, but as it was  very hot weather the King soon got tired, and said  he would dismount and rest at a castle which they  were passing.</paragraph>
+	<paragraph num_entities='0' num='374'>u"This happened to be the Duchess Grumbly"s castle,  and when she heard that the King was coming she went  out to meet him, and said that the cellar was the coolest  place in the whole castle if he would condescend to come  down into it. So down they went together, and the  King seeing about two hundred great casks ranged side  by side, asked if it was only for herself that she had this  immense store of wine. "</paragraph>
+	<paragraph num_entities='1' num='375'>" Yes, sire," answered she, " it is for myself alone ; but  I shall be most happy to let you taste some of it. Which  do you like, canary, <entity type='PERSON' common-nouns='champagne;hermitage;sock;raisin;cider' adjectives='canary' verbs='do'>St Julien</entity>, champagne, hermitage  sock, raisin, or cider ? "</paragraph>
+	<paragraph num_entities='0' num='376'>" Well," said the King, " since you are so kind as to  ask me, I prefer champagne to anything else."</paragraph>
+	<paragraph num_entities='1' num='377'>Then Duchess <entity type='PERSON' common-nouns='duchess;hammer;cask;sand;crown' adjectives='little;least' verbs='take;tap;come'>Grumbly</entity> took up a little hammer and  tapped upon the cask twice, and out came at least a thou-  sand crowns.</paragraph>
+	<paragraph num_entities='0' num='378'>" What\"s the meaning of this ? " said she smiling.</paragraph>
+	<paragraph num_entities='0' num='379'>23</paragraph>
+	<paragraph num_entities='0' num='380'></paragraph>
+	<paragraph num_entities='0' num='381'>\\</paragraph>
+	<paragraph num_entities='0' num='382'></paragraph>
+	<paragraph num_entities='0' num='383'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='384'>Then she tapped the next cask, and out came a bushel  of gold pieces.</paragraph>
+	<paragraph num_entities='0' num='385'>u"^^ I don"t understand this at all/" said the Duchess,  smiling more than before. "</paragraph>
+	<paragraph num_entities='0' num='386'>Then she went on to the third cask, tap, tap, and out  came such a stream of diamonds and pearls that the  ground was covered with them.</paragraph>
+	<paragraph num_entities='0' num='387'>" Ah ! " she cried, " this is altogether beyond my  comprehension, sire. Some one must have stolen my  good wine and put all this rubbish in its place."</paragraph>
+	<paragraph num_entities='0' num='388'>" Rubbish do you call it, Madam Grumbly ? " cried  the King. " Rubbish ! why, there is enough there to buy  ten kingdoms.\"\"</paragraph>
+	<paragraph num_entities='0' num='389'>" Well," said she, " you must know that all those  casks are full of gold and jewels, and if you like to marry  me it shall all be yours."</paragraph>
+	<paragraph num_entities='0' num='390'>Now the King loved money more than anything else  in the world, so he cried joyfully :</paragraph>
+	<paragraph num_entities='0' num='391'>" Marry you ? why with all my heart ! to-morrow if  you like."</paragraph>
+	<paragraph num_entities='0' num='392'>&lt;^ But I make one condition," said the Duchess ; ^\" I  must hive entire control of your daughter to do as I  please with her."</paragraph>
+	<paragraph num_entities='0' num='393'>" Oh certainly, you shall have your own way ; let us  shake hands upon the bargain," said the King.</paragraph>
+	<paragraph num_entities='0' num='394'>So they shook hands and went up out of the cellar of</paragraph>
+	<paragraph num_entities='0' num='395'>treasure together, and the Duchess locked the door and</paragraph>
+	<paragraph num_entities='0' num='396'>gave the key to the King.</paragraph>
+	<paragraph num_entities='1' num='397'>When he got back to his own palace <entity type='PERSON' common-nouns='palace' adjectives='own' verbs='get'>Graciosa</entity></paragraph>
+	<paragraph num_entities='0' num='398'>24</paragraph>
+	<paragraph num_entities='0' num='399'></paragraph>
+	<paragraph num_entities='0' num='400'>~</paragraph>
+	<paragraph num_entities='0' num='401'></paragraph>
+	<paragraph num_entities='0' num='402'>u"Graciosa and" Percinet "</paragraph>
+	<paragraph num_entities='0' num='403'>ran out to meet him, and asked if he had had good  sport.</paragraph>
+	<paragraph num_entities='0' num='404'>** I have caught a dove," answered he.</paragraph>
+	<paragraph num_entities='0' num='405'>"Oh ! do give it to me," said the Princess, "and I  will keep it and take care of it."</paragraph>
+	<paragraph num_entities='1' num='406'>" I can hardly do that," said he, " for, to speak more  plainly, I mean that I met the Duchess <entity type='PERSON' common-nouns='duchess' adjectives='more' verbs='do;say;speak;mean;meet;have;promise;marry'>Grumbly</entity>, and  have promised to marry her."</paragraph>
+	<paragraph num_entities='0' num='407'>" And you call her a dove ? " cried the Princess. " /  should have called her a screech owl."</paragraph>
+	<paragraph num_entities='0' num='408'>Hold your tongue," said the King, very crossly.  I intend you to behave prettily to her. So now go and  make yourself fit to be seen, as I am going to take you  to visit her."</paragraph>
+	<paragraph num_entities='0' num='409'>So the Princess went very sorrowfully to her own  room, and her nurse, seeing her tears, asked what was  vexing her.</paragraph>
+	<paragraph num_entities='1' num='410'>"Alas! who would not be vexed?" answered she,  " for the King intends to marry again, and has chosen  for his new bride my enemy, the hideous <entity type='PERSON' common-nouns='king;bride;enemy' adjectives='new;hideous' verbs='answer;intend;marry;have;choose'>Duchess Grumbly</entity>."</paragraph>
+	<paragraph num_entities='0' num='411'>" Oh, well ! " answered the nurse, " you must re-  member that you are a Princess, and are expected to set  a good example in making the best of whatever happens.  You must promise me not to let the Duchess see how  much you dislike her."</paragraph>
+	<paragraph num_entities='0' num='412'>At first the Princess would not promise, but the nurse  showed her so many good reasons for it that in the end  she agreed to be amiable to her stepmother.</paragraph>
+	<paragraph num_entities='0' num='413'>25</paragraph>
+	<paragraph num_entities='0' num='414'></paragraph>
+	<paragraph num_entities='0' num='415'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='416'>Then the nurse dressed her in a robe of pale green  and gold brocade, and combed out her long fair hair till  it floated round her like a golden mantle, and put on her  head a crown of roses and jasmine with emerald leaves.</paragraph>
+	<paragraph num_entities='0' num='417'>When she was ready nobody could have been pret^  tier, but she still could not help looking sad.</paragraph>
+	<paragraph num_entities='0' num='418'>Meanwhile the Duchess Grumbly was also occupied  in attiring herself. She had one of her shoe heels made  an inch or so higher than the other, that she might not  limp so much, and put in a cunningly made glass eye in  the place of the one she had lost. She dyed her red  hair black, and painted her face. Then she put on a  gorgeous robe of lilac satin lined with blue, and a yellow  petticoat trimmed with violet ribbons, and because she  had heard that queens always rode into their new do-  minions, she ordered a horse to be made ready for her  to ride.</paragraph>
+	<paragraph num_entities='1' num='419'>While Graciosa was waiting until the King should be  ready to set out, she went down all alone through the  garden into a little wood, where she sat down upon a mossy  bank and began to think. And her thoughts were so  doleful that very soon she began to cry, and she cried,  and cried, and forgot all about going back to the palace,  until she suddenly saw a handsome page standing before  her. He was dressed in green, and the cap which he  held in his hand was adorned with white plumes. When  <entity type='PERSON' common-nouns='knee' adjectives='' verbs='look;go;say'>Graciosa</entity> looked at him he went down on one knee, and  said to her :</paragraph>
+	<paragraph num_entities='0' num='420'>u"^" Princess, the King awaits you/" "</paragraph>
+	<paragraph num_entities='0' num='421'>26</paragraph>
+	<paragraph num_entities='0' num='422'></paragraph>
+	<paragraph num_entities='0' num='423'></paragraph>
+	<paragraph num_entities='2' num='424'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Graciosa</entity> and <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Percinet</entity></paragraph>
+	<paragraph num_entities='0' num='425'>The Princess was surprised, and, if the truth must be  told, very much delighted at the appearance of this  charming page, whom she could not remember to have  seen before. Thinking he might belong to the house-  hold of the Duchess, she said :</paragraph>
+	<paragraph num_entities='0' num='426'>How long have you been one of the King\"s pages ? "  I am not in the service of the King, madam,\"\" an-  swered he, " but in yours."</paragraph>
+	<paragraph num_entities='0' num='427'>"In mine?" said the Princess with great surprise,  **Then how is it that I have never seen you before ? "</paragraph>
+	<paragraph num_entities='1' num='428'>"Ah, Princess ! " said he, " I have never before dared  to present myself to you, but now the King\"s marriage  threatens you with so many dangers that I have resolved  to tell you at once how much I love you already, and I  trust that in time I may win your regard. I am <entity type='PERSON' common-nouns='riches;fairy;gift;use;diffus;culty' adjectives='' verbs='be;have;hear;hope;be;permit;accompany;disguise'>Prince Percinet</entity>, of whose riches you may have heard, and whose  fairy gift will, I hope, be of use to you in all your diffi-  culties, if you will permit me to accompany you under  this disguise."</paragraph>
+	<paragraph num_entities='0' num='429'>"Ah, Percinet ! " cried the Princess, " is it really you ?  I have so often heard of you and wished to see you. If  you will indeed be my friend, I shall not be afraid of  that wicked old Duchess any more."</paragraph>
+	<paragraph num_entities='0' num='430'>So they went back to the palace together, and there  Graciosa found a beautiful horse which Percinet had  brought for her to ride. As it was very spirited he led  it by the bridle, and this arrangement enabled him to  turn and look at the Princess often, which he did not fail  to do. Indeed, she was so pretty that it was a real</paragraph>
+	<paragraph num_entities='0' num='431'>27</paragraph>
+	<paragraph num_entities='0' num='432'></paragraph>
+	<paragraph num_entities='0' num='433'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='434'>u"pleasure to look at her. When the * horse which the  Duchess was to ride appeared beside Graciosa"s, it looked  no better than an old cart horse, and as to their trap-  pings, there was simply no comparison between them, as  the Princess"s saddle and bridle were one glittering mass  of diamonds. The King had so many other things to  think of that he did not notice this, but all his courtiers  were entirely taken up with admiring the Princess and  her charming Page in green, who was more handsome  and distinguished-looking than all the rest of the court  put together. "</paragraph>
+	<paragraph num_entities='1' num='435'>u"When they met the Duchess Grumbly she was seated  in an open carriage trying in vain to look dignified.  The King and the Princess saluted her, and her horse  was brought forward for her to mount. But when she  saw <entity type='PERSON' common-nouns='s' adjectives='' verbs='see;cry'>Graciosa</entity>"s she cried angrily : "</paragraph>
+	<paragraph num_entities='0' num='436'>u""^ If that child is to have a better horse than mine, I  will go back to my own castle this very minute. What is  the use of being a Queen if one is to be slighted like this ? "* "</paragraph>
+	<paragraph num_entities='0' num='437'>Upon this the King commanded Graciosa to dis*  mount and to beg the Duchess to honor her by mounting  her horse. The Princess obeyed in silence, and the  Duchess, without looking at her or thanking her, scram-  bled up upon the beautiful horse, where she sat looking  like a bundle of clothes, and eight officers had to hold  her up for fear she should fall ofF.</paragraph>
+	<paragraph num_entities='0' num='438'>Even then she was not satisfied, and was sdll grum-  bling and muttering, so they asked her what was the  matter.</paragraph>
+	<paragraph num_entities='0' num='439'>28</paragraph>
+	<paragraph num_entities='0' num='440'></paragraph>
+	<paragraph num_entities='2' num='441'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Graciosa</entity> and <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Percinet</entity></paragraph>
+	<paragraph num_entities='1' num='442'>\"^I wish that Page in green to come and lead the  horse, as he did when <entity type='PERSON' common-nouns='\;page;horse' adjectives='green' verbs='wish;come;lead;do;ride;say'>Graciosa</entity> rode it," said she very  sharply.</paragraph>
+	<paragraph num_entities='0' num='443'>u"And the King ordered the Page to come and lead the  Queen"s horse. Percinet and the Princess looked at  one another, but said never a word, and then he did as  the King commanded, and the procession started in great  pomp. The Duchess was greatly elated, and as she sat  there in state would not have wished to change places  even with Graciosa. But at the moment when it was  least expected the beautiful horse began to plunge and  rear and kick, and finally to run away at such a pace that  it was imposfflble to stop him. "</paragraph>
+	<paragraph num_entities='1' num='444'>u"At first the Duchess clung to the saddle, but she was  very soon thrown off and fell in a heap among the stones  and thorns, and there they found her, shaken to a jelly,  and collected what was left of her as if she had been  a broken glass. Her bonnet was here and her shoes  there, her face was scratched, and her fine clothes were  covered with mud. Never was a bride seen in such a  dismal plight. They carried her back to the palace and  put her to bed, but as soon as she recovered enough to  be able to speak, she began to -scold and rage, and de-  clared that the whole af&amp;ir was <entity type='PERSON' common-nouns='back;palace;bed;scold;rage;af;ir;s;fault;purpose;king;castle;riches' adjectives='able;whole;contrived;rid' verbs='carry;put;recover;be;speak;begin;clare;be;have;try;get;have;punish;go;enjoy'>Graciosa</entity>"s fault, that she  had contrived it on purpose to try and get rid of her,  and that if the King would not have her punished, she  would go back to her castle and enjoy her riches by  herself "</paragraph>
+	<paragraph num_entities='0' num='445'>At this the King was terribly frightened, for he did</paragraph>
+	<paragraph num_entities='0' num='446'>29</paragraph>
+	<paragraph num_entities='0' num='447'></paragraph>
+	<paragraph num_entities='0' num='448'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='449'>not at all want to lose all those barrels of gold and</paragraph>
+	<paragraph num_entities='0' num='450'>jewels. So he hastened to appease the Duchess, and</paragraph>
+	<paragraph num_entities='1' num='451'>told her she might punish <entity type='PERSON' common-nouns='way' adjectives='' verbs='tell;punish'>Graciosa</entity> in any way she</paragraph>
+	<paragraph num_entities='0' num='452'>pleased.</paragraph>
+	<paragraph num_entities='1' num='453'>Thereupon she sent for <entity type='PERSON' common-nouns='thereupon;pale' adjectives='' verbs='send;turn'>Graciosa</entity>, who turned pale</paragraph>
+	<paragraph num_entities='0' num='454'>and trembled at the summons, for she guessed that it</paragraph>
+	<paragraph num_entities='0' num='455'>promised nothing agreeable for her. She looked all</paragraph>
+	<paragraph num_entities='1' num='456'>about for <entity type='PERSON' common-nouns='' adjectives='' verbs='be;be;see'>Percinet</entity>, but he was nowhere to be seen ; so</paragraph>
+	<paragraph num_entities='1' num='457'>u"she had no choice but to go to the Duchess <entity type='PERSON' common-nouns='choice;duchess;s' adjectives='' verbs='have;go'>Grumbly</entity>"s "</paragraph>
+	<paragraph num_entities='0' num='458'>room. She had hardly got inside the door when she</paragraph>
+	<paragraph num_entities='0' num='459'>was seized by four waiting women, who looked so tall</paragraph>
+	<paragraph num_entities='0' num='460'>and strong and cruel that the Princess shuddered at the</paragraph>
+	<paragraph num_entities='0' num='461'>sight of them, and still more when she saw them arming</paragraph>
+	<paragraph num_entities='0' num='462'>themselves with great bundles of rods, and heard the</paragraph>
+	<paragraph num_entities='0' num='463'>Duchess call out to them from her bed to beat the</paragraph>
+	<paragraph num_entities='1' num='464'>Princess without mercy. Poor <entity type='PERSON' common-nouns='poor;miser' adjectives='' verbs='wish'>Graciosa</entity> wished miser*</paragraph>
+	<paragraph num_entities='1' num='465'>ably that <entity type='PERSON' common-nouns='' adjectives='' verbs='know;be;happen'>Percinet</entity> could only know what was happening</paragraph>
+	<paragraph num_entities='0' num='466'>and come to rescue her. But no sooner did they begin</paragraph>
+	<paragraph num_entities='0' num='467'>to beat her than she found, to her great relief, that the</paragraph>
+	<paragraph num_entities='0' num='468'>u"rods had changed to bundles of peacock"s feathers, and "</paragraph>
+	<paragraph num_entities='0' num='469'>u"though the Duchess"s women went on till they were so "</paragraph>
+	<paragraph num_entities='0' num='470'>tired that they could no longer raise their arms from their</paragraph>
+	<paragraph num_entities='0' num='471'>sides, yet she was not hurt in the least. However, the</paragraph>
+	<paragraph num_entities='0' num='472'>Duchess thought she must be black and blue after such</paragraph>
+	<paragraph num_entities='1' num='473'>a beating ; so <entity type='PERSON' common-nouns='beating' adjectives='' verbs='be;release;pretend'>Graciosa</entity>, when she was released, pretended</paragraph>
+	<paragraph num_entities='0' num='474'>to feel very bad, and went away into her own room,</paragraph>
+	<paragraph num_entities='0' num='475'>where she told her nurse all that had happened, and</paragraph>
+	<paragraph num_entities='0' num='476'>then the nurse left her, and when the Princess turned</paragraph>
+	<paragraph num_entities='0' num='477'>round there stood Percinet beside her. She thanked</paragraph>
+	<paragraph num_entities='0' num='478'>30</paragraph>
+	<paragraph num_entities='0' num='479'></paragraph>
+	<paragraph num_entities='2' num='480'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Graciosa</entity> and <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Percinet</entity></paragraph>
+	<paragraph num_entities='0' num='481'>him gratefully for helping her so cleverly, and they  laughed and were very merry over the way they had  taken in the Duchess and her waiting-maids; but Per-  dnet advised her still to pretend to be ill for a fow days,  and after promising to come to her aid whenever she  needed him, he disappeared as suddenly as he had come.</paragraph>
+	<paragraph num_entities='1' num='482'>u"The Duchess was so delighted at the idea that Grad-  osa was really ill, that she herself recovered twice as fast  as she would have done otherwise, and the wedding was  held with great magnificence* " Now as the King knew  that, above all other things, the Queen loved to be told  that she was beaudfol, he ordered that her portrait should  be painted, and that a tournament should be held, at  which all the bravest knights of his court should main-  tain against all comers that <entity type='PERSON' common-nouns='duchess;idea;grad;osa;wedding;magnificence;king;thing;queen;beaudfol;portrait;tournament;knight;court;tain;comer;beautus;princess;world' adjectives='delighted;fast;great;other;bravest;main;most;ful' verbs='be;be;recover;have;do;be;hold;know;love;be;tell;be;order;be;paint;be;hold;be'>Grumbly</entity> was the most beauti-  ful princess in the world. "</paragraph>
+	<paragraph num_entities='0' num='483'>u"Numbers of knights came from hr and wide to ac-  cept the challenge, and the hideous Queen sat in great  state in a balcony hung with cloth of gold to watch the  contests, and Gradosa had to stand up behind her, where  her loveliness was so conspicuous that the combatants  could not keep their eyes off her. But the Queen was  so vain that she thought all thdr admiring glances were  for herself, especially as, in spite of the badness of thdr  cause, the King"s knights were so brave that they were  the victors in every combat. "</paragraph>
+	<paragraph num_entities='0' num='484'>However, when nearly all the strangers had been  defeated, a young unknown knight presented himself.  He carried a portrait indosed in a box incrusted with</paragraph>
+	<paragraph num_entities='0' num='485'>31</paragraph>
+	<paragraph num_entities='0' num='486'></paragraph>
+	<paragraph num_entities='0' num='487'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='488'>diamonds, and he declared himself willing to maintain  against them all that the Queen was the ugliest creature  in the world, and that the Princess whose portrait he  carried was the most beautiful.</paragraph>
+	<paragraph num_entities='1' num='489'>So one by one the knights came out against him, and  one by one he vanquished them all, and then he opened  the box, and said that, to console them, he would show  them the portrait of his Queen of Beauty, and when he  did so every one recognized the Princess Graciosa. The  unknown knight then saluted her gracefully and retired,  without telling his name to anybody. But <entity type='PERSON' common-nouns='difficulty;percinet' adjectives='' verbs='have;guess;be'>Graciosa</entity> had  no difficulty in guessing that it was Percinet.</paragraph>
+	<paragraph num_entities='1' num='490'>As to the Queen, she was so furiously angry that she  could hardly speak; but she soon recovered her voice,  and overwhelmed <entity type='PERSON' common-nouns='queen;voice;torrent;reproach' adjectives='angry' verbs='be;speak;recover;overwhelm'>Graciosa</entity> with a torrent of reproaches.</paragraph>
+	<paragraph num_entities='0' num='491'>^\" What ! " she said, \"^ do you dare to dispute with me  for the prize of beauty, and expect me to endure this  insult to my knights? But 1 will not bear it, proud  Princess. I will have my revenge."</paragraph>
+	<paragraph num_entities='0' num='492'>\"\" I assure you, madam," said the Princess, ^^ that I  had nothing to do with it and am quite willing that you  shall be declared Queen of Beauty."</paragraph>
+	<paragraph num_entities='0' num='493'>" Ah ! you are pleased to jest, popinjay ! " said the  Queen, " but it will be my turn soon ! "</paragraph>
+	<paragraph num_entities='0' num='494'>The King was speedily told what had happened, and  how the Princess was in terror of the angry Queen, but  he only said :</paragraph>
+	<paragraph num_entities='1' num='495'>\"^ The Queen must do as she pleases. <entity type='PERSON' common-nouns='long' adjectives='' verbs='be'>Graciosa</entity> be-  longs to her ! "</paragraph>
+	<paragraph num_entities='0' num='496'>32</paragraph>
+	<paragraph num_entities='0' num='497'></paragraph>
+	<paragraph num_entities='2' num='498'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Graciosa</entity> and <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Percinet</entity></paragraph>
+	<paragraph num_entities='0' num='499'>The wicked Queen waited impatiently until night fell,  and then she ordered her carriage to be brought. Graciosa,  much against her will, was forced into it, and away they  drove, and never stopped until they reached a great forest,  a hundred leagues from the palace. This forest was so  gloomy, and so full of lions, tigers, bears and wolves,  that nobody dared pass through it even by daylight, and  here they set down the unhappy Princess in the middle  of the black night, and left her in spite of all her tears  and entreaties. The Princess stood quite still at first  from sheer bewilderment, but when the last sound of the  retreating carriages died away in the distance she began  to run aimlessly hither and thither, sometimes knocking  herself agsdnst a tree, sometimes tripping over a stone,  fearing every minute that she would be eaten up by the  lions. Presently she was too tired to advance another  step, so she threw herself down upon the ground and  cried miserably :</paragraph>
+	<paragraph num_entities='0' num='500'>" Oh, Percinet ! where are you ? Have you forgotten  me altogether ? "</paragraph>
+	<paragraph num_entities='0' num='501'>She had hardly spoken when all the forest was lighted  up with a sudden glow. Every tree seemed to be send-  ing out a soft radiance, which was clearer than moonlight  and softer than daylight, and at the end of a long avenue  of trees opposite to her the Princess saw a palace of clear  crystal which blazed like the sun. At that moment a  slight sound behind her made her start round, and there  stood Percinet himself.</paragraph>
+	<paragraph num_entities='0' num='502'>** Did I frighten you, my Princess ? " said he. " I</paragraph>
+	<paragraph num_entities='0' num='503'>33</paragraph>
+	<paragraph num_entities='0' num='504'></paragraph>
+	<paragraph num_entities='0' num='505'>Fairy Tales</paragraph>
+	<paragraph num_entities='1' num='506'>come to bid you welcome to our fairy palace, in the name  of the Queen, my mother, who is prepared to love you  as much as I do." The Princess joyfully mounted with  him into a little sledge, drawn by two stags, which bounded  off and drew them swiftly to the wonderful palace, where  the Queen received her with the greatest kindness, and a  splendid banquet was served at once. Graciosa was so  happy to have found Percinet, and to have escaped from  the gloomy forest and all its terrors, that she was very  hungry and very merry,, and they were a gay party. After  supper they went into another lovely room, where the  crystal walls were covered with pictures, and the Princess  saw with great surprise that her own history was repre-  sented, even down to the moment when <entity type='PERSON' common-nouns='supper;room;crystal;wall;picture;princess;surprise;history;moment;forest' adjectives='lovely;great;own;repre' verbs='go;be;cover;see;be;sent;find'>Percinet</entity> found  her in the forest.</paragraph>
+	<paragraph num_entities='0' num='507'>\"^ Your painters must indeed be diligent," she said^  pointing out the last picture to the Prince.</paragraph>
+	<paragraph num_entities='0' num='508'>"They are obliged to be, for I will not have any-  thing forgotten that happens to you," he answered.</paragraph>
+	<paragraph num_entities='0' num='509'>When the Princess grew sleepy, twenty-four charming  maidens put her to bed in the prettiest room she had ever  seen, and then sang to her so sweetly that Graciosa*s  dreams were all of mermaids, and cool sea waves, and  caverns, in which she wandered with Percinet ; but when  she woke up again her first thought was that, delightful  as this fairy palace seemed to her, yet she could not stay  in it, but must go back to her father. When she had  been dressed by the four-and-twenty maidens in a charm-  ing robe which the Queen had sent for her, and in which</paragraph>
+	<paragraph num_entities='0' num='510'>34</paragraph>
+	<paragraph num_entities='0' num='511'></paragraph>
+	<paragraph num_entities='2' num='512'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Graciosa</entity> and <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Percinet</entity></paragraph>
+	<paragraph num_entities='0' num='513'>u"she looked prettier than ever, Prince Percinet came to see  her, and was bitterly disappointed when she told him  what she had been thinking. He begged her to consider  again how unhappy the wicked Queen would make her,  and how, if she would but marry him, all the fairy palace  would be hers, and his one thought would be to please  her. But, in spite of everything he could say, the  Princess was quite determined to go back, though he at  last persuaded her to stay eight days, which were so full  of pleasure and amusement that they passed like a few  hours. On the last day, Graciosa, who had often felt  anxious to know what was going on in her father"s palace,  said to Percinet that she was sure that he could find out  for her, if he would, what reason the Queen had given  her father for her sudden, disappearance. Percinet at  first oflFered to send his courier to find out, but the  Princess said : "</paragraph>
+	<paragraph num_entities='0' num='514'>^* Oh ! isn\"t there a quicker way of knowing than  that?"</paragraph>
+	<paragraph num_entities='1' num='515'>" Very well," said <entity type='PERSON' common-nouns='self' adjectives='' verbs='say;see'>Percinet</entity>, " you shall see for your-  self."</paragraph>
+	<paragraph num_entities='0' num='516'>So up they went together to the top of a very high  tower, which, like the rest of the castle, was built entirely  of rock-crystal.</paragraph>
+	<paragraph num_entities='1' num='517'>u"There the Prince held <entity type='PERSON' common-nouns='prince;s;hand;tip;finger;mouth;town;queen;king;say;princess;loss' adjectives='little;wicked;miserable;dead;great' verbs='hold;make;put;look;see;go;hear;^;be'>Graciosa</entity>"s hand in his, and  made her put the tip of her little finger into her mouth,  and looked toward the town, and immediately she saw  the wicked Queen go to the King, and heard her say to  him, "^ That miserable Princess is dead, and no great loss "</paragraph>
+	<paragraph num_entities='0' num='518'>35</paragraph>
+	<paragraph num_entities='0' num='519'></paragraph>
+	<paragraph num_entities='0' num='520'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='521'>u"either. I have ordered that she shall be buried at once/"  And then the Princess saw how she dressed up a 1(^  of wood and had it buried, and how the old King cried,  and all the people murmured that the Queen had killed  Graciosa with her cruelties, and that she ought to have her  head cut off. When the Princess saw that the King was  so sorry for her pretended death that he could neither  eat nor drink, she cried : "</paragraph>
+	<paragraph num_entities='0' num='522'>u""^ Ah, Percinet ! take me back quickly if you love me/* "</paragraph>
+	<paragraph num_entities='0' num='523'>And so, though he did not want to at all, he was  obliged to promise that he would let her go.</paragraph>
+	<paragraph num_entities='0' num='524'>\"^ You may not regret me. Princess," he said sadly,  ^\" for I fear that you do not love me well enough ; but I  foresee that you will more than once regret that you left  this fairy palace where we have been so happy/\"</paragraph>
+	<paragraph num_entities='1' num='525'>But, in spite of all he could say, she bade farewell to  the Queen, his mother, and prepared to set out ; so Per-  dnet, very unwillingly, brought the little sledge with the  stags and she mounted beside him. But they had hardly  gone twenty yards when a tremendous noise behind her  made <entity type='PERSON' common-nouns='yard;noise;palace;crystal;splinter;spray;fountain' adjectives='tremendous' verbs='have;go;make;look;see;fly;vanish'>Graciosa</entity> look back, and she saw the palace of  crystal fly into a million splinters, like the spray of a  fountain, and vanish.</paragraph>
+	<paragraph num_entities='0' num='526'>"Oh, Percinet!" she cried, "what has happened?  The palace is gone."</paragraph>
+	<paragraph num_entities='0' num='527'>" Yes," he answered, " my palace is a thing of the  past ; you will see it again, but not until after you have  been buried."</paragraph>
+	<paragraph num_entities='1' num='528'>" Now you are angry with me," said <entity type='PERSON' common-nouns='' adjectives='angry' verbs='be;say'>Graciosa</entity> in her</paragraph>
+	<paragraph num_entities='0' num='529'>36</paragraph>
+	<paragraph num_entities='0' num='530'></paragraph>
+	<paragraph num_entities='2' num='531'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Graciosa</entity> and <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Percinet</entity></paragraph>
+	<paragraph num_entities='0' num='532'>most coaxing voice, \"\" though after all I am more to be  pitied than you are."</paragraph>
+	<paragraph num_entities='0' num='533'>u"When they got near the palace the Prince made the  sledge and themselves invisible, so the Princess got in  unobserved, and ran up to the great hall where the King  was sitting all by himself. At first he was very much  startled by Graciosa"s sudden appearance, but she told  him how the Queen had left her out in the forest, and  how she had caused a log of wood to be buried. The  King, who did not know what to think, sent quickly and  had it dug up, and sure enough it was as the Princess had  said. Then he caressed Graciosa, and made her sit down  to supper with him, and they were as happy as possible.  But someone had by this time told the wicked Queen  that Graciosa had come back, and was at supper with the  King, and in she flew in a terrible fury. The poor old  King quite trembled before her, and when she declared  that Graciosa was not the Princess at all, but a wicked  impostor, and that if the King did not give her up at  once she would go back to her own castle and never see  him again, he had not a word to say, and really seemed  to believe that it was not Graciosa after all. So the  Queen in great triumph sent for her waiting women, who  dragged the unhappy Princess away and shut her up in  a garret ; they took away ail her jewels and her pretty  dress, and gave her a rough cotton frock, wooden shoes,  and a little cloth cap. There was some straw in a  corner, which was all she had for a bed, and they gave  her a very little bit of black bread to eat. In this mis- "</paragraph>
+	<paragraph num_entities='0' num='534'>37-</paragraph>
+	<paragraph num_entities='0' num='535'></paragraph>
+	<paragraph num_entities='0' num='536'>Fairy Tales</paragraph>
+	<paragraph num_entities='2' num='537'>erable plight <entity type='PERSON' common-nouns='plight;fairy;palace;^;aid' adjectives='erable;sure' verbs='do;regret;have;call;feel;be;vex;leave;think;expect;come'>Gradosa</entity> did indeed regret the fairy palace^  and she would have called <entity type='PERSON' common-nouns='plight;fairy;palace;^;aid' adjectives='erable;sure' verbs='do;regret;have;call;feel;be;vex;leave;think;expect;come'>Percinet</entity> to her aid, only she  felt sure he was still vexed with her for leaving him, and  thought that she could not expect him to come.</paragraph>
+	<paragraph num_entities='0' num='538'>Meanwhile the Queen had sent for an olc^ Fairy, as  malicious as herself, and said to her :</paragraph>
+	<paragraph num_entities='0' num='539'>\"\" You must find me some task for this fine Princess  which she cannot possibly do, for I mean to punish her,  and if she does not do what I order, she will not be able  to say that I am unjust." So the old Fairy said she  would think it over, and come again the next day.  When she returned she brought with her a skein of  thread, three times as big as herself; it was so fine that  a breath of air would break it, and so tangled that it was  impossible to see the beginning or the end of it.</paragraph>
+	<paragraph num_entities='1' num='540'>The Queen sent for <entity type='PERSON' common-nouns='queen' adjectives='' verbs='send;say'>Graciosa</entity>, and said to her :</paragraph>
+	<paragraph num_entities='0' num='541'>\"^ Do you see this skein ? Set your clumsy fingers to  work upon it, for I must have it disentangled by sunset,  and if you break a single thread it will be the worse for  you."</paragraph>
+	<paragraph num_entities='0' num='542'>So saying she left her, locking the door behind her  with three keys.</paragraph>
+	<paragraph num_entities='0' num='543'>The Princess stood dismayed at the sight of the ter-  rible skein. If she did but turn it over to see where to  b^n, she broke a thousand threads, and not one could  she disentangle. At last she threw it into the middle of  the floor, crying :</paragraph>
+	<paragraph num_entities='0' num='544'>*^ Oh, Percinet 1 this fatal skein will be the death of  me if you will not forgive me and help me once more."</paragraph>
+	<paragraph num_entities='0' num='545'>. 38</paragraph>
+	<paragraph num_entities='0' num='546'></paragraph>
+	<paragraph num_entities='2' num='547'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Graciosa</entity> and <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Percinet</entity></paragraph>
+	<paragraph num_entities='1' num='548'>And immediately in came <entity type='PERSON' common-nouns='key;possession' adjectives='own' verbs='come;have'>Percinet</entity> as easily as if he  had all the keys in his own possession.</paragraph>
+	<paragraph num_entities='0' num='549'>" Here I am. Princess, as much as ever at your ser-  vice," said he, " though really you are not very kind to  me.</paragraph>
+	<paragraph num_entities='2' num='550'>Then he just stroked the skein with his wand, and all  the broken threads joined themselves together, and the  whol^ skein wound itself smoothly off in the most sur-  prising manner, and the <entity type='PERSON' common-nouns='skein;wand;thread;whol;^;skein;wound;manner;nothing;time;sake' adjectives='broken;own' verbs='stroke;join;prise;turn;ask;be;wish;do;come;wish'>Prince</entity>, turning to <entity type='PERSON' common-nouns='skein;wand;thread;whol;^;skein;wound;manner;nothing;time;sake' adjectives='broken;own' verbs='stroke;join;prise;turn;ask;be;wish;do;come;wish'>Graciosa</entity>,  asked if there was nothing else that she wished him to do  for her, and if the time would never come when she  would wish for him for his own sake.</paragraph>
+	<paragraph num_entities='0' num='551'>" Don\"t be vexed with me, Percinet," she said. " I  am unhappy enough without that."</paragraph>
+	<paragraph num_entities='0' num='552'>" But why should you be unhappy, my Princess ? "  cried he. \"* Only come with me and we shall be as  happy as the day is long together."</paragraph>
+	<paragraph num_entities='1' num='553'>" But suppose you get tired of me ? " said <entity type='PERSON' common-nouns='' adjectives='' verbs='say'>Graciosa</entity>.</paragraph>
+	<paragraph num_entities='0' num='554'>The Prince was so grieved at this want of confidence  that he left her without another word.</paragraph>
+	<paragraph num_entities='1' num='555'>The wicked Queen was in such a hurry to punish  <entity type='PERSON' common-nouns='queen;hurry;sun;time;fairy;key;lock' adjectives='wicked;such' verbs='be;punish;think;set;be;appoint;come;fit;say'>Graciosa</entity> that she thought the sun would never set ; and  indeed it was before the appointed time that she came  with her four Fairies, and as she fitted the three keys into  the locks she said :</paragraph>
+	<paragraph num_entities='0' num='556'>" I\"ll venture to say that the idle minx has not done  anything at all  ^she prefers to sit with her hands before  her to keep them white."</paragraph>
+	<paragraph num_entities='1' num='557'>But, as soon as she entered, <entity type='PERSON' common-nouns='' adjectives='' verbs='enter;present'>Graciosa</entity> presented her</paragraph>
+	<paragraph num_entities='0' num='558'>u"39 " "</paragraph>
+	<paragraph num_entities='0' num='559'></paragraph>
+	<paragraph num_entities='0' num='560'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='561'>with the ball of thread in perfect order, so that she had  no fault to find, and could only pretend to discover that  it was soiled, for which imaginary fault she gave Graciosa  a blow on each cheek, that made her white and pink skin  turn green and yellow. And then she sent her back to  be locked in the garret once more.</paragraph>
+	<paragraph num_entities='0' num='562'>Then the Queen sent for the Fairy again and scolded  her furiously.</paragraph>
+	<paragraph num_entities='0' num='563'>\"^ Don\"t make such a mistake again ; find me some-  thing that it will be quite impossible for her to do," she  said.</paragraph>
+	<paragraph num_entities='0' num='564'>So the next day the Fairy appeared with a huge bar-  rel full of the feathers of all sorts of birds. There were  nightingales, canaries, goldfinches, linnets, tomtits, par-  rots, owls, sparrows, doves, ostriches, bustards, peacocks,  larks, partridges, and everything else that you can think  of. These feathers were all mixed up in such confusion  that the birds themselves could not have chosen out their  own. " Here," said the Fairy, " is a little task which it  will take all your prisoner\"s skill and patience to accom-  plish. Tell her to pick out and lay in a separate heap  the feathers of each bird. She would need to be a fairy  to do it."</paragraph>
+	<paragraph num_entities='0' num='565'>The Queen was more than delighted at the thought  of the despair this task would cause the Princess. She  sent for her, and with the same threats as before locked  / her up with the three keys, ordering that all the feathers</paragraph>
+	<paragraph num_entities='1' num='566'>should be sorted by sunset. <entity type='PERSON' common-nouns='feather' adjectives='' verbs='set;work;have;take'>Graciosa</entity> set to work at  once, but before she had taken out a dozen feathers she</paragraph>
+	<paragraph num_entities='0' num='567'>u"" 40 "</paragraph>
+	<paragraph num_entities='0' num='568'></paragraph>
+	<paragraph num_entities='2' num='569'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Graciosa</entity> and <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Percinet</entity></paragraph>
+	<paragraph num_entities='0' num='570'>found that it was perfectly impossible to know one front  another.</paragraph>
+	<paragraph num_entities='1' num='571'>^^ Ah ! well/\" she sighed, \"\" the Queen wishes to kill  me, and if I must die I must. I cannot ask <entity type='PERSON' common-nouns='' adjectives='' verbs='ask;help;love;wait;call;come'>Percinet</entity> to  help me again, for if he really loved me he would not wait  till I called him, he would come without that."</paragraph>
+	<paragraph num_entities='0' num='572'>" I am here, my Graciosa," cried Percinet, springing  out of the barrel where he had been hiding. *\" How can  you still doubt that I love you with all my heart ? "</paragraph>
+	<paragraph num_entities='0' num='573'>Then he gave three strokes of his wand upon the  barrel, and all the feathers flew out in a cloud and settled  down in neat little separate heaps all round the room.</paragraph>
+	<paragraph num_entities='0' num='574'>"What should I do without you, Percinet?" said  Graciosa gratefully. But still she could not quite make  op her mind to go with him and leave her father\"s king-  dom forever ; so she begged him to give her more time  to think^f it, and he had to go away disappointed once  more.</paragraph>
+	<paragraph num_entities='1' num='575'>When the wicked Queen came at sunset she was  amazed and infuriated to find the task done. However,  she complained that the heaps of feathers were badly  arranged, and for that the Princess was beaten and sent  back to her garret. Then the Queen sent for the Fairy  once more, and scolded her until she was fairly terrified,  and promised to go home and think of another task for  <entity type='PERSON' common-nouns='queen;fairy;home;task;other' adjectives='worse' verbs='send;scold;be;terrify;promise;go;think'>Graciosa</entity>, worse than either of the others.</paragraph>
+	<paragraph num_entities='0' num='576'>At the end of three days she came again, bringing with  her a box.</paragraph>
+	<paragraph num_entities='0' num='577'>" Tell your slave," said she, " to carry this wherever</paragraph>
+	<paragraph num_entities='0' num='578'>C Vol. 4</paragraph>
+	<paragraph num_entities='0' num='579'></paragraph>
+	<paragraph num_entities='0' num='580'>Fairy Tales</paragraph>
+	<paragraph num_entities='1' num='581'>you please, but on no account to open it. She will not  be able to help doing so, and then you will be quite satis-  fied with the result." So the Queen came to <entity type='PERSON' common-nouns='queen' adjectives='' verbs='come;say'>Graciosa</entity>,  and said :</paragraph>
+	<paragraph num_entities='0' num='582'>** Carry this box to my castle, and place it upon the  table in my own room. But I forbid you on pain of  death to look at what it contains."</paragraph>
+	<paragraph num_entities='0' num='583'>Graciosa set out, wearing her little cap and wooden  shoes and the old cotton frock, but even in this disguise  she was so beautiful that all the passers-by wondered who  she could be. She had not gone far before the heat of  the sun and the weight of the box tired her so much that  she sat down to rest in the shade of a little wood which  lay on one side of a green meadow. She was carefully  holding the box upon her lap when she suddenly felt the  greatest desire to open it.</paragraph>
+	<paragraph num_entities='0' num='584'>** What could possibly happen if I did ? " she said to  herself. \"M should not take anything out. I should  only just see what was there."</paragraph>
+	<paragraph num_entities='0' num='585'>And without further hesitation she lifted the cover.</paragraph>
+	<paragraph num_entities='0' num='586'>Instantly out came swarms of little men and women,  no taller than her finger, and scattered themselves all over  the meadow, singing and dancing, and playing the merriest  games so that at first Graciosa was delighted and watched  them with much amusement. But presently, when she  was rested and wished to go on her way, she found that,  do what she would, she could not get them back into their  box. If she chased them in the meadow they fled into  the wood, and if she pursued them into the wood they</paragraph>
+	<paragraph num_entities='0' num='587'>42</paragraph>
+	<paragraph num_entities='0' num='588'></paragraph>
+	<paragraph num_entities='2' num='589'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Gradosa</entity> and <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Percinet</entity></paragraph>
+	<paragraph num_entities='0' num='590'>flodgod round trees and bdund sprigs of moss, and with  peals of dfin laughter scampered back again into the  meadow.</paragraph>
+	<paragraph num_entities='0' num='591'>At last, weary and terrified, she sat down and cried.</paragraph>
+	<paragraph num_entities='0' num='592'>" It is my own fiiult," she said sadly, " Percinet, if  you can still care for soch an imprudent Princess, do  come and help me once more."</paragraph>
+	<paragraph num_entities='1' num='593'>immediately <entity type='PERSON' common-nouns='' adjectives='' verbs='stand'>Percinet</entity> stood before her.</paragraph>
+	<paragraph num_entities='0' num='594'>\"^ Ah, Princess ! " he said, \"^ bat for the wicked Queen  I fear yon would never think of me nt all."</paragraph>
+	<paragraph num_entities='0' num='595'>*\" Indeed i Should," said Graciosa ; \"^ I am not so un-  grateful as you think. Only wait a little and I believe I  shall love you quite dearly."</paragraph>
+	<paragraph num_entities='1' num='596'><entity type='PERSON' common-nouns='stroke;wand;people;place;box;princess;chariot;castle' adjectives='wilful;little;invisible' verbs='be;please;compel;come;render;take'>Perdnet</entity> was pleased at this, and with one stroke of  his wand compelled all the wilful little people to come  back to their places in the box, and then rendering the  Princess invisible he took her with him in his chariot to  the castle.</paragraph>
+	<paragraph num_entities='0' num='597'>When the Princess presented herself at the door, and  said that the Queen had ordered her to place the box in  her x&gt;wn room, the governor laughed heartily at the idea.</paragraph>
+	<paragraph num_entities='0' num='598'>** No, no, my little shepherdess," said he, ** that is  not the pbu:e for you. No wooden shoes have ever been  over that floor yet."</paragraph>
+	<paragraph num_entities='0' num='599'>Then Gradosa begged him to give her a written mes-  sage telling the Queen that he had refused to admit her.  This he did, and she went back to Percinet, who was  waiting for her, and they set out together for the palace.  You may imagine that they did not go the shortest way,</paragraph>
+	<paragraph num_entities='0' num='600'>43</paragraph>
+	<paragraph num_entities='0' num='601'></paragraph>
+	<paragraph num_entities='0' num='602'>Fairjr Tales</paragraph>
+	<paragraph num_entities='1' num='603'>but the Princess did not find it too long, and before they  parted she had promised that if the Queen was still cruel  to her, and tried again to play her any spiteful trick, she  would leave her and come to <entity type='LOCATION' common-nouns='princess;queen;trick' adjectives='cruel;spiteful' verbs='do;find;part;have;promise;be;try;play;leave;come'>Percinet</entity> forever.</paragraph>
+	<paragraph num_entities='1' num='604'>When the Queen saw her returning she fell upon the  Fairy, whom she had kept with her, and pulled her hair,  and scratched her face, and would really have killed her  if a Fairy could be killed. And when the Princess pre-  sented the letter and the box she threw them both upon  the fire without opening them, and looked very much as  if she would like to throw the Princess after them. How-  ever, what she really did do was to have a great hole as  deep as a well dug in her garden, and the top of it covered  with a flat stone. Then she went and walked near it,  and said to <entity type='PERSON' common-nouns='lady' adjectives='' verbs='go;walk;say;be'>Graciosa</entity> and all her ladies who were with  her.</paragraph>
+	<paragraph num_entities='0' num='605'>\"^ I am told that a great treasure lies under that stone ;  let us see if we can lift it."</paragraph>
+	<paragraph num_entities='2' num='606'>So they all began to push and pull at it, and Graciosa  among the others, which was just what the Queen wanted ;  for as soon as the stone was lifted high enough, she gave  the Princess a push which sent her down to the bottom  of the well, and then the stone was let fall again, and there  she was a prisoner. <entity type='PERSON' common-nouns='heart;earth' adjectives='' verbs='feel;be;lose;find'>Graciosa</entity> felt that now indeed she  was hopelessly lost, surely not even <entity type='PERSON' common-nouns='heart;earth' adjectives='' verbs='feel;be;lose;find'>Percinet</entity> could find  her in the heart of the earth.</paragraph>
+	<paragraph num_entities='0' num='607'>\"^ This is like being buried alive," she said with a  shudder. " Oh Percinet ! if you knew how I am suffer-  ing for my want of trust in you 1 But how could I be</paragraph>
+	<paragraph num_entities='0' num='608'>44</paragraph>
+	<paragraph num_entities='0' num='609'></paragraph>
+	<paragraph num_entities='2' num='610'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>Graciosa</entity> and <entity type='PERSON' common-nouns='' adjectives='' verbs=''>Percinet</entity></paragraph>
+	<paragraph num_entities='0' num='611'>sure that you would not be like other men and tire of me  from the moment you were sure I loved you ? "</paragraph>
+	<paragraph num_entities='1' num='612'>As she spoke she suddenly saw a little door open, and  the sunshine blazed into the dismal well. Graciosa did  not hesitate an instant, but passed through into a charm*  ing garden. Flowers and fruit grew on every side, foun-  tains plashed, and birds sang in the branches overhead,  and when she reached a great avenue of trees and looked  up to see where it would lead her, she found herself close  to the palace of crystal. Yes ! there was no mistaking  it, and the Queen and <entity type='PERSON' common-nouns='queen' adjectives='' verbs='be;mistake;be;come;meet'>Percinet</entity> were coming to meet her.</paragraph>
+	<paragraph num_entities='0' num='613'>"Ah, Princess!" said the Queen, "don\"t keep this  poor Percinet in suspense any longer. You little guess  the anxiety he has suffered while you were in the power  of that miserable Queen."</paragraph>
+	<paragraph num_entities='1' num='614'>The Princess kissed her gratefully, and promised to  do as she wished in everything, and holding out her hand  to <entity type='LOCATION' common-nouns='princess;everything;hand;smile' adjectives='' verbs='kiss;promise;do;wish;hold;say'>Percinet</entity>, with a smile, she said :</paragraph>
+	<paragraph num_entities='0' num='615'>" Do you remember telling me that I should not see  your palace i^in until I had been buried i I wonder if  you guessed then that^ when that happened, I should tell  you that I love you with all my heart, and will marry  you whenever you like ? "</paragraph>
+	<paragraph num_entities='3' num='616'>Prince <entity type='PERSON' common-nouns='prince;hand;fear;princess;mind;wedding;splendor' adjectives='greatest' verbs='take;be;give;change;be;hold;live'>Percinet</entity> joyfully took the hand that was given  him, and, for fear the Princess should change her mind,  the wedding was held at once with the greatest splendor,  and <entity type='PERSON' common-nouns='prince;hand;fear;princess;mind;wedding;splendor' adjectives='greatest' verbs='take;be;give;change;be;hold;live'>Graciosa</entity> and <entity type='PERSON' common-nouns='prince;hand;fear;princess;mind;wedding;splendor' adjectives='greatest' verbs='take;be;give;change;be;hold;live'>Percinet</entity> lived happily ever after*</paragraph>
+	<paragraph num_entities='0' num='617'></paragraph>
+	<paragraph num_entities='0' num='618'>45</paragraph>
+	<paragraph num_entities='0' num='619'></paragraph>
+	<paragraph num_entities='1' num='620'>THE HISTORY OF SIR <entity type='PERSON' common-nouns='history;sir' adjectives='' verbs=''>R. WHITTINGTON</entity></paragraph>
+	<paragraph num_entities='0' num='621'>AND HIS CAT</paragraph>
+	<paragraph num_entities='1' num='622'>OICHARD WHITTINGTON was supposed to  --^ have been an outcast, for he did not know his  parents, who either died, or had left him to the parish  of Taunton Dean, in Somersetshire. He there became  displeased with the cruel usage of his nurse, ran away  from her at seven years of age, and travelled about the  country, living upon the charity of well-disposed persons,  till he grew up to be a fine sturdy youth. At last, being  threatened with a whipping if he continued in that idle  course of life, he resolved to go to <entity type='LOCATION' common-nouns='course;life;street;gold' adjectives='last;whipping;idle' verbs='be;threaten;continue;resolve;go;hear;be;pave'>London</entity>, whose streets  he heard were paved with gold.</paragraph>
+	<paragraph num_entities='1' num='623'>Not knowing the way, he followed the carrier ; and  at night, for the little services he did him in rubbing his  horses, he got from him a supper. When he arrived in  this famous city, the carrier, supposing he would become  a troublesome hanger-on, told him plainly he must leave  the inn, and immediately seek out some employment.  He then gave him a groat, and with this poor <entity type='PERSON' common-nouns='groat;ton' adjectives='poor' verbs='give;wander;know'>Whitting</entity>-  ton wandered about, not knowing any one.</paragraph>
+	<paragraph num_entities='0' num='624'>Being in a tattered garb, some pitied him as a forlorn  wretch, but few gave him anything. What he had got  being soon spent, his stomach craved supply; but not</paragraph>
+	<paragraph num_entities='0' num='625'>46</paragraph>
+	<paragraph num_entities='0' num='626'></paragraph>
+	<paragraph num_entities='1' num='627'><entity type='PERSON' common-nouns='cat' adjectives='' verbs=''>Whittington</entity> and His Cat</paragraph>
+	<paragraph num_entities='0' num='628'>having anything to satisfy it, he resolved rather to starve  than steal.</paragraph>
+	<paragraph num_entities='0' num='629'>After two hungry days, and lying on the bulkheads  at night, weary and faint, he got to a merchant\"s house  in Leadenhall Street, where he made many signs of his  distressed condition. The ill-natured cook was ready to  kick him from the door, saying, "If you tarry here, I  will kick you in the kennel." This put him almost into  despair, so he laid him down on the ground, being un&lt;-  able to go any further.</paragraph>
+	<paragraph num_entities='1' num='630'>In the meantime, <entity type='PERSON' common-nouns='meantime;house;condition;house;correction;fellow' adjectives='lazy' verbs='be;come;see;demand;want;tell;do;depart;cause;be;send;call'>Mr Fitzwarren</entity>, whose house it  was, came from the Royal Exchange, and, seeing him  there in that condition, demanded what he wanted, and  sharply told him, if he did not immediately depart, he  would cause him to be sent to the house of correction,  calling him a lazy fellow.</paragraph>
+	<paragraph num_entities='0' num='631'>On this he got up, and after falling two or three  times, through faintness and want of food, he made a  bow, and told him he was a poor country fellow, in a  starving condition, and that, if he might be put in a way,  he would refuse no labor, if it was Dnly for his food.  This raised a pity in the merchant toward him, and then  wanting a scullion, he immediately ordered one of his  servants to take him in, and gave orders how he should  be employed. And so he was fed, to his great refresh-  ment.</paragraph>
+	<paragraph num_entities='0' num='632'>u"This was the first step of Providence to raise him to  what in time made him the city"s glory and the nation"s  wonder. But he met with many difficulties, for the ser- "</paragraph>
+	<paragraph num_entities='0' num='633'>47</paragraph>
+	<paragraph num_entities='0' num='634'></paragraph>
+	<paragraph num_entities='0' num='635'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='636'>u"vftiits made sport of him, and the ill-natured cook told  him, "^ You are to come under me ; so look sharp, clean  the spits and the dripping-pan, make the fires, wind up  the jack, and nimbly do all other scullery work that I  may set you about, or else I will break your head with  my ladle, and kick you about like a football/" "</paragraph>
+	<paragraph num_entities='0' num='637'>u"This was cold comfort, but better than starving ; and  what gave him a beam of hope was that Miss Alice, his  master"s daughter, hearing her father had entertained  another servant, came to see him, and ordered that he  should be kindly used. After she had discoursed with  him about his kindred and method of life, and found his  answers frank and honest, she ordered him some cast-off  garments, and that he should be cleaned, and appear like  a servant in the house. "</paragraph>
+	<paragraph num_entities='0' num='638'>Then she went to her parents, and gave them her  opinion of this stranger, which pleased them well, saying,  \"\" He looks like a serviceable fellow to do kitchen drudg-  ery, run on errands, clean shoes, and do such other  things as the rest of the servants think beneath them."</paragraph>
+	<paragraph num_entities='0' num='639'>" By this time he was confirmed in his place, and a  flock bed prepared in the garret for him. These circum-  stances pleased him, and he showed great diligence in the  work, rising early and sitting up late, leaving nothing  undone that he could do. But, alas ! as he was mostly  under the cook-maid, he had but sour sauce to these  little sweets. Being of a morose temper, she used her  authority beyond reason ; so that to keep in the family,  he had many a broken head to bear patiently.</paragraph>
+	<paragraph num_entities='0' num='640'>48</paragraph>
+	<paragraph num_entities='0' num='641'></paragraph>
+	<paragraph num_entities='1' num='642'><entity type='PERSON' common-nouns='cat' adjectives='' verbs=''>Whittington</entity> and His Cat</paragraph>
+	<paragraph num_entities='1' num='643'>The more he tried with good words to dissuade her  from her cruelty, the more she insulted him, and not  only abused him, but frequently complained against him,  endeavoring to get him turned out of his service. But  Miss <entity type='PERSON' common-nouns='miss;hearing;usage;favor' adjectives='' verbs='interpose;prevail'>Alice</entity>, hearing of her usage, interposed in his favor,  80 that she should not prevail against him.</paragraph>
+	<paragraph num_entities='0' num='644'>This was not the only misfortune he suffered, for,  lying in a place for a long time unfrequented, such  abundance of rats and mice had bred there, that they  were almost as troublesome by night as the cook was by  day. They ran over his face, and disturbed him with  their squeaking, so that he knew not what to think of his  condition or how to mend it.</paragraph>
+	<paragraph num_entities='1' num='645'>After many disquieting thoughts, he at last comforted  himself with the hopes that the cook might soon marry  or die, or quit her service, and as for the rats and mice,  a cat would be an effectual remedy against them. Soon  after, a merchant came to dinner, and, as it rained hard,  he stayed all night. <entity type='PERSON' common-nouns='shoe;penny' adjectives='chamber-door' verbs='have;clean;bring;give'>Whittington</entity> having cleaned his  shoes, and brought them to his chamber-door, he gave  him a penny.</paragraph>
+	<paragraph num_entities='0' num='646'>This stock he improved, for, going along the street  of an errand, he saw a woman with a cat under her arm ;  so he desired to know the price of it. The woman  praised it for a good mouser, and told him, sixpence.  But he declared that a penny was all his stock ; so she  let him have it. He took the cat home, and kept her in  a box all day, lest the cook should kill her if she came  into the kitchen, and at night he set her to work for her</paragraph>
+	<paragraph num_entities='0' num='647'>49*</paragraph>
+	<paragraph num_entities='0' num='648'></paragraph>
+	<paragraph num_entities='0' num='649'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='650'>Jiving. Puss delivered him from one plague ; but the  other remained^ though not for many years.</paragraph>
+	<paragraph num_entities='0' num='651'>It was the custom with the worthy merchant, Mf.  Hugh Fitzwarren, that God might give a greater bless-  ing to his endeavors, to call all his servants together  when he sent out a ship, and cause every one to venture  something in it, to try their fortunes. For this they  were to pay nothing for freight or custom.</paragraph>
+	<paragraph num_entities='0' num='652'>Now ail but Whittington appeared, and brought  things according to their abilities. But Miss Alice being  by, and supposing that poverty made him decline com-  ing, ordered him to be called. He made several excuses ;  but, being constrained to come, he said that he hoped  they would not jeer a poor simple boy for being in ex-  pectation of turning merchant. All that he could claim  as his own was but a poor cat, which he had bought for  a penny,r that had been given him for cleaning shoes,  and which had much befriended him in keeping off the  rats and mice.</paragraph>
+	<paragraph num_entities='0' num='653'>Upon this Miss Alice ofiered to lay something down  for him ; but her father told her that, by the custom, it  must be his own which must be ventured, and then  ordered him to bring his cat This he did, but with  great reluctance, fancying nothing would come of it.  He with tears delivered it to the master of the ship,  which was called the *\" Unicorn," and which fell down  to Blackwall in order to proceed on her voyage.</paragraph>
+	<paragraph num_entities='1' num='654'>u"The cook-maid, who little thought how advanta-  geous <entity type='PERSON' common-nouns='cook-maid;advanta;cat' adjectives='geous' verbs='think;s;prove;jeer'>Whittington</entity>" s cat would prove, would jeer at him "</paragraph>
+	<paragraph num_entities='0' num='655'>50</paragraph>
+	<paragraph num_entities='0' num='656'></paragraph>
+	<paragraph num_entities='1' num='657'><entity type='PERSON' common-nouns='cat' adjectives='' verbs=''>Whittington</entity> and His Cat</paragraph>
+	<paragraph num_entities='1' num='658'>u"about his grand adventure, when she did not scold at  him, and led him such a life that he grew weary of en-  during it. Little expecting what ensued, he resolved  rather to try Dame Fortune than live in such great  torment. So, having packed up his bundle overnight,  he got out early on All-hallows" day, intending to ram-  ble about the country. As he went through <entity type='PERSON' common-nouns='thought;resolution' adjectives='pensive' verbs='go;begin;have;begin;fail'>Moorfields</entity>,  he began to have pensive thoughts, and his resolutions  began to fail him. "</paragraph>
+	<paragraph num_entities='0' num='659'>However, on he went to Hollo way, and sat down  there to consider of the matter, when on a sudden Bow  bells began to ring a merry peal. He listened, fancied  they called him back from his intended journey, and  promised him the good fortune that afterward befell  him. He thought they sang:</paragraph>
+	<paragraph num_entities='0' num='660'>" Turn again, Whittington,  Lord Mayor of London.\"*</paragraph>
+	<paragraph num_entities='0' num='661'>This was a happy thought, as it made so great an im-  pression on him, that finding it early, and that he might  be at home before the family were stirring, he turned  back without delay. All things answered his expecta-  tion, for, having left the door ajar, he crept softly in, and  got to his usual drudgery.</paragraph>
+	<paragraph num_entities='0' num='662'>During this time, the ship in which the cat was, was  driven by contrary winds on the coast of Barbary, in-  habited by Moors, and unknown to the Ernglish. Find-  ing the people courteous, the master and factor traded  with them. Bringing their wares of sundry sorts upon</paragraph>
+	<paragraph num_entities='0' num='663'>51</paragraph>
+	<paragraph num_entities='0' num='664'></paragraph>
+	<paragraph num_entities='0' num='665'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='666'>the decks, and opening them, they suited them so well^  that the news was carried to the king, who sent for pat-  terns, with which he was so pleased that he sent for the  factor to his palace.</paragraph>
+	<paragraph num_entities='0' num='667'>Their entertainment, according to custom, was on the  floor, covered with carpets interwoven with gold and  silver, on which they sat cross-legged. This kind of  table was no sooner laid with various dishes but the scent  drew together a great number of rats and mice, who  devoured all that came in their way.</paragraph>
+	<paragraph num_entities='1' num='668'>This much surprised the factor, who asked the nobles  if these vermin were not offensive. " Oh," said they,  ^\" very much so. His majesty would give half his reve-  nue to be freed from them; for they are not only  offensive at his table, but his chamber and bed are so  troubled with them, that he is always guarded, for fear  of mischief." The factor then remembering <entity type='PERSON' common-nouns='factor;ton;s;cat;occasion;king;beast;ship;court' adjectives='' verbs='remember;rejoice;tell;have;rid'>Whitting</entity>-  ton\"s cat, and rejoicing at the occasion, told the king that  he had an English beast in the ship which would rid all  the court of them quickly.</paragraph>
+	<paragraph num_entities='0' num='669'>The king was overjoyed at hearing the good news,  and being anxious to be freed from those vermin, which  so much spoiled his pleasure, disturbed his mind, and  made all his enjoyments burdensome, desired to see this  surprising creature. \"\" For such a thing," he said, \"^ I  will load your ship with gold, diamonds, and rich pearls/\"  This large ofier made the master endeavor the more to  enhance the cat\"s merits. \"\" She is the most admirable  creature in the world," he said; ^\"and I cannot spare</paragraph>
+	<paragraph num_entities='0' num='670'>52</paragraph>
+	<paragraph num_entities='0' num='671'></paragraph>
+	<paragraph num_entities='1' num='672'><entity type='PERSON' common-nouns='cat' adjectives='' verbs=''>Whittington</entity> and His Cat</paragraph>
+	<paragraph num_entities='0' num='673'></paragraph>
+	<paragraph num_entities='0' num='674'>her, for she keqps my ship dear of them&gt; otherwise they  would destroy all my goods." But his majesty would  take no denial^ saying, \"^ No price shall part us."</paragraph>
+	<paragraph num_entities='0' num='675'>The cat being sent for, and the tables being spread,  the yermin came as before ; then setting her on the table,  she fell to it immediately, and killed them all in a trice.  Then she came purring and curling up her tail to the  kii^ and queen, as if she asked a reward for her service ;  while they admired her, protesting it was the finest diver-  sion they had ever seen.</paragraph>
+	<paragraph num_entities='1' num='676'>His Moorish majesty was so pleased with the cat,  that he gave ten times more for her than all the freight  besides. The ship then sailed with a fair wind, and  arrived safe at Blackwall, being the richest ship that ever  came into England. The master took the cabinet of  jewels with him on shore, for they were too rich a prize  to be left on board, and presented his bill of lading to  Mr. <entity type='PERSON' common-nouns='master;cabinet;jewel;shore;prize;board;bill;mr.;god;voyage' adjectives='rich;prosperous' verbs='take;be;be;leave;present;lade;praise'>Fitzwarren</entity>, who praised God for such a prosperous  voyage*</paragraph>
+	<paragraph num_entities='1' num='677'>When he called all of his servants to give each their  due, the master showed him the cabinet of pearls and  jewels, the sight of which much surprised him. On  being told it was all for <entity type='PERSON' common-nouns='s;cat;\;\;god;fcn;bid;farthing' adjectives='' verbs='be;tell;be;say;deprive'>Whittington</entity>\"s cat, he said, \"\" God  fcN\"bid that I should deprive him of one farthing of it."</paragraph>
+	<paragraph num_entities='0' num='678'>He then sent for him by the title of Mr. Whittington,  who, poor boy, was then in the kitchen cleaning pots and  spits. Being told he must come to his master, he made  several excuses ; but, being urged to go, he at length  came to the door, and there stood bowing and scraping.</paragraph>
+	<paragraph num_entities='0' num='679'>S3</paragraph>
+	<paragraph num_entities='0' num='680'></paragraph>
+	<paragraph num_entities='0' num='681'>Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='682'>He did not dare to enter until the merchant commanded  him in, and ordered a chair to be immediately set for  him ; on which he, thinking they intended to make sport  of him, fell on his knees, and with tears in his eyes be-  sought them not to mock a poor simple fellow, who meant  none of them any harm.</paragraph>
+</document>
+<!--
+Unexpected error: <type 'exceptions.UnicodeDecodeError'>
+-->

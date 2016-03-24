@@ -1,0 +1,15 @@
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	SENTENCE
+4	PERSON	RICHARD DOYLE CHARLES H. BENNETT				RICHARD DOYLE  CHARLES H. BENNETT.
+6	LOCATION	LONDON	bradbury;street			LONDON :  BRADBURY, EVANS, &amp; CO., ii, BOUVERIE STREET.
+6	LOCATION	EVANS	bradbury;street			LONDON :  BRADBURY, EVANS, &amp; CO., ii, BOUVERIE STREET.
+6	PERSON	BOUVERIE	bradbury;street			LONDON :  BRADBURY, EVANS, &amp; CO., ii, BOUVERIE STREET.
+13	PERSON	CHARLES H. BENNETT			illustrate	ILLUSTRATED BY CHARLES H.  BENNETT I
+15	PERSON	DOYLE	loi			DOYLE lOI
+135	PERSON	JACOB	pain		roar	* JACOB ROARED WITH PAIN "
+173	PERSON	C. H. BENNETT				By C. H. BENNETT.
+177	PERSON	C. H. BENNETT	jumttatrt			JUMttatrt  By C. H. BENNETT.
+181	PERSON	BARON BARTKKS	how;daughter;and		ruin	HOW THE RUINED BARON BARTKKS AWAY HIS  THREE DAUGHTERS, WULFILDA, ADELHEID,  AND BERTHA.
+181	LOCATION	WULFILDA	how;daughter;and		ruin	HOW THE RUINED BARON BARTKKS AWAY HIS  THREE DAUGHTERS, WULFILDA, ADELHEID,  AND BERTHA.
+181	PERSON	ADELHEID	how;daughter;and		ruin	HOW THE RUINED BARON BARTKKS AWAY HIS  THREE DAUGHTERS, WULFILDA, ADELHEID,  AND BERTHA.
+181	PERSON	BERTHA	how;daughter;and		ruin	HOW THE RUINED BARON BARTKKS AWAY HIS  THREE DAUGHTERS, WULFILDA, ADELHEID,  AND BERTHA.
+206	PERSON	Wulfilda	beast;baron;\;s;wrath;life;purchase;daughter;wife;instant	great;poor;eldest	disdain;fare;growl;do;think;redeem;promise;eat	But the beast disdained the Baron\"s fare, and  growled again in great wrath : " Do not think to  redeem thy life at so poor a purchase ; but promise  me thy eldest daughter, Wulfilda, to wife this  instant, else I will eat you up."

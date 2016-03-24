@@ -1,0 +1,64 @@
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	SENTENCE
+4	PERSON	Edwin Sidney Hartland	edited;introduction		select	Selected and Edited,  WITH AN Introduction, by  Edwin Sidney Hartland.
+6	PERSON	SCOTT	walter;publishing;co.;ltd.			THE WALTER SCOTT PUBLISHING CO., LTD.
+7	LOCATION	LONDON	felling-on-tyne			LONDON AND FELLING-ON-TYNE.
+8	LOCATION	NEW YORK	east;street			NEW YORK: 3 EAST 14TH STREET.
+12	PERSON	Jack	nursery;tale;princess;princess;colchester;mr.;tom;tit;tot;bean-stalk	glant-klller		NURSERY tales-  Jack THE GlANT-KlLLER  The Princess of Canterbury  The Princess of Colchester  Mr. Fox  "Tom Tit Tot"  Jack and the Bean-Stalk
+12	PERSON	Fox	nursery;tale;princess;princess;colchester;mr.;tom;tit;tot;bean-stalk	glant-klller		NURSERY tales-  Jack THE GlANT-KlLLER  The Princess of Canterbury  The Princess of Colchester  Mr. Fox  "Tom Tit Tot"  Jack and the Bean-Stalk
+12	PERSON	Jack	nursery;tale;princess;princess;colchester;mr.;tom;tit;tot;bean-stalk	glant-klller		NURSERY tales-  Jack THE GlANT-KlLLER  The Princess of Canterbury  The Princess of Colchester  Mr. Fox  "Tom Tit Tot"  Jack and the Bean-Stalk
+14	PERSON	Kenelm	story;saint			The Story of Saint Kenelm
+16	PERSON	Godiva	lady			Lady Godiva
+18	PERSON	Becket	legend;s;parent			u"The Legend of Becket"s Parents "
+20	PERSON	Whittington	cat			Whittington and his Cat
+21	LOCATION	Swaffham	pedlar			The Pedlar of Swaffham
+31	PERSON	Edwin	sir			Edwin and Sir Topaz .
+31	PERSON	Topaz	sir			Edwin and Sir Topaz .
+36	PERSON	Colman Grey				Colman Grey ....
+38	LOCATION	Midridge	myth			A Myth of Midridge .
+46	PERSON	Parson	demon;tregeagle;the;clerk;devil;the;hunted;hare;the;well;st.;ludgvan;the		outwit	The Demon Tregeagle  The Parson and Clerk  Outwitting the Devil  The Hunted Hare  The Well of St. Ludgvan  The Hedley Kow
+46	LOCATION	Hedley Kow	demon;tregeagle;the;clerk;devil;the;hunted;hare;the;well;st.;ludgvan;the		outwit	The Demon Tregeagle  The Parson and Clerk  Outwitting the Devil  The Hunted Hare  The Well of St. Ludgvan  The Hedley Kow
+48	PERSON	Betty Chidley	witch;bag;flour;kentsham;bell			Betty Chidley the Witch  The Bag of Flour  Kentsham Bell .
+55	LOCATION	Blenkinsopp	white;lady			The White Lady of Blenkinsopp
+57	PERSON	Rosewarne	ghost			The Ghost of Rosewarne
+60	PERSON	Billy B	s;adventure			u"Billy B "s Adventure "
+62	LOCATION	Gotham	wise;fools			The Wise Fools of Gotham
+67	PERSON	Vinegar	mr.			Mr. Vinegar
+69	PERSON	Tom Thumb	history			The History of Tom Thumb
+83	PERSON	Jack	termination;princess;cinderella;prince;name;tale;child	serious;supernatural;fortunate;last	deal;be;marry;imply;be;tell	serious ; it usually deals with the supernatural, and  its termination is invariably fortunate : Jack must  marry the princess, and Cinderella the prince, at last  As its name implies, it is a tale told to children.
+104	LOCATION	Evangeli	cause;principality	such;cal	find;have;prevail	I find such a cause in the Evangeli-  cal Protestantism which has so largely prevailed,  not only in the Principality, but also in Scotland and "
+104	LOCATION	Scotland	cause;principality	such;cal	find;have;prevail	I find such a cause in the Evangeli-  cal Protestantism which has so largely prevailed,  not only in the Principality, but also in Scotland and "
+134	PERSON	Tylor	hand;man;thought;practice	more;real	have;teach	In the hands of men like  Tylor, Maclennan, Lang, and Gomme, it has taught  us more about the real thoughts and practices, not
+134	PERSON	Maclennan	hand;man;thought;practice	more;real	have;teach	In the hands of men like  Tylor, Maclennan, Lang, and Gomme, it has taught  us more about the real thoughts and practices, not
+134	PERSON	Lang	hand;man;thought;practice	more;real	have;teach	In the hands of men like  Tylor, Maclennan, Lang, and Gomme, it has taught  us more about the real thoughts and practices, not
+134	LOCATION	Gomme	hand;man;thought;practice	more;real	have;teach	In the hands of men like  Tylor, Maclennan, Lang, and Gomme, it has taught  us more about the real thoughts and practices, not
+146	LOCATION	Gloucester	barnwood;court			Barnwood Court, Gloucester.
+156	PERSON	JACK	giant-killer			JACK THE GIANT-KILLER.1
+159	LOCATION	Newcastle-on-Tyne				(Newcastle-on-Tyne, 1711-183$.)
+162	PERSON	Cornwall	course;depredation	many	have;follow;be;impoverish	This  course he had followed for many years, so that all Cornwall  was impoverished by his depredations.
+163	PERSON	Jack	quoth		let;undertake	Quoth Jack, " Then let me undertake it"
+168	PERSON	Jack	magistrate;declaration;giant-killer;sword;belt;word;letter;gold	embroidered	hear;make;be;term;present;be;write	When the magistrates heard of this, they made a declaration  he should henceforth be termed Jack the Giant-Killer, and  presented him with a sword and an embroidered belt, on  which were written these words in letters of gold
+170	PERSON	Jack	chamber;living	giant;poor;immense;giant	lock;leave;go;fetch	After this the  giant locked poor Jack in an immense chamber, leaving  him there while he went to fetch another giant living in the "
+174	PERSON	Jack	shriek;lamentation;voice	dreadful	be;go;affright;cry	While he was  gone, dreadful shrieks and lamentations affrighted Jack,  especially a voice which continually cried  "
+180	PERSON	Jack	condition;giant;bedroom;dead;host;apartment;word		have;tell;be;show;hear;mutter	Jack, having told his condition to the giant, was  shown into a bedroom, where, in the dead of night, he  heard his host in another apartment muttering these  words
+186	PERSON	Jack	master;ll;uncle		reply;\;do;have;live	But Jack replied, "Master,  we\"ll do well enough, for I have an uncle lives within
+189	PERSON	Jack	giant;master;self;vault;ground	merry;poor;giant	have;secure;fetch;make;lay;tremble	Having secured  the giant, Jack fetched his master, when they made them-  selves heartily merry whilst the poor giant laid trembling  in a vault under the ground.
+190	PERSON	Jack	master;supply;gold;silver;mile;journey;time;prince;smell;giant;vault;castle	fresh;giant	furnish;send;be;return;let;ask;give;keep	Early in the morning Jack furnished his master with a  fresh supply of gold and silver, and then sent him three  miles forward on his journey, at which time the prince  was pretty well out of the smell of the giant Jack  then returned, and let the giant out of the vault, who  asked what he should give him for keeping the castle
+190	PERSON	Jack	master;supply;gold;silver;mile;journey;time;prince;smell;giant;vault;castle	fresh;giant	furnish;send;be;return;let;ask;give;keep	Early in the morning Jack furnished his master with a  fresh supply of gold and silver, and then sent him three  miles forward on his journey, at which time the prince  was pretty well out of the smell of the giant Jack  then returned, and let the giant out of the vault, who  asked what he should give him for keeping the castle
+196	LOCATION	King Arthur	court;exploit;knight;round;table	many;great	be;marry;go;be;make	They were married the next  morning, and soon after went to the court of King Arthur,  where Jack, for his many great exploits, was made one of  the Knights of the Round Table.
+196	PERSON	Jack	court;exploit;knight;round;table	many;great	be;marry;go;be;make	They were married the next  morning, and soon after went to the court of King Arthur,  where Jack, for his many great exploits, was made one of  the Knights of the Round Table.
+197	PERSON	Jack	king;request;necessaries;pursuit;cap;knowledge;sword;sharpness;shoe;swiftness;coat;enterprise	noble;invisible;better;dangerous	have;hear;furnish;start;take;complete;lay	When the  king had heard this noble request, he furnished Jack with  all necessaries, and Jack started on his pursuit, taking with  him the cap of knowledge, sword of sharpness, shoes of  swiftness, and invisible coat, the better to complete the  dangerous enterprises which now lay before him.
+197	PERSON	Jack	king;request;necessaries;pursuit;cap;knowledge;sword;sharpness;shoe;swiftness;coat;enterprise	noble;invisible;better;dangerous	have;hear;furnish;start;take;complete;lay	When the  king had heard this noble request, he furnished Jack with  all necessaries, and Jack started on his pursuit, taking with  him the cap of knowledge, sword of sharpness, shoes of  swiftness, and invisible coat, the better to complete the  dangerous enterprises which now lay before him.
+198	PERSON	Jack	sight;tear;pity		shed	At this sight Jack shed tears of pity, and then,
+205	PERSON	Jack	s;brother;head;king;waggoner;purpose	giant	cut;head;send;s;hire	Jack cut off the" giant"s head, and sent it,  with his brother"s head also, to King Arthur, by a waggoner  he hired for that purpose. "
+205	PERSON	Arthur	s;brother;head;king;waggoner;purpose	giant	cut;head;send;s;hire	Jack cut off the" giant"s head, and sent it,  with his brother"s head also, to King Arthur, by a waggoner  he hired for that purpose. "
+207	PERSON	Jack	captive;way;place;abode;horse;journey;help;direction;knight;house	respective	be;see;mount;proceed;reach;s	u"It was about sunrise the next day when Jack, after seeing  the captives on their way to their respective places of abode,  mounted his horse to proceed on his journey, and, by the  help of his directions, reached the knight"s house about "
+212	PERSON	Jack	\;s;hand	valiant;victorious		By valiant Jack\"s victorious hand."
+214	PERSON	Jack	giant;approach;word		see;smell;cry	Although the giant could not  see Jack, he smelt his approach, and cried out in these  words  "
+219	PERSON	Jack	length;cart-rope;head;giant;team;horse;head;sword;sharpness;king		get;cast;draw;cut;send	Jack at length got a  cart-rope and cast it over the two heads of the giant, and  drew him ashore by a team of horses, and then cut off both  his heads with his sword of sharpness, and sent them to  King Arthur.
+219	PERSON	Arthur	length;cart-rope;head;giant;team;horse;head;sword;sharpness;king		get;cast;draw;cut;send	Jack at length got a  cart-rope and cast it over the two heads of the giant, and  drew him ashore by a team of horses, and then cut off both  his heads with his sword of sharpness, and sent them to  King Arthur.
+223	PERSON	Jack	man;hand;life;lady	old	have;end;give;promise;venture;free	The old man having ended,  Jack gave him his hand, and promised that in the morning  he would venture his life to free the lady.
+228	PERSON	Jack	king;habitation;estate;lady;joy;happiness;rest	noble;beautiful;great	bestow;belong;live	Furthermore,  the king bestowed on Jack a noble habitation, with a very  beautiful estate thereto belonging, where he and his lady  lived in great joy and happiness all the rest of their days.
+239	LOCATION	COLCHESTER	princess			THE PRINCESS OF, COLCHESTER,*
+241	LOCATION	Cornwall	history;kings;^;colchester;^;daughters;chap-book			^ From The History of the Four Kings of Canterbury ^ Colchester^  Cornwall, and Cumberland, their Queens and Daughters, Chap-book,  Falkirk, 1823.
+241	LOCATION	Cumberland	history;kings;^;colchester;^;daughters;chap-book			^ From The History of the Four Kings of Canterbury ^ Colchester^  Cornwall, and Cumberland, their Queens and Daughters, Chap-book,  Falkirk, 1823.
+241	LOCATION	Queens	history;kings;^;colchester;^;daughters;chap-book			^ From The History of the Four Kings of Canterbury ^ Colchester^  Cornwall, and Cumberland, their Queens and Daughters, Chap-book,  Falkirk, 1823.

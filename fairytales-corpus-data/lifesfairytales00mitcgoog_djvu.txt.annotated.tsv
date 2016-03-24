@@ -1,0 +1,58 @@
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	SENTENCE
+7	LOCATION	New York	company			New York  FREDERICK A. STOKES COMPANY
+7	PERSON	FREDERICK A. STOKES	company			New York  FREDERICK A. STOKES COMPANY
+10	PERSON	FREDERICK A. STOKES	copyright;ibqa;company			Copyright, iBQa,  By FREDERICK A. STOKES COMPANY.
+18	PERSON	Rody	uncle			Uncle Rody, 16
+19	PERSON	Westwind	^	fine		The Westwind and the Fine^ . . . 23
+21	PERSON	Belle	wedding;wasn;t;blind;horse;seal;c2			u"The Wedding That Wasn"t, ... 37  The Fious Nobleman and the Blind Horse, 44  The Belle and the Seal, . . . . C2 "
+32	PERSON	M. H. M.				M. H. M.,
+54	PERSON	Jon	good-night;poppy		bid;hand;say	and when Jon finally bade her good-night,  she handed him a poppy, saying:
+81	PERSON	Jon	maiden;duty	younger	know	a younger maiden, but Jon knew his duty.
+112	PERSON	Hightime	bishop;despon;dent;air		assume;say	Bishop Hightime also assumed a despon-  dent air, and said:
+139	PERSON	Uncle Rody	time;boy;boy		call;find	Call three times for Uncle Rody ;  You will find him just the boy,  Just the boy !
+153	PERSON	Uncle Rody	advice		remedy;say;take	" I can easily remedy that," said Uncle  Rody, " if you will only take my advice."
+164	PERSON	Rody	uncle		smile	Uncle Rody smiled wearily.
+248	PERSON	Westwind	carpet;foot;story;branch;murmur;protest;hero	brown;sure	lie;tell;be;be;fool;figure	If you lie upon the brown carpet at  her feet she will tell you the story, while  the Westwind, who is sure to be fooling  among the branches, murmurs a protest  against figuring as a hero.
+251	PERSON	Stillabel			pen;be;godchild	Now it hap-  pened that Stillabel was godchild to an en- "
+254	PERSON	Chipper	man;bride	angry;merry;old;youthful	be;see;do;make;have;do	Although she was  very angry with the merry Chipper, she saw  it would never do to make him an old man  again, as his youthful bride had done noth-
+258	PERSON	Stillabel	poor;fairy;heart	evident;enterprising;broken	begin;fade;be;be;die	Poor  Stillabel began to fade away  and it was  very evident to the enterprising fairy that  she was dying of a broken heart.
+267	PERSON	Greylock	time;elixir;youth;essence;rose;distress;mr.	enchanted;dire;long	be;renew;work;be;draw	This time it was no  elixir for renewing youth, but an enchanted  essence from the rose itself, and the distress  it wrought on Mr. Greylock was dire and  long drawn out. "
+333	LOCATION	Atlantic Ocean	time;steamer;speed;passenger;alarm;captain	beautiful;terrifying	be;cross;say	Once upon a time a beautiful steamer  was crossing the Atlantic Ocean at such a  terrifying speed that one of the passengers  said, in alarm, to the captain :
+380	PERSON	Jonathan	hornet		say	Then Jonathan said to  the hornets :
+383	PERSON	Don	\;t;look;way;spell			Don\"t look that way or you may  fall beneath the spell! "
+400	PERSON	Zpek	hundred;fever;cover;soil;garden	rich	assure;succeed;fail;seize;re;be	They assured him that where one succeeded  hundreds failed ; that if the fever of Zpek  once seized upon him he would never re-  cover; that the soil of the garden was rich
+403	PERSON	Jona	s;brain;woman;s;beauty;use;reason;hornet		be;dance;have	But Jona-  than"s brain was dancing with a woman"s  beauty and he had no use for reason, or for  hornets. "
+412	PERSON	Jonathan		rich	be	Jonathan was now  enormously rich.
+413	PERSON	Ohlstingum	swifty;accom;hornet	other	march;pany	Although he marched swifty along, accom-  panied by Ohlstingum and the other hornets,
+420	PERSON	Jonathan	gentleman;business	old	re-establish;continue;be	"And as for re-establishing old gentlemen  in business," continued Jonathan, " it is more
+426	PERSON	Dorothy	cry;joy;flat-iron;father;s;bosom	scorching	see;come;run;meet;leave	u"When Dorothy saw Jonathan coming she  ran to meet him with a cry of joy, leaving a  scorching flat-iron upon her father"s Sunday  bosom. "
+426	PERSON	Jonathan	cry;joy;flat-iron;father;s;bosom	scorching	see;come;run;meet;leave	u"When Dorothy saw Jonathan coming she  ran to meet him with a cry of joy, leaving a  scorching flat-iron upon her father"s Sunday  bosom. "
+482	PERSON	Priggie			look;dilate	Priggie looked upon him with dilated
+497	PERSON	Katzwynk	man;s;brutality;impor;tance;act;finger	other	be;disgust;realize;have;skip;tap;change	u"Katzwynk was disgusted with the man"s  brutality and, before realizing the impor-  tance of the act, had skipped up to them,  tapped each with his finger, and changed  one into the other. "
+509	PERSON	Katzwynk	fact;case;king;queen;fairy;man;dog;dog		come;know;relate;urge;change	When Katzwynk came to know all this he  related the facts of the case to the King and  Queen of the fairies, and urged them to  change all men into dogs and all dogs into
+536	LOCATION	Ameri	rule;t;girl	fancy	don	** Then, as a rule, you don\"t fancy Ameri-  can girls?"
+561	PERSON	Hunky	s;father;murder;mother;time;story;pub;institution;drunkard	lic;common	have;een;hang;be;be;reside	Hunky"s father had  een hanged for murder and  is mother, at the time of this  story, was residing in a pub-  lic institution as a common  drunkard. "
+563	PERSON	Grips	thief;bully;power		be	Grips  was a thief and a bully ; with the power of
+582	PERSON	Hunky			have;see	Hunky  had never seen a"
+595	PERSON	Hunky			say	said Hunky.
+599	PERSON	Hunky	way	own	thank;separate;go	Hunky  thanked him and they separated, each going  his own way,
+600	PERSON	Hunky	lady;curl;spectacles	old	have;travel;meet;ask;whither;be;hurry	Hunky had not traveled far before he  met an old lady, with curls and spectacles,  who asked him whither he was hurrying.
+601	PERSON	Hunky	\;\;m;goin;\;ter;hell		\;say	\"\" I\"m goin\" ter hell," said Hunky,
+613	PERSON	Hunky	tm;a-goin;grip		join;say	" Tm a-goin* to join Grips,*\" said Hunky.
+617	PERSON	Hunky	grips;m		be;say;be	" Yes, there is," said Hunky, "and Grips  IS m it.
+619	PERSON	Hunky	o;\;course;t		wasn;say	"O\" course he wasn\"t,** said Hunky.
+629	PERSON	Hunky	fairy;pity	unhappy;great	be;hear;feel	Hunky was so unhappy upon hearing this  that the fairy felt a great pity for him, and
+632	PERSON	Hunky	wish	utter;careful	turn;walk;cry;be;grant;be	as Hunky turned and walked dejectedly  away, he cried out to him, "The first wish  you utter shall be granted, so be careful ! "
+636	PERSON	Hunky	officer;palace;soy;mister;place;di	vast	seem;be;go;say;be	As he  seemed to be one of the officers of the vast  palace, Hunky went over to him and said :  " Soy, Mister, what place is dis?"
+643	PERSON	Hunky	dog		say	"Yes, my dog,"  said Hunky.
+649	PERSON	Hunky			whistle	Hunky whistled; Gri
+649	PERSON	Gri			whistle	Hunky whistled; Gri
+655	PERSON	Hunky	s;arm			u"into Hunky"s arms "
+667	PERSON	Scarabella	light;moon;arm;waist;beetle;riage;thought;home	gentle	sit;ignore;vow;sit;wait	Night after night he would sit in  the light of the moon with an arm about  the waist of a beetle belle, ignoring his mar-  riage vows and without a thought for the  gentle Scarabella, who sat waiting for him  at home.
+672	PERSON	Lotzofun		faithless	be	But  there he was, the faithless Lotzofun !
+673	PERSON	Lotzofun		embarrassed	be	Lotzofun was  naturally embarrassed.
+677	LOCATION	Lotzofun	explanation;prom;ise;value;impression	little	be;produce	The explanations and prom-  ises of Lotzofun were naturally of little  value and produced no impression whatever.
+686	PERSON	Lotz			resolve	I resolved that Lotz-
+692	PERSON	Lotzofun	descendant		see;dart;s;recognize	u"So when you see them darting about of  a summer"s night, you will easily recognize  them as the descendants of Lotzofun. "
+705	PERSON	Hester	taste;love;time	good	have;fall;meet	He also  had the good taste to fall deeply in love with  Hester the first time they met.
+726	PERSON	Hester	document;title;estate;husband	mysterious;rich;wealthy	prove;be;become;live	The mysterious document proved to be  the title to a rich estate, and Hester and  her husband became at once enormously  wealthy and lived happily together ever  afterward.

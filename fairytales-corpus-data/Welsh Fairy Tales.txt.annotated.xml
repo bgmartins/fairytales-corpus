@@ -1,0 +1,55 @@
+<document name='fairytales-corpus/Welsh Fairy Tales.txt'>
+	<paragraph num_entities='0' num='0'>Welsh Fairy Tales</paragraph>
+	<paragraph num_entities='0' num='1'>By</paragraph>
+	<paragraph num_entities='1' num='2'>WILLIAM <entity type='PERSON' common-nouns='william' adjectives='' verbs=''>ELLIOT GRIFFIS</entity></paragraph>
+	<paragraph num_entities='0' num='3'>1921</paragraph>
+	<paragraph num_entities='0' num='4'></paragraph>
+	<paragraph num_entities='0' num='5'>A PREFACE-LETTER TO MY GRANDFATHER</paragraph>
+	<paragraph num_entities='1' num='6'>DEAR CAPTAIN <entity type='PERSON' common-nouns='dear;captain' adjectives='' verbs=''>JOHN GRIFFIS</entity>:</paragraph>
+	<paragraph num_entities='2' num='7'>u"Although I never saw you, since you died in 1804, I am glad you were one of those Welshmen who opposed the policy of King George III and that you, after coming to America in 1783, were among the first sea captains to carry the American flag around the world. That you knew many of the Free Quakers and other patriots of the Revolution and that they buried you among them, near Benjamin Franklin, is a matter of pride to your descendants. That you were born in Wales and spoke Welsh, as did also those three great prophets of spiritual liberty, Roger Williams, William Penn, and Thomas Jefferson, is still further ground for pride in one"s ancestry. Now, in the perspective of history we see that our Washington and his compeers and Wilkes, Barre, Burke and the friends of America in Parliament were fighting the same battle of Freedom. Though our debt to <entity type='LOCATION' common-nouns='debt;thing;inheritance;world;imagination;cymric;land' adjectives='many;great;least;famous' verbs='be;count;be'>Wales</entity> for many things is great, we count not least those inheritances from the world of imagination, for which the Cymric Land was famous, even before the days of either Anglo-Saxon or <entity type='PERSON' common-nouns='debt;thing;inheritance;world;imagination;cymric;land' adjectives='many;great;least;famous' verbs='be;count;be'>Norman</entity>."</paragraph>
+	<paragraph num_entities='1' num='8'><entity type='PERSON' common-nouns='' adjectives='' verbs=''>W. E. G.</entity></paragraph>
+	<paragraph num_entities='1' num='9'>u"Saint <entity type='PERSON' common-nouns='saint;s;daffodil' adjectives='' verbs=''>David</entity>"s and the day of the Daffodil, March 1, 1921."</paragraph>
+	<paragraph num_entities='0' num='10'></paragraph>
+	<paragraph num_entities='0' num='11'>CONTENTS</paragraph>
+	<paragraph num_entities='0' num='12'>I. WELSH RABBIT AND HUNTED HARES</paragraph>
+	<paragraph num_entities='0' num='13'>II. THE MIGHTY MONSTER AFANG</paragraph>
+	<paragraph num_entities='0' num='14'>III. THE TWO CAT WITCHES</paragraph>
+	<paragraph num_entities='0' num='15'>IV. HOW THE CYMRY LAND BECAME INHABITED</paragraph>
+	<paragraph num_entities='0' num='16'>V. THE BOY THAT WAS NAMED TROUBLE</paragraph>
+	<paragraph num_entities='0' num='17'>VI. THE GOLDEN HARP</paragraph>
+	<paragraph num_entities='0' num='18'>VII. THE GREAT RED DRAGON OF WALES</paragraph>
+	<paragraph num_entities='0' num='19'>VIII. THE TOUCH OF CLAY</paragraph>
+	<paragraph num_entities='0' num='20'>IX. THE TOUCH OF IRON</paragraph>
+	<paragraph num_entities='0' num='21'>X. THE MAIDEN OF THE GREEN FOREST</paragraph>
+	<paragraph num_entities='0' num='22'>XI. THE TREASURE STONE OF THE FAIRIES</paragraph>
+	<paragraph num_entities='0' num='23'>XII. GIANT TOM AND GIANT BLUBB</paragraph>
+	<paragraph num_entities='0' num='24'>XIII. A BOY THAT VISITED FAIRYLAND</paragraph>
+	<paragraph num_entities='0' num='25'>XIV. THE WELSHERY AND THE NORMANS</paragraph>
+	<paragraph num_entities='0' num='26'>XV. THE WELSH FAIRIES HOLD A MEETING</paragraph>
+	<paragraph num_entities='0' num='27'>u"XVI. KING ARTHUR"S CAVE"</paragraph>
+	<paragraph num_entities='0' num='28'>XVII. THE LADY OF THE LAKE</paragraph>
+	<paragraph num_entities='0' num='29'>u"XVIII. THE KING"S FOOT HOLDER"</paragraph>
+	<paragraph num_entities='0' num='30'>XIX. POWELL, PRINCE OF DYFED</paragraph>
+	<paragraph num_entities='0' num='31'>XX. POWELL AND HIS BRIDE</paragraph>
+	<paragraph num_entities='0' num='32'>XXI. WHY THE BACK DOOR WAS FRONT</paragraph>
+	<paragraph num_entities='0' num='33'>XXII. THE RED BANDITS OF MONTGOMERY</paragraph>
+	<paragraph num_entities='0' num='34'>XXIII. THE FAIRY CONGRESS</paragraph>
+	<paragraph num_entities='0' num='35'>XXIV. THE SWORD OF AVALON</paragraph>
+	<paragraph num_entities='0' num='36'></paragraph>
+	<paragraph num_entities='0' num='37'>I</paragraph>
+	<paragraph num_entities='0' num='38'>WELSH RABBIT AND HUNTED HARES</paragraph>
+	<paragraph num_entities='1' num='39'>Long, long ago, there was a good saint named <entity type='PERSON' common-nouns='long;saint;people;manners;thing;way' adjectives='good;early;cymric;many;good' verbs='be;name;teach;eat;enjoy'>David</entity>, who taught the early Cymric or Welsh people better manners and many good things to eat and ways of enjoying themselves.</paragraph>
+	<paragraph num_entities='1' num='40'>Now the Welsh folks in speaking of their good teacher pronounced his name Tafid and affectionately Taffy, and this came to be the usual name for a person born in Wales. In our nurseries we all learned that "Taffy was a Welshman," but it was their enemies who made a bad rhyme about <entity type='PERSON' common-nouns='nursery;taffy;enemy;rhyme' adjectives='bad' verbs='learn;be;be;make'>Taffy</entity>.</paragraph>
+	<paragraph num_entities='0' num='41'>Wherever there were cows or goats, people could get milk. So they always had what was necessary for a good meal, whether it were breakfast, dinner or supper. Milk, cream, curds, whey and cheese enriched the family table. Were not these enough?</paragraph>
+	<paragraph num_entities='1' num='42'>But Saint <entity type='PERSON' common-nouns='saint;people;food;cheese;life;creature' adjectives='delicious' verbs='teach;make;be;do;take'>David</entity> taught the people how to make a still more delicious food out of cheese, and that this could be done without taking the life of any creature.</paragraph>
+	<paragraph num_entities='0' num='43'>Saint David showed the girls how to take cheese, slice and toast it over the coals, or melt it in a skillet and pour it hot over toast or biscuit. This gave the cheese a new and sweeter flavor. When spread on bread, either plain, or browned over the fire, the result, in combination, was a delicacy fit for a king, and equal to anything known.</paragraph>
+	<paragraph num_entities='1' num='44'>The fame of this new addition to the British bill of fare spread near and far. The English people, who had always been fond of rabbit pie, and still eat thousands of Molly Cotton Tails every day, named it "Welsh Rabbit," and thought it one of the best things to eat. In fact, there are many people, who do not easily see a joke, who misunderstand the fun, or who suppose the name to be either slang, or vulgar, or a mistake, and who call it "rarebit." It is like "Cape Cod turkey" (codfish), or "<entity type='LOCATION' common-nouns='cape;cod;turkey;codfish;duck;fish;plum;potato;cookery;name' adjectives='such;funny;fancy' verbs='be;dry'>Bombay</entity> ducks" (dried fish), or "Irish plums" (potatoes) and such funny cookery with fancy names.</paragraph>
+	<paragraph num_entities='0' num='45'>Now up to this time, the rabbits and hares had been so hunted with the aid of dogs, that there was hardly a chance of any of them surviving the cruel slaughter.</paragraph>
+	<paragraph num_entities='0' num='46'>u"In the year 604, the Prince of Powys was out hunting. The dogs started a hare, and pursued it into a dense thicket. When the hunter with the horn came up, a strange sight met his eyes. There he saw a lovely maiden. She was kneeling on the ground and devoutly praying. Though surprised at this, the prince was anxious to secure his game. He hissed on the hounds and ordered the horn to be blown, for the dogs to charge on their prey, expecting them to bring him the game at once. Instead of this, though they were trained dogs and would fight even a wolf, they slunk away howling, and frightened, as if in pain, while the horn stuck fast to the lips of the blower and he was silent. Meanwhile, the hare nestled under the maiden"s dress and seemed not in the least disturbed."</paragraph>
+	<paragraph num_entities='0' num='47'>Amazed at this, the prince turned to the fair lady and asked:</paragraph>
+	<paragraph num_entities='0' num='48'>"Who are you?"</paragraph>
+	<paragraph num_entities='0' num='49'>She answered, "My mother named me Monacella. I have fled from Ireland, where my father wished to marry me to one of his chief men, whom I did not love. Under God\"s guidance, I came to this secret desert place, where I have lived for fifteen years, without seeing the face of man."</paragraph>
+</document>
+<!--
+Unexpected error: <type 'exceptions.KeyError'>
+-->
