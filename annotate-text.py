@@ -38,7 +38,7 @@ for word,index in tokenizer.word_index.items():
 
 # Read a list of exception patterns
 exceptions = dict( )
-for row in open("books-regexner.txt").readlines():
+for row in open("fairytales-corpus-regexner.txt").readlines():
   row = row.split("\t")
   if " " not in row[0]: exceptions[ row[0] ] = row[1]
 
