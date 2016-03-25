@@ -1,0 +1,61 @@
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	VALENCE	AROUSAL	DOMINANCE	SENTENCE
+3	LOCATION	Colour	black-and-white;_	numerous		5.35	3.39	6.25	_With numerous Drawings in Colour and Black-and-White_
+5	PERSON	L. LESLIE BROOKE				5.0	5.0	5.0	L. LESLIE BROOKE
+6	LOCATION	LONDON				5.0	5.0	5.0	LONDON
+7	PERSON	FREDERICK WARNE	ltd.;co.			5.0	5.0	5.0	FREDERICK WARNE AND CO., LTD.
+8	LOCATION	NEW YORK				7.68	5.14	5.22	AND NEW YORK
+10	LOCATION	LONDON				5.0	5.0	5.0	LONDON, ENGLAND
+10	LOCATION	ENGLAND				5.0	5.0	5.0	LONDON, ENGLAND
+13	PERSON	WILLIAM CLOWES	publisher;breccle;ltd.;son		print	5.87	3.52	5.73666666667	PRINTED FOR THE PUBLISHERS BY WILLIAM CLOWES AND SONS, LTD., LONDON AND BRECCLES
+13	LOCATION	LONDON	publisher;breccle;ltd.;son		print	5.87	3.52	5.73666666667	PRINTED FOR THE PUBLISHERS BY WILLIAM CLOWES AND SONS, LTD., LONDON AND BRECCLES
+28	PERSON	The man	mountain	whole	work;set;disappear;have	5.644	3.705	5.845	The man from the wood set to work on it, and in one day the whole mountain had disappeared.
+28	LOCATION	the wood	mountain	whole	work;set;disappear;have	5.644	3.705	5.845	The man from the wood set to work on it, and in one day the whole mountain had disappeared.
+29	PERSON	Simpleton	water;bride;ship;land;time		try;bring;say;go;demand;put	5.69294117647	4.06352941176	5.56117647059	For the third time the Simpleton demanded his bride, but yet again the King tried to put him off, and said that he must bring him a ship that would go both on land and water.
+29	PERSON	the King	water;bride;ship;land;time		try;bring;say;go;demand;put	5.69294117647	4.06352941176	5.56117647059	For the third time the Simpleton demanded his bride, but yet again the King tried to put him off, and said that he must bring him a ship that would go both on land and water.
+31	LOCATION	the wood	cake;man	little;old;grey	go;give;have;sit	5.818	4.119	5.403	The Simpleton went into the wood, and there sat the little old grey man to whom he had given his cake.
+33	PERSON	the King	kingdom;s;death;wife;wedding		be;live;inherit;celebrate	6.11727272727	4.64636363636	5.29727272727	The wedding was celebrated, and after the King"s death, the Simpleton inherited the Kingdom, and lived very happily ever after with his wife.
+33	PERSON	Simpleton	kingdom;s;death;wife;wedding		be;live;inherit;celebrate	6.11727272727	4.64636363636	5.29727272727	The wedding was celebrated, and after the King"s death, the Simpleton inherited the Kingdom, and lived very happily ever after with his wife.
+40	LOCATION	the chair	ground;bottom	plump	sit;come;seat	5.25625	3.27	5.42875	So she seated herself in it, and there she sat till the bottom of the chair came out, and down she came plump upon the ground.
+42	PERSON	Goldenlocks	standing;porridge;spoon;great;bear	huge	leave;have	5.71285714286	4.0	5.14571428571	Now Goldenlocks had left the spoon of the Great, Huge Bear standing in his porridge.
+46	PERSON	Goldenlocks	great;bear;cushion	huge;hard	put;rise;have	5.86111111111	3.68666666667	5.52111111111	Now Goldenlocks had not put the hard cushion straight when she rose from the chair of the Great, Huge Bear.
+46	LOCATION	the chair	great;bear;cushion	huge;hard	put;rise;have	5.86111111111	3.68666666667	5.52111111111	Now Goldenlocks had not put the hard cushion straight when she rose from the chair of the Great, Huge Bear.
+47	PERSON	Huge Bear	great;voice	gruff;great;rough	say	5.77375	4.2975	5.67875	said the Great, Huge Bear, in his great, rough, gruff voice.
+48	PERSON	Goldenlocks	middle;bear;cushion	soft	squat;have	5.68166666667	3.45333333333	5.51833333333	And Goldenlocks had squatted down the soft cushion of the Middle Bear.
+50	PERSON	Goldenlocks	chair		do;know;have	5.796	3.186	5.748	And you know what Goldenlocks had done to the third chair.
+52	PERSON	Goldenlocks	great;place;pillow		pull;have	6.12285714286	3.84571428571	5.67428571429	Now Goldenlocks had pulled the pillow of the Great, Huge Bear out of its place.
+53	PERSON	Huge Bear	great;voice	gruff;great;rough	say	5.77375	4.2975	5.67875	said the Great, Huge Bear, in his great, rough, gruff voice.
+54	PERSON	Goldenlocks	middle;place;bear		bolster;pull;have	5.572	3.698	5.39	And Goldenlocks had pulled the bolster of the Middle Bear out of its place.
+62	LOCATION	the door	wolf;pig	little	knock;say;let;come	5.51923076923	4.03307692308	5.46615384615	Presently came along a Wolf, and knocked at the door, and said, "Little Pig, little Pig, let me come in."
+65	PERSON	Wolf	pig	little	let;say;come	5.588	4.029	5.485	Then along came the Wolf and said, "Little Pig, little Pig, let me come in."
+67	LOCATION	the house	pig	little;last	blow;huff;eat;puff	5.606	3.953	5.566	So he huffed and he puffed, and he puffed and he huffed, and at last he blew the house down, and ate up the second little Pig.
+68	PERSON	Wolf	pig	little;other	do;say;let;come	5.53142857143	3.95142857143	5.53	So the Wolf came, as he did to the other little Pigs, and said, "Little Pig, little Pig, let me come in."
+69	LOCATION	the house	blow;pig;field;turnip;huffing;puffing	little;nice	be;say;find;know	5.76857142857	4.01071428571	5.67142857143	When he found that he could not, with all his huffing and puffing, blow the house down, he said, "Little Pig, I know where there is a nice field of turnips."
+71	PERSON	Smith	dinner;mr.;to-morrow;home-field;s	ready	go;be;call;get	5.84833333333	3.80416666667	5.865	"Oh, in Mr. Smith"s home-field; and if you will be ready to-morrow morning, I will call for you, and we will go together and get some for dinner."
+74	PERSON	Wolf	pig	ready;little	be;say;come	5.91	4.06571428571	5.59857142857	When the Wolf came he said, "Little Pig, are you ready?"
+79	PERSON	Wolf	home;pig	little	be;run;jump;pick;go;throw	6.129	4.372	5.563	And he threw it so far that, while the Wolf was gone to pick it up, the little Pig jumped down and ran home.
+80	PERSON	Wolf	town;fair;pig	little	go;be;say;come	5.85866666667	3.96	5.54533333333	The next day the Wolf came again, and said to the little Pig, "Little Pig, there is a Fair in the Town this afternoon: will you go?"
+82	PERSON	Wolf			say	5.86666666667	4.35333333333	5.64	"At three," said the Wolf.
+83	PERSON	Wolf	home;hill;fair;pig	round	do;begin;hide;get;frighten;turn;go;run;churn;roll	5.69176470588	3.91941176471	5.35823529412	So he got into the churn to hide, and in doing so turned it round, and it began to roll, and rolled down the hill with the Pig inside it, which frightened the Wolf so much that he ran home without going to the Fair.
+86	PERSON	Wolf	pig	angry;little	be;get;declare;eat	5.54818181818	4.11636363636	5.50272727273	Then the Wolf was very angry indeed, and declared he would eat up the little Pig, and that he would get down the chimney after him.
+86	LOCATION	the chimney	pig	angry;little	be;get;declare;eat	5.54818181818	4.11636363636	5.50272727273	Then the Wolf was very angry indeed, and declared he would eat up the little Pig, and that he would get down the chimney after him.
+90	PERSON	Merlin	thumb;wife;father;request;son;s;astonishment;countryman;home	wonderful;bigger	be;determine;grant;relate;reach;s;have;find	6.13823529412	4.09	5.75764705882	Merlin determined to grant the request, and what was the countryman"s astonishment to find when he reached home that his wife had a son, who, wonderful to relate, was no bigger than his father"s thumb!
+91	PERSON	Fairy Queen	fairy;court;luck	good	fly;be;dress;kiss;wish	6.51454545455	4.57090909091	5.96818181818	When he was thus dressed, the Fairy Queen kissed him once more, and, wishing him all good luck, flew off with the fairies to her Court.
+94	PERSON	the King	court;dwarf		carry;be;make	5.36166666667	3.81333333333	4.995	He was at once carried to the King, who made him his Court dwarf.
+98	PERSON	Tom	none	esteemed	be	6.52333333333	4.18333333333	5.77333333333	And none like Tom was so esteemed
+100	PERSON	King Arthur	girdle;ring;waist	round	dance;wear;give	6.09454545455	4.31909090909	5.49818181818	He danced so well that King Arthur gave him a ring, which he wore round his waist like a girdle.
+101	PERSON	the King	money	much	take;be;tell;carry;permit	5.75714285714	4.33571428571	5.24857142857	This was readily permitted, and the King told him he might take with him as much money as he could carry.
+103	PERSON	Tom		lusty	go	6.06	5.225	5.085	And so away goes lusty Tom,
+107	PERSON	The King		much;safe;pleased	be;make;scold;forget;have	5.76875	3.885	5.63875	The King was so pleased to have him safe once more that he forgot to scold him, and made much of him instead.
+108	PERSON	Tom	knight;arthur;s	many;beloved;best	live	5.95571428571	4.21428571429	5.59857142857	Tom afterwards lived many years at Court, one of the best beloved of King Arthur"s knights.
+108	PERSON	King	knight;arthur;s	many;beloved;best	live	5.95571428571	4.21428571429	5.59857142857	Tom afterwards lived many years at Court, one of the best beloved of King Arthur"s knights.
+112	PERSON	Arthur	knight;s;rest			6.43	3.645	5.39	That all the rest of Arthur"s knights
+114	PERSON	Launcelot du Lake	sir	good		6.82333333333	3.54333333333	5.62666666667	With good Sir Launcelot du Lake,
+116	PERSON	Tom Thumb	none		compare;brave	6.03	4.19	6.33333333333	Yet none compared to brave Tom Thumb
+119	PERSON	WILLIAM CLOWES	publisher;beccle;ltd.;son		print	5.87	3.52	5.73666666667	PRINTED FOR THE PUBLISHERS BY WILLIAM CLOWES AND SONS, LTD., LONDON AND BECCLES
+119	LOCATION	LONDON	publisher;beccle;ltd.;son		print	5.87	3.52	5.73666666667	PRINTED FOR THE PUBLISHERS BY WILLIAM CLOWES AND SONS, LTD., LONDON AND BECCLES
+120	PERSON	LESLIE BROOKE	s;book;child			5.8525	4.555	5.59	LESLIE BROOKE"S CHILDREN"S BOOKS
+121	PERSON	LESLIE BROOKE	book;drawing	other		6.23	3.305	6.205	OTHER BOOKS WITH DRAWINGS BY LESLIE BROOKE
+122	PERSON	JOHNNY CROW	party;s;garden			5.51166666667	4.48166666667	5.475	JOHNNY CROW"S GARDEN JOHNNY CROW"S PARTY
+122	PERSON	JOHNNY CROW	party;s;garden			5.51166666667	4.48166666667	5.475	JOHNNY CROW"S GARDEN JOHNNY CROW"S PARTY
+123	PERSON	ROBERT H. CHARLES	turn;verse	roundabout		5.375	3.83	5.6775	A ROUNDABOUT TURN Verses by ROBERT H. CHARLES
+125	PERSON	ANDREW LANG	nursery;book		edit;rhyme	6.17	3.7775	6.0075	THE NURSERY RHYME BOOK Edited by ANDREW LANG

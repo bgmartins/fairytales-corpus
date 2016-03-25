@@ -1,58 +1,102 @@
-PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	SENTENCE
-7	LOCATION	New York	company			New York  FREDERICK A. STOKES COMPANY
-7	PERSON	FREDERICK A. STOKES	company			New York  FREDERICK A. STOKES COMPANY
-10	PERSON	FREDERICK A. STOKES	copyright;ibqa;company			Copyright, iBQa,  By FREDERICK A. STOKES COMPANY.
-18	PERSON	Rody	uncle			Uncle Rody, 16
-19	PERSON	Westwind	^	fine		The Westwind and the Fine^ . . . 23
-21	PERSON	Belle	wedding;wasn;t;blind;horse;seal;c2			u"The Wedding That Wasn"t, ... 37  The Fious Nobleman and the Blind Horse, 44  The Belle and the Seal, . . . . C2 "
-32	PERSON	M. H. M.				M. H. M.,
-54	PERSON	Jon	good-night;poppy		bid;hand;say	and when Jon finally bade her good-night,  she handed him a poppy, saying:
-81	PERSON	Jon	maiden;duty	younger	know	a younger maiden, but Jon knew his duty.
-112	PERSON	Hightime	bishop;despon;dent;air		assume;say	Bishop Hightime also assumed a despon-  dent air, and said:
-139	PERSON	Uncle Rody	time;boy;boy		call;find	Call three times for Uncle Rody ;  You will find him just the boy,  Just the boy !
-153	PERSON	Uncle Rody	advice		remedy;say;take	" I can easily remedy that," said Uncle  Rody, " if you will only take my advice."
-164	PERSON	Rody	uncle		smile	Uncle Rody smiled wearily.
-248	PERSON	Westwind	carpet;foot;story;branch;murmur;protest;hero	brown;sure	lie;tell;be;be;fool;figure	If you lie upon the brown carpet at  her feet she will tell you the story, while  the Westwind, who is sure to be fooling  among the branches, murmurs a protest  against figuring as a hero.
-251	PERSON	Stillabel			pen;be;godchild	Now it hap-  pened that Stillabel was godchild to an en- "
-254	PERSON	Chipper	man;bride	angry;merry;old;youthful	be;see;do;make;have;do	Although she was  very angry with the merry Chipper, she saw  it would never do to make him an old man  again, as his youthful bride had done noth-
-258	PERSON	Stillabel	poor;fairy;heart	evident;enterprising;broken	begin;fade;be;be;die	Poor  Stillabel began to fade away  and it was  very evident to the enterprising fairy that  she was dying of a broken heart.
-267	PERSON	Greylock	time;elixir;youth;essence;rose;distress;mr.	enchanted;dire;long	be;renew;work;be;draw	This time it was no  elixir for renewing youth, but an enchanted  essence from the rose itself, and the distress  it wrought on Mr. Greylock was dire and  long drawn out. "
-333	LOCATION	Atlantic Ocean	time;steamer;speed;passenger;alarm;captain	beautiful;terrifying	be;cross;say	Once upon a time a beautiful steamer  was crossing the Atlantic Ocean at such a  terrifying speed that one of the passengers  said, in alarm, to the captain :
-380	PERSON	Jonathan	hornet		say	Then Jonathan said to  the hornets :
-383	PERSON	Don	\;t;look;way;spell			Don\"t look that way or you may  fall beneath the spell! "
-400	PERSON	Zpek	hundred;fever;cover;soil;garden	rich	assure;succeed;fail;seize;re;be	They assured him that where one succeeded  hundreds failed ; that if the fever of Zpek  once seized upon him he would never re-  cover; that the soil of the garden was rich
-403	PERSON	Jona	s;brain;woman;s;beauty;use;reason;hornet		be;dance;have	But Jona-  than"s brain was dancing with a woman"s  beauty and he had no use for reason, or for  hornets. "
-412	PERSON	Jonathan		rich	be	Jonathan was now  enormously rich.
-413	PERSON	Ohlstingum	swifty;accom;hornet	other	march;pany	Although he marched swifty along, accom-  panied by Ohlstingum and the other hornets,
-420	PERSON	Jonathan	gentleman;business	old	re-establish;continue;be	"And as for re-establishing old gentlemen  in business," continued Jonathan, " it is more
-426	PERSON	Dorothy	cry;joy;flat-iron;father;s;bosom	scorching	see;come;run;meet;leave	u"When Dorothy saw Jonathan coming she  ran to meet him with a cry of joy, leaving a  scorching flat-iron upon her father"s Sunday  bosom. "
-426	PERSON	Jonathan	cry;joy;flat-iron;father;s;bosom	scorching	see;come;run;meet;leave	u"When Dorothy saw Jonathan coming she  ran to meet him with a cry of joy, leaving a  scorching flat-iron upon her father"s Sunday  bosom. "
-482	PERSON	Priggie			look;dilate	Priggie looked upon him with dilated
-497	PERSON	Katzwynk	man;s;brutality;impor;tance;act;finger	other	be;disgust;realize;have;skip;tap;change	u"Katzwynk was disgusted with the man"s  brutality and, before realizing the impor-  tance of the act, had skipped up to them,  tapped each with his finger, and changed  one into the other. "
-509	PERSON	Katzwynk	fact;case;king;queen;fairy;man;dog;dog		come;know;relate;urge;change	When Katzwynk came to know all this he  related the facts of the case to the King and  Queen of the fairies, and urged them to  change all men into dogs and all dogs into
-536	LOCATION	Ameri	rule;t;girl	fancy	don	** Then, as a rule, you don\"t fancy Ameri-  can girls?"
-561	PERSON	Hunky	s;father;murder;mother;time;story;pub;institution;drunkard	lic;common	have;een;hang;be;be;reside	Hunky"s father had  een hanged for murder and  is mother, at the time of this  story, was residing in a pub-  lic institution as a common  drunkard. "
-563	PERSON	Grips	thief;bully;power		be	Grips  was a thief and a bully ; with the power of
-582	PERSON	Hunky			have;see	Hunky  had never seen a"
-595	PERSON	Hunky			say	said Hunky.
-599	PERSON	Hunky	way	own	thank;separate;go	Hunky  thanked him and they separated, each going  his own way,
-600	PERSON	Hunky	lady;curl;spectacles	old	have;travel;meet;ask;whither;be;hurry	Hunky had not traveled far before he  met an old lady, with curls and spectacles,  who asked him whither he was hurrying.
-601	PERSON	Hunky	\;\;m;goin;\;ter;hell		\;say	\"\" I\"m goin\" ter hell," said Hunky,
-613	PERSON	Hunky	tm;a-goin;grip		join;say	" Tm a-goin* to join Grips,*\" said Hunky.
-617	PERSON	Hunky	grips;m		be;say;be	" Yes, there is," said Hunky, "and Grips  IS m it.
-619	PERSON	Hunky	o;\;course;t		wasn;say	"O\" course he wasn\"t,** said Hunky.
-629	PERSON	Hunky	fairy;pity	unhappy;great	be;hear;feel	Hunky was so unhappy upon hearing this  that the fairy felt a great pity for him, and
-632	PERSON	Hunky	wish	utter;careful	turn;walk;cry;be;grant;be	as Hunky turned and walked dejectedly  away, he cried out to him, "The first wish  you utter shall be granted, so be careful ! "
-636	PERSON	Hunky	officer;palace;soy;mister;place;di	vast	seem;be;go;say;be	As he  seemed to be one of the officers of the vast  palace, Hunky went over to him and said :  " Soy, Mister, what place is dis?"
-643	PERSON	Hunky	dog		say	"Yes, my dog,"  said Hunky.
-649	PERSON	Hunky			whistle	Hunky whistled; Gri
-649	PERSON	Gri			whistle	Hunky whistled; Gri
-655	PERSON	Hunky	s;arm			u"into Hunky"s arms "
-667	PERSON	Scarabella	light;moon;arm;waist;beetle;riage;thought;home	gentle	sit;ignore;vow;sit;wait	Night after night he would sit in  the light of the moon with an arm about  the waist of a beetle belle, ignoring his mar-  riage vows and without a thought for the  gentle Scarabella, who sat waiting for him  at home.
-672	PERSON	Lotzofun		faithless	be	But  there he was, the faithless Lotzofun !
-673	PERSON	Lotzofun		embarrassed	be	Lotzofun was  naturally embarrassed.
-677	LOCATION	Lotzofun	explanation;prom;ise;value;impression	little	be;produce	The explanations and prom-  ises of Lotzofun were naturally of little  value and produced no impression whatever.
-686	PERSON	Lotz			resolve	I resolved that Lotz-
-692	PERSON	Lotzofun	descendant		see;dart;s;recognize	u"So when you see them darting about of  a summer"s night, you will easily recognize  them as the descendants of Lotzofun. "
-705	PERSON	Hester	taste;love;time	good	have;fall;meet	He also  had the good taste to fall deeply in love with  Hester the first time they met.
-726	PERSON	Hester	document;title;estate;husband	mysterious;rich;wealthy	prove;be;become;live	The mysterious document proved to be  the title to a rich estate, and Hester and  her husband became at once enormously  wealthy and lived happily together ever  afterward.
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	VALENCE	AROUSAL	DOMINANCE	SENTENCE
+7	LOCATION	New York	company			6.66	4.215	5.11	New York  FREDERICK A. STOKES COMPANY
+7	PERSON	FREDERICK A. STOKES	company			6.66	4.215	5.11	New York  FREDERICK A. STOKES COMPANY
+10	PERSON	FREDERICK A. STOKES	company;ibqa;copyright			5.035	3.125	5.25	Copyright, iBQa,  By FREDERICK A. STOKES COMPANY.
+17	PERSON	Fairy	bishop			5.41333333333	4.60333333333	5.4	The Fairy Bishop, 3
+18	PERSON	Rody	uncle			6.5	4.05	5.24	Uncle Rody, 16
+19	PERSON	Westwind	^	fine		6.5	3.86	5.78	The Westwind and the Fine^ . . . 23
+21	PERSON	Belle	blind;horse;seal;t;wasn;c2;wedding			5.51	4.11833333333	4.97	The Wedding That Wasn"t, ... 37  The Fious Nobleman and the Blind Horse, 44  The Belle and the Seal, . . . . C2
+32	PERSON	M. H. M.				5.0	5.0	5.0	M. H. M.,
+46	LOCATION	the house	son		swer;speak	6.2525	4.3925	5.575	He spoke of  this to the son of the house, who an-  swered :
+54	PERSON	Jon	good-night;poppy		bid;say;hand	5.4925	4.3525	5.8575	and when Jon finally bade her good-night,  she handed him a poppy, saying:
+68	LOCATION	the gate	todian;hand;cus;poppy	high;alarmed	be;notice;cry;work;turn;see;become;hold	5.58818181818	4.07636363636	5.51	Seeing how  beautifully it worked, and noticing the cus-  todians about the gate were becoming  alarmed, he held the poppy high in his hand,  and turning completely around, he cried :
+75	PERSON	the lady	carriage;_		j	6.00333333333	3.85666666667	5.62333333333	_ j the lady in the carriage, for
+81	PERSON	Jon	duty;maiden	younger	know	5.7	4.0	5.115	a younger maiden, but Jon knew his duty.
+93	LOCATION	the door	moment;gentleman	open	be;cry;jerk;get	5.34333333333	4.42333333333	5.32	At that  moment the door was jerked open behind  him and a gentleman cried : ** Get away,
+112	PERSON	Hightime	air;dent;bishop;despon		assume;say	5.01333333333	4.01833333333	5.59666666667	Bishop Hightime also assumed a despon-  dent air, and said:
+129	LOCATION	the floor	doorway;mouse;bow	polite	stop;step;run;say	5.538	3.945	5.799	The mouse stepped quickly out  and ran across the floor, but stopped  in the doorway and said with a polite  bow :
+139	PERSON	Uncle Rody	time		call;find	5.93375	3.56875	5.78375	Call three times for Uncle Rody ;  You will find him just the boy,  Just the boy !
+139	PERSON	the boy	time		call;find	5.93375	3.56875	5.78375	Call three times for Uncle Rody ;  You will find him just the boy,  Just the boy !
+139	PERSON	the boy	time		call;find	5.93375	3.56875	5.78375	Call three times for Uncle Rody ;  You will find him just the boy,  Just the boy !
+153	PERSON	Uncle Rody	advice		remedy;say;take	5.795	3.9275	5.95625	" I can easily remedy that," said Uncle  Rody, " if you will only take my advice."
+164	PERSON	Rody	uncle		smile	7.195	4.335	6.48	Uncle Rody smiled wearily.
+237	LOCATION	the town	east;railway;train;capitalist		know;bear;enter	5.79777777778	3.74777777778	5.31333333333	A railway  train, just entering the town and bearing  some well known capitalists from the East,
+240	LOCATION	the house	eye;family;fence;outbuilding;cart;cattle;hen		shoot;ail;run	5.80222222222	3.90111111111	5.36888888889	Before his eyes, as he  ran, the house and family, the outbuildings,  fences, cattle, carts, and hens, ail shot into
+245	LOCATION	the window	eagle;school;mountain;house;boot;mile;foot	other	fly;be;discover;enter;go;stock	5.84473684211	4.05526315789	5.62894736842	If so, he  entered in his stocking feet, as one boot  went flying through the window of a school  house fifteen miles away, and the other  was discovered on the summit of Eagle  mountain.
+245	LOCATION	the summit	eagle;school;mountain;house;boot;mile;foot	other	fly;be;discover;enter;go;stock	5.84473684211	4.05526315789	5.62894736842	If so, he  entered in his stocking feet, as one boot  went flying through the window of a school  house fifteen miles away, and the other  was discovered on the summit of Eagle  mountain.
+248	PERSON	Westwind	story;hero;branch;protest;murmur;foot;carpet	brown;sure	fool;lie;tell;figure;be	5.31277777778	3.89444444444	5.19166666667	If you lie upon the brown carpet at  her feet she will tell you the story, while  the Westwind, who is sure to be fooling  among the branches, murmurs a protest  against figuring as a hero.
+251	PERSON	Stillabel			be;pen;godchild	5.60333333333	3.72666666667	5.55666666667	Now it hap-  pened that Stillabel was godchild to an en-
+254	PERSON	Chipper	bride;man	angry;old;youthful;merry	be;see;make;have;do	5.46666666667	4.366	5.592	Although she was  very angry with the merry Chipper, she saw  it would never do to make him an old man  again, as his youthful bride had done noth-
+258	PERSON	Stillabel	poor;heart;fairy	broken;enterprising;evident	be;begin;fade;die	5.06833333333	4.37833333333	5.13	Poor  Stillabel began to fade away  and it was  very evident to the enterprising fairy that  she was dying of a broken heart.
+267	PERSON	Greylock	distress;essence;time;youth;mr.;rose;elixir	enchanted;long;dire	be;renew;work;draw	5.69071428571	4.02571428571	5.40214285714	This time it was no  elixir for renewing youth, but an enchanted  essence from the rose itself, and the distress  it wrought on Mr. Greylock was dire and  long drawn out.
+269	LOCATION	the land	blossom;other	many;faithless	affect;spread;love;have;be	5.98888888889	3.93888888889	5.78333333333	And thus it affects many others who are  faithless in their loves, for it has spread  about the land and blossoms everywhere.
+281	LOCATION	the village	church;pew;wedding	full	be;arrive	6.105	3.78625	5.64375	When the wedding day arrived every pew  in the village church was full.
+286	LOCATION	the church	pair;knee;voice;arm;corner	chubby;clear	feel;penetrate;hear;clasp	5.5975	4.076875	5.66	Then the Perfect  Man felt a pair of chubby arms clasped  tightly about his knees, and heard in a clear  voice that penetrated every corner of the  church :
+333	LOCATION	Atlantic Ocean	passenger;alarm;steamer;time;captain;speed	beautiful;terrifying	be;say;cross	5.48875	4.510625	5.233125	Once upon a time a beautiful steamer  was crossing the Atlantic Ocean at such a  terrifying speed that one of the passengers  said, in alarm, to the captain :
+335	LOCATION	the sea	iceberg;bottom;beau;steamer;undulum;crash;tion	beautiful;resounding;deep;tiful;graceful;more	shoot;sink	5.20357142857	4.36285714286	4.92857142857	But that night the beautiful steamer shot  with a resounding crash into a still more beau-  tiful iceberg, and sank with graceful undula-  tions to the deep down bottom of the sea.
+361	PERSON	The prince	chest;expression;feature;man	good;handsome	be;stand;dissipate;clasp;look	5.86833333333	4.13166666667	5.82666666667	The prince, who was a handsome,  dissipated looking man, with good features  and no expression, stood proudly beside the  belle and clasped her to his chest.
+380	PERSON	Jonathan	hornet		say	4.64	5.08	5.355	Then Jonathan said to  the hornets :
+383	PERSON	Don	spell;t;way;look			5.41333333333	3.87333333333	5.34333333333	Don"t look that way or you may  fall beneath the spell! "
+400	PERSON	Zpek	soil;hundred;cover;fever	rich	be;re;seize;assure;succeed;fail	5.53692307692	4.23384615385	5.55769230769	They assured him that where one succeeded  hundreds failed ; that if the fever of Zpek  once seized upon him he would never re-  cover; that the soil of the garden was rich
+400	LOCATION	the garden	soil;hundred;cover;fever	rich	be;re;seize;assure;succeed;fail	5.53692307692	4.23384615385	5.55769230769	They assured him that where one succeeded  hundreds failed ; that if the fever of Zpek  once seized upon him he would never re-  cover; that the soil of the garden was rich
+403	PERSON	Jona	use;woman;beauty;s;brain;reason;hornet		dance;be;have	5.835	4.39333333333	5.4375	But Jona-  than"s brain was dancing with a woman"s  beauty and he had no use for reason, or for  hornets.
+405	LOCATION	the kitchen	lash;piecrust		be;knead;fall	5.54333333333	3.64	5.17166666667	Also, one or two fell from her lashes into the  piecrust she was kneading in the kitchen.
+409	LOCATION	the garden	lamb;outskirts;man	half-demented	hover;shear	5.78	3.81333333333	5.39333333333	The shorn lambs and half-demented men who  hovered around the outskirts of the garden
+412	PERSON	Jonathan		rich	be	6.505	5.12	6.165	Jonathan was now  enormously rich.
+413	PERSON	Ohlstingum	accom;swifty;hornet	other	pany;march	4.39	4.605	4.915	Although he marched swifty along, accom-  panied by Ohlstingum and the other hornets,
+420	PERSON	Jonathan	gentleman;business	old	be;continue;re-establish	5.592	3.732	5.46	"And as for re-establishing old gentlemen  in business," continued Jonathan, " it is more
+426	PERSON	Dorothy	joy;cry;father;bosom;flat-iron;s	scorching	leave;run;see;come;meet	5.40538461538	4.65692307692	5.11538461538	When Dorothy saw Jonathan coming she  ran to meet him with a cry of joy, leaving a  scorching flat-iron upon her father"s Sunday  bosom.
+426	PERSON	Jonathan	joy;cry;father;bosom;flat-iron;s	scorching	leave;run;see;come;meet	5.40538461538	4.65692307692	5.11538461538	When Dorothy saw Jonathan coming she  ran to meet him with a cry of joy, leaving a  scorching flat-iron upon her father"s Sunday  bosom.
+430	LOCATION	the ocean	impropriety;nature;piper;unconventionality;sand;manyyear;shore;beverly;fairy;ing	general	be;reflect;disguise;observe;abandon;stroll	5.91315789474	3.68894736842	5.46105263158	One day, manyyears ago, as she was stroll-  ing along the Beverly shore, reflecting sadly  upon the unconventionality of the ocean,  and the general abandon and impropriety of  Nature, she was observed by two fairies,  who, disguised as sand pipers, were strolling  about the beach.
+430	LOCATION	the beach	impropriety;nature;piper;unconventionality;sand;manyyear;shore;beverly;fairy;ing	general	be;reflect;disguise;observe;abandon;stroll	5.91315789474	3.68894736842	5.46105263158	One day, manyyears ago, as she was stroll-  ing along the Beverly shore, reflecting sadly  upon the unconventionality of the ocean,  and the general abandon and impropriety of  Nature, she was observed by two fairies,  who, disguised as sand pipers, were strolling  about the beach.
+467	LOCATION	the cliff			be;stand	5.40666666667	3.90333333333	5.16	There she is now, standing on the  cliff."
+482	PERSON	Priggie			look;dilate	5.95	3.76	5.88	Priggie looked upon him with dilated
+497	PERSON	Katzwynk	brutality;s;finger;act;tance;impor	other	be;tap;disgust;skip;have;realize;change	5.15214285714	4.01	5.5	Katzwynk was disgusted with the man"s  brutality and, before realizing the impor-  tance of the act, had skipped up to them,  tapped each with his finger, and changed  one into the other.
+497	PERSON	the man	brutality;s;finger;act;tance;impor	other	be;tap;disgust;skip;have;realize;change	5.15214285714	4.01	5.5	Katzwynk was disgusted with the man"s  brutality and, before realizing the impor-  tance of the act, had skipped up to them,  tapped each with his finger, and changed  one into the other.
+504	PERSON	The man	master;contrary;dog;interest;one	little;own;lucky;unfortunate	toady;be;look;snub;care	5.85357142857	4.07857142857	5.33857142857	The man, on the  contrary, who was now the dog, looked  sharply after his own interests, snubbed the  unfortunate dogs, and toadied the lucky  ones, and cared little for his master or his
+509	PERSON	Katzwynk	case;fairy;dog;fact;man		relate;come;know;change;urge	6.05923076923	4.38307692308	5.76846153846	When Katzwynk came to know all this he  related the facts of the case to the King and  Queen of the fairies, and urged them to  change all men into dogs and all dogs into
+509	PERSON	the King	case;fairy;dog;fact;man		relate;come;know;change;urge	6.05923076923	4.38307692308	5.76846153846	When Katzwynk came to know all this he  related the facts of the case to the King and  Queen of the fairies, and urged them to  change all men into dogs and all dogs into
+509	PERSON	Queen	case;fairy;dog;fact;man		relate;come;know;change;urge	6.05923076923	4.38307692308	5.76846153846	When Katzwynk came to know all this he  related the facts of the case to the King and  Queen of the fairies, and urged them to  change all men into dogs and all dogs into
+524	PERSON	the prince		more	say;raise	5.996	4.564	5.63	"Yes,** said the prince, **and more than I  can possibly raise."
+529	LOCATION	the castle	squirrel;jewsharp;time	golden;bob-tailed;next	whirl;play;toss;want;touch;ing	6.01454545455	4.51	5.51181818182	"Next  time you want me, play on this,** and, toss-  ing him a golden jewsharp, she touched the  bob-tailed squirrels and whirled out of the  castle.
+534	PERSON	the girl	terror;girl;parent	willing	meet;marry;object;be	5.96529411765	4.36529411765	5.32117647059	When I meet a girl I am  willing to marry, the parents object ; and  when the parents are willing, the girl is a  terror."
+535	PERSON	The fairy			laugh	7.135	5.83	6.885	The fairy laughed.
+536	LOCATION	Ameri	girl;t;rule	fancy	don	5.915	4.57666666667	5.41333333333	** Then, as a rule, you don"t fancy Ameri-  can girls?"
+538	PERSON	the fairy	education;don;look;taste;manners;t;voice	gentle;mischievous;expensive;useful	say;retire;like	6.03428571429	4.35428571429	6.16642857143	"Don"t you like their gentle voices," said  the fairy, with a mischievous look; "their  retiring manners, useful educations, and in-  expensive tastes ? "
+543	PERSON	the fairy		serious	become;argue;impress	5.662	4.802	5.924	But the fairy became serious and argued  with him long and earnestly, finally impress-
+546	PERSON	the prince	money;castle;love;contempt;spite	old;secret;necessary;glorious	be;make;save;remember;have	5.88058823529	4.35235294118	5.59882352941	But in spite of all this the prince had a  secret contempt for her, and when it was  necessary for him to make love, he would  remember the glorious old castle her money  was to save.
+547	PERSON	the prince	device;voice	old	tear;be;draw;know;say	5.37727272727	4.16363636364	5.54454545455	*"  Now the prince knew this was an old device,  so he drew her passionately to him and said  with a tear in his voice :
+552	PERSON	the princess	cat		turn;say;change	6.00666666667	4.48	5.79833333333	Then she turned to the princess and  changed her into a Persian cat, saying :
+557	PERSON	the prince	terrier;fairy;skye;cat	styhsh	be;see;know;chase	6.04733333333	4.288	5.466	So whenever you see a Skye  terrier chasing a Persian cat you may know  who they are; but which is the prince and  which the princess, is known only to the  styhsh fairy.
+557	PERSON	the princess	terrier;fairy;skye;cat	styhsh	be;see;know;chase	6.04733333333	4.288	5.466	So whenever you see a Skye  terrier chasing a Persian cat you may know  who they are; but which is the prince and  which the princess, is known only to the  styhsh fairy.
+561	PERSON	Hunky	story;murder;mother;father;pub;s;time;drunkard;institution	common;lic	reside;be;een;hang;have	5.23444444444	4.175	5.05833333333	Hunky"s father had  een hanged for murder and  is mother, at the time of this  story, was residing in a pub-  lic institution as a common  drunkard.
+563	PERSON	Grips	thief;power;bully		be	4.61142857143	4.91285714286	4.79714285714	Grips  was a thief and a bully ; with the power of
+571	LOCATION	the grave	grief;earth;someone;effort	fresh	be;pat;suppress;make;say;hear	5.228	3.97	5.546	As he was gently patting down the fresh  earth upon the grave and making no efforts  to suppress his grief, he heard someone  say :
+582	PERSON	Hunky			see;have	5.5075	4.2475	5.48	Hunky  had never seen a"
+595	PERSON	Hunky			say	5.405	4.5	6.04	said Hunky.
+599	PERSON	Hunky	way	own	go;thank;separate	5.77	3.914	5.278	Hunky  thanked him and they separated, each going  his own way,
+600	PERSON	Hunky	curl;spectacles;lady	old	be;travel;whither;have;ask;meet;hurry	5.63727272727	4.22363636364	5.49727272727	Hunky had not traveled far before he  met an old lady, with curls and spectacles,  who asked him whither he was hurrying.
+601	PERSON	Hunky	hell;ter;m;goin		say	4.672	5.052	5.11	"" I"m goin" ter hell," said Hunky,
+613	PERSON	Hunky	grip;tm;a-goin		say;join	5.445	4.135	5.6525	" Tm a-goin* to join Grips,*" said Hunky.
+617	PERSON	Hunky	grips;m		be;say	5.634	4.172	5.616	" Yes, there is," said Hunky, "and Grips  IS m it.
+619	PERSON	Hunky	course;t;o		say;wasn	5.2025	4.75	5.52	"O" course he wasn"t,** said Hunky.
+629	PERSON	Hunky	pity	great;unhappy	feel;be;hear	5.36222222222	4.33555555556	5.46333333333	Hunky was so unhappy upon hearing this  that the fairy felt a great pity for him, and
+629	PERSON	the fairy	pity	great;unhappy	feel;be;hear	5.36222222222	4.33555555556	5.46333333333	Hunky was so unhappy upon hearing this  that the fairy felt a great pity for him, and
+632	PERSON	Hunky	wish	utter;careful	turn;be;cry;grant;walk	5.82818181818	3.84090909091	5.49090909091	as Hunky turned and walked dejectedly  away, he cried out to him, "The first wish  you utter shall be granted, so be careful ! "
+636	PERSON	Hunky	palace;di;place;officer;soy;mister	vast	go;be;seem;say	5.68692307692	3.87692307692	5.43384615385	As he  seemed to be one of the officers of the vast  palace, Hunky went over to him and said :  " Soy, Mister, what place is dis?"
+643	PERSON	Hunky	dog		say	5.93666666667	4.81	5.93666666667	"Yes, my dog,"  said Hunky.
+649	PERSON	Hunky			whistle	5.3	4.255	5.49	Hunky whistled; Gri
+649	PERSON	Gri			whistle	5.3	4.255	5.49	Hunky whistled; Gri
+655	PERSON	Hunky	s;arm			5.11333333333	4.33666666667	5.40666666667	into Hunky"s arms
+667	PERSON	Scarabella	waist;home;light;moon;thought;beetle;riage;arm	gentle	ignore;vow;wait;sit	5.7015	3.866	5.7015	Night after night he would sit in  the light of the moon with an arm about  the waist of a beetle belle, ignoring his mar-  riage vows and without a thought for the  gentle Scarabella, who sat waiting for him  at home.
+672	PERSON	Lotzofun		faithless	be	4.875	3.765	5.035	But  there he was, the faithless Lotzofun !
+673	PERSON	Lotzofun		embarrassed	be	4.845	4.405	4.585	Lotzofun was  naturally embarrassed.
+677	LOCATION	Lotzofun	value;explanation;prom;ise;impression	little	be;produce	6.30285714286	4.11857142857	5.73571428571	The explanations and prom-  ises of Lotzofun were naturally of little  value and produced no impression whatever.
+686	PERSON	Lotz			resolve	5.425	3.825	5.96	I resolved that Lotz-
+692	LOCATION	Lotzofun	descendant		recognize;see;s;dart	5.77	4.24	5.84888888889	So when you see them darting about of  a summer"s night, you will easily recognize  them as the descendants of Lotzofun.
+705	PERSON	Hester	taste;love;time	good	meet;have;fall	6.41125	4.17	5.73	He also  had the good taste to fall deeply in love with  Hester the first time they met.
+712	LOCATION	the floor	embarrassment;father;expression;agony	haughty;contemptuous	totter;become;say;sink	4.94181818182	4.40818181818	5.23909090909	Her embarrassment became an agony, and  she tottered and nearly sank to the floor  when the haughty father said slowly, with a  contemptuous expression :
+718	LOCATION	the floor	ment;sofa;frame;wonder	gilded	step	5.83857142857	3.72857142857	6.05428571429	To the wonder-  ment of all present he stepped from his  gilded frame upon the sofa beneath him and  then to the floor.
+726	PERSON	Hester	document;husband;estate;title	mysterious;rich;wealthy	be;live;become;prove	6.24083333333	4.18833333333	5.6925	The mysterious document proved to be  the title to a rich estate, and Hester and  her husband became at once enormously  wealthy and lived happily together ever  afterward.
+727	LOCATION	the wall	house;^;place;honor;general	new;rosy	follow;occupy	5.96125	3.985	5.5775	The rosy General^ followed them to their  new house and always occupied the place  of honor on the wall.
+728	LOCATION	The house	term;family;course;bition;cobweb;ancestor	equal;social	be;associate;desert;fill	6.06307692308	3.79	5.70692307692	The house of course is deserted and filled  with cobwebs, for no family with social am-  bitions can associate on equal terms with  such an ancestor.

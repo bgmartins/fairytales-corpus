@@ -12,7 +12,8 @@ from corenlp import *
 
 # Reading dictionary of affective words
 affective = dict( )
-for row in csv.DictReader(open("affective-ratings.csv")): affective[ row["Word"].lower() ] = np.array( [ float( row["V.Mean.Sum"] ) , float( row["A.Mean.Sum"] ) , float( row["D.Mean.Sum"] ) ] )
+for row in csv.DictReader(open("affective-ratings.csv")): 
+  affective[ row["Word"].lower() ] = np.array( [ float( row["V.Mean.Sum"] ) , float( row["A.Mean.Sum"] ) , float( row["D.Mean.Sum"] ) ] )
 
 # Expand dictionary of affective words
 embeddings_dim = 300
@@ -30,17 +31,11 @@ model = KernelRidge( kernel='poly' , degree=4 )
 model.fit( train_matrix , train_labels )
 textdata = " ".join( open(sys.argv[1] + ".revised.txt",'r').readlines( ) )
 tokenizer = Tokenizer(nb_words=max_words, filters=keras.preprocessing.text.base_filter(), lower=True, split=" ")
-tokenizer.fit_on_texts(textdata)
-for word,index in tokenizer.word_index.items():
+tokenizer.fit_on_texts( textdata )
+for word, index in tokenizer.word_index.items():
   try:
     if not affective.has_key(word) : affective[word] = np.array( model.predict( np.array( embedding[word] ).reshape(1, -1) )[0] )
   except: affective[word] = np.array( [ 5.0 , 5.0 , 5.0 ] )
-
-# Read a list of exception patterns
-exceptions = dict( )
-for row in open("fairytales-corpus-regexner.txt").readlines():
-  row = row.split("\t")
-  if " " not in row[0]: exceptions[ row[0] ] = row[1]
 
 # Process the textual contents
 textdata = "" 
@@ -60,10 +55,11 @@ try:
     paragraph = re.sub("\n" , " ", re.sub( "#", "", re.sub( "\\\\n" , " ", re.sub("\ufeff", "" , paragraph ) ) ) ).strip( )
     if paragraph.startswith("u'"): paragraph = re.sub("'$" , "" , re.sub( "u'", "", paragraph ) ).strip( )
     paragraph = re.sub("'" , '"', paragraph ).strip( )
-    results = {'sentences': [ ] }
+    results = { "sentences": [ ] }
     try: results = json.loads( corenlp.parse( paragraph ) )
-    except: results = {'sentences': [ ] }
+    except: continue
     entities = [ ]
+    if not( results.has_key( "sentences" )): continue
     for sent in results["sentences"]:
       sentence = str( sent["text"] ).strip( )
       prevtag = "-"
@@ -83,8 +79,7 @@ try:
         if word[1]["PartOfSpeech"].startswith( "J" ) and word[1]["NamedEntityTag"] == "O" : adjectives.append( str( word[1]["Lemma"].lower() ) )
         if word[1]["PartOfSpeech"].startswith( "N" ) and word[1]["NamedEntityTag"] == "O" : nouns.append( str( word[1]["Lemma"].lower() ) )
         if word[1]["PartOfSpeech"].startswith( "V" ) and word[1]["NamedEntityTag"] == "O" : verbs.append( str( word[1]["Lemma"].lower() ) )
-        if word[1]["NamedEntityTag"] == "PERSON" or word[1]["NamedEntityTag"] == "LOCATION" or exceptions.has_key( word[0] ):
-          if exceptions.has_key( word[0] ): word[1]["NamedEntityTag"] = exceptions[ word[0] ]
+        if word[1]["NamedEntityTag"] == "PERSON" or word[1]["NamedEntityTag"] == "LOCATION":
           if entity is None: 
             start = word[1]["CharacterOffsetBegin"]
             entity = word[0]

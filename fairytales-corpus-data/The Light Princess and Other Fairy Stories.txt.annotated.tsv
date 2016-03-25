@@ -1,58 +1,328 @@
-PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	SENTENCE
-1	PERSON	George MacDonald				by George MacDonald
-42	PERSON	Makemnoit	princess		have;bewitch	Princess Makemnoit has bewitched her."
-47	PERSON	John	tong;majesty;table		take;say;get;hand	"Take the tongs, John," said his Majesty; and getting up on the table, he handed them to him.
-48	PERSON	John	baby;princess;tong	little	reach;be;hand	John could reach the baby now, and the little princess was handed down by the tongs.
-148	PERSON	Kopy-Keck	queen;hum-drum;humility;silence		laugh;hear;retire	The queen laughed; but Hum-Drum and Kopy-Keck heard with humility and retired in silence.
-155	PERSON	Kopy-Keck	form;death	grim	arrive;say	"Which would presently arrive in the form of grim death," said Kopy-Keck.
-296	LOCATION	Earth	fountain;mother;baby;country;tear		have;cease;flow;be;cry	And not alone had the fountains of mother Earth ceased to flow; for all the babies throughout the country were crying dreadfully--only without tears.
-318	PERSON	Lagobel	prince;journey;forest;way;nothing;oracle;return	hermit	have;go;consult;have;meet;know	u"The prince, having gone several days" journey into the forest, to consult a hermit whom he had met there on his way to Lagobel, knew nothing of the oracle till his return."
-472	LOCATION	Giantland	giant;border;country;people	common	be;live;touch	There was once a giant who lived on the borders of Giantland where it touched on the country of common people.
-473	LOCATION	Giantland	everything;people;mass;mountain;cloud;living;man;anybody	big;common;awful	be;see;have;come;know;tell;have;see	Everything in Giantland was so big that the common people saw only a mass of awful mountains and clouds; and no living man had ever come from it, as far as anybody knew, to tell what he had seen in it.
-477	PERSON	Tricksey-Wee	husband;giantess;s	naughty	\;be;say;look;face	"But I\"ve never been naughty to your husband," said Tricksey-Wee, looking up in the giantess\"s face.
-483	PERSON	Buffy	\;brake;ll	yonder;great	come;say;s;\;hide	"Come, Buffy," said Tricksey; "yonder\"s a great brake; we\"ll hide in it."
-483	PERSON	Tricksey	\;brake;ll	yonder;great	come;say;s;\;hide	"Come, Buffy," said Tricksey; "yonder\"s a great brake; we\"ll hide in it."
-520	PERSON	Bob	m	ready	say;\	"All right," said Bob; "I\"m ready."
-522	PERSON	Tricksey	hole;giant;giantess		let;try;say;be;sleep;dare;go	"Let us try this hole," said Tricksey; for the giant and giantess were sleeping behind them, and they dared not go back.
-523	PERSON	Bob			say	"All right," said Bob.
-526	PERSON	Buffy-Bob			say	said Buffy-Bob.
-527	PERSON	Tricksey	t;t		\;tell;reply;see;don;know;be	"I can\"t tell," replied Tricksey; "for, you see, I don\"t know what we are in."
-540	PERSON	Tricksey-Wee	front;bird;face;round;eye;giantess;s;spectacles;courtesy;mr.	huge;bigger	go;look;be;drop;say;want;whisper	Tricksey-Wee immediately went in front of the bird, and looking up into his huge face, which was as round as the eyes of the giantess\"s spectacles, and much bigger, dropped a pretty courtesy, and said,--"Please, Mr. Owl, I want to whisper to you."
-540	PERSON	Owl	front;bird;face;round;eye;giantess;s;spectacles;courtesy;mr.	huge;bigger	go;look;be;drop;say;want;whisper	Tricksey-Wee immediately went in front of the bird, and looking up into his huge face, which was as round as the eyes of the giantess\"s spectacles, and much bigger, dropped a pretty courtesy, and said,--"Please, Mr. Owl, I want to whisper to you."
-557	PERSON	Tricksey-Wee	laugh	tired;last	go;be;say;try	So they went on and on, till they were both tired, and Tricksey-Wee said at last, trying to laugh,--"
-559	PERSON	Buffy-Bob	place;bed		s;go;say	"Then here\"s the place to go to bed in," said Buffy-Bob.
-567	PERSON	Buffy-Bob	tricksey-wee;way		begin;sing;have;learn;answer	He began to sing; and Tricksey-Wee and Buffy-Bob, having now learned the way, answered him:--
-581	PERSON	Tricksey			look;say	"No; but we can look up," said Tricksey.
-585	PERSON	Buffy-Bob			tell;begin	"Tell us where--" began Buffy-Bob.
-593	PERSON	Buffy-Bob	cap;tricksey-wee	low	take;courtesy	Buffy-Bob took off his cap, and Tricksey-Wee courtesied very low.
-595	PERSON	Buffy-Bob	bird	splendid;little	\;s;say;know;_;_;get	"He\"s a splendid bird," said Buffy-Bob; "only you know he _will_ get up a little too early."
-597	LOCATION	Lady Lark	life;giant;thunderthump;s;heart	she-eagle	tell;please;sit	"Tell us, please, Lady Lark, where the she-eagle lives that sits on Giant Thunderthump\"s heart."
-603	PERSON	Tricksey-Wee	song		do;tell;sing;say	"Do tell me, and I will sing you a song," said Tricksey-Wee.
-652	PERSON	Tricksey-Wee	life	she-eagle	tell;please;say	"Tell us where the she-eagle lives, please," said Tricksey-Wee.
-653	PERSON	Lady Lark	t;harm;child;t;mischief	much;such;wise;good;sure	don;think;be;tell;say;be;don;want;do	"Well, I don\"t think there can be much harm in telling such wise, good children," said Lady Lark; "I am sure you don\"t want to do any mischief."
-654	PERSON	Buffy-Bob	contrary		say	"Oh, no; quite the contrary," said Buffy-Bob.
-655	LOCATION	Mount Skycrack	peak;way;spider;web;bottom	topmost;only;top	live;get;be;climb;\;cover	She lives on the very topmost peak of Mount Skycrack; and the only way to get up is to climb on the spiders\" webs that cover it from top to bottom."
-656	PERSON	Tricksey-Wee	s	serious	\;say	"That\"s rather serious," said Tricksey-Wee.
-666	PERSON	Spider	haven;t;claw;mr.		get;say	"But we haven\"t got claws like you, Mr. Spider," said Buffy.
-666	PERSON	Buffy	haven;t;claw;mr.		get;say	"But we haven\"t got claws like you, Mr. Spider," said Buffy.
-668	PERSON	Buffy			say	said Buffy.
-671	PERSON	Tricksey-Wee	giant;border;child;radish;she-eagle;heart;heart;behaviour	little;great;giant;better	tell;be;treat;have;escape;be;eat;have;find;be;sit;get;hold;teach	Then Tricksey-Wee told them that there was a giant on the borders who treated little children no better than radishes, and that they had narrowly escaped being eaten by him; that they had found out that the great she-eagle of Mount Skycrack was at present sitting on his heart; and that, if they could only get hold of the heart, they would soon teach the giant better behaviour.
-671	LOCATION	Mount Skycrack	giant;border;child;radish;she-eagle;heart;heart;behaviour	little;great;giant;better	tell;be;treat;have;escape;be;eat;have;find;be;sit;get;hold;teach	Then Tricksey-Wee told them that there was a giant on the borders who treated little children no better than radishes, and that they had narrowly escaped being eaten by him; that they had found out that the great she-eagle of Mount Skycrack was at present sitting on his heart; and that, if they could only get hold of the heart, they would soon teach the giant better behaviour.
-673	PERSON	Buffy-Bob	scratch	least	kill;reply	"The least scratch will kill it," replied Buffy-Bob.
-681	PERSON	Tricksey-Wee	spider;army;spider	whole	follow;look;see;scramble	And every spider followed; so that, when Tricksey-Wee looked back, she saw a whole army of spiders scrambling after them."
-684	PERSON	Buffy-Bob	tricksey-wee;globe;feather;mountain;knob	great;ornamental	see;finish	Tricksey-Wee and Buffy-Bob could see above them a great globe of feathers, that finished off the mountain like an ornamental knob.
-685	PERSON	Buffy			say	said Buffy.
-688	PERSON	Tricksey	s;spider		say	said Tricksey\"s spider.
-705	PERSON	Tricksey			have;behave;say	"You shall have it, if you behave yourself properly," said Tricksey.
-711	PERSON	Tricksey	heart;pinch		say;give	said Tricksey; and she gave the heart another pinch.
-713	PERSON	Doodlem	time	poor;arm-chair;white	be;sit;cry;mend;stock	All this time poor Doodlem was sitting in her arm-chair, crying, and mending a white stocking.
-720	PERSON	Thunderthump	lot	thinnest	be;say;cry	"He was the thinnest of the lot," said Thunderthump, crying.
-721	PERSON	Tricksey			ask	asked Tricksey.
-723	PERSON	Tricksey-Wee	giant;child;child;life	more	say;promise;carry;eat	"Now," said Tricksey-Wee to the giant, "will you promise to carry off no more children, and never to eat a child again all you life?"
-728	PERSON	Tricksey-Wee	moral	giant;good;giant	hesitate;begin;expostulate;believe;be;insist;promise	The giant hesitated at this, and began to expostulate; but Tricksey-Wee, believing it would be good for his morals, insisted; and the giant promised.
-736	PERSON	Buffy-Bob	travels;knife;pretence;string;reality;emergency		have;get;know;take;cut;be;prepare	But Buffy-Bob, who had got very knowing on his travels, took out his knife with the pretence of cutting the string; but, in reality, to be prepared for any emergency.
-778	LOCATION	Fairyland	way;nothing;place;creature;child;being;wanderer;one;one	best;mischievous;own;mischievous;many;other;good;more;evil;able	do;know;be;have;go;be;be;be;be;be;get;help;be;hurt	Now, although she did not know it, this was the very best way she could have gone; for nothing is ever so mischievous in its own place as it is out of it; and, besides, these mischievous creatures were only the children of Fairyland, as it were, and there are many other beings there as well; and if a wanderer gets in among them, the good ones will always help him more than the evil ones will be able to hurt him.
-834	PERSON	Mother	fish		answer	"Yes, Mother, quite well," answered the fish.
-862	PERSON	Tangle		unwilling	be;go	Tangle was very unwilling to go.
-903	PERSON	Tangle	way;country;shadow		show;fall;say	"Yes--show me the way up to the country from which the shadows fall," said Tangle.
-932	PERSON	Tangle	youth;ear		answer;hear	And the youth answered, and Tangle heard him, though not with her ears:--
+PARAGRAPH NUMBER	ENTITY TYPE	ENTITY	CO-OCCURRING NOUNS	CO-OCCURRING ADJECTIVES	CO-OCCURRING VERBS	VALENCE	AROUSAL	DOMINANCE	SENTENCE
+0	PERSON	Princess	stories	light;other		6.5775	4.365	6.0025	The Light Princess and Other Fairy Stories
+0	PERSON	Fairy	stories	light;other		6.5775	4.365	6.0025	The Light Princess and Other Fairy Stories
+1	PERSON	George MacDonald				5.0	5.0	5.0	by George MacDonald
+11	PERSON	the queen	joke	good	pretend;take	5.9775	4.49125	5.52625	But the queen pretended to take it all as a joke, and a very good one too.
+13	PERSON	the queen	king	sorry	be;say	5.80444444444	4.32111111111	5.76888888889	"I am sure, dear king, I am very sorry," said the queen.
+14	PERSON	the king	virtue;_		go;be;make;retort	5.93375	4.04875	5.45375	"So you ought to be," retorted the king; "you are not going to make a virtue of _that_, surely."
+16	PERSON	The queen			smile	7.205	4.835	6.88	The queen smiled.
+18	PERSON	the king	queen	sorry;nice	oblige;be	5.80714285714	4.26	5.61428571429	She was, indeed, a very nice queen, and heartily sorry that she could not oblige the king immediately.
+19	PERSON	the queen	daughter;princess	little;lovely;last;more	be;give;cry;deserve	6.20454545455	4.68818181818	5.31818181818	It was more than he deserved, therefore, when, at last, the queen gave him a daughter--as lovely a little princess as ever cried.
+24	PERSON	The king	garret		see;live	6.74	4.35333333333	6.01	The king could not see into the garret she lived in, could he?
+37	LOCATION	the steps	limb;baby;tail;s;clothes	top	float;reach;stand;have;catch;climb;tremble	5.49142857143	3.76785714286	5.545	Trembling in every limb, she climbed upon the steps, and had to stand upon the very top, and reach up, before she could catch the floating tail of the baby"s long clothes.
+38	PERSON	the queen	horror-struck	last	stare;be;stammer;turn;say;gasp	5.50166666667	4.44666666667	5.89333333333	At last, turning to the queen, who was just as horror-struck as himself, he said, gasping, staring, and stammering,--
+40	PERSON	the queen	cause;effect	much;cleverer;defective	come;be;begin;suspect;have	5.319	3.917	5.239	Now the queen was much cleverer than the king, and had begun already to suspect that "this effect defective came by cause."
+40	PERSON	the king	cause;effect	much;cleverer;defective	come;be;begin;suspect;have	5.319	3.917	5.239	Now the queen was much cleverer than the king, and had begun already to suspect that "this effect defective came by cause."
+42	PERSON	Princess Makemnoit			bewitch;have	6.75	4.47	5.73	Princess Makemnoit has bewitched her."
+43	PERSON	the queen	s		answer;say	5.706	4.696	5.774	"That"s just what I say," answered the queen.
+44	LOCATION	the steps	throne		bring;get	5.434	4.236	5.746	bring the steps I get on my throne with."
+47	PERSON	John	majesty;tong		say;hand;take;get	5.72428571429	3.93571428571	5.93428571429	"Take the tongs, John," said his Majesty; and getting up on the table, he handed them to him.
+47	LOCATION	the table	majesty;tong		say;hand;take;get	5.72428571429	3.93571428571	5.93428571429	"Take the tongs, John," said his Majesty; and getting up on the table, he handed them to him.
+48	PERSON	John	baby;princess;tong	little	be;reach;hand	6.15428571429	4.08571428571	5.45857142857	John could reach the baby now, and the little princess was handed down by the tongs.
+52	PERSON	The queen	loss;down-stair	ignorant	go;occasion;have	5.215	4.6	5.19166666667	The queen went down-stairs, quite ignorant of the loss she had herself occasioned.
+53	PERSON	the queen	nothing;length;boudoir;majesty;hearing	uneasy	go;s;grow;find	5.6875	4.2025	5.60125	But hearing nothing, she grew uneasy, and went at length to the queen"s boudoir, where she found her Majesty.
+55	PERSON	the queen			ask	6.235	4.265	6.165	asked the queen.
+57	PERSON	the queen	grave		say;look	5.195	4.445	5.6325	said the queen, looking grave.
+65	PERSON	the king	instance;breakfast;counting-house;money		go;count	6.45	4.25142857143	5.76142857143	One day, for instance, after breakfast, the king went into his counting-house, and counted out his money.
+71	PERSON	the queen	honey-pot;t		say;eat;look	5.98428571429	4.39428571429	6.07142857143	"I can"t eat it," said the queen, looking ruefully at the honey-pot.
+75	PERSON	the king	sigh;cough		try;turn;say;help	5.31222222222	4.22888888889	5.59666666667	Yet the king could not help a sigh, which he tried to turn into a cough, saying--
+77	PERSON	the queen	thing;soul	bad;prophetic;light-headed	answer;be;look	5.75090909091	4.24	5.42454545455	"It is a bad thing to be light-headed," answered the queen, looking with prophetic soul far into the future.
+78	PERSON	the king	thing;tis	good;light-handed	be;say	6.08833333333	4.06666666667	5.78833333333	""Tis a good thing to be light-handed," said the king.
+79	PERSON	the queen	thing;tis	bad;light-fingered	answer;be	5.43166666667	4.295	5.24333333333	""Tis a bad thing to be light-fingered," answered the queen.
+80	PERSON	the king	thing;tis	light-footed;good	be;say	6.08833333333	4.06666666667	5.78833333333	""Tis a good thing to be light-footed," said the king.
+81	PERSON	the queen	thing;tis	bad	interrupt;begin	5.14428571429	4.28571428571	5.02714285714	""Tis a bad thing--" began the queen; but the king interrupted her.
+81	PERSON	the king	thing;tis	bad	interrupt;begin	5.14428571429	4.28571428571	5.02714285714	""Tis a bad thing--" began the queen; but the king interrupted her.
+83	PERSON	the queen	thing;temper	bad;light-minded	be;begin;retort;lose	5.272	4.196	5.123	"But it is a bad thing altogether to be light-minded," retorted the queen, who was beginning to lose her temper.
+86	PERSON	the queen	light;vowel;_	light;ex-asperated	be;aspirate;heir;hair;tell;mean	5.66333333333	3.89333333333	5.60444444444	And besides, he could not tell whether the queen meant light-_haired_ or light-_heired_; for why might she not aspirate her vowels when she was ex-asperated herself?
+90	PERSON	the king	arm	rueful	consult;sit;look;take	5.57333333333	3.855	5.69166666667	She looked so rueful, that the king took her in his arms; and they sat down to consult.
+91	PERSON	the king			say	5.955	4.44	6.205	said the king.
+92	PERSON	the queen	t		say	5.768	4.524	5.872	"No, I can"t," said the queen.
+93	PERSON	the king			say	5.955	4.44	6.205	said the king.
+95	PERSON	the king			say	5.955	4.44	6.205	said the king.
+96	PERSON	the queen			say	6.215	4.74	6.46	"Yes," said the queen.
+97	PERSON	the king	mind;t		say;don	5.722	4.786	5.7	"Well, I don"t mind," said the king.
+98	PERSON	The queen			try;comfort	6.46666666667	3.93666666667	6.38666666667	The queen tried to comfort him.
+100	PERSON	the king	consternation;idea	sudden	exclaim	6.525	4.555	5.82	exclaimed the king, in sudden consternation at the idea.
+103	PERSON	the king	sigh		answer;be;s	5.42833333333	4.13166666667	5.33	A sigh was the king"s only answer.
+104	LOCATION	the court	physician;experiment	afraid	try;be;have;consult	5.197	4.071	5.245	He would have consulted the court physicians; but he was afraid they would try experiments upon her.
+113	PERSON	the king	dignity;page	whole	be;speak;do;hurt	5.588	3.974	5.651	As for the king, his dignity was greatly hurt, and he did not speak to the page for a whole month.
+118	LOCATION	the chair	support;_;seat		be;do;sit;receive;pretend;see;say;determine;_	5.8625	3.8175	6.0575	Whether she could be said to _sit_, seeing she received no support from the seat of the chair, I do not pretend to determine.
+119	PERSON	the king	time;people;child	other;aware	be;say	6.17545454545	4.08454545455	5.70545454545	"My dear child," said the king, "you must be aware by this time that you are not exactly like other people."
+121	PERSON	the queen		serious	be;say	6.1225	4.24	6.0225	"Now be serious, my dear, for once," said the queen.
+130	PERSON	the queen			interrupt;begin	5.965	4.42	5.3575	began the queen; but the princess interrupted her.
+130	PERSON	the princess			interrupt;begin	5.965	4.42	5.3575	began the queen; but the princess interrupted her.
+133	PERSON	the king	time	angry;useless	be;learn;have;resume	5.21	4.14444444444	5.26777777778	resumed the king, who had learned by this time that it was quite useless to be angry with her.
+139	PERSON	The king	motion;head;queen;point	single;wiser	be;say;check	5.866	4.261	5.643	The king was on the point of saying _Yes_, but the wiser queen checked him with a single motion of her head.
+147	PERSON	the king			cry	4.84666666667	4.26666666667	4.9	cried the king; "we will."
+148	PERSON	The queen	hum-drum;silence;humility		retire;hear;laugh	6.34333333333	4.27166666667	6.285	The queen laughed; but Hum-Drum and Kopy-Keck heard with humility and retired in silence.
+148	PERSON	Kopy-Keck	hum-drum;silence;humility		retire;hear;laugh	6.34333333333	4.27166666667	6.285	The queen laughed; but Hum-Drum and Kopy-Keck heard with humility and retired in silence.
+155	PERSON	Kopy-Keck	death;form	grim	say;arrive	4.695	4.51666666667	5.62166666667	"Which would presently arrive in the form of grim death," said Kopy-Keck.
+164	LOCATION	the window	push;water;someone;wind;situation	irrespective;night-gown;best;awkward	be;suspend;angle;give;reach;see;remain;have;fail	5.50052631579	3.96263157895	5.31368421053	And if she gave herself a push towards the water and just failed of reaching it, her situation would be dreadfully awkward, irrespective of the wind; for at best there she would have to remain, suspended in her night-gown, till she was seen and angled for by someone from the window.
+183	LOCATION	the wood	bewilderment;ground;darkness;hold;phenomenon		be;reach;say;see;continue;stand;catch	5.75	3.85	5.64846153846	But in the darkness of the wood, the prince continued in some bewilderment as to what the phenomenon could be; until, reaching the ground, and seeing him standing there, she caught hold of him, and said,--
+183	PERSON	the prince	bewilderment;ground;darkness;hold;phenomenon		be;reach;say;see;continue;stand;catch	5.75	3.85	5.64846153846	But in the darkness of the wood, the prince continued in some bewilderment as to what the phenomenon could be; until, reaching the ground, and seeing him standing there, she caught hold of him, and said,--
+185	PERSON	the prince			return	5.695	4.22	5.05	returned the prince.
+191	PERSON	the prince			ask	5.695	4.315	5.34	asked the prince.
+193	PERSON	the prince			ask	5.695	4.315	5.34	asked the prince.
+194	PERSON	the princess			answer	6.87	4.71	5.845	answered the princess.
+195	PERSON	the prince			say;come	5.66333333333	4.38333333333	5.73666666667	"Come, then," said the prince.
+196	PERSON	The prince	foot;part;hurry;edge	high;least	be;reach;turn;say;have;come	5.69875	3.944375	5.45125	The prince being therefore in no hurry, they came upon the lake at quite another part, where the bank was twenty-five feet high at least; and when they had reached the edge, he turned towards the princess, and said,--
+196	LOCATION	the lake	foot;part;hurry;edge	high;least	be;reach;turn;say;have;come	5.69875	3.944375	5.45125	The prince being therefore in no hurry, they came upon the lake at quite another part, where the bank was twenty-five feet high at least; and when they had reached the edge, he turned towards the princess, and said,--
+196	LOCATION	the bank	foot;part;hurry;edge	high;least	be;reach;turn;say;have;come	5.69875	3.944375	5.45125	The prince being therefore in no hurry, they came upon the lake at quite another part, where the bank was twenty-five feet high at least; and when they had reached the edge, he turned towards the princess, and said,--
+196	PERSON	the princess	foot;part;hurry;edge	high;least	be;reach;turn;say;have;come	5.69875	3.944375	5.45125	The prince being therefore in no hurry, they came upon the lake at quite another part, where the bank was twenty-five feet high at least; and when they had reached the edge, he turned towards the princess, and said,--
+200	PERSON	the prince			say	5.675	4.79	5.635	said the prince.
+201	PERSON	the princess	effort		pant	6.48	4.48	5.64666666667	After some effort the princess panted out,--
+203	PERSON	the prince	specimen	tolerable	answer;think	5.36	4.36285714286	5.34428571429	"Yes," answered the prince, "I should think it a very tolerable specimen."
+205	PERSON	the prince	feeling;elevation		be;concede	5.72666666667	3.56833333333	5.465	"My feeling was certainly one of elevation too," the prince conceded.
+206	PERSON	The princess	question		do;retort;understand;appear	6.268	3.904	6.008	The princess did not appear to understand him, for she retorted his question:--
+207	PERSON	the princess			say	6.775	4.925	6.31	said the princess.
+209	PERSON	the princess		more	be;say;tire	5.804	4.39	5.636	"No more of that: I am tired of it," said the princess.
+211	PERSON	the prince			say	5.675	4.79	5.635	said the prince.
+214	PERSON	the prince	time	happy	be;say;like;fall	5.97666666667	4.40333333333	5.48222222222	"I shall be most happy to fall in with you any time you like," said the prince, devotedly.
+216	PERSON	the prince	heart		respond	6.03333333333	4.43666666667	5.27333333333	"With all my heart," responded the prince.
+220	LOCATION	the window	push;hold;to-morrow;balcony	little;able	swim;be;look;do;give;call;catch;get;_	5.8648	4.1972	5.4812	Now if you would just swim there with me very quietly, and when we are all but under the balcony, give me such a push--_up_ you call it--as you did a little while ago, I should be able to catch hold of the balcony, and get in at the window; and then they may look for me till to-morrow morning!"
+221	PERSON	the prince	pleasure;obedience	more	swim;say	6.098	5.144	5.796	"With more obedience than pleasure," said the prince, gallantly; and away they swam, very gently.
+222	PERSON	the prince			ask;venture	5.57333333333	4.72666666667	5.58666666667	the prince ventured to ask.
+223	PERSON	the princess	answer;s	strange	be	5.928	4.27	5.494	Perhaps," was the princess"s somewhat strange answer.
+225	PERSON	the princess			swim;be;dream	7.026	4.384	5.538	All night long he dreamed that he was swimming with the princess.
+230	PERSON	the prince			sing;begin	6.46	4.03333333333	5.59333333333	Then the prince began to sing.
+233	PERSON	Lady		fair		7.025	3.67	5.995	"Lady fair,
+248	LOCATION	the lake	o		er	6.065	3.82	5.18	O"er the lake,
+268	PERSON	the prince			say;look	5.76666666667	4.44666666667	5.71666666667	said the prince, looking down.
+269	PERSON	the princess	prince		say;please;look	6.235	4.69	5.7225	Yes, if you please, prince," said the princess, looking up.
+270	PERSON	the prince			say	5.675	4.79	5.635	said the prince.
+271	PERSON	the princess	prince;man	young;nice	be;say	6.10625	4.42625	5.6275	"Because you are a very nice young man, prince," said the princess.
+274	PERSON	The princess	delight;ecstasy	delicious	swim;be	7.07	4.91142857143	5.97428571429	The princess was in ecstasies of delight, and their swim was delicious.
+275	PERSON	the princess	heaven		be;laugh;talk	7.104	4.616	6.058	But when he talked about being in heaven, the princess laughed at him dreadfully.
+276	PERSON	the princess	bottom;lake;moon	lovely;deeper;theirs;clear;steady;cold;bluer	be;say	6.10454545455	3.70454545455	5.65181818182	there was the moon, far off, clear and steady and cold, and very lovely, at the bottom of a deeper and bluer lake than theirs, as the princess said.
+277	LOCATION	the lake	mermaid;sea;help;merman	altered	be;marry;see;leave;turn;say;go	6.032	4.31066666667	5.46533333333	But as soon as ever she left the lake, she was so altered, that the prince said to himself, "If I marry her, I see no help for it: we must turn merman and mermaid, and go out to sea at once."
+277	PERSON	the prince	mermaid;sea;help;merman	altered	be;marry;see;leave;turn;say;go	6.032	4.31066666667	5.46533333333	But as soon as ever she left the lake, she was so altered, that the prince said to himself, "If I marry her, I see no help for it: we must turn merman and mermaid, and go out to sea at once."
+282	LOCATION	the lake	direction;idea;surface;mark;wind;border;fact	certain;last;horrible	be;make;examine;sink;become;cause	5.69105263158	3.74947368421	5.50947368421	She caused marks to be made along the borders, and examined them, day after day, in all directions of the wind; till at last the horrible idea became a certain fact--that the surface of the lake was slowly sinking.
+283	LOCATION	the lake	people		go;be;say;live	6.12777777778	4.00333333333	5.79555555556	People said she would not live an hour after the lake was gone.
+287	PERSON	The king	brain;revenge;skull;thirst;people		die;lose;boil;frizzle	4.63230769231	4.57692307692	5.35230769231	The king and the people shall die of thirst; their brains shall boil and frizzle in their skulls before I will lose my revenge."
+290	LOCATION	the door	cellar;key		go;unlock;take;say	5.56428571429	3.89142857143	5.91	Then she took the keys and went down to her cellar; and as she unlocked the door she said to herself,--
+292	LOCATION	the lake	side;roof;bottom	under	be	5.344	3.16	5.434	Now this roof was the under side of the bottom of the lake.
+293	LOCATION	the cavern	dart;mouth;round;circuit;snake	sudden;last	go;make;lessen;round;cling	5.19615384615	4.09538461538	5.21153846154	Round and round the cavern they went, ever lessening the circuit, till at last the snake made a sudden dart, and clung to the roof with its mouth.
+293	LOCATION	the roof	dart;mouth;round;circuit;snake	sudden;last	go;make;lessen;round;cling	5.19615384615	4.09538461538	5.21153846154	Round and round the cavern they went, ever lessening the circuit, till at last the snake made a sudden dart, and clung to the roof with its mouth.
+294	PERSON	the princess		dry	cry;drain	4.88	4.4025	4.92	cried the princess; "drain it dry."
+295	LOCATION	the floor	delight;water;door	ready;faint;malicious	rush;listen;hear;sit	5.725	4.055	5.91916666667	There she sat down on the floor ready to faint, but listening with malicious delight to the rushing of the water, which she could hear distinctly through all the hundred doors.
+296	LOCATION	Earth	baby;tear;fountain;mother		flow;cry;cease;have;be	5.4425	4.175	5.29333333333	And not alone had the fountains of mother Earth ceased to flow; for all the babies throughout the country were crying dreadfully--only without tears.
+296	LOCATION	the country	baby;tear;fountain;mother		flow;cry;cease;have;be	5.4425	4.175	5.29333333333	And not alone had the fountains of mother Earth ceased to flow; for all the babies throughout the country were crying dreadfully--only without tears.
+301	LOCATION	the lake	pair;diving;depth;boot;polish	dainty;extra	do;be;distract;put;remain;call;roam;go	5.80833333333	3.60722222222	5.65722222222	He went nearly distracted; but after roaming about the lake for days, and diving in every depth that remained, all that he could do was to put an extra polish on the dainty pair of boots that was never called for.
+303	LOCATION	the lake	length;pool	few;deepest;unexhausted	go;be;remain	5.97428571429	3.79428571429	5.43	At length the lake was all but gone, only a few of the deepest pools remaining unexhausted.
+304	PERSON	the king			carry	5.835	3.96	5.235	They carried it to the king.
+316	PERSON	the king	plate;gold;contents	wonderful	be;cause;publish	6.07222222222	4.14444444444	5.94777777778	Therefore the king caused the contents of the wonderful plate of gold to be published throughout the country.
+316	LOCATION	the country	plate;gold;contents	wonderful	be;cause;publish	6.07222222222	4.14444444444	5.94777777778	Therefore the king caused the contents of the wonderful plate of gold to be published throughout the country.
+318	PERSON	The prince	nothing;oracle;journey;return;way	hermit	go;meet;know;have;consult	5.90733333333	3.96066666667	5.464	The prince, having gone several days" journey into the forest, to consult a hermit whom he had met there on his way to Lagobel, knew nothing of the oracle till his return.
+318	LOCATION	the forest	nothing;oracle;journey;return;way	hermit	go;meet;know;have;consult	5.90733333333	3.96066666667	5.464	The prince, having gone several days" journey into the forest, to consult a hermit whom he had met there on his way to Lagobel, knew nothing of the oracle till his return.
+318	PERSON	Lagobel	nothing;oracle;journey;return;way	hermit	go;meet;know;have;consult	5.90733333333	3.96066666667	5.464	The prince, having gone several days" journey into the forest, to consult a hermit whom he had met there on his way to Lagobel, knew nothing of the oracle till his return.
+321	LOCATION	the door	crime;counting-house;capital		knock;s;disturb;be	4.86	4.31333333333	5.07666666667	So he knocked at the door of the king"s counting-house, where it was all but a capital crime to disturb him.
+321	PERSON	the king	crime;counting-house;capital		knock;s;disturb;be	4.86	4.31333333333	5.07666666667	So he knocked at the door of the king"s counting-house, where it was all but a capital crime to disturb him.
+322	PERSON	the prince		alarmed;least	be	5.81	4.29	4.945	But the prince was not in the least alarmed.
+326	PERSON	the king	sword;point		raise;bawl	5.504	4.844	5.476	bawled the king, raising the point of his sword.
+327	PERSON	the prince	plug;monarch;stopper;lake	leaky;grand	put;say;call	5.28461538462	3.95846153846	5.42846153846	"I will put a stopper--plug--what you call it, in your leaky lake, grand monarch," said the prince.
+329	PERSON	the prince			reply;thank	6.45333333333	3.97333333333	6.02333333333	"No, thank you," replied the prince.
+331	PERSON	the prince			say;thank	6.37333333333	4.30333333333	6.05333333333	"No, thank you," said the prince.
+332	LOCATION	the hole	attendant;majesty		go;say;call;look;proceed	5.90555555556	3.71777777778	5.85666666667	"Then we will go and look for the hole at once," said his majesty, and proceeded to call some attendants.
+333	PERSON	the prince	condition;majesty		please;make;interpose;stop;have	5.4125	4.41625	5.64125	"Stop, please your majesty; I have a condition to make," interposed the prince.
+336	LOCATION	the hole	sack		put;stick;have	5.24125	3.91	5.35125	I will have you put in a sack, and stuck in the hole."
+338	PERSON	the king			retort;have;_;offer	5.84333333333	3.82333333333	5.56333333333	"Well, you _have_ offered yourself," retorted the king.
+342	PERSON	the king			feel;be;growl	5.97833333333	4.30666666667	5.69833333333	growled the king, feeling that the prince was right.
+342	PERSON	the prince			feel;be;growl	5.97833333333	4.30666666667	5.69833333333	growled the king, feeling that the prince was right.
+344	PERSON	the prince	voice;resolution;spite	sentimental	falter;s;grow	5.915	3.775	5.71	Here the prince"s voice faltered, and he very nearly grew sentimental, in spite of his resolution.
+345	PERSON	the king			exclaim	6.0	4.45	5.53	exclaimed the king.
+346	PERSON	the prince			persist	5.09	4.395	5.415	persisted the prince.
+347	PERSON	the king	course		do;reply	5.64	4.14	5.9175	"Of course I do," replied the king.
+350	LOCATION	the hole	water;stone	little	be;flow;round	5.86625	3.3975	5.4325	There was water all round the stone, but very little was flowing through the hole.
+354	PERSON	The prince	occasion;prince		go;be;resolve;dress;die	5.621	4.706	5.325	The prince went to dress for the occasion, for he was resolved to die like a prince.
+356	PERSON	The princess		worth	recognize;acknowledge;think;do	6.46	4.06	6.362	The princess recognized him at once, but did not think it worth while to acknowledge him.
+358	PERSON	the princess	shoeblack		be;say;tell	5.83333333333	4.52333333333	5.51	"They told me it was a shoeblack," said the princess.
+363	PERSON	The king	home;dinner		go;have	6.412	4.092	5.88	The king had already gone home to dinner.
+364	PERSON	the princess	parrot		go;repeat	6.32	4.45285714286	5.60714285714	"Now you can go," repeated the princess after him, like a parrot.
+373	LOCATION	the ocean	s;expanse	fair		6.51	3.93	5.66666666667	Of the ocean"s fair expanse;
+381	LOCATION	the spring	bubbling			7.64	5.5	5.9	Or the bubbling of the spring
+384	LOCATION	the river	s		go	5.51	4.5325	4.795	Of the river"s downward going;
+387	LOCATION	the ocean	s;voice	mighty		6.335	4.295	5.9875	Or the ocean"s mighty voice,
+392	PERSON	Lady	delight;world;s		keep	6.58	4.41	5.798	"Lady, keep thy world"s delight;
+402	PERSON	the princess		tedious	make;say	5.815	4.4725	5.735	It makes it less tedious," said the princess.
+403	PERSON	the prince	pause	much;long	be;follow;overcome;sing	5.89714285714	4.25142857143	5.57714285714	But the prince was too much overcome to sing any more, and a long pause followed.
+404	PERSON	the princess	eye;prince;boat	kind;last	shut;be;say;lay	6.28444444444	4.06666666667	5.95444444444	"This is very kind of you, prince," said the princess at last, quite coolly, as she lay in the boat with her eyes shut.
+405	PERSON	the prince	t;compliment	sorry;worth	be;return;think;die	5.47	4.585	5.31333333333	"I am sorry I can"t return the compliment," thought the prince; "but you are worth dying for, after all."
+409	PERSON	the princess	moment		start;cry	5.8425	4.9325	4.95	But at the moment up started the princess, crying,--
+412	PERSON	the prince	water	wide;awake	encourage;repeat;see;look	5.975	4.14375	5.96	repeated the prince, encouraged by seeing her wide awake and looking eagerly at the water.
+418	PERSON	the prince	glass;biscuit;wine		say;give	5.919	4.434	5.572	"Just give me a glass of wine and a biscuit first," said the prince, very humbly.
+419	PERSON	the princess	heart		say;gape	6.6025	4.8375	6.2325	"With all my heart," said the princess, and gaped as she said it.
+425	PERSON	the princess	bit;sip;biscuit;wine		feed;say;begin	6.20875	3.87125	6.11125	said the princess; and she began at once to feed him with bits of biscuit and sips of wine.
+426	PERSON	the prince			feel	5.855	4.6	4.945	But the prince felt better.
+431	PERSON	the prince			swim;say	5.784	4.83	5.726	"I shall never swim more," said the prince.
+432	PERSON	the princess		silent	be;say;forget	5.6	4.32	5.535	"Oh, I forgot," said the princess, and was silent.
+435	PERSON	the princess	kiss	sweet;cold	answer;kiss	6.30111111111	4.67888888889	5.84777777778	"Yes, I will," answered the princess, and kissed him with a long, sweet, cold kiss.
+437	PERSON	The princess	shriek		spring;give	6.43166666667	4.75	5.28666666667	The princess gave a shriek, and sprang into the lake.
+437	LOCATION	the lake	shriek		spring;give	6.43166666667	4.75	5.28666666667	The princess gave a shriek, and sprang into the lake.
+439	PERSON	the prince	fire;light;room;bed;doctor	own	carry;make;lay;send	5.82454545455	4.01272727273	5.49090909091	She made them carry the prince to her own room, and lay him in her bed, and light a fire, and send for the doctors.
+442	PERSON	the princess	lord;cause;chamberlain;rudeness	guilty;good;last	feel;be;provoke;have;allow	5.54571428571	4.14928571429	5.38357142857	This was the last rudeness of which the princess was ever guilty; and one must allow that she had good cause to feel provoked with the lord chamberlain.
+444	PERSON	The princess	thing;fear;hope;everything		try;be;distract	5.64875	4.24125	5.325	The princess was nearly distracted between hope and fear, but she tried on and on, one thing after another, and everything over and over again.
+445	PERSON	the prince	sun;eye	last	rise;open;have;give	6.53857142857	4.04142857143	5.59142857143	At last, when they had all but given it up, just as the sun rose, the prince opened his eyes.
+453	LOCATION	the lake	i.;round;princess		s;come;have	6.19333333333	3.775	5.42333333333	"If you"ve come round, princess, so have I. How"s the lake?"
+456	PERSON	the princess			answer;sob	5.46333333333	4.77	4.99333333333	answered the princess, sobbing.
+463	PERSON	the prince	jump;nothing;splash		be;make;prefer;have	6.08666666667	4.31444444444	5.84222222222	Still, she preferred to have the prince jump in with her; and the splash they made before was nothing to the splash they made now.
+464	LOCATION	the roof	process;time	deep	be;wear	5.58	3.57142857143	5.44142857143	In process of time, it wore the roof of the cavern quite through, and was twice as deep as before.
+464	LOCATION	the cavern	process;time	deep	be;wear	5.58	3.57142857143	5.44142857143	In process of time, it wore the roof of the cavern quite through, and was twice as deep as before.
+466	PERSON	the prince	boy;gold;leather;proportion;atom;crown;gravity;cloth;shoe;child;occasion;girl;princess;clothes	due;critical;smallest;happy	be;live;know;have;lose	6.1452	4.328	5.4408	So the prince and princess lived and were happy; and had crowns of gold, and clothes of cloth, and shoes of leather, and children of boys and girls, not one of whom was ever known, on the most critical occasion, to lose the smallest atom of his or her due proportion of gravity.
+472	LOCATION	Giantland	giant;border;people	common	touch;be;live	5.96	4.15	5.80444444444	There was once a giant who lived on the borders of Giantland where it touched on the country of common people.
+472	LOCATION	the country	giant;border;people	common	touch;be;live	5.96	4.15	5.80444444444	There was once a giant who lived on the borders of Giantland where it touched on the country of common people.
+473	LOCATION	Giantland	living;mountain;people;anybody;everything;mass;cloud;man	awful;big;common	be;see;know;have;come;tell	5.56470588235	3.76	5.37352941176	Everything in Giantland was so big that the common people saw only a mass of awful mountains and clouds; and no living man had ever come from it, as far as anybody knew, to tell what he had seen in it.
+477	PERSON	Tricksey-Wee	giantess;s;husband	naughty	be;say;look;face	5.98125	4.6925	5.7125	"But I"ve never been naughty to your husband," said Tricksey-Wee, looking up in the giantess"s face.
+481	LOCATION	the door	head;eye;back;face;kiss;round	white	try;be;kiss;turn	6.15666666667	3.905	5.8025	But when she tried to kiss him, she only kissed the back of his head; for his white face and round eyes were turned to the door.
+483	PERSON	Buffy	ll;brake	great	s;say;hide;come;yonder	5.55	4.21142857143	5.71285714286	"Come, Buffy," said Tricksey; "yonder"s a great brake; we"ll hide in it."
+483	PERSON	Tricksey	ll;brake	great	s;say;hide;come;yonder	5.55	4.21142857143	5.71285714286	"Come, Buffy," said Tricksey; "yonder"s a great brake; we"ll hide in it."
+484	LOCATION	the door	nightfall;earth	wide;whole	be;see;have;close;open;think	5.94214285714	3.85214285714	5.70714285714	You would have thought you saw the whole earth through the door when he opened it, so wide was it; and when he closed it, it was like nightfall.
+487	PERSON	the giant			retort	5.41	5.1	6.68	retorted the giant.
+495	PERSON	the giant	length		say	5.51	4.31333333333	6.41	At length the giant said,--
+500	LOCATION	the roof	giantess;flop;mouth;cave;wave		sound;go;sob;give	5.46769230769	4.41461538462	5.29923076923	Here the giantess gave a sob which sounded exactly like a wave going flop into the mouth of a cave up to the roof.
+505	PERSON	the giant	heart;s;squeeze;t;wouldn	cruel	give;think;find	5.49	4.7	5.5	thought Tricksey-Wee, "if I could but find the giant"s cruel heart, wouldn"t I give it a squeeze!"
+506	PERSON	the giant	heart;giantess;advantage	afraid	advise;give;hide;seem;keep	5.84181818182	4.10363636364	5.59818181818	The giantess kept advising the giant to hide his heart somewhere in the house; but he seemed afraid of the advantage it would give her over him.
+506	LOCATION	the house	heart;giantess;advantage	afraid	advise;give;hide;seem;keep	5.84181818182	4.10363636364	5.59818181818	The giantess kept advising the giant to hide his heart somewhere in the house; but he seemed afraid of the advantage it would give her over him.
+510	PERSON	the giant			cry	4.315	5.275	4.62	cried the giant.
+515	PERSON	the giant	boy;row	little	nod;be;look	5.578	3.829	5.619	Here the giant looked lovingly towards the row of little boys by the fire, all of whom were nodding, or asleep on the floor.
+515	LOCATION	the fire	boy;row	little	nod;be;look	5.578	3.829	5.619	Here the giant looked lovingly towards the row of little boys by the fire, all of whom were nodding, or asleep on the floor.
+515	LOCATION	the floor	boy;row	little	nod;be;look	5.578	3.829	5.619	Here the giant looked lovingly towards the row of little boys by the fire, all of whom were nodding, or asleep on the floor.
+518	PERSON	the giant	nod;s;work;giantess;reality		become;begin;pretence	5.57142857143	3.96142857143	6.15142857143	Soon the giant"s pretence became reality, and the giantess began to nod over her work.
+520	PERSON	Bob	m	ready	say	5.974	4.666	6.02	"All right," said Bob; "I"m ready."
+522	PERSON	Tricksey	hole;giantess		be;try;say;let;go;sleep;dare	5.734	3.927	5.48	"Let us try this hole," said Tricksey; for the giant and giantess were sleeping behind them, and they dared not go back.
+522	PERSON	the giant	hole;giantess		be;try;say;let;go;sleep;dare	5.734	3.927	5.48	"Let us try this hole," said Tricksey; for the giant and giantess were sleeping behind them, and they dared not go back.
+523	PERSON	Bob			say	6.615	4.715	7.02	"All right," said Bob.
+525	LOCATION	the hole	upward	wider	begin;lead;find;creep;get	5.51142857143	3.73571428571	5.24	As they crept on, they found the hole began to get wider and lead upwards.
+526	PERSON	Buffy-Bob			say	5.91	4.43	6.88	said Buffy-Bob.
+527	PERSON	Tricksey	t		be;don;see;know;reply;tell	5.71	4.101	5.545	"I can"t tell," replied Tricksey; "for, you see, I don"t know what we are in."
+528	LOCATION	the wall	ear;noise	pleasant	hear;lay;gurgle	5.62571428571	3.91142857143	5.88	When they laid their ears to the wall, they heard it gurgling along with a pleasant noise.
+540	PERSON	Tricksey-Wee	courtesy;spectacles;eye;s;round;giantess;front;face;bird;mr.	huge;bigger	be;look;whisper;drop;say;want;go	5.98944444444	4.29166666667	5.53277777778	Tricksey-Wee immediately went in front of the bird, and looking up into his huge face, which was as round as the eyes of the giantess"s spectacles, and much bigger, dropped a pretty courtesy, and said,--"Please, Mr. Owl, I want to whisper to you."
+540	PERSON	Owl	courtesy;spectacles;eye;s;round;giantess;front;face;bird;mr.	huge;bigger	be;look;whisper;drop;say;want;go	5.98944444444	4.29166666667	5.53277777778	Tricksey-Wee immediately went in front of the bird, and looking up into his huge face, which was as round as the eyes of the giantess"s spectacles, and much bigger, dropped a pretty courtesy, and said,--"Please, Mr. Owl, I want to whisper to you."
+542	PERSON	the giant	eagle;s;heart		live;please;tell;sit	5.98375	4.5625	5.5875	"Please tell me where the eagle lives that sits on the giant"s heart."
+557	PERSON	Tricksey-Wee	laugh	last;tired	go;be;say;try	5.98333333333	4.50166666667	6.01666666667	So they went on and on, till they were both tired, and Tricksey-Wee said at last, trying to laugh,--
+559	PERSON	Buffy-Bob	place;bed		go;s;say	6.05	4.162	6.094	"Then here"s the place to go to bed in," said Buffy-Bob.
+567	PERSON	Buffy-Bob	tricksey-wee		answer;sing;begin;have;learn	6.44333333333	3.695	5.98166666667	He began to sing; and Tricksey-Wee and Buffy-Bob, having now learned the way, answered him:--
+567	LOCATION	the way	tricksey-wee		answer;sing;begin;have;learn	6.44333333333	3.695	5.98166666667	He began to sing; and Tricksey-Wee and Buffy-Bob, having now learned the way, answered him:--
+581	PERSON	Tricksey			say;look	6.09	3.77666666667	6.4	"No; but we can look up," said Tricksey.
+585	PERSON	Buffy-Bob			begin;tell	5.855	3.355	5.33	"Tell us where--" began Buffy-Bob.
+588	LOCATION	the nest	bird-voice	sweet	say	6.0825	4.23	5.875	said a sweet bird-voice out of the nest.
+592	PERSON	King	larks;husband		be;say	6.375	4.1725	5.9075	"My husband is King of the Larks," she said.
+593	PERSON	Buffy-Bob	cap;tricksey-wee	low	courtesy;take	5.25	3.575	4.8675	Buffy-Bob took off his cap, and Tricksey-Wee courtesied very low.
+595	PERSON	Buffy-Bob	bird	little;splendid	s;get;say;_;know	5.942	4.113	5.767	"He"s a splendid bird," said Buffy-Bob; "only you know he _will_ get up a little too early."
+597	PERSON	Lady	thunderthump;s;life;giant;heart	she-eagle	please;tell;sit	5.90375	4.4225	5.60375	"Tell us, please, Lady Lark, where the she-eagle lives that sits on Giant Thunderthump"s heart."
+597	LOCATION	Lark	thunderthump;s;life;giant;heart	she-eagle	please;tell;sit	5.90375	4.4225	5.60375	"Tell us, please, Lady Lark, where the she-eagle lives that sits on Giant Thunderthump"s heart."
+603	PERSON	Tricksey-Wee	song		do;say;tell;sing	5.77777777778	4.28444444444	5.93333333333	"Do tell me, and I will sing you a song," said Tricksey-Wee.
+614	PERSON	the king	lark;sir		say;thank	5.82428571429	4.16571428571	5.63285714286	""Must I thank you, then," said the king, "Sir Lark,
+620	PERSON	the king	head;cloud;turban		hide	5.365	4.06	5.15666666667	"And the king hid his head in a turban of cloud;
+623	PERSON	the king	wrath		go;be	5.402	4.318	5.466	The wrath of the king will be over and gone,
+639	PERSON	the king	face	full	shine;be	6.076	3.968	5.786	Full in her face was shining the king.
+644	LOCATION	the nest	crown		set;have	5.685	3.6225	5.6625	"He had set his crown all about the nest,
+649	PERSON	the king	stone		be	5.4975	4.0325	5.8225	As still as a stone, till the king was away."
+650	PERSON	Tricksey-Wee	lark;s;wife;song	own;sweet;modest;little;low	pipe;begin;finish;say;have	6.00105263158	3.84842105263	5.62578947368	As soon as Tricksey-Wee had finished her song, the lark"s wife began a low, sweet, modest little song of her own; and after she had piped away for two or three minutes, she said,--
+652	PERSON	Tricksey-Wee	life	she-eagle	say;please;tell	5.95333333333	4.62666666667	5.90333333333	"Tell us where the she-eagle lives, please," said Tricksey-Wee.
+653	PERSON	Lady Lark	harm;mischief;t;child	such;good;much;wise;sure	be;don;do;tell;say;want;think	5.757	4.3465	5.6645	"Well, I don"t think there can be much harm in telling such wise, good children," said Lady Lark; "I am sure you don"t want to do any mischief."
+654	PERSON	Buffy-Bob	contrary		say	5.205	4.07	6.12	"Oh, no; quite the contrary," said Buffy-Bob.
+655	LOCATION	Mount Skycrack	web;bottom;peak;way;spider	only;top;topmost	be;live;cover;climb;get	5.62166666667	4.08166666667	5.28083333333	She lives on the very topmost peak of Mount Skycrack; and the only way to get up is to climb on the spiders" webs that cover it from top to bottom."
+656	PERSON	Tricksey-Wee	s	serious	say	5.59666666667	4.49333333333	5.85	"That"s rather serious," said Tricksey-Wee.
+660	LOCATION	the border	giant;child;danger	fond;much	be	5.683	3.988	5.454	Nor were they in much danger; for it was only one or two of the border giants that were so very fond of children.
+664	LOCATION	the mountain	s;nest	she-eagle	say;please;tell;get	5.85428571429	3.93857142857	5.79857142857	"Tell us, please," said they, "how we can get up the mountain to the she-eagle"s nest."
+666	PERSON	Spider	claw;mr.;haven;t		say;get	5.54285714286	4.42285714286	5.46142857143	"But we haven"t got claws like you, Mr. Spider," said Buffy.
+666	PERSON	Buffy	claw;mr.;haven;t		say;get	5.54285714286	4.42285714286	5.46142857143	"But we haven"t got claws like you, Mr. Spider," said Buffy.
+668	PERSON	Buffy			say	5.91	4.43	6.88	said Buffy.
+671	PERSON	Tricksey-Wee	heart;giant;radish;behaviour;she-eagle;child;border	better;little;great	be;sit;get;find;tell;treat;have;escape;teach;hold;eat	6.0537037037	4.19740740741	5.81518518519	Then Tricksey-Wee told them that there was a giant on the borders who treated little children no better than radishes, and that they had narrowly escaped being eaten by him; that they had found out that the great she-eagle of Mount Skycrack was at present sitting on his heart; and that, if they could only get hold of the heart, they would soon teach the giant better behaviour.
+671	LOCATION	Mount Skycrack	heart;giant;radish;behaviour;she-eagle;child;border	better;little;great	be;sit;get;find;tell;treat;have;escape;teach;hold;eat	6.0537037037	4.19740740741	5.81518518519	Then Tricksey-Wee told them that there was a giant on the borders who treated little children no better than radishes, and that they had narrowly escaped being eaten by him; that they had found out that the great she-eagle of Mount Skycrack was at present sitting on his heart; and that, if they could only get hold of the heart, they would soon teach the giant better behaviour.
+671	PERSON	the giant	heart;giant;radish;behaviour;she-eagle;child;border	better;little;great	be;sit;get;find;tell;treat;have;escape;teach;hold;eat	6.0537037037	4.19740740741	5.81518518519	Then Tricksey-Wee told them that there was a giant on the borders who treated little children no better than radishes, and that they had narrowly escaped being eaten by him; that they had found out that the great she-eagle of Mount Skycrack was at present sitting on his heart; and that, if they could only get hold of the heart, they would soon teach the giant better behaviour.
+673	PERSON	Buffy-Bob	scratch	least	reply;kill	4.5575	4.375	5.3775	"The least scratch will kill it," replied Buffy-Bob.
+674	PERSON	the giant	heart;power;bag	other	put;bring;be	5.651	4.107	5.873	Then you must put the heart into this other bag, and bring it down with you; for then the giant will be in your power."
+681	PERSON	Tricksey-Wee	spider;army	whole	follow;see;look;scramble	4.711	4.593	4.895	And every spider followed; so that, when Tricksey-Wee looked back, she saw a whole army of spiders scrambling after them.
+684	PERSON	Buffy-Bob	knob;globe;tricksey-wee;feather	ornamental;great	see;finish	6.193	4.007	5.827	Tricksey-Wee and Buffy-Bob could see above them a great globe of feathers, that finished off the mountain like an ornamental knob.
+684	LOCATION	the mountain	knob;globe;tricksey-wee;feather	ornamental;great	see;finish	6.193	4.007	5.827	Tricksey-Wee and Buffy-Bob could see above them a great globe of feathers, that finished off the mountain like an ornamental knob.
+685	PERSON	Buffy			say	5.91	4.43	6.88	said Buffy.
+687	LOCATION	the nest	heart;s;thing	awful;ugly	be;look;lay	5.14727272727	4.28454545455	5.24	As soon as it was over, they looked into the nest, and there lay the giant"s heart--an awful and ugly thing.
+687	PERSON	the giant	heart;s;thing	awful;ugly	be;look;lay	5.14727272727	4.28454545455	5.24	As soon as it was over, they looked into the nest, and there lay the giant"s heart--an awful and ugly thing.
+688	PERSON	Tricksey	s;spider		say	4.75333333333	5.44666666667	5.20666666667	said Tricksey"s spider.
+689	LOCATION	the mountain	fly;spider;nothing;time;foot;home	busy	be;get;reach;have;catch;happen	5.72428571429	3.95214285714	5.43214285714	--By the time they reached the foot of the mountain, all the spiders had got home, and were busy again catching flies, as if nothing had happened.
+690	PERSON	the giant	heart;s;thanks;friend;child		carry;renew;set	6.12666666667	4.36777777778	5.92	After renewed thanks to their friends, the children set off, carrying the giant"s heart with them.
+700	LOCATION	the house			be;know	6.2975	3.905	5.6725	"It is in the house, I know!"
+702	PERSON	the giant	heart;love	own	spy;stagger;lead	5.67	4.76666666667	5.20666666667	Led by the love of his own heart, the giant soon spied them, and staggered furiously towards them.
+704	PERSON	the giant	down;knee;heart		blubber;cry;beg;fall	4.53428571429	4.71857142857	4.53857142857	Down fell the giant on his knees, blubbering, and crying, and begging for his heart.
+705	PERSON	Tricksey			say;behave;have	5.97	3.7975	6.385	"You shall have it, if you behave yourself properly," said Tricksey.
+711	PERSON	Tricksey	heart;pinch		say;give	6.0225	4.6275	5.7	said Tricksey; and she gave the heart another pinch.
+712	LOCATION	the door			stagger	4.425	3.785	5.125	Then he staggered to the door.
+713	PERSON	Doodlem	time	poor;white;arm-chair	mend;be;cry;stock;sit	5.28111111111	4.03777777778	4.89111111111	All this time poor Doodlem was sitting in her arm-chair, crying, and mending a white stocking.
+716	PERSON	the giant			say	5.66	4.765	6.78	"Yes," said the giant.
+718	PERSON	the giant	heart;pain		roar;pinch	4.646	5.406	5.246	Tricksey-Wee pinched the heart till the giant roared with pain.
+720	PERSON	Thunderthump	lot	thinnest	be;say;cry	5.10333333333	4.43666666667	4.98	"He was the thinnest of the lot," said Thunderthump, crying.
+721	PERSON	Tricksey			ask	5.95	3.48	6.29	asked Tricksey.
+723	PERSON	Tricksey-Wee	life;child	more	carry;say;promise;eat	6.129	4.519	6.088	"Now," said Tricksey-Wee to the giant, "will you promise to carry off no more children, and never to eat a child again all you life?"
+723	PERSON	the giant	life;child	more	carry;say;promise;eat	6.129	4.519	6.088	"Now," said Tricksey-Wee to the giant, "will you promise to carry off no more children, and never to eat a child again all you life?"
+728	PERSON	The giant	moral	good	hesitate;begin;be;insist;promise;expostulate;believe	6.01818181818	3.94727272727	6.11	The giant hesitated at this, and began to expostulate; but Tricksey-Wee, believing it would be good for his morals, insisted; and the giant promised.
+728	PERSON	Tricksey-Wee	moral	good	hesitate;begin;be;insist;promise;expostulate;believe	6.01818181818	3.94727272727	6.11	The giant hesitated at this, and began to expostulate; but Tricksey-Wee, believing it would be good for his morals, insisted; and the giant promised.
+728	PERSON	the giant	moral	good	hesitate;begin;be;insist;promise;expostulate;believe	6.01818181818	3.94727272727	6.11	The giant hesitated at this, and began to expostulate; but Tricksey-Wee, believing it would be good for his morals, insisted; and the giant promised.
+736	PERSON	Buffy-Bob	string;emergency;pretence;reality;travels;knife		be;cut;prepare;get;take;have;know	5.18363636364	4.25363636364	5.47090909091	But Buffy-Bob, who had got very knowing on his travels, took out his knife with the pretence of cutting the string; but, in reality, to be prepared for any emergency.
+737	PERSON	the giant	foot;fountain;blood;groan	dreadful;little;sorry;dead	be;spout;help;fall	4.75866666667	4.21533333333	5.07933333333	A fountain of blood spouted from it; and with a dreadful groan the giant fell dead at the feet of little Tricksey-Wee, who could not help being sorry for him after all.
+747	PERSON	the boy	money;deal;gold	good	sell;be;say;suppose;get	5.93071428571	4.56642857143	5.655	"I suppose, being gold," the boy once said, thoughtfully, "that I could get a good deal of money for it if I sold it."
+748	PERSON	the boy	key;bed	golden	go;dream	6.79333333333	4.08166666667	5.89666666667	And then the boy went to bed and dreamed about the golden key.
+759	LOCATION	the nest	boy	happy	be;find	6.13	4.05142857143	5.93714285714	You will be a happy boy if you find the nest."
+764	LOCATION	the house			say;dart	5.92	3.9375	6.3175	he said to himself, and darted out of the house, and into the wood.
+764	LOCATION	the wood			say;dart	5.92	3.9375	6.3175	he said to himself, and darted out of the house, and into the wood.
+772	LOCATION	the earth	tree;grass;keyhole;cloud;air		see;gaze	6.2575	3.61375	5.56875	He gazed about him, up into the air, down to the earth, but saw no keyhole in the clouds, in the grass, or in the trees.
+773	LOCATION	the forest	border		go	5.46	4.015	5.435	--And now I will go back to the borders of the forest.
+777	LOCATION	the forest		fast	run;flee	5.64333333333	4.87666666667	5.38333333333	She then fled to the forest as fast as she could run.
+778	LOCATION	Fairyland	wanderer;being;one;place;way;child;nothing;creature	good;many;able;evil;own;mischievous;other;best;more	do;help;get;hurt;know;have;go;be	5.73633333333	3.80566666667	5.56133333333	Now, although she did not know it, this was the very best way she could have gone; for nothing is ever so mischievous in its own place as it is out of it; and, besides, these mischievous creatures were only the children of Fairyland, as it were, and there are many other beings there as well; and if a wanderer gets in among them, the good ones will always help him more than the evil ones will be able to hurt him.
+784	PERSON	The girl			look	6.67	4.34666666667	5.67333333333	The girl looked at the lady, and the lady looked at the girl.
+784	PERSON	the lady			look	6.67	4.34666666667	5.67333333333	The girl looked at the lady, and the lady looked at the girl.
+784	PERSON	the lady			look	6.67	4.34666666667	5.67333333333	The girl looked at the lady, and the lady looked at the girl.
+784	PERSON	the girl			look	6.67	4.34666666667	5.67333333333	The girl looked at the lady, and the lady looked at the girl.
+785	PERSON	the lady			ask	6.43	3.765	6.08	asked the lady.
+789	PERSON	the lady	t		say;don;look	6.242	4.328	5.982	"You don"t look like it," said the lady.
+791	PERSON	the lady		old	answer	5.678	3.872	5.57	"Thousands of years old," answered the lady.
+793	PERSON	Don	t	beautiful	be;see	6.012	4.608	5.534	Don"t you see how beautiful I am?"
+797	LOCATION	the tree	tangle;word	much;ashamed	be;feel;suggest;make;cry;say	5.27333333333	4.28583333333	5.36	"Perhaps," suggested Tangle, feeling ashamed, but not too much so to say a word for herself--"perhaps that is because the tree made me cry so."
+798	PERSON	the lady	eye;cry;tree;face;girl;moon	little;naughty;dirty	be;look;make;melt;say;kiss;suffer	5.823	4.3085	5.3835	said the lady, looking now as if the moon were melted in her eyes, and kissing her little face, dirty as it was, "the naughty tree must suffer for making a girl cry."
+800	PERSON	the lady	grandmother		answer	6.87666666667	3.93333333333	6.04666666667	"Grandmother," answered the lady.
+809	PERSON	the lady			say	6.41	4.24	6.375	said the lady.
+811	PERSON	the lady		satisfied	answer;be;say;like	6.17333333333	4.19777777778	5.84777777778	"I like your saying so, and I shall be quite satisfied," answered the lady.
+813	PERSON	The lady	tank;tangle;word		understand;throw;speak	5.64	4.16	5.72571428571	The lady spoke some words Tangle could not understand, and threw her into the tank.
+814	LOCATION	the fire	cord;waist;foot;garment;well;back;lavender;linen;chest;hers;grass;dress	brown;bare;own;finest;green;such;lovely;soft	dry;shine;fold;open;put;take;have;carry;tie;be;smell;go	5.82352941176	4.03794117647	5.69882352941	She carried her back to the fire, and, having dried her well, opened a chest, and taking out the finest linen garments, smelling of grass and lavender, put them upon her, and over all a green dress, just like her own, shining like hers, and soft like hers, and going into just such lovely folds from the waist, where it was tied with a brown cord, to her bare feet.
+817	PERSON	the lady	hair;supper	dry	leave;get;comb;brush;sit	5.82	3.55666666667	6.05	And the lady sat down with her again, and combed her hair, and brushed it, and then left it to dry while she got the supper.
+818	LOCATION	the wall	kind;fish;pot;fruit;skin;hole;milk;bread	ready;feathered;several	pull;get;cook;take;have;go;be;eat	6.08916666667	3.80083333333	5.695	First she got bread out of one hole in the wall; then milk out of another; then several kinds of fruit out of a third; and then she went to the pot on the fire, and took out the fish, now nicely cooked, and, as soon as she had pulled off its feathered skin, ready to be eaten.
+818	LOCATION	the fire	kind;fish;pot;fruit;skin;hole;milk;bread	ready;feathered;several	pull;get;cook;take;have;go;be;eat	6.08916666667	3.80083333333	5.695	First she got bread out of one hole in the wall; then milk out of another; then several kinds of fruit out of a third; and then she went to the pot on the fire, and took out the fish, now nicely cooked, and, as soon as she had pulled off its feathered skin, ready to be eaten.
+823	LOCATION	the cottage	tree;flower;suspicion;communication	other	be;say;hold;hear;have	6.06538461538	3.99076923077	5.94230769231	She had even a suspicion that the trees and flowers all about the cottage were holding midnight communications with each other; but what they said she could not hear.
+830	LOCATION	the door	tangle;tank		go;say;understand;speak	5.55857142857	4.14714285714	5.74	So saying she went to the door of the tank, and spoke; and now Tangle understood her perfectly.
+832	PERSON	the lady	length;s;hand	ready;lively	fly;look	6.09777777778	4.19666666667	5.78444444444	At length one of them flew up into the lady"s hand, looking lively and ready.
+834	PERSON	Mother	fish		answer	6.68333333333	4.02	6.04666666667	"Yes, Mother, quite well," answered the fish.
+836	PERSON	the lady	firelight;door;fish;time;bed;heath;wrapper;arbour;skin;tangle;side	little;wise;purple;large;green;gorgeous;feathered;cool	shine;be;throw;show;make;tell;go;open;grow	5.9871875	3.91	5.7146875	Then the lady told Tangle it was time to go to bed; and, opening another door in the side of the cottage, showed her a little arbour, cool and green, with a bed of purple heath growing in it, upon which she threw a large wrapper made of the feathered skins of the wise fishes, shining gorgeous in the firelight.
+836	LOCATION	the cottage	firelight;door;fish;time;bed;heath;wrapper;arbour;skin;tangle;side	little;wise;purple;large;green;gorgeous;feathered;cool	shine;be;throw;show;make;tell;go;open;grow	5.9871875	3.91	5.7146875	Then the lady told Tangle it was time to go to bed; and, opening another door in the side of the cottage, showed her a little arbour, cool and green, with a bed of purple heath growing in it, upon which she threw a large wrapper made of the feathered skins of the wise fishes, shining gorgeous in the firelight.
+840	LOCATION	the fire	pot;lady;side	lovely;other;grand	sit;find;boil;enter	5.85818181818	4.07727272727	5.92090909091	Entering, she found the pot boiling on the fire, and the grand, lovely lady sitting on the other side of it.
+843	PERSON	the lady	word		be;say	6.42	4.162	6.17	The first words the lady said were,--
+845	LOCATION	the moss	stone;mossy;name;moss;companion	favourite;whole	be;use;sit;read;give;cover;begin;say;have;grow	6.01888888889	3.65166666667	5.81944444444	Now Mossy was the name his companions had given him, because he had a favourite stone covered with moss, on which he used to sit whole days reading; and they said the moss had begun to grow upon him too.
+846	PERSON	the lady	tear;eye	beautiful	wait;let;beg;sit	5.53375	3.98875	5.5325	But the lady begged him, with tears in her beautiful eyes, to sit, and let her wait on him.
+862	PERSON	Tangle		unwilling	go;be	4.925	4.3625	4.92	Tangle was very unwilling to go.
+863	PERSON	the lady	t;man	young	say;don;know	5.91	4.31	5.65285714286	I don"t know the young man," she said to the lady.
+867	PERSON	the lady	country;name	other;afraid	do;remember;be;say;lose;go	5.56928571429	4.09714285714	5.54285714286	"And," said the lady, "if you should lose each other as you go through the--the--I never can remember the name of that country,--do not be afraid, but go on and on."
+869	LOCATION	the forest	grandmother;mossy;tangle;time	sorry;fond;other;least	be;send;have;get	5.94583333333	3.74666666667	5.59333333333	By the time they got out of the forest they were very fond of each other, and Tangle was not in the least sorry that her grandmother had sent her away with Mossy.
+873	LOCATION	the country	tear;longing;while;shadow	other	be;look;sit;whence;see;fall	5.076	3.889	5.338	After sitting for a while, each, looking up, saw the other in tears: they were each longing after the country whence the shadows fell.
+874	LOCATION	the country	shadow;mossy		say;come;find;_	5.77666666667	3.73833333333	5.81333333333	"We _must_ find the country from which the shadows come," said Mossy.
+876	LOCATION	the plain		little;able	be;cross;rest	6.033	3.522	5.336	--"But we must rest here for a little, and then we shall be able to cross the plain before night."
+886	LOCATION	the stair	depth;mouth;sight	giddy;afraid	be;force;grow;turn;enter;throw	5.50785714286	4.145	5.42285714286	She was afraid to enter, and turning again towards the stair, grew giddy at sight of the depth beneath her, and was forced to throw herself down in the mouth of the cave.
+886	LOCATION	the cave	depth;mouth;sight	giddy;afraid	be;force;grow;turn;enter;throw	5.50785714286	4.145	5.42285714286	She was afraid to enter, and turning again towards the stair, grew giddy at sight of the depth beneath her, and was forced to throw herself down in the mouth of the cave.
+891	LOCATION	the mountain			be;come;lead	5.806	4.014	5.568	"And I am come to lead you through the mountain."
+903	LOCATION	the way	shadow		say;fall;show	5.2225	4.0	5.185	"Yes--show me the way up to the country from which the shadows fall," said Tangle.
+903	LOCATION	the country	shadow		say;fall;show	5.2225	4.0	5.185	"Yes--show me the way up to the country from which the shadows fall," said Tangle.
+903	PERSON	Tangle	shadow		say;fall;show	5.2225	4.0	5.185	"Yes--show me the way up to the country from which the shadows fall," said Tangle.
+921	LOCATION	the house	form;opening;face;part;amazement;man	majestic;beautiful;other;grand	start;see;return;lead;wait	5.81315789474	4.23947368421	5.73842105263	Returning to the opening that led into the other part of the house, she started back with amazement, for through it she saw the form of a grand man, with a majestic and beautiful face, waiting for her.
+925	LOCATION	the way			show	5.38714285714	4.28285714286	5.15285714286	--But I must show you the way to the Old Man of the Earth."
+926	LOCATION	the cave	corner;rock;opening;bath	opposite	be;see;lead	5.41363636364	3.83909090909	5.32727272727	He led her into the cave where the bath was, and there she saw, in the opposite corner, a second opening in the rock.
+932	PERSON	Tangle	youth;ear		answer;hear	5.824	3.956	5.75	And the youth answered, and Tangle heard him, though not with her ears:--
+934	LOCATION	the way	shadow		whence;tell;fall	5.21333333333	3.80166666667	4.89333333333	"Tell me the way to the country whence the shadows fall."
+934	LOCATION	the country	shadow		whence;tell;fall	5.21333333333	3.80166666667	4.89333333333	"Tell me the way to the country whence the shadows fall."
+940	LOCATION	the cave	ear;side		tell;lead;lay	5.48571428571	3.63428571429	5.38714285714	He led her to the side of the cave, and told her to lay her ear against the wall.
+940	LOCATION	the wall	ear;side		tell;lead;lay	5.48571428571	3.63428571429	5.38714285714	He led her to the side of the cave, and told her to lay her ear against the wall.
+945	LOCATION	the way			be;say	6.0	3.58666666667	5.73666666667	"That is the way," he said.
+948	LOCATION	the hole	face	full;whole	be;look;throw;turn;stand;think	5.718	3.83466666667	5.57466666667	She turned and looked him full in the face--stood so for a whole minute, as she thought: it was a whole year--then threw herself headlong into the hole.
+951	LOCATION	the earth	beast;word;heart;journey;fish;mossy;grandmother;everything;book;thing;bird;talk;man	same	be;say;see;understand;have;learn;put;sing;happen;mean	5.85413793103	4.00344827586	5.77034482759	Everything she had seen, or learned from books; all that her grandmother had said or sung to her; all the talk of the beasts, birds, and fishes; all that had happened to her on her journey with Mossy, and since then in the heart of the earth with the Old man and the Older man--all was plain: she understood it all, and saw that everything meant the same thing, though she could not have put it into words again.
+969	LOCATION	the shore	water;figure	majestic;deep	be;roll;walk	5.719	4.001	5.402	A deep water rolled between it and the shore, upon which a majestic figure was walking alone.
+977	LOCATION	the cave		other	gaze;reach;have;sit	5.695	3.68	5.71666666667	When they had reached the cave, they sat down and gazed at each other.
+982	LOCATION	the way			go;know;have	5.982	3.904	5.332	And I know the way you have to go."
+983	LOCATION	the country	shadow;mossy		say;whence;find;want;fall	5.49428571429	4.18428571429	5.44285714286	"I want to find the country whence the shadows fall," said Mossy.
+1008	LOCATION	the country	shadow		go;be;whence;know;fall	5.73666666667	3.76333333333	5.2	They knew that they were going up to the country whence the shadows fall.
