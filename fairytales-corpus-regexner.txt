@@ -1,42 +1,439 @@
-woods	LOCATION
+Luigi	PERSON
+Kiang-ho	LOCATION
+America	LOCATION
+Martha	PERSON
+Korea	LOCATION
+Matt	PERSON
+Jim	PERSON
+Tom	PERSON
+Ould Nick	PERSON	LOCATION
+Redhead	PERSON
+Ivan	PERSON
+Andrew Coffey	PERSON	LOCATION
+Treneglwys	LOCATION
+[Tt]he lad	PERSON
+[Tt]he giant	PERSON
+[Tt]he servant	PERSON
+[Tt]he [Bb]oy	PERSON
+[Tt]he girl	PERSON
+[Tt]he maid	PERSON
+[Tt]he farmer	PERSON
+[Tt]he magician	PERSON
+[Tt]he buterfly	PERSON
+[Tt]he mandarin	PERSON
+Grania	PERSON	LOCATION
+Aed	PERSON	LOCATION
+Concobar	PERSON	LOCATION
+Felim	PERSON	LOCATION
+Wise Man	PERSON	LOCATION
+[Tt]he wise man	PERSON	LOCATION
+Dreide	PERSON	LOCATION
+Lavarcam	PERSON	LOCATION
+Nathos	PERSON	LOCATION
+Usna	PERSON	LOCATION
+Ailne	PERSON	LOCATION
+Ardan	PERSON	LOCATION
+Angus	PERSON	LOCATION
+Fergus	PERSON	LOCATION
+Dedannans	PERSON	LOCATION
+Lir	PERSON	LOCATION
+Decca	PERSON	LOCATION
+Fiacra	PERSON	LOCATION
+Largnen	PERSON	LOCATION
+Bove Derg	PERSON	LOCATION
+Oisin	PERSON	LOCATION
+Finn	PERSON	LOCATION
+Cormac	PERSON	LOCATION
+Erin	PERSON	LOCATION
+Dering	PERSON	LOCATION
+Queen	PERSON
+King	PERSON
 Prince	PERSON
 Princess	PERSON
-King	PERSON
-Queen	PERSON
-castle	LOCATION
-lake	LOCATION
-forest	LOCATION
-enchanted forest	LOCATION
-cottage	LOCATION
-enchanted land	LOCATION
+Fairy	PERSON
+Lady	PERSON
+Knight	PERSON
+Witch	PERSON
+Dermat	PERSON	LOCATION
+Bran	PERSON	LOCATION
+Sharvan	PERSON	LOCATION
+Martha	PERSON
+Lugui	PERSON
+Beni	PERSON
+Victor	PERSON
+Tanko-Mankie	PERSON
+Yi Chin Ho	PERSON
+Pak Chung Chang	PERSON
+Governor	PERSON
+[Tt]he governor	PERSON	LOCATION
+[Tt]he policeman	PERSON	LOCATION
+[Tt]he architect	PERSON	LOCATION
+[Tt]he [Kk]ing	PERSON	LOCATION
+[Tt]he queen	PERSON	LOCATION
+[Tt]he prince	PERSON	LOCATION
+[Tt]he princess	PERSON	LOCATION
+[Tt]he fairy	PERSON	LOCATION
+[Tt]he witch	PERSON	LOCATION
+[Tt]he mermaid	PERSON	LOCATION
+[Tt]he lady	PERSON	LOCATION
+[Tt]he knight	PERSON	LOCATION
+[Tt]he man	PERSON	LOCATION
+[Tt]he woman	PERSON	LOCATION
+[Tt]he forest	LOCATION	PERSON
+[Tt]he cottage	LOCATION	PERSON
+Enchanted Land	LOCATION	PERSON
+[Tt]he well	LOCATION	PERSON
+[Tt]he hills	LOCATION	PERSON
+King's Palace	LOCATION	PERSON
+King's palace	LOCATION	PERSON
+[Tt]he king's palace	LOCATION	PERSON
+[Tt]he queen's palace	LOCATION	PERSON
+Queen's Palace	LOCATION	PERSON
+[Tt]he palace	LOCATION	PERSON
+[Tt]he camp	LOCATION	PERSON
 Land of Alba	LOCATION	PERSON
-lochs of Alba	LOCATION
-Glens	LOCATION
-mountain	LOCATION
-valley	LOCATION
-the sea	LOCATION
-island	LOCATION
-shores of Mull	LOCATION
-shores of Alba	LOCATION
+[Tt]he castle	LOCATION	PERSON
+[Tt]he lochs of Alba	LOCATION	PERSON
+[Tt]he glens	LOCATION	PERSON
+Island of Erin	LOCATION	PERSON
+Moor of Loneliness	LOCATION	PERSON
+[Tt]he gorges	LOCATION	PERSON
+[Tt]he mountain	LOCATION	PERSON
+[Tt]he valley	LOCATION	PERSON
+[Tt]he shores	LOCATION	PERSON
+[Tt]he bay	LOCATION	PERSON
+[Tt]he sea	LOCATION	PERSON
+[Tt]he shores of Mull	LOCATION	PERSON
+[Tt]he headlands of Albaisland	LOCATION	PERSON
+[Tt]he sea-lochs	LOCATION	PERSON
+Green Isle of Erin	LOCATION	PERSON
+House of Red Branch	LOCATION	PERSON
+[Tt]he fort	LOCATION	PERSON
+House of Borrach	LOCATION	PERSON
+[Tt]he castle of Borrach	LOCATION	PERSON
+[Tt]he lake	LOCATION	PERSON
+[Tt]he house	LOCATION	PERSON
+Mull	LOCATION	PERSON
+Dunedin	LOCATION	PERSON
+[Tt]he plain	LOCATION	PERSON
+[Tt]he room	LOCATION	PERSON
+[Tt]he road	LOCATION	PERSON
+Largnen	LOCATION	PERSON
+[Tt]he dwelling	LOCATION	PERSON
+[Tt]he shore	LOCATION	PERSON
+Western Sea	LOCATION	PERSON
 Moyle	LOCATION	PERSON
-Larghen	PERSON	LOCATION
-fort	LOCATION
-river	LOCATION
-Grania	PERSON	LOCATION
-Aed	PERSON
-Island of Erin	LOCATION
-Concobarr	PERSON
-Felin	PERSON
-Moor of Loneliness	LOCATION
-Wise Man	PERSON
-Dreide	PERSON
-Lavarcam	PERSON	LOCATION
-Nathos	PERSON
-Usna	PERSON
-Alba	LOCATION	PERSON
-Ailne	PERSON
-Ardan	PERSON
-Angus	PERSON
-Dunedin	LOCATION
-Mull	LOCATION
-Fergus	PERSON
+[Tt]he coast	LOCATION	PERSON
+[Tt]he town	LOCATION	PERSON
+[Tt]he village	LOCATION	PERSON
+[Tt]he isle	LOCATION	PERSON
+[Tt]he land	LOCATION	PERSON
+[Tt]he home	LOCATION	PERSON
+[Tt]he ruins	LOCATION	PERSON
+Heaven	LOCATION	PERSON
+[Tt]he church	LOCATION	PERSON
+Tara	LOCATION	PERSON
+Allen	LOCATION	PERSON
+[Tt]he slopes	LOCATION	PERSON
+[Tt]he field	LOCATION	PERSON
+[Tt]he river	LOCATION	PERSON
+[Tt]he river Shannon	LOCATION	PERSON
+River Shannon	LOCATION	PERSON
+[Tt]he hut	LOCATION	PERSON
+[Tt]he woods	LOCATION	PERSON
+[Tt]he kitchen	LOCATION	PERSON
+[Tt]he stable	LOCATION	PERSON
+[Tt]he city	LOCATION	PERSON
+[Tt]he gate	LOCATION	PERSON
+[Tt]he meadow	LOCATION	PERSON
+[Tt]he rocks	LOCATION	PERSON
+[Tt]he farm	LOCATION	PERSON
+[Tt]he vineyard	LOCATION	PERSON
+[Tt]he stream	LOCATION	PERSON
+[Tt]he chamber	LOCATION	PERSON
+[Tt]he bed	LOCATION	PERSON
+[Tt]he ford	LOCATION	PERSON
+[Tt]he bridge	LOCATION	PERSON
+[Tt]he quarry	LOCATION	PERSON
+[Tt]he tree	LOCATION	PERSON
+[Tt]he pond	LOCATION	PERSON
+[Tt]he lake	LOCATION	PERSON
+[Tt]he quicken-tree	LOCATION	PERSON
+Bruga	LOCATION	PERSON
+Rath-Grania	LOCATION	PERSON
+[Tt]he tower	LOCATION	PERSON
+[Tt]he court	LOCATION	PERSON
+[Tt]he corridor	LOCATION	PERSON
+[Tt]he hall	LOCATION	PERSON
+[Tt]he window	LOCATION	PERSON
+[Tt]he marsh	LOCATION	PERSON
+[Tt]he floor	LOCATION	PERSON
+[Tt]he brook	LOCATION	PERSON
+[Tt]he creek	LOCATION	PERSON
+[Tt]he waterfall	LOCATION	PERSON
+[Tt]he cascade	LOCATION	PERSON
+[Tt]he spring	LOCATION	PERSON
+[Tt]he lodge	LOCATION	PERSON
+[Tt]he chalet	LOCATION	PERSON
+[Tt]he shed	LOCATION	PERSON
+[Tt]he shelter	LOCATION	PERSON
+[Tt]he cave	LOCATION	PERSON
+[Tt]he alcove	LOCATION	PERSON
+[Tt]he antechamber	LOCATION	PERSON
+[Tt]he bedroom	LOCATION	PERSON
+[Tt]he hiding-place	LOCATION	PERSON
+[Tt]he chimney	LOCATION	PERSON
+[Tt]he door	LOCATION	PERSON
+[Tt]he bank	LOCATION	PERSON
+[Tt]he cliff	LOCATION	PERSON
+[Tt]he cliffs	LOCATION	PERSON	
+[Tt]he ridge	LOCATION	PERSON
+[Tt]he crag	LOCATION	PERSON
+[Tt]he mound	LOCATION	PERSON
+[Tt]he ditch	LOCATION	PERSON
+[Tt]he summit	LOCATION	PERSON
+[Tt]he bed-chamber	LOCATION	PERSON
+[Tt]he neighborhood	LOCATION	PERSON
+[Tt]he country	LOCATION	PERSON
+[Tt]he county	LOCATION	PERSON
+[Tt]he market	LOCATION	PERSON
+Fairyland	LOCATION	PERSON
+[Tt]he shop	LOCATION	PERSON
+[Tt]he crossroad	LOCATION	PERSON
+[Tt]he stair	LOCATION	PERSON
+[Tt]he steps	LOCATION	PERSON
+[Tt]he dinning room	LOCATION	PERSON
+[Tt]he gallery	LOCATION	PERSON
+[Tt]he galleries	LOCATION	PERSON
+[Tt]he track	LOCATION	PERSON
+[Tt]he garden	LOCATION	PERSON
+[Tt]he gardens	LOCATION	PERSON
+[Tt]he terrace	LOCATION	PERSON
+[Tt]he oasis	LOCATION	PERSON
+[Tt]he path	LOCATION	PERSON
+[Tt]he pathway	LOCATION	PERSON
+[Tt]he courtyard	LOCATION	PERSON
+[Tt]he lawn	LOCATION	PERSON
+[Tt]he yard	LOCATION	PERSON
+[Tt]he churchyard	LOCATION	PERSON
+[Tt]he graveyard	LOCATION	PERSON
+[Tt]he tomb	LOCATION	PERSON
+[Tt]he park	LOCATION	PERSON
+[Tt]he cemetery	LOCATION	PERSON
+[Tt]he crypt	LOCATION	PERSON
+[Tt]he meadow	LOCATION	PERSON
+[Tt]he grassland	LOCATION	PERSON
+[Tt]he orchard	LOCATION	PERSON
+[Tt]he residence	LOCATION	PERSON
+[Tt]he dormitory	LOCATION	PERSON
+[Tt]he cabin	LOCATION	PERSON
+[Tt]he hearth	LOCATION	PERSON
+[Tt]he homestead	LOCATION	PERSON
+[Tt]he manor	LOCATION	PERSON
+[Tt]he nest	LOCATION	PERSON
+[Tt]he haven	LOCATION	PERSON
+[Tt]he heaven	LOCATION	PERSON
+[Tt]he roof	LOCATION	PERSON
+[Tt]he homeward	LOCATION	PERSON
+[Tt]he avenue	LOCATION	PERSON
+[Tt]he street	LOCATION	PERSON
+[Tt]he fountain	LOCATION	PERSON
+[Tt]he wall	LOCATION	PERSON
+[Tt]he portal	LOCATION	PERSON
+[Tt]he gateway	LOCATION	PERSON
+[Tt]he entry	LOCATION	PERSON
+[Tt]he hatch	LOCATION	PERSON
+[Tt]he hatchway	LOCATION	PERSON
+[Tt]he passage	LOCATION	PERSON
+[Tt]he route	LOCATION	PERSON
+[Tt]he border	LOCATION	PERSON
+[Tt]he entrance	LOCATION	PERSON
+[Tt]he archway	LOCATION	PERSON
+[Tt]he hallway	LOCATION	PERSON
+[Tt]he passageway	LOCATION	PERSON
+[Tt]he porch	LOCATION	PERSON
+[Tt]he port	LOCATION	PERSON
+[Tt]he staircase	LOCATION	PERSON
+[Tt]he vestibule	LOCATION	PERSON
+[Tt]he bench	LOCATION	PERSON
+[Tt]he courtroom	LOCATION	PERSON
+[Tt]he dock	LOCATION	PERSON
+[Tt]he cathedral	LOCATION	PERSON
+[Tt]he courthouse	LOCATION	PERSON
+[Tt]he mountain-side	LOCATION	PERSON
+[Tt]he heap	LOCATION	PERSON
+[Tt]he peak	LOCATION	PERSON
+[Tt]he escarpment	LOCATION	PERSON
+[Tt]he crest	LOCATION	PERSON
+[Tt]he underground	LOCATION	PERSON
+[Tt]he cavern	LOCATION	PERSON
+[Tt]he den	LOCATION	PERSON
+[Tt]he grotto	LOCATION	PERSON
+[Tt]he pothole	LOCATION	PERSON
+[Tt]he subterrane	LOCATION	PERSON
+[Tt]he lodging	LOCATION	PERSON
+[Tt]he cove	LOCATION	PERSON
+[Tt]he estuary	LOCATION	PERSON
+[Tt]he gulf	LOCATION	PERSON
+[Tt]he catacomb	LOCATION	PERSON
+[Tt]he grave	LOCATION	PERSON
+[Tt]he mausoleum	LOCATION	PERSON
+[Tt]he sepulcher	LOCATION	PERSON
+[Tt]he vault	LOCATION	PERSON
+[Tt]he undercroft	LOCATION	PERSON
+[Tt]he burrow	LOCATION	PERSON
+[Tt]he cloister	LOCATION	PERSON
+[Tt]he lair	LOCATION	PERSON
+[Tt]he hotbed	LOCATION	PERSON
+[Tt]he sanctuary	LOCATION	PERSON
+[Tt]he hideout	LOCATION	PERSON
+[Tt]he atelier	LOCATION	PERSON
+[Tt]he site	LOCATION	PERSON
+[Tt]he settlement	LOCATION	PERSON
+[Tt]he peephole	LOCATION	PERSON
+[Tt]he pit	LOCATION	PERSON
+[Tt]he shaft	LOCATION	PERSON
+[Tt]he tunnel	LOCATION	PERSON
+[Tt]he vent	LOCATION	PERSON
+[Tt]he mine	LOCATION	PERSON
+[Tt]he canal 	LOCATION	PERSON
+[Tt]he canyon	LOCATION	PERSON
+[Tt]he gouge	LOCATION	PERSON
+[Tt]he watercourse	LOCATION	PERSON
+[Tt]he pass	LOCATION	PERSON
+[Tt]he aqueduct	LOCATION	PERSON
+[Tt]he drain	LOCATION	PERSON
+[Tt]he ravine	LOCATION	PERSON
+[Tt]he gully	LOCATION	PERSON
+[Tt]he duct	LOCATION	PERSON
+[Tt]he table	LOCATION	PERSON
+[Tt]he chair	LOCATION	PERSON
+[Tt]he cupboard	LOCATION	PERSON
+[Tt]he chest	LOCATION	PERSON
+[Tt]he cabinet	LOCATION	PERSON
+[Tt]he dresser	LOCATION	PERSON
+[Tt]he pigsty	LOCATION	PERSON
+[Tt]he pen	LOCATION	PERSON
+[Tt]he slum	LOCATION	PERSON
+[Tt]he shack	LOCATION	PERSON
+[Tt]he marketplace	LOCATION	PERSON
+[Tt]he stonewall	LOCATION	PERSON
+[Tt]he bush	LOCATION	PERSON
+[Tt]he mansion	LOCATION	PERSON
+[Tt]he chateau	LOCATION	PERSON
+[Tt]he citadel	LOCATION	PERSON
+[Tt]he fortification	LOCATION	PERSON
+[Tt]he fasthold	LOCATION	PERSON
+[Tt]he fortress	LOCATION	PERSON
+[Tt]he keep	LOCATION	PERSON
+[Tt]he safehold	LOCATION	PERSON
+[Tt]he stronghold	LOCATION	PERSON
+[Tt]he villa	LOCATION	PERSON
+[Tt]he suite	LOCATION	PERSON
+[Tt]he cortege	LOCATION	PERSON
+[Tt]he quarters	LOCATION	PERSON
+[Tt]he resort	LOCATION	PERSON
+[Tt]he inn	LOCATION	PERSON
+[Tt]he mill	LOCATION	PERSON
+[Tt]he farmhouse	LOCATION	PERSON
+[Tt]he mead	LOCATION	PERSON
+[Tt]he enclosure	LOCATION	PERSON
+[Tt]he plot	LOCATION	PERSON
+[Tt]he tract	LOCATION	PERSON
+[Tt]he moorland	LOCATION	PERSON
+[Tt]he kingdom	LOCATION	PERSON
+[Tt]he wellspring	LOCATION	PERSON
+[Tt]he wood	LOCATION	PERSON
+[Tt]he woodland	LOCATION	PERSON
+[Tt]he hedge	LOCATION	PERSON
+[Tt]he hinterland	LOCATION	PERSON
+[Tt]he thicket	LOCATION	PERSON
+[Tt]he wilderness	LOCATION	PERSON
+[Tt]he maze	LOCATION	PERSON
+[Tt]he wasteland	LOCATION	PERSON
+[Tt]he countryside	LOCATION	PERSON
+[Tt]he hole	LOCATION	PERSON
+[Tt]he island	LOCATION	PERSON
+[Tt]he seashore	LOCATION	PERSON
+[Tt]he waterfront	LOCATION	PERSON
+[Tt]he riverbank	LOCATION	PERSON
+[Tt]he beach	LOCATION	PERSON
+[Tt]he lakeshore	LOCATION	PERSON
+[Tt]he lakeside	LOCATION	PERSON
+[Tt]he riverside	LOCATION	PERSON
+[Tt]he seacost	LOCATION	PERSON
+[Tt]he ocean	LOCATION	PERSON
+[Tt]he oceanfront	LOCATION	PERSON
+[Tt]he enbankment	LOCATION	PERSON
+[Tt]he reef	LOCATION	PERSON
+[Tt]he strand	LOCATION	PERSON
+[Tt]he streamside	LOCATION	PERSON
+[Tt]he shingle	LOCATION	PERSON
+[Tt]he bedchamber	LOCATION	PERSON
+[Tt]he hamlet	LOCATION	PERSON
+[Tt]he fairyland	LOCATION	PERSON
+[Tt]he cities	LOCATION	PERSON
+[Tt]he desert	LOCATION	PERSON
+[Tt]he foxhole	LOCATION	PERSON
+[Tt]he moat	LOCATION	PERSON
+[Tt]he dike	LOCATION	PERSON
+[Tt]he gutter	LOCATION	PERSON
+[Tt]he refuge	LOCATION	PERSON
+[Tt]he roost	LOCATION	PERSON
+[Tt]he loch	LOCATION	PERSON
+[Tt]he nook	LOCATION	PERSON
+[Tt]he footpath	LOCATION	PERSON
+[Tt]he walkway	LOCATION	PERSON
+[Tt]he trail	LOCATION	PERSON
+[Tt]he aisle	LOCATION	PERSON
+[Tt]he street	LOCATION	PERSON
+[Tt]he boardwalk	LOCATION	PERSON
+[Tt]he lane	LOCATION	PERSON
+[Tt]he highlands	LOCATION	PERSON
+[Tt]he lowlands	LOCATION	PERSON
+[Tt]he glen	LOCATION	PERSON
+[Tt]he vale	LOCATION	PERSON
+[Tt]he glade	LOCATION	PERSON
+[Tt]he dale	LOCATION	PERSON
+[Tt]he gulch	LOCATION	PERSON
+[Tt]he dingle	LOCATION	PERSON
+[Tt]he scrub	LOCATION	PERSON
+[Tt]he burial	LOCATION	PERSON
+[Tt]he cradle	LOCATION	PERSON
+[Tt]he pool	LOCATION	PERSON
+[Tt]he burial-ground	LOCATION	PERSON
+[Tt]he earth	LOCATION	PERSON
+[Tt]he wild	LOCATION	PERSON
+[Tt]he hillside	LOCATION	PERSON
+[Tt]he stane	LOCATION	PERSON
+[Tt]he fen	LOCATION	PERSON
+[Tt]he bog	LOCATION	PERSON
+[Tt]he moss	LOCATION	PERSON
+[Tt]he morass	LOCATION	PERSON
+[Tt]he wetland	LOCATION	PERSON
+[Tt]he swampland	LOCATION	PERSON
+[Tt]he mire	LOCATION	PERSON
+[Tt]he quagmire	LOCATION	PERSON
+[Tt]he slough	LOCATION	PERSON
+[Tt]he everglade	LOCATION	PERSON
+[Tt]he metropolis	LOCATION	PERSON
+[Tt]he fire	LOCATION	PERSON
+[Tt]he seaside	LOCATION	PERSON
+[Tt]he lakeland	LOCATION	PERSON
+[Tt]he roadside	LOCATION	PERSON
+[Tt]he way	LOCATION	PERSON
+[Tt]he litoral	LOCATION	PERSON
+[Tt]he margin	LOCATION	PERSON
+[Tt]he seaboard	LOCATION	PERSON
+[Tt]he seafront	LOCATION	PERSON
+[Tt]he estate	LOCATION	PERSON
+[Tt]he parcel	LOCATION	PERSON
+[Tt]he province	LOCATION	PERSON
+[Tt]he region	LOCATION	PERSON
+[Tt]he islet	LOCATION	PERSON
+[Tt]he peninsula	LOCATION	PERSON
+[Tt]he stack	LOCATION	PERSON
+[Tt]he exit	LOCATION	PERSON
+[Tt]he fence	LOCATION	PERSON
+[Tt]he fell	LOCATION	PERSON
+[Tt]he swamp	LOCATION	PERSON
